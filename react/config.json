@@ -1,0 +1,10 @@
+{
+	"data": {
+		"meta": {
+			"title": "React",
+			"description": "The JavaScript library for building user interfaces. It enables developers to create reusable components and manage the state of dynamic content efficiently."
+		},
+		"color": "#61DAFB",
+		"topics": []
+	}
+}
