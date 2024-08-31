@@ -1,0 +1,26 @@
+{
+  "title": "<track>",
+  "description": "The `<track>` HTML element is used to specify text tracks for media elements like `<video>` and `<audio>`.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used in `<video>` or `<audio>` elements to specify text tracks, such as subtitles or captions. It enhances accessibility and allows for multiple languages or additional information to be displayed.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 23,
+        "chrome_android": 25,
+        "edge": 12,
+        "firefox": 31,
+        "firefox_android": 31,
+        "safari": 6,
+        "safari_ios": 6
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

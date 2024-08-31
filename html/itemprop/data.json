@@ -1,0 +1,9 @@
+{
+  "title": "[itemprop]",
+  "description": "The `itemprop` HTML attribute specifies properties of items in Microdata, making web content more machine-readable for search engines and applications.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute used to define properties of a Microdata item. It specifies the name of a property that is associated with a particular type of item, helping search engines and other tools understand the content's meaning.",
+  "extensions": {}
+}

@@ -1,0 +1,26 @@
+{
+  "title": "<video>",
+  "description": "The `<video>` HTML element embeds video content into documents.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used to embed video content on a webpage. It supports various formats and allows for controls like play, pause and volume adjustment, enhancing multimedia experiences.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 3,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 3
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

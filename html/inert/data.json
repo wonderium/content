@@ -1,0 +1,26 @@
+{
+  "title": "[inert]",
+  "description": "The `inert` HTML attribute disables interactive capabilities for an element and its descendants, making them non-interactive.", 
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that makes an element and all its children non-interactive. This means the content cannot be focused, clicked or interacted with, which is useful for temporarily disabling parts of a webpage.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 102,
+        "chrome_android": 102,
+        "edge": 102,
+        "firefox": 112,
+        "firefox_android": 112,
+        "safari": 15.5,
+        "safari_ios": 15.5
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 4,
+        "day": 11
+      }
+    }
+  }
+}

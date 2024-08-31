@@ -1,0 +1,26 @@
+{
+  "title": "<picture>",
+  "description": "The `<picture>` HTML element serves as a container for multiple `<source>` elements and an `<img>` element, providing alternative image sources based on factors such as device resolution or media query conditions.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that allows for responsive images by offering different image sources for different screen sizes or device types. It helps ensure that the most appropriate image is loaded based on the user's context.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 38,
+        "chrome_android": 38,
+        "edge": 13,
+        "firefox": 38,
+        "firefox_android": 38,
+        "safari": 9.1,
+        "safari_ios": 9.3
+      },
+      "latest_release_date": {
+        "year": 2016,
+        "month": 3,
+        "day": 21
+      }
+    }
+  }
+}

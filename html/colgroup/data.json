@@ -1,0 +1,26 @@
+{
+  "title": "<colgroup>",
+  "description": "The `<colgroup>` HTML element groups one or more `<col>` elements within a table, allowing to apply styles or attributes to entire columns.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that groups one or more `<col>` elements within a `<table>`. It allows for setting shared properties for multiple columns, such as `width` or `style`, making it easier to manage and apply consistent formatting.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -5,6 +5,209 @@
 			"description": "The markup language used to structure a web page and its content. It helps browsers understand the order and meaning of elements to display them correctly."
 		},
 		"color": "#F06529",
-		"topics": []
+		"topics": [
+			{
+				"name": "Basics",
+				"units": [
+					"document-flow",
+					"block-formatting-context",
+					"inline-formatting-context",
+					"margin-colapsing",
+					"semantics",
+					"element",
+					"tag",
+					"comments",
+					"attribute",
+					"doctype",
+					"html",
+					"head",
+					"title",
+					"body",
+					"h1-h6",
+					"p",
+					"div",
+					"span"
+				]
+			},
+			{
+				"name": "Semantics",
+				"units": [
+					"header",
+					"footer",
+					"main",
+					"section",
+					"article",
+					"aside",
+					"nav",
+					"search",
+					"time",
+					"data",
+					"sub",
+					"sup",
+					"del",
+					"ins",
+					"kbd",
+					"mark",
+					"output",
+					"strong",
+					"em",
+					"cite",
+					"var",
+					"dfn",
+					"samp",
+					"abbr",
+					"hgroup"
+				]
+			},
+			{
+				"name": "Formatting",
+				"units": [
+					"address",
+					"blockquote",
+					"q",
+					"br",
+					"wbr",
+					"hr",
+					"b",
+					"i",
+					"s",
+					"u",
+					"bdo",
+					"bdi",
+					"small",
+					"pre",
+					"code"
+				]
+			},
+			{
+				"name": "Links",
+				"units": [
+					"a", 
+					"link"
+				]
+			},
+			{
+				"name": "Images & Icons",
+				"units": [
+					"img",
+					"map",
+					"area",
+					"figure",
+					"figcaption",
+					"picture",
+					"source",
+					"svg",
+					"symbol",
+					"use"
+				]
+			},
+			{
+				"name": "Forms",
+				"units": [
+					"form",
+					"input",
+					"textarea",
+					"button",
+					"select",
+					"option",
+					"optgroup",
+					"datalist",
+					"label",
+					"fieldset",
+					"legend"
+				]
+			},
+			{
+				"name": "Lists",
+				"units": [
+					"ul", 
+					"ol", 
+					"li", 
+					"dl", 
+					"dt", 
+					"dd"
+				]
+			},
+			{
+				"name": "Tables",
+				"units": [
+					"table",
+					"thead",
+					"tbody",
+					"tfoot",
+					"th",
+					"tr",
+					"td",
+					"caption",
+					"colgroup",
+					"col"
+				]
+			},
+			{
+				"name": "Interactive",
+				"units": [
+					"audio",
+					"video",
+					"iframe",
+					"embed",
+					"details",
+					"summary",
+					"object",
+					"progress",
+					"canvas",
+					"dialog",
+					"meter",
+					"param",
+					"track"
+				]
+			},
+			{
+				"name": "Meta",
+				"units": [
+					"meta", 
+					"base"
+				]
+			},
+			{
+				"name": "Global attributes",
+				"units": [
+					"class",
+					"id",
+					"data-attributes",
+					"style-attribute",
+					"title-attribute",
+					"hidden",
+					"contenteditable",
+					"translate",
+					"lang",
+					"dir",
+					"spellcheck",
+					"tabindex",
+					"role",
+					"inert",
+					"accesskey",
+					"enterkeyhint",
+					"draggable",
+					"itemscope",
+					"itemprop",
+					"itemtype",
+					"itemid",
+					"itemref",
+					"autocapitalize",
+					"autofocus",
+					"exportparts"
+				]
+			},
+			{
+				"name": "Connections with other languages",
+				"units": [
+					"style", 
+					"script", 
+					"noscript", 
+					"template", 
+					"slot"
+				]
+			}
+		]
 	}
 }

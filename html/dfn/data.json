@@ -1,0 +1,26 @@
+{
+  "title": "<dfn>",
+  "description": "The `<dfn>` HTML element represents the defining instance of a term.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used to indicate a term that is being defined within the content. It’s often displayed in italics or bold and provides a clear marker for the first use or definition of a term in a document.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 15,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 6,
+        "safari_ios": 6
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

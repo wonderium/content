@@ -1,0 +1,26 @@
+{
+  "title": "<form>",
+  "description": "The `<form>` HTML element represents a form, which is a collection of form controls (such as `input`, `textarea`, `button`, `select`, etc.) that allow users to submit data to a web server.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used to collect user input through various controls like text fields, checkboxes and buttons. The data entered in a form can be sent to a server for processing, making it a key element in user interaction on the web.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

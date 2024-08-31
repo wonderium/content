@@ -1,0 +1,26 @@
+{
+  "title": "<nav>",
+  "description": "The `<nav>` HTML element represents a section of navigation links that typically guide users to other pages or sections within the web page or site.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that defines a block of navigation links, such as a menu or table of contents. It helps users navigate through different sections of the webpage or website.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 5,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 4,
+        "firefox_android": 4,
+        "safari": 5,
+        "safari_ios": 4.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

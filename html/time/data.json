@@ -1,0 +1,26 @@
+{
+  "title": "<time>",
+  "description": "The `<time>` HTML element represents a specific period in time or a date, typically in a machine-readable format.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that represents a specific time or date or both. It can be used to mark up times in a machine-readable format, improving accessibility and enabling features like event reminders.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 62,
+        "chrome_android": 62,
+        "edge": 14,
+        "firefox": 22,
+        "firefox_android": 22,
+        "safari": 7,
+        "safari_ios": 4
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 10,
+        "day": 24
+      }
+    }
+  }
+}

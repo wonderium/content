@@ -1,0 +1,26 @@
+{
+  "title": "<link>",
+  "description": "The `<link>` HTML element specifies relationships between the current document and external resources, such as stylesheets.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used to link external resources, such as stylesheets or icons, to the document. It’s typically placed within the `<head>` element and is essential for including CSS, web fonts and other resources in a webpage.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

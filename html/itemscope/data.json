@@ -1,0 +1,9 @@
+{
+  "title": "[itemscope]",
+  "description": "The `itemscope` HTML attribute marks an element as representing a specific item or concept in Microdata, aiding search engines and applications in understanding and extracting structured information from web content.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that creates a new item for Microdata. It indicates that the element and its children are part of a structured data entity, helping to define the boundaries of a specific data item.",
+  "extensions": {}
+}

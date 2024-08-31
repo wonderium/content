@@ -1,0 +1,9 @@
+{
+  "title": "[itemref]",
+  "description": "The `itemref` HTML attribute links external elements to provide additional properties for items marked with `itemscope` attribute, enriching structured data for better understanding by search engines and applications.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that specifies one or more elements to be considered as part of a Microdata item, even if they are not direct children of the item element. This allows for the inclusion of additional properties from elsewhere in the document.",
+  "extensions": {}
+}

@@ -1,0 +1,26 @@
+{
+  "title": "[autofocus]",
+  "description": "The `autofocus` HTML attribute informs the browser to focus on a specific element when the page loads.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that automatically focuses an element, such as a form input, when the page loads. It’s useful for improving user experience by guiding them to the most important or first interactive element on the page.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 79,
+        "chrome_android": 79,
+        "edge": 79,
+        "firefox": 110,
+        "firefox_android": 110,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 2,
+        "day": 14
+      }
+    }
+  }
+}

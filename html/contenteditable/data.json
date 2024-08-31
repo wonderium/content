@@ -1,0 +1,26 @@
+{
+  "title": "[contenteditable]",
+  "description": "The `contenteditable` HTML attribute allows users to edit content directly on the web page, making elements interactive for text editing and document creation.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that makes an element's content editable by the user. When set to 'true', the element can be modified directly in the browser, allowing for rich text editing or user customization within a webpage.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

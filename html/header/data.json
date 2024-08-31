@@ -1,0 +1,26 @@
+{
+  "title": "<header>",
+  "description": "The `<header>` HTML element represents introductory content or a group of introductory content at the beginning of a section or web page.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that represents the introductory content or navigational links of a section or webpage. It often contains headings, logos or a navigation menu and is usually placed at the top of the page or section.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 5,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 4,
+        "firefox_android": 4,
+        "safari": 5,
+        "safari_ios": 4.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+
+{
+  "title": "<area>",
+  "description": "The `<area>` HTML element defines a clickable area within an image map, typically used in conjunction with the `<map>` element.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used within an `<map>` element to define clickable areas on an image. It specifies regions of the image that function as links, enhancing interactive image maps with shapes like rectangles, circles or polygons.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

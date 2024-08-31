@@ -1,0 +1,26 @@
+{
+  "title": "<footer>",
+  "description": "The `<footer>` HTML element represents the closing section of a document or section, typically containing metadata, copyright information or links to related content.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that represents the footer of a section or an entire webpage. It may contain information like copyright notices, links to related documents or contact details and is usually placed at the bottom of the page or section.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 5,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 4,
+        "firefox_android": 4,
+        "safari": 5,
+        "safari_ios": 4.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

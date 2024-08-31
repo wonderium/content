@@ -1,0 +1,9 @@
+{
+  "title": "Inline Formatting Context",
+  "description": "The Inline Formatting Context in HTML is a layout mechanism that controls the positioning and flow of inline-level elements within a block container.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The layout model where elements are laid out horizontally, one after the other, within the same line. This context applies to text and inline elements, such as `<span>` or `<a>` and can be affected by properties like `line-height` and `text-align`.",
+  "extensions": {}
+}

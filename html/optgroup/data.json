@@ -1,0 +1,26 @@
+{
+  "title": "<optgroup>",
+  "description": "The `<optgroup>` HTML element groups related `<option>` elements within a `<select>` element.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that groups related options within a `<select>` dropdown menu. It helps organize options into categories, making large dropdown lists easier to navigate.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

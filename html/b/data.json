@@ -1,0 +1,26 @@
+{
+  "title": "<b>",
+  "description": "The `<b>` HTML element defines text that should be stylistically bold without conveying any extra importance or emphasis.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that makes text bold to draw attention. Unlike `<strong>`, which indicates strong importance, `<b>` is typically used for stylistic purposes without implying extra importance.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

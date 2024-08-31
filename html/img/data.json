@@ -1,0 +1,26 @@
+{
+  "title": "<img>",
+  "description": "The `<img>` HTML element embeds an image into the document.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used to embed an image into a webpage. It requires a `src` attribute to specify the image's URL and an `alt` attribute to provide a text description for accessibility and when the image cannot be displayed.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "<del>",
+  "description": "The `<del>` HTML element represents deleted or removed text within a document.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used to represent text that has been removed from a document. It typically renders as strikethrough text, indicating that the content is no longer relevant or has been replaced.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

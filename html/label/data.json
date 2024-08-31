@@ -1,0 +1,26 @@
+{
+  "title": "<label>",
+  "description": "The `<label>` HTML element provides a text label for form controls like `<input>`, `<textarea>` or `<select>`, enhancing accessibility by linking descriptive labels directly to these elements for clarity and usability.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that provides a label for an `<input>` element, improving accessibility by making forms easier to understand and navigate. Clicking the label focuses or activates the associated input control.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

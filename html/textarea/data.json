@@ -1,0 +1,26 @@
+{
+  "title": "<textarea>",
+  "description": "The `<textarea>` HTML element creates a multiline text input field where users can enter multiple lines of text.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that creates a multi-line text input field, allowing users to enter longer pieces of text. It’s commonly used in forms where large amounts of input are required, like comments or feedback sections.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

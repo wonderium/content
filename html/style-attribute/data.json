@@ -1,0 +1,26 @@
+{
+  "title": "[style]",
+  "description": "The `style` HTML attribute is used to define inline CSS rules directly within an element.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that allows to apply CSS styles directly to an individual HTML element. It’s useful for quick, inline styling but is generally less flexible than using external or internal CSS.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

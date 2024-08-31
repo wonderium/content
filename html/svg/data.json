@@ -1,0 +1,26 @@
+{
+  "title": "<svg>",
+  "description": "The `<svg>` HTML element is used to define scalable vector graphics, which are graphics that can be scaled to different sizes without losing quality.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that defines vector-based graphics in XML format. It allows for scalable images, animations and graphical effects that can be styled with CSS and interacted with using JavaScript.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1.5,
+        "firefox_android": 4,
+        "safari": 3,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

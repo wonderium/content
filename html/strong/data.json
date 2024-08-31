@@ -1,0 +1,26 @@
+{
+  "title": "<strong>",
+  "description": "The `<strong>` HTML element defines text with strong importance or emphasis.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that indicates that the text is of strong importance or emphasis. It’s typically displayed in bold, making it stand out from regular text.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

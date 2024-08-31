@@ -1,0 +1,26 @@
+{
+  "title": "<thead>",
+  "description": "The `<thead>` HTML element defines the header section of a table.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that groups the header content in a table, providing a way to structure and label table columns. It helps in making the table more readable and organized.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

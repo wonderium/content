@@ -1,0 +1,26 @@
+{
+  "title": "<wbr>",
+  "description": "The `<wbr>` HTML element represents a word break opportunity within a line of text.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that represents a word break opportunity, suggesting where a line break should occur if needed. It helps in managing long words or URLs in narrow containers, improving readability.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 79,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

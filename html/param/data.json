@@ -1,0 +1,26 @@
+{
+  "title": "<param>",
+  "description": "The `<param>` HTML element is used to define parameters for `<object>` elements.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that defines parameters for embedded content within an `<object>` element. It’s used to pass settings or values, such as autoplay or loop, to control how the embedded content behaves.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

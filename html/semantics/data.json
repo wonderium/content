@@ -1,0 +1,9 @@
+{
+  "title": "Semantics",
+  "description": "Semantics in HTML is the practice of using markup in a meaningful way to enhance the readability, accessibility and SEO of a webpage.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The practice of using HTML elements according to their intended meaning to improve the readability, accessibility and SEO of a webpage. Semantic elements like `<header>`, `<article>` and `<footer>` give structure to the content.",
+  "extensions": {}
+}

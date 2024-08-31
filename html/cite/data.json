@@ -1,0 +1,26 @@
+{
+  "title": "<cite>",
+  "description": "The `<cite>` HTML element represents a reference to a creative work, such as a book, movie or scientific paper.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used to reference the title of a work, such as a book, article, movie or song. It’s often displayed in italics and is used to give credit or indicate the source of a quote or piece of information.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

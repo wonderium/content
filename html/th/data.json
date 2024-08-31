@@ -1,0 +1,26 @@
+{
+  "title": "<th>",
+  "description": "The `<th>` HTML element represents a header cell within a table row.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that defines a header cell in a table. It’s used to label columns or rows and is usually displayed in bold and centered text.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

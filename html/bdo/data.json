@@ -1,0 +1,26 @@
+{
+  "title": "<bdo>",
+  "description": "The `<bdo>` HTML element overrides the current text directionality (left-to-right or right-to-left) for its content, allowing bidirectional text to be properly rendered.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that stands for Bi-Directional Override. It overrides the current text direction, allowing developers to force text to be displayed left-to-right or right-to-left, regardless of the surrounding context.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 15,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 10,
+        "firefox_android": 10,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

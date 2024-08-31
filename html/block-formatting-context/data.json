@@ -1,0 +1,9 @@
+{
+  "title": "Block Formatting Context",
+  "description": "The Block Formatting Context in HTML is a layout mechanism that governs how block-level elements are positioned and interact with their surrounding content.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The concept that controls the layout of block-level elements and their interaction with floated elements. It creates a container that isolates its children, affecting how they are displayed and preventing elements from overlapping.",
+  "extensions": {}
+}

@@ -1,0 +1,26 @@
+{
+  "title": "<meter>",
+  "description": "The `<meter>` HTML element represents a scalar measurement within a known range or a fractional value.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that represents a scalar measurement within a known range, such as a progress bar or a level indicator. It’s used to display values like battery charge, disk usage or voting results",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 6,
+        "chrome_android": 18,
+        "edge": 18,
+        "firefox": 16,
+        "firefox_android": 16,
+        "safari": 6,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2018,
+        "month": 10,
+        "day": 2
+      }
+    }
+  }
+}

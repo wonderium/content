@@ -1,0 +1,26 @@
+{
+  "title": "[hidden]",
+  "description": "The `hidden` HTML attribute hides elements from view in the document, preventing them from being displayed in the browser.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that hides an element from view and makes it inaccessible to users, including screen readers. It can be used to temporarily hide content that might be shown later or to keep certain elements off the page entirely.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 10,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 4,
+        "firefox_android": 4,
+        "safari": 5.1,
+        "safari_ios": 5
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

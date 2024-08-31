@@ -1,0 +1,26 @@
+{
+  "title": "<style>",
+  "description": "The `<style>` HTML element is used to include internal CSS directly within a document, allowing for the styling of elements on the same page.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that contains CSS rules used to style the webpage. It’s placed within the `<head>` section and applies styles directly to the elements on the page.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

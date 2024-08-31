@@ -1,0 +1,9 @@
+{
+  "title": "<!DOCTYPE>",
+  "description": "The `<!DOCTYPE>` HTML declaration specifies the document type and version, ensuring browsers render content correctly and consistently across different platforms and versions.",
+  "categories": [
+    "declaration"
+  ],
+  "content": "The declaration at the beginning of an HTML document that tells the browser what version of HTML is being used. It ensures that the document is rendered correctly in different browsers. The only actual doctype that is necessary to know is `<!DOCTYPE html>`.",
+  "extensions": {}
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Tag",
+  "description": "The Tag in HTML is a component of syntax used to define elements in a web page.",
+  "categories": [
+    "concept",
+    "syntax"
+  ],
+  "content": "The basic building block of an HTML document, represented by angle brackets, like `<div>` or `<p>`. Tags define the structure and content of a webpage by marking up text and other elements.",
+  "extensions": {}
+}

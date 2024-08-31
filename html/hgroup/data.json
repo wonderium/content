@@ -1,0 +1,26 @@
+{
+  "title": "<hgroup>",
+  "description": "The `<hgroup>` HTML element is used to group a set of `<h1>...<h6>` elements when a heading has multiple levels.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that groups a set of headings `<h1>...<h6>` as a multi-level heading. It’s used when a section has more than one heading, allowing them to be treated as a single unit.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 5,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 4,
+        "firefox_android": 4,
+        "safari": 5,
+        "safari_ios": 4.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

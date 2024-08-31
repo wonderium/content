@@ -1,0 +1,26 @@
+{
+  "title": "<figure>",
+  "description": "The `<figure>` HTML element represents self-contained content, such as images, illustrations, diagrams, code snippets or videos, with an optional caption provided by the `<figcaption>` element.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that represents self-contained content, such as an image with an optional caption, code snippet or diagram. It’s used to group media and its associated text, allowing for more flexible placement and styling.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 8,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 4,
+        "firefox_android": 4,
+        "safari": 5.1,
+        "safari_ios": 5
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

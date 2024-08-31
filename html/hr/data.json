@@ -1,0 +1,26 @@
+{
+  "title": "<hr>",
+  "description": "The `<hr>` HTML element represents a thematic break between paragraphs or sections of content.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that represents a thematic break or horizontal line between sections of content. It’s often used to visually separate content or indicate a shift in topic or focus within a webpage.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 3,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

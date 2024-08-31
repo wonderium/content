@@ -1,0 +1,26 @@
+{
+  "title": "<address>",
+  "description": "The `<address>` HTML element represents contact information for its nearest article or body content, typically containing details, such as an author's name, email address or physical address.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used to provide contact information for the author or owner of a document or article. It’s often used to display physical addresses, email addresses or other contact details in a standardized format.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

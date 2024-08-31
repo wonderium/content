@@ -1,0 +1,26 @@
+{
+  "title": "[dir]",
+  "description": "The `dir` HTML attribute specifies text directionality as either left-to-right or right-to-left, essential for bi-directional text in languages like Hebrew.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that sets the text direction for an element, determining whether the content is displayed left-to-right ('ltr') or right-to-left ('rtl'). It’s useful for supporting different languages and ensuring proper text alignment.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 79,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

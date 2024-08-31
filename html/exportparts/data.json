@@ -1,0 +1,26 @@
+{
+  "title": "[exportparts]",
+  "description": "The `exportparts` HTML attribute allows a shadow DOM's parts to be exposed for styling or access from the light DOM.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that allows specific parts of a web component's shadow DOM to be exposed to the outside world. It’s used to make internal elements styleable or accessible from outside the component, enhancing reusability and customization.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 73,
+        "chrome_android": 73,
+        "edge": 79,
+        "firefox": 72,
+        "firefox_android": 79,
+        "safari": 13.1,
+        "safari_ios": 13.4
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 7,
+        "day": 28
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "title": "[autocapitalize]",
+  "description": "The `autocapitalize` HTML attribute is used to specify how text input should be automatically capitalized as the user types.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that controls the capitalization behavior of text inputs on mobile devices. It can be set to 'none', 'sentences', 'words' or 'characters', determining whether the text is automatically capitalized and how.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 43,
+        "chrome_android": 43,
+        "edge": 79,
+        "firefox": 111,
+        "firefox_android": 111,
+        "safari": null,
+        "safari_ios": 5
+      },
+      "latest_release_date": "Limited availability"
+    }
+  }
+}

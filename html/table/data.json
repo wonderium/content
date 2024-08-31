@@ -1,0 +1,26 @@
+{
+  "title": "<table>",
+  "description": "The `<table>` HTML element represents tabular data, organized into rows and columns.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used to create a table for organizing data into rows and columns. It’s often used for displaying tabular data like schedules, price lists or comparisons.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

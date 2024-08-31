@@ -1,0 +1,26 @@
+{
+  "title": "[role]",
+  "description": "The `role` HTML attribute specifies the accessibility role of an element, indicating its semantic meaning or purpose within the document structure.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that defines the role of an element within web accessibility APIs. It helps assistive technologies, like screen readers, understand how the element should be interpreted or interacted with.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 103,
+        "chrome_android": 103,
+        "edge": 103,
+        "firefox": 119,
+        "firefox_android": 119,
+        "safari": 16.4,
+        "safari_ios": 16.4
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 10,
+        "day": 24
+      }
+    }
+  }
+}

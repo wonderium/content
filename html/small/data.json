@@ -1,0 +1,26 @@
+{
+  "title": "<small>",
+  "description": "The `<small>` HTML element represents smaller text that is typically used for disclaimers, copyright statements or fine print.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that represents side comments or fine print, often displaying text in a smaller font size. It’s used to provide additional context or disclaimers without drawing too much attention.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}
