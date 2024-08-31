@@ -1,0 +1,10 @@
+{
+	"data": {
+		"meta": {
+			"title": "TypeScript",
+			"description": "The superset of JavaScript that adds static types to the language. It helps developers catch errors early through type checking and improves code quality and maintainability."
+		},
+		"color": "#007ACC",
+		"topics": []
+	}
+}

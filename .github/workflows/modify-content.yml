@@ -1,0 +1,59 @@
+name: Modify and Publish Content
+
+on:
+    workflow_dispatch:
+    push:
+        branches:
+            - main
+        paths:
+            - '**'
+            
+jobs:
+    modify-content:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout content repository
+              uses: actions/checkout@v3
+
+            - name: Clone content-modified repository
+              uses: actions/checkout@v3
+              with:
+                  repository: wonderium/content-modified
+                  path: content-modified
+                  token: ${{ secrets.WD_CONTENT_REPOSITORY_ACCESS_TOKEN }}
+
+            - name: Copy data to content-modified/src/content/input
+              run: |
+                  rm -rf content-modified/src/content/input
+                  mkdir -p content-modified/src/content/input
+
+                  rm -rf content-modified/src/content/output
+                  mkdir -p content-modified/src/content/output
+                  
+                  rsync -av --exclude='content-modified' ./* content-modified/src/content/input
+
+            - name: Install dependencies
+              run: |
+                  cd content-modified
+                  npm install
+
+            - name: Run data processing scripts
+              run: |
+                  cd content-modified
+                  npm run start
+
+            - name: Delete content-modified/src/content/input
+              run: |
+                  rm -rf content-modified/src/content/input
+          
+            - name: Commit changes to content-modified
+              run: |
+                  cd content-modified
+                  git config --global user.name 'github-actions'
+                  git config --global user.email 'github-actions@github.com'
+                  git add .
+                  git commit -m "Added modified content" || echo "No changes to commit"
+                  git push origin main
+              env:
+                  WD_CONTENT_MODIFIED_ACCESS_TOKEN: ${{ secrets.WD_CONTENT_REPOSITORY_ACCESS_TOKEN }}
