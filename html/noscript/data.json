@@ -1,6 +1,6 @@
 {
   "title": "<noscript>",
-  "description": "The `<noscript>` HTML element provides alternative content for browsers that do not support JavaScript or have it disabled.",
+  "description": "The `<noscript>` HTML element provides alternative content for browsers that don't support JavaScript or have it disabled.",
   "categories": [
     "tag"
   ],
