@@ -1,0 +1,26 @@
+{
+  "title": ".length",
+  "description": "The `.length` JS property returns the number of characters in a string.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that returns the number of characters in a string. It provides the length of the string as a numeric value.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "TypeError",
+  "description": "The `TypeError` JS object represents an error that occurs when an operation is performed on a value of an inappropriate type, such as calling a method on a non-function object.",
+  "categories": [
+    "object"
+  ],
+  "content": "The object that represents an error when an operation is performed on a value of an incorrect type. This occurs when a value is not of the expected type, such as calling a method on a non-function value or performing operations on incompatible types. It helps in handling type-related issues in code.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

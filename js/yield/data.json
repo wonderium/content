@@ -1,0 +1,27 @@
+{
+  "title": "yield",
+  "description": "The `yield` JS syntax keyword is used within a generator function to pause the function and return an intermediate value.",
+  "categories": [
+    "syntax",
+    "keyword"
+  ],
+  "content": "The keyword used in generator functions to pause execution and return an intermediate value. When the generator function is resumed, it continues execution from where it was paused, allowing for lazy evaluation and iteration.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 39,
+        "chrome_android": 39,
+        "edge": 12,
+        "firefox": 26,
+        "firefox_android": 26,
+        "safari": 10,
+        "safari_ios": 10
+      },
+      "latest_release_date": {
+        "year": 2016,
+        "month": 9,
+        "day": 20
+      }
+    }
+  }
+}

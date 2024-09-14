@@ -1,0 +1,26 @@
+{
+  "title": "console.timeEnd()",
+  "description": "The `console.timeEnd()` static JS browser API method stops a timer that was started with `console.time()`.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static browser API method that stops a timer that waspreviously started by calling `console.time()` and logs the elapsed time to the console. It helps measure the duration of code execution.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 2,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 10,
+        "firefox_android": 10,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

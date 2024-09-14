@@ -1,0 +1,26 @@
+{
+  "title": "Math.LOG10E",
+  "description": "The `Math.LOG10E` JS property returns the base-10 logarithm of `e` (Euler's number), which is approximately 0.434.",
+  "categories": [
+    "constant" 
+  ],
+  "content": "The property that provides the base-10 logarithm of `e` (Euler's number), approximately 0.43429. It’s the reciprocal of `Math.LN10`.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

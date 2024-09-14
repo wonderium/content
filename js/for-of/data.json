@@ -1,0 +1,27 @@
+{
+  "title": "for...of",
+  "description": "The `for...of` JS syntax statement is a loop that iterates over the values of an `Iterable` object, such as an `Array` or `String`, executing a block of code for each value.",
+  "categories": [
+    "syntax",
+    "statement"
+  ],
+  "content": "The statement used as a loop structure that iterates over `Iterable` object like `Array` or `String` or `NodeList`, executing a block of code for each value in the collection one at a time.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 38,
+        "chrome_android": 38,
+        "edge": 12,
+        "firefox": 13,
+        "firefox_android": 14,
+        "safari": 7,
+        "safari_ios": 7
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

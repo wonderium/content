@@ -1,0 +1,26 @@
+{
+  "title": ".scrollIntoView()",
+  "description": "The `.scrollIntoView()` JS browser API method scrolls the element into the visible area of the browser window.",
+  "categories": [
+    "method"
+  ],
+  "content": "The browser API method that scrolls the document until the specified element is visible within the viewport. This helps bring specific content into focus for the user.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 79,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 3,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Math.imul()",
+  "description": "The `Math.imul()` static JS method performs a 32-bit integer multiplication.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns the result of the 32-bit integer multiplication of two numbers. It handles integer overflow and provides results consistent with C-style integer arithmetic.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 28,
+        "chrome_android": 28,
+        "edge": 12,
+        "firefox": 20,
+        "firefox_android": 20,
+        "safari": 7,
+        "safari_ios": 7
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

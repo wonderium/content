@@ -1,0 +1,26 @@
+{
+  "title": "Intl.PluralRules",
+  "description": "The `Intl.PluralRules` JS object provides rules for pluralization, allowing for language-sensitive handling of plural forms in text.",
+  "categories": [
+    "object"
+  ],
+  "content": "The object that provides rules for pluralizing words according to locale-specific grammar. It’s used to determine the correct plural form of a word based on a given number.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 63,
+        "chrome_android": 63,
+        "edge": 18,
+        "firefox": 58,
+        "firefox_android": 58,
+        "safari": 13,
+        "safari_ios": 13
+      },
+      "latest_release_date": {
+        "year": 2019,
+        "month": 9,
+        "day": 19
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Expressions and Statements",
+  "description": "The Expressions produce values and can be assigned to variables, while the Statements perform actions and control the flow of execution.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The expressions generate values and can be used in computations or assigned to variables, including functions which are treated as values in this context. They represent parts of code that evaluate to something, like 5 + 3. The statements execute actions and control the flow of a program, such as with `if` conditions or `while` loops and don't return values.",
+  "extensions": {}
+}

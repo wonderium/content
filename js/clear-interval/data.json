@@ -1,0 +1,26 @@
+{
+  "title": "clearInterval()",
+  "description": "The `clearInterval()` JS browser API method cancels an interval previously established by `setInterval()`.",
+  "categories": [
+    "method"
+  ],
+  "content": "The browser API method that stops a repeating action set by `setInterval()`. It prevents the specified interval from continuing to execute.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

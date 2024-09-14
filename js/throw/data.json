@@ -1,0 +1,26 @@
+{
+  "title": "throw",
+  "description": "The `throw` JS syntax keyword is used to manually throw an exception or error in a program.",
+  "categories": [
+    "syntax", "keyword"
+  ],
+  "content": "The keyword used to throw an exception or error manually. It allows for creating custom error conditions and transferring control to error-handling code.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

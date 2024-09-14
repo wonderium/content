@@ -1,0 +1,26 @@
+{
+  "title": "Object.setPrototypeOf()",
+  "description": "The `Object.setPrototypeOf()` static JS method sets the prototype of the specified object to another object or `null`.", 
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that sets the prototype, which is the value of the internal `[[Prototype]]` property, of a specified object to another object or `null`. This is useful for changing the inheritance of an object after it has been created.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 34,
+        "chrome_android": 34,
+        "edge": 12,
+        "firefox": 31,
+        "firefox_android": 31,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

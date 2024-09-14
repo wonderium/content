@@ -1,0 +1,26 @@
+{
+  "title": "console.groupEnd()",
+  "description": "The `console.groupEnd()` static JS browser API method exits the current inline group in the console.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static browser API method that ends the most recently created console group. It marks the end of a series of grouped console messages.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 2,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 9,
+        "firefox_android": 9,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

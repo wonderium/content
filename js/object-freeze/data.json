@@ -1,0 +1,26 @@
+{
+  "title": "Object.freeze()",
+  "description": "The `Object.freeze()` static JS method freezes an object, preventing new properties from being added to it and existing properties from being removed or changed.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that freezes an object, preventing new properties from being added to it, existing properties from being removed and changed. This is useful for creating immutable objects.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 6,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 4,
+        "firefox_android": 4,
+        "safari": 5.1,
+        "safari_ios": 5
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Array.isArray()",
+  "description": "The `Array.isArray()` static JS method determines whether the given value is an array.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that checks whether a given value is an array. It returns `true` if the value is an array and `false` if it’s not.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 4,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 4,
+        "firefox_android": 4,
+        "safari": 5,
+        "safari_ios": 5
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "URLSearchParams",
+  "description": "The `URLSearchParams` JS browser API object provides methods to work with the query string of a URL, enabling easy parsing and manipulation of URL parameters.",
+  "categories": [
+    "object"
+  ],
+  "content": "The browser API object for working with the query string of a URL. It provides methods for getting, setting and manipulating query parameters in a URL.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 49,
+        "chrome_android": 49,
+        "edge": 17,
+        "firefox": 29,
+        "firefox_android": 29,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2018,
+        "month": 4,
+        "day": 30
+      }
+    }
+  }
+}

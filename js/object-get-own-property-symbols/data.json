@@ -1,0 +1,26 @@
+{
+  "title": "Object.getOwnPropertySymbols()",
+  "description": "The `Object.getOwnPropertySymbols()` static JS method returns an array of all own symbol properties found directly upon a given object.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns an array of all symbol properties found directly upon a given object. Symbol properties are often used to add unique and non-enumerable properties to objects.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 38,
+        "chrome_android": 38,
+        "edge": 12,
+        "firefox": 36,
+        "firefox_android": 36,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

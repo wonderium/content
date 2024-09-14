@@ -1,0 +1,26 @@
+{
+  "title": "Boolean",
+  "description": "The `Boolean` JS wrapper object allows working with boolean values and provides methods for manipulation.",
+  "categories": [
+    "object"
+  ],
+  "content": "The wrapper object that allows primitive boolean values to temporarily behave like objects and access methods, such as conversion to a string.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

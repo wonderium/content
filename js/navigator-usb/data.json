@@ -1,0 +1,23 @@
+{
+  "title": "navigator.usb",
+  "description": "The `navigator.usb` JS browser API property provides access to the WebUSB API, which allows for interacting with USB devices from web applications.",
+  "categories": [
+    "property",
+    "object"
+  ],
+  "content": "The browser API property that allows web applications to interact with USB devices connected to the user's computer. It can be used to communicate with devices like printers, game controllers or external storage.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 61,
+        "chrome_android": 61,
+        "edge": 79,
+        "firefox": null,
+        "firefox_android": null,
+        "safari": null,
+        "safari_ios": null
+      },
+      "latest_release_date": "Limited availability"
+    }
+  }
+}

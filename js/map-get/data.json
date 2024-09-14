@@ -1,0 +1,26 @@
+{
+  "title": ".get()",
+  "description": "The `.get()` JS method returns the value associated with the specified key in the `Map` object, returning `undefined` if the key is not found.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that returns the value associated with a specified key in a `Map` object. If the key doesn’t exist, it returns `undefined`.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 38,
+        "chrome_android": 38,
+        "edge": 12,
+        "firefox": 13,
+        "firefox_android": 14,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

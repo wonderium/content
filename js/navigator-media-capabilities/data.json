@@ -1,0 +1,27 @@
+{
+  "title": "navigator.mediaCapabilities",
+  "description": "The `navigator.mediaCapabilities` JS browser API property provides access to the Media Capabilities API, which allows for the querying of decoding and encoding capabilities for various media formats.",
+  "categories": [
+    "property",
+    "object"
+  ],
+  "content": "The browser API property that provides information about the user's device's ability to play audio and video content. It includes details about supported codecs, resolution, frame rates and more, helping to ensure smooth media playback.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 66,
+        "chrome_android": 66,
+        "edge": 79,
+        "firefox": 63,
+        "firefox_android": 63,
+        "safari": 13,
+        "safari_ios": 13
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

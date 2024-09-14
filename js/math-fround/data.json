@@ -1,0 +1,26 @@
+{
+  "title": "Math.fround()",
+  "description": "The `Math.fround()` static JS method returns the nearest 32-bit floating-point representation of a given number.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns the nearest 32-bit floating-point representation of a given number. It’s used for precision control in floating-point calculations, such as `Math.fround(1.337)`.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 38,
+        "chrome_android": 38,
+        "edge": 12,
+        "firefox": 26,
+        "firefox_android": 26,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

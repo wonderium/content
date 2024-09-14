@@ -1,0 +1,26 @@
+{
+  "title": "navigator.cookieEnabled",
+  "description": "The `navigator.cookieEnabled` JS browser API property indicates whether cookies are enabled in the browser.",
+  "categories": [
+    "property"
+  ],
+  "content": "The browser API property that returns `true` if cookies are enabled in the user's browser and `false` otherwise. This is useful for determining if a website can store cookies on the user's device.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

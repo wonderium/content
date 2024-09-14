@@ -1,0 +1,26 @@
+{
+  "title": "Promise.withResolvers()",
+  "description": "The `Promise.withResolvers()` static JS method creates a `Promise` object and allows manual resolution or rejection using the resolve and reject functions provided by the promise constructor.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that creates a `Promise` object with its own resolve and reject functions, allowing manual resolution or rejection from outside the promise executor function.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 119,
+        "chrome_android": 119,
+        "edge": 119,
+        "firefox": 121,
+        "firefox_android": 121,
+        "safari": 17.4,
+        "safari_ios": 17.4
+      },
+      "latest_release_date": {
+        "year": 2024,
+        "month": 3,
+        "day": 5
+      }
+    }
+  }
+}

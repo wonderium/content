@@ -1,0 +1,26 @@
+{
+  "title": "Object.entries()",
+  "description": "The `Object.entries()` static JS method returns an array of a given object's own enumerable string-keyed property key-value pairs.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns an array of a given object's own enumerable string-keyed property key-value pairs. This is useful for iterating over properties in a `for...of` loop or converting objects to other formats like arrays.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 54,
+        "chrome_android": 54,
+        "edge": 14,
+        "firefox": 47,
+        "firefox_android": 47,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 3,
+        "day": 27
+      }
+    }
+  }
+}

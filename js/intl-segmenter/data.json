@@ -1,0 +1,26 @@
+{
+  "title": "Intl.Segmenter",
+  "description": "The `Intl.Segmenter` JS object is used for language-sensitive text segmentation, enabling breaking text into segments, such as words, sentences or characters.",
+  "categories": [
+    "object"
+  ],
+  "content": "The object that segments text according to language-specific rules, such as dividing sentences into words or characters. It’s used for text processing tasks like word wrapping, counting or highlighting.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 87,
+        "chrome_android": 87,
+        "edge": 87,
+        "firefox": 125,
+        "firefox_android": 125,
+        "safari": 14.1,
+        "safari_ios": 14.5
+      },
+      "latest_release_date": {
+        "year": 2024,
+        "month": 4,
+        "day": 16
+      }
+    }
+  }
+}

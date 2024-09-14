@@ -1,0 +1,26 @@
+{
+  "title": "Number.MAX_SAFE_INTEGER",
+  "description": "The `Number.MAX_SAFE_INTEGER` JS constant represents the maximum safe integer in JavaScript (2^53 - 1).",
+  "categories": [
+    "constant" 
+  ],
+  "content": "The constant that defines the largest safe integer and can be accurately represented in JavaScript without losing precision, which is 9007199254740991. Numbers larger than this may lose accuracy due to the limitations of floating-point representation.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 34,
+        "chrome_android": 34,
+        "edge": 12,
+        "firefox": 31,
+        "firefox_android": 31,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

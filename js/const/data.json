@@ -1,0 +1,27 @@
+{
+  "title": "const",
+  "description": "The `const` JS syntax keyword is used to declare variables whose values cannot be reassigned.",
+  "categories": [
+    "syntax",
+    "keyword"
+  ],
+  "content": "The keyword used to declare a constant variable in JavaScript. The value of a `const` variable cannot be changed once it’s assigned, making it useful for values that should remain constant throughout the program.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 21,
+        "chrome_android": 25,
+        "edge": 12,
+        "firefox": 36,
+        "firefox_android": 36,
+        "safari": 5.1,
+        "safari_ios": 5
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "title": "if...else",
+  "description": "The `if...else` JS syntax statement is a control structure that executes a block of code if a specified condition is `true` and optionally executes another block of code if the condition is `false`.",
+  "categories": [
+    "syntax",
+    "statement"
+  ],
+  "content": "The statement used as a control structure for conditional execution of code. If a specified condition is `true`, the code inside the `if` block is executed; otherwise, if an `else` block is provided, the code inside it's executed.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

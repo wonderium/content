@@ -1,0 +1,26 @@
+{
+  "title": ".valueOf()",
+  "description": "The `.valueOf()` JS method returns the primitive value of the specified object and is meant to be overridden by derived objects for custom type conversion logic",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that returns the primitive value of the specified object. it's meant to be overridden by derived objects to provide custom type conversion. For most objects, it returns the object itself. Some built-in objects like `Date` use it to return a specific value.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

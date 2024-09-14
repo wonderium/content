@@ -1,0 +1,26 @@
+{
+  "title": "String.fromCodePoint()",
+  "description": "The `String.fromCodePoint()` static JS method returns a string created from the specified sequence of Unicode code points.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns a string created from one or more Unicode code points. It can handle characters beyond the BMP (Basic Multilingual Plane) and create strings from these code points.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 41,
+        "chrome_android": 41,
+        "edge": 12,
+        "firefox": 29,
+        "firefox_android": 29,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

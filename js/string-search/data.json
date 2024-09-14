@@ -1,0 +1,26 @@
+{
+  "title": ".search()",
+  "description": "The `.search()` JS method executes a search for a match between a regular expression and the string on which it's called.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that searches for a match between the string on which it's called and a regular expression. It returns the index of the first match or -1 if no match is found.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

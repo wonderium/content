@@ -1,0 +1,26 @@
+{
+  "title": ".localeCompare()",
+  "description": "The `.localeCompare()` JS method returns a number indicating whether a reference string comes before, after or is the same as the given string in sort order according to locale-specific rules.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that compares two strings based on their Unicode code points and locale-specific rules. It returns a number indicating whether the string comes before, after or is the same as another string in sort order.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 3,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Object.preventExtensions()",
+  "description": "The `Object.preventExtensions()` static JS method prevents new properties from ever being added to an object.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that prevents new properties from being added to an object. Once an object is made non-extensible, its shape cannot be altered by adding new properties, though existing properties can still be modified or deleted.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 6,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 4,
+        "firefox_android": 4,
+        "safari": 5.1,
+        "safari_ios": 5
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

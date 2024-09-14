@@ -1,0 +1,26 @@
+{
+  "title": "Object.fromEntries()",
+  "description": "The `Object.fromEntries()` static JS method transforms a list of key-value pairs into an object.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that transforms a list of key-value pairs into an object. It’s the inverse of `Object.entries()` and is useful for converting arrays back into objects.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 73,
+        "chrome_android": 73,
+        "edge": 79,
+        "firefox": 63,
+        "firefox_android": 63,
+        "safari": 12.1,
+        "safari_ios": 12.2
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

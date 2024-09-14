@@ -1,0 +1,26 @@
+{
+  "title": "performance",
+  "description": "The `performance` JS browser API object provides access to performance-related information for the current page.",
+  "categories": [
+    "object"
+  ],
+  "content": "The browser API object that provides access to performance-related information, such as timing data for the current document. It includes methods and properties to measure performance metrics, such as `performance.now()` for high-resolution time measurements and `performance.mark()` for custom timing markers.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 6,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 7,
+        "firefox_android": 7,
+        "safari": 8,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 16
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "navigator.webdriver",
+  "description": "The `navigator.webdriver` JS browser API property indicates whether the browser is controlled by automation software, typically used for testing purposes.",
+  "categories": [
+    "property"
+  ],
+  "content": "The browser API property that returns `true` if the browser is being controlled by automation tools like Selenium WebDriver. It helps identify if the browser is in automated testing mode.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 63,
+        "chrome_android": 63,
+        "edge": 12,
+        "firefox": 60,
+        "firefox_android": 60,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2018,
+        "month": 5,
+        "day": 9
+      }
+    }
+  }
+}

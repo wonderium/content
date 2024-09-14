@@ -1,0 +1,26 @@
+{
+  "title": "Math.acosh()",
+  "description": "The `Math.acosh()` static JS method returns the inverse hyperbolic cosine of a given number.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns the inverse hyperbolic cosine of a given number. It’s defined for numbers greater than or equal to 1 and the result is in radians.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 38,
+        "chrome_android": 38,
+        "edge": 12,
+        "firefox": 25,
+        "firefox_android": 25,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

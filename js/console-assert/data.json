@@ -1,0 +1,26 @@
+{
+  "title": "console.assert()",
+  "description": "The `console.assert()` static JS browser API method logs a message and stack trace to the console if the assertion is `false`.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static browser API method that logs a message to the console only if a specified condition is `false`. It’s useful for testing assumptions in the code.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 2,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 28,
+        "firefox_android": 28,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

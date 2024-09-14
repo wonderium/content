@@ -1,0 +1,26 @@
+{
+  "title": "EvalError",
+  "description": "The `EvalError` JS object represents an error related to the use of the `eval()` function, typically indicating issues with its execution.",
+  "categories": [
+    "object"
+  ],
+  "content": "The object that represents an error related to the global `eval()` function, though it’s rarely used in modern JavaScript. It’s part of the standard `Error` object hierarchy and exists primarily for compatibility with older code.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": ".matchAll()",
+  "description": "The `.matchAll()` JS method returns an `Iterator` object of all matched results of a global regular expression in a string.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that returns an `Iterator` object of all matches of a string against a regular expression. It provides all matches, including capturing groups, when the regular expression has the global `g` flag. If the global flag is not present, `.matchAll()` will not work as expected.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 73,
+        "chrome_android": 73,
+        "edge": 79,
+        "firefox": 67,
+        "firefox_android": 67,
+        "safari": 13,
+        "safari_ios": 13
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

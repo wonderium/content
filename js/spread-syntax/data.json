@@ -1,0 +1,27 @@
+{
+  "title": "Spread Syntax",
+  "description": "The Spread JS syntax operator allows an iterable, such as an array or string, to be expanded in places where multiple elements or arguments are expected, represented by three dots (`...`).",
+  "categories": [
+    "syntax",
+    "operator"
+  ],
+  "content": "The operator, denoted by three dots (`...`), that is used to expand or spread elements from an array or object into individual elements. It’s often used for copying arrays or objects, combining them or passing multiple arguments to functions.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 60,
+        "chrome_android": 60,
+        "edge": 79,
+        "firefox": 55,
+        "firefox_android": 55,
+        "safari": 11.1,
+        "safari_ios": 11.3
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

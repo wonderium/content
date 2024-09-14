@@ -1,0 +1,26 @@
+{
+  "title": ".trim()",
+  "description": "The `.trim()` JS method removes whitespace from both the beginning and end of a string.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that removes whitespace from the beginning and end of a string. It’s useful for cleaning up user input or text data.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 4,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 5,
+        "safari_ios": 5
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

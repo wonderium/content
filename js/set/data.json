@@ -1,0 +1,26 @@
+{
+  "title": "Set",
+  "description": "The `Set` JS object is a collection of unique values where each value must be unique.",
+  "categories": [
+    "object"
+  ],
+  "content": "The object that holds a collection of unique values of any type, whether they are primitives or objects. Values in a `Set` object are automatically checked for uniqueness, meaning no duplicate values are allowed.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 38,
+        "chrome_android": 38,
+        "edge": 12,
+        "firefox": 13,
+        "firefox_android": 14,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

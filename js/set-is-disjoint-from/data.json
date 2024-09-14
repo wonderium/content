@@ -1,0 +1,26 @@
+{
+  "title": ".isDisjointFrom()",
+  "description": "The `.isDisjointFrom()` JS method checks whether the current `Set` object has no elements in common with the `Set` object provided as an argument.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that checks whether the `Set` object on which it's called has no elements in common with the `Set` object passed as an argument. It returns `true` if they are disjoint, meaning they have no common elements and `false` if at least one element is shared.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 122,
+        "chrome_android": 122,
+        "edge": 122,
+        "firefox": 127,
+        "firefox_android": 127,
+        "safari": 17,
+        "safari_ios": 17
+      },
+      "latest_release_date": {
+        "year": 2024,
+        "month": 6,
+        "day": 11
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": ".currentTarget",
+  "description": "The `.currentTarget` JS browser API property of an `Event` object references the element to which the event handler is attached.",
+  "categories": [
+    "property"
+  ],
+  "content": "The browser API property that holds the element currently receiving the event during the bubbling or capturing phase. Unlike `target` property, it always refers to the element that the event listener is attached to.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

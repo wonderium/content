@@ -1,0 +1,9 @@
+{
+  "title": "Type Conversions",
+  "description": "The Type Conversions in JS is the process of converting one data type to another, either implicitly or explicitly.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The process of converting values from one data type to another. JavaScript performs implicit type conversions automatically, such as converting a string to a number in arithmetic operations. Explicit conversions can be done using functions like `Number()`, `String()` and `Boolean()`.",
+  "extensions": {}
+}

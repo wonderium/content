@@ -1,0 +1,26 @@
+{
+  "title": "Number.parseInt()",
+  "description": "The `Number.parseInt()` static JS method parses a string argument and returns an integer of the specified radix.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that parses a string and returns an integer. It can take a second argument specifying the base (radix) of the number in the string. This method is equivalent to the global `parseInt()` function.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 34,
+        "chrome_android": 34,
+        "edge": 12,
+        "firefox": 25,
+        "firefox_android": 25,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

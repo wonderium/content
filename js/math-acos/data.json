@@ -1,0 +1,26 @@
+{
+  "title": "Math.acos()",
+  "description": "The `Math.acos()` static JS method returns the arc cosine (inverse cosine) of a given number in radians.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns the arccosine (inverse cosine) of a given number in radians. It produces a value between 0 and π (inclusive) only if the provided number is between -1 and 1.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

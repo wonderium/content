@@ -1,0 +1,26 @@
+{
+  "title": ".toPrecision()",
+  "description": "The `.toPrecision()` JS method returns a string representing the number to a specified precision.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that formats a number to a specified length (number of significant digits) and returns it as a string. It can round the number if necessary to fit the specified precision.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 2,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

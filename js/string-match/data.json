@@ -1,0 +1,26 @@
+{
+  "title": ".match()",
+  "description": "The `.match()` JS method retrieves the result of matching a string against a regular expression.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that retrieves matches of a string against a regular expression. It returns an array of all matches if the regular expression has the global flag `g`. If the global flag is not present, it returns an array with only the first match or `null` if no matches are found.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

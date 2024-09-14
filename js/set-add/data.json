@@ -1,0 +1,26 @@
+{
+  "title": ".add()",
+  "description": "The `.add()` JS method adds a new element to the `Set` object.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method used to add a new element to a `Set` object. If the element already exists, it will not be added again, maintaining the uniqueness of the values. It also returns the object itself, which allows for method chaining.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 38,
+        "chrome_android": 38,
+        "edge": 12,
+        "firefox": 13,
+        "firefox_android": 14,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

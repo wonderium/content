@@ -1,0 +1,26 @@
+{
+  "title": "WeakSet",
+  "description": "The `WeakSet` JS object is a collection of objects where each object must be unique and references to objects are held weakly, meaning they don't prevent garbage collection.",
+  "categories": [
+    "object"
+  ],
+  "content": "The object that holds a collection of objects where the objects are weakly held. It allows to store unique objects without preventing them from being garbage collected when no other references exist.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 36,
+        "chrome_android": 36,
+        "edge": 12,
+        "firefox": 34,
+        "firefox_android": 34,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

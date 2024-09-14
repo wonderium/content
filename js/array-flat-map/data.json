@@ -1,0 +1,26 @@
+{
+  "title": ".flatMap()",
+  "description": "The `.flatMap()` JS method first maps each element using a mapping function, then flattens the result into a new array.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that first maps each element in an array, using a mapping function and then flattens the result by one level. It combines the effects of `.map()` and `.flat()` methods into one operation.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 69,
+        "chrome_android": 69,
+        "edge": 79,
+        "firefox": 62,
+        "firefox_android": 62,
+        "safari": 12,
+        "safari_ios": 12
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

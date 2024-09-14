@@ -1,0 +1,27 @@
+{
+  "title": "Rest Syntax",
+  "description": "The Rest JS syntax operator is used to gather the remaining elements into an array or object, represented by three dots (`...`).",
+  "categories": [
+    "syntax",
+    "operator"
+  ],
+  "content": "The operator, denoted by three dots (`...`), that is used to collect all remaining elements into an array or object. it's often applied in functions to handle an indefinite number of arguments or in object destructuring to capture leftover properties.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 49,
+        "chrome_android": 49,
+        "edge": 79,
+        "firefox": 52,
+        "firefox_android": 52,
+        "safari": 10,
+        "safari_ios": 10
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Math.tan()",
+  "description": "The `Math.tan()` static JS method returns the tangent of a given number in radians.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns the tangent of a given number in radians. The result can be any real number, depending on the angle. For example, `Math.tan(Math.PI / 4)` returns 1.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

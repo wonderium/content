@@ -1,0 +1,26 @@
+{
+  "title": "Math.PI",
+  "description": "The `Math.PI` JS property returns the value of π (pi), approximately 3.14159.",
+  "categories": [
+    "constant"
+  ],
+  "content": "The property that returns the value of π (pi), approximately 3.14159. It’s commonly used in calculations involving circles and trigonometric functions.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

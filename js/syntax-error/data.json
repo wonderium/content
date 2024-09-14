@@ -1,0 +1,26 @@
+{
+  "title": "SyntaxError",
+  "description": "The `SyntaxError` JS object represents an error that occurs when the JavaScript code contains invalid syntax, preventing it from being parsed correctly.",
+  "categories": [
+    "object"
+  ],
+  "content": "The object that represents an error due to incorrect syntax in the code. This occurs when the code doesn’t follow the proper language rules, such as missing parentheses or brackets. It’s used to identify and fix mistakes in code structure.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

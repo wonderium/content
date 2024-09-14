@@ -1,0 +1,26 @@
+{
+  "title": ".toLocaleString()",
+  "description": "The `.toLocaleString()` JS method returns a string with a language-sensitive representation of the number.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that converts a number to a string using the locale-specific formatting. This is useful for displaying numbers with appropriate thousand separators, decimal points and currency symbols based on the user's locale.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

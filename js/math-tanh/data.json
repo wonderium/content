@@ -1,0 +1,26 @@
+{
+  "title": "Math.tanh()",
+  "description": "The `Math.tanh()` static JS method returns the hyperbolic tangent of a given number.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns the hyperbolic tangent of a given number. It provides a result between -1 and 1 and is defined for all real numbers.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 38,
+        "chrome_android": 38,
+        "edge": 12,
+        "firefox": 25,
+        "firefox_android": 25,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

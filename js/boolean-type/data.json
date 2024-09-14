@@ -1,0 +1,9 @@
+{
+  "title": "boolean",
+  "description": "The `boolean` JS data type represents a logical value that can be either `true` or `false`.",
+  "categories": [
+    "data type"
+  ],
+  "content": "The primitive data type that represents two values: `true` or `false`. It’s used for logical operations, like checking conditions in `if` statements.",
+  "extensions": {}
+}

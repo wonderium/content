@@ -1,0 +1,26 @@
+{
+  "title": ".getElementsByClassName()",
+  "description": "The `.getElementsByClassName()` JS browser API method returns a live `HTMLCollection` of elements with the given class name.",
+  "categories": [
+    "method"
+  ],
+  "content": "The browser API method that returns a live `HTMLCollection` of all elements in the document with the specified class name. The elements are returned in the order they appear in the document.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

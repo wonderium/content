@@ -1,0 +1,26 @@
+{
+  "title": "Math.cbrt()",
+  "description": "The `Math.cbrt()` static JS method returns the cube root of a given number.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns the cube root of a given number. It can handle both positive and negative values.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 38,
+        "chrome_android": 38,
+        "edge": 12,
+        "firefox": 25,
+        "firefox_android": 25,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

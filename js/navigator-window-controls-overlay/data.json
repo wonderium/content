@@ -1,0 +1,23 @@
+{
+  "title": "navigator.windowControlsOverlay",
+  "description": "The `navigator.windowControlsOverlay` JS browser API property provides access to the Window Controls Overlay API, which allows for customizing the title bar area of web applications.",
+  "categories": [
+    "property",
+    "object"
+  ],
+  "content": "The browser API property that allows web applications to customize the area of the browser window where the window controls, like close, minimize and maximize buttons, are located. It’s used to create seamless custom title bars in PWAs (Progressive Web Apps).",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 105,
+        "chrome_android": null,
+        "edge": 105,
+        "firefox": null,
+        "firefox_android": null,
+        "safari": null,
+        "safari_ios": null
+      },
+      "latest_release_date": "Limited availability"
+    }
+  }
+}

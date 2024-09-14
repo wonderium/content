@@ -1,0 +1,27 @@
+{
+  "title": "navigator.credentials",
+  "description": "The `navigator.credentials` JS browser API property provides access to the Credentials API, which allows for the creation, discovery and use of credentials.",
+  "categories": [
+    "property",
+    "object"
+  ],
+  "content": "The browser API property that provides access to the user's credentials, allowing for secure authentication processes. It can be used to store and retrieve credentials, such as passwords or tokens and streamline sign-in experiences.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 51,
+        "chrome_android": 51,
+        "edge": 18,
+        "firefox": 60,
+        "firefox_android": 60,
+        "safari": 13,
+        "safari_ios": 13
+      },
+      "latest_release_date": {
+        "year": 2019,
+        "month": 9,
+        "day": 19
+      }
+    }
+  }
+}

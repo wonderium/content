@@ -1,0 +1,26 @@
+{
+  "title": ".getFullYear()",
+  "description": "The `.getFullYear()` JS method returns the year of a specified date according to local time.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that returns the full year (in four digits) of a specified date. This value reflects the year based on the local time of the system and is useful for determining the complete year in date-related operations.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

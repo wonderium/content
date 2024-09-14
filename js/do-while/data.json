@@ -1,0 +1,27 @@
+{
+  "title": "do...while",
+  "description": "The `do...while` JS syntax statement is a loop structure that executes a block of code once and then repeats the execution as long as the specified condition remains `true`.",
+  "categories": [
+    "syntax",
+    "statement"
+  ],
+  "content": "The statement used as a loop structure that executes a block of code at least once and then repeatedly executes it while a specified condition is `true`. The condition is evaluated after each iteration, ensuring the code runs at least once.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

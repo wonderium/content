@@ -1,0 +1,26 @@
+{
+  "title": ".splice()",
+  "description": "The `.splice()` JS method changes the contents of an array by removing, replacing or adding elements, starting at a specific index and continuing for a given number of elements, modifying the original array.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that modifies the contents of an array by removing, replacing or adding elements. It starts at a specified position and can remove a certain number of elements, while optionally replacing them with new elements or inserting new elements at that position.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

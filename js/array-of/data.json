@@ -1,0 +1,26 @@
+{
+  "title": "Array.of()",
+  "description": "The `Array.of()` static JS method creates a new array with a variable number of arguments, regardless of their type.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that creates a new array with a variable number of arguments, no matter how many or what type they are. It’s a convenient way to create arrays without worrying about how the values are interpreted.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 45,
+        "chrome_android": 39,
+        "edge": 12,
+        "firefox": 25,
+        "firefox_android": 25,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

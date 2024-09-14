@@ -1,0 +1,26 @@
+{
+  "title": ".type",
+  "description": "The `.type` JS browser API property of an `Event` object returns a string representing the type of event.",
+  "categories": [
+    "property"
+  ],
+  "content": "The browser API property that returns a string indicating the type of event, such as 'click', 'keydown', 'submit' or 'mouseover'. It helps identify the kind of event that occurred.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1.5,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

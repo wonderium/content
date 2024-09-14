@@ -1,0 +1,27 @@
+{
+  "title": "navigator.mediaSession",
+  "description": "The `navigator.mediaSession` JS browser API property provides access to the Media Session API, which allows for the customization of media notifications and response to media keys.",
+  "categories": [
+    "property",
+    "object"
+  ],
+  "content": "The browser API property that allows web apps to interact with media playback controls outside the browser, like on the lock screen or media keys. It allows for the customization of playback metadata and responds to user actions, such as play, pause or skip.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 73,
+        "chrome_android": 57,
+        "edge": 79,
+        "firefox": 82,
+        "firefox_android": 82,
+        "safari": 15,
+        "safari_ios": 15
+      },
+      "latest_release_date": {
+        "year": 2021,
+        "month": 9,
+        "day": 20
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": ".stopImmediatePropagation()",
+  "description": "The `.stopImmediatePropagation()` JS browser API method of an `Event` object stops the execution of any other handlers on the current element for the same event and prevents the event bubbling up the DOM tree.",
+  "categories": [
+    "method"
+  ],
+  "content": "The browser API method that prevents further propagation of the event and stops other event handlers from executing on the same element. This means that the event won't bubble up to parent elements, ensuring that no other handlers for the same event run.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 5,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 10,
+        "firefox_android": 10,
+        "safari": 5,
+        "safari_ios": 5
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

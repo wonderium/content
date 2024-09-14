@@ -1,0 +1,26 @@
+{
+  "title": ".setUTCFullYear()",
+  "description": "The `.setUTCFullYear()` JS method sets the full year (including century) for a specified date according to UTC.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that sets the full year for a specified date according to UTC (Universal Coordinated Time). It allows updating the year while optionally specifying the month and day.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

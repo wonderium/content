@@ -1,0 +1,26 @@
+{
+  "title": ".toLocaleString()",
+  "description": "The `.toLocaleString()` JS method returns a string representing the date and time, formatted according to the locale and options specified.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that returns a string representing the date and time in the local timezone, formatted according to locale-specific conventions. It provides a complete representation of the date and time, with customization through specified options.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "setTimeout()",
+  "description": "The `setTimeout()` JS browser API method schedules a function to be executed after a specified number of milliseconds.",
+  "categories": [
+    "method"
+  ],
+  "content": "The browser API method that executes a specified function after a delay, defined in milliseconds. It’s used for one-time delays and can be canceled with `clearTimeout()`.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

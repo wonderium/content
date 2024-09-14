@@ -1,0 +1,26 @@
+{
+  "title": "navigator.language",
+  "description": "The `navigator.language` JS browser API property returns a string representing the preferred language of the user.",
+  "categories": [
+    "property"
+  ],
+  "content": "The browser API property that returns the user's preferred language as a string, usually represented in BCP 47 language tag format, such as 'en-US'. It’s useful for localizing content based on the user's language preferences.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

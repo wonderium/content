@@ -1,0 +1,26 @@
+{
+  "title": "IntersectionObserver",
+  "description": "The `IntersectionObserver` JS browser API object allows to monitor the visibility of an element relative to its ancestor or viewport, enabling efficient detection of when elements enter or leave the viewport.",
+  "categories": [
+    "object"
+  ],
+  "content": "The browser API object that provides a way to asynchronously observe changes in the visibility of a target element relative to an ancestor element or the viewport. it's commonly used for implementing features like lazy loading and infinite scrolling.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 51,
+        "chrome_android": 51,
+        "edge": 15,
+        "firefox": 55,
+        "firefox_android": 55,
+        "safari": 12.1,
+        "safari_ios": 12.2
+      },
+      "latest_release_date": {
+        "year": 2019,
+        "month": 3,
+        "day": 25
+      }
+    }
+  }
+}

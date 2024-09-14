@@ -1,0 +1,26 @@
+{
+  "title": "navigator.onLine",
+  "description": "The `navigator.onLine` JS browser API property indicates whether the browser is online or offline.",
+  "categories": [
+    "property"
+  ],
+  "content": "The browser API property that returns `true` if the browser is connected to the network and `false` if it’s offline. It’s commonly used to detect changes in network connectivity.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 2,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1.5,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

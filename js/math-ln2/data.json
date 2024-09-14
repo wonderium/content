@@ -1,0 +1,26 @@
+{
+  "title": "Math.LN2",
+  "description": "The `Math.LN2` JS property returns the natural logarithm of 2, approximately 0.693.",
+  "categories": [
+    "constant"
+  ],
+  "content": "The property that returns the natural logarithm of 2, approximately 0.69314. It’s used in logarithmic calculations involving base 2.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

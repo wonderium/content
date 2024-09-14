@@ -1,0 +1,9 @@
+{
+  "title": "Generator",
+  "description": "The Generator in JS is a special type of function that can pause and resume its execution, enabling controlled iteration over data.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The special type of function that can pause and resume its execution using the `yield` keyword. Generators return an `Iterator` object that produces a sequence of values over time. They save their state each time `yield` is used, allowing efficient iteration over large datasets with minimal memory use.",
+  "extensions": {}
+}

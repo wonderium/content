@@ -1,0 +1,26 @@
+{
+  "title": ".forms",
+  "description": "The `.forms` JS browser API property returns a live `HTMLCollection` of all forms in the document.",
+  "categories": [
+    "property", "object"
+  ],
+  "content": "The browser API property of the `document` object that returns a live `HTMLCollection` of all `<form>` elements in the document. Each form in the collection can be accessed by its index or name.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

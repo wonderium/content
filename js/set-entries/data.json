@@ -1,0 +1,26 @@
+{
+  "title": ".entries()",
+  "description": "The `.entries()` JS method returns a new `Iterator` object with [value, value] pairs for each element in the set, where both the key and value are the same.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that returns an iterator object containing an array of `[value, value]` pairs for each element in the `Set` object. Since a `Set` object only stores unique values without associated keys, the value is repeated in each pair. This design keeps the API similar to that of the `Map` object.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 38,
+        "chrome_android": 38,
+        "edge": 12,
+        "firefox": 24,
+        "firefox_android": 24,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

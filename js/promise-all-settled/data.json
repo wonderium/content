@@ -1,0 +1,26 @@
+{
+  "title": "Promise.allSettled()",
+  "description": "The `Promise.allSettled()` static JS method returns a `Promise` object that resolves after all of the given promises have either resolved or rejected, with an array of objects that each describe the outcome of each promise.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns a `Promise` object that resolves after all of the given promises have either resolved or rejected, with an array of objects describing the outcome of each promise. This is useful for handling multiple asynchronous operations and knowing the result of all.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 76,
+        "chrome_android": 76,
+        "edge": 79,
+        "firefox": 71,
+        "firefox_android": 79,
+        "safari": 13,
+        "safari_ios": 13
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 7,
+        "day": 28
+      }
+    }
+  }
+}

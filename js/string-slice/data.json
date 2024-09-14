@@ -1,0 +1,26 @@
+{
+  "title": ".slice()",
+  "description": "The `.slice()` JS method extracts a section of a string between two specified indexes and returns it as a new string, without modifying the original string.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that extracts a section of a string from the start index to the end index (not included) and returns it as a new string. It doesn’t modify the original string.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": ".codePointAt()",
+  "description": "The `.codePointAt()` JS method returns the Unicode code point value at the specified index.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that returns a number indicating the Unicode code point of the character at a specified index. Unlike `.charCodeAt()`, it can handle characters outside the BMP (Basic Multilingual Plane) and return their full code points.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 41,
+        "chrome_android": 41,
+        "edge": 12,
+        "firefox": 29,
+        "firefox_android": 29,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

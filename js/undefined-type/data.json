@@ -1,0 +1,9 @@
+{
+  "title": "undefined",
+  "description": "The `undefined` JS data type represents a variable that has been declared but has not yet been assigned a value.",
+  "categories": [
+    "data type"
+  ],
+  "content": "The primitive data type that indicates a variable has been declared but not yet initialized. It represents the default value for uninitialized variables and is also used to indicate the absence of a value in function return statements or for object properties that don't exist.",
+  "extensions": {}
+}

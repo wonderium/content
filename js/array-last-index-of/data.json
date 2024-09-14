@@ -1,0 +1,26 @@
+{
+  "title": ".lastIndexOf()",
+  "description": "The `.lastIndexOf()` JS method returns the last index at which a given element can be found in the array. Otherwise, it returns -1.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that returns the last index at which a specified value appears in an array. If the value isn’t found, it returns -1, searching from the end of the array.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1.5,
+        "firefox_android": 4,
+        "safari": 3,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

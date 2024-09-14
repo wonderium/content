@@ -1,0 +1,9 @@
+{
+  "title": "object",
+  "description": "The `object` JS data type represents a collection of key-value pairs used to store data and more complex entities.",
+  "categories": [
+    "data type"
+  ],
+  "content": "The data type that represents collections of properties in key-value format. Objects are a central part of JavaScript programming, allowing for complex data structures and behavior to be modeled.",
+  "extensions": {}
+}

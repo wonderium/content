@@ -1,0 +1,26 @@
+{
+  "title": ".symmetricDifference()",
+  "description": "The `.symmetricDifference()` JS method returns a new `Set` object containing elements that are in either the current `Set` object or the `Set` object provided as an argument, but not in both..",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that finds elements that are in either the `Set` object on which it's called or the `Set` object passed as an argument, but not in both, returning a new `Set` with these unique elements.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 122,
+        "chrome_android": 122,
+        "edge": 122,
+        "firefox": 127,
+        "firefox_android": 127,
+        "safari": 17,
+        "safari_ios": 17
+      },
+      "latest_release_date": {
+        "year": 2024,
+        "month": 6,
+        "day": 11
+      }
+    }
+  }
+}

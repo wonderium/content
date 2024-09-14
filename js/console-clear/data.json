@@ -1,0 +1,26 @@
+{
+  "title": "console.clear()",
+  "description": "The `console.clear()` static JS browser API method clears the console if the environment allows it.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static browser API method that clears all messages from the console if the environment allows it. It’s used to create a clean slate for logging new information.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 25,
+        "chrome_android": 25,
+        "edge": 12,
+        "firefox": 39,
+        "firefox_android": 39,
+        "safari": 7,
+        "safari_ios": 7
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

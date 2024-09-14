@@ -1,0 +1,26 @@
+{
+  "title": "RangeError",
+  "description": "The `RangeError` JS object represents an error that occurs when a value is not within the set or expected range, such as when passing an invalid number to a function.",
+  "categories": [
+    "object"
+  ],
+  "content": "The object that represents an error when a value is outside the allowed range of a specific operation. This occurs in scenarios like providing an invalid length for an array or exceeding the maximum allowable value in a numeric operation. It helps identify and manage cases where values fall outside expected limits.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

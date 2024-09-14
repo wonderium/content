@@ -1,0 +1,26 @@
+{
+  "title": ".at()",
+  "description": "The `.at()` JS method returns the element at a given index, allowing for negative integers to count back from the end of the array.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that retrieves an item from an array based on its index, including the option to use negative numbers to count from the end. It simplifies accessing items from the end of an array.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 92,
+        "chrome_android": 92,
+        "edge": 92,
+        "firefox": 90,
+        "firefox_android": 90,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2022,
+        "month": 3,
+        "day": 14
+      }
+    }
+  }
+}

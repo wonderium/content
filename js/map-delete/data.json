@@ -1,0 +1,26 @@
+{
+  "title": ".delete()",
+  "description": "The `.delete()` JS method removes a specified key-value pair from the `Map` object based on the provided key.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that removes a specific key-value pair from a `Map` object based on the provided key. It returns `true` if the element was successfully deleted or `false` if the key was not found.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 38,
+        "chrome_android": 38,
+        "edge": 12,
+        "firefox": 13,
+        "firefox_android": 14,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

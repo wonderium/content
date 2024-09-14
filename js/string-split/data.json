@@ -1,0 +1,26 @@
+{
+  "title": ".split()",
+  "description": "The `.split()` JS method splits a string into an array of substrings based on a specified separator.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that splits a string into an array of substrings using a specified separator to determine where to make each split. It returns the array of substrings, allowing for easy manipulation of text.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}
