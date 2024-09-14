@@ -1,0 +1,26 @@
+{
+  "title": "<map>",
+  "description": "The `<map>` HTML element is used with `<area>` elements to define an image map, which allows clickable areas within an image to be associated with different hyperlinks or actions.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used to define an image map, which is a clickable area on an image. The `<map>` element contains `<area>` elements that specify the shapes and coordinates of the clickable regions, allowing parts of the image to act as links.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

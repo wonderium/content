@@ -1,0 +1,26 @@
+{
+  "title": "<iframe>",
+  "description": "The `<iframe>` HTML element embeds another HTML page securely within the current document, creating a nested browsing context.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that embeds another HTML document within the current webpage. It allows for the inclusion of external content, such as another webpage, a video or an interactive map, within a specified area of the page.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

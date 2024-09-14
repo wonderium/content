@@ -1,0 +1,26 @@
+{
+  "title": "<output>",
+  "description": "The `<output>` HTML element represents the result of a calculation or user action.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that displays the result of a calculation or user interaction, often used in forms. It can show the outcome of scripts, mathematical operations or other dynamic data.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 10,
+        "chrome_android": 18,
+        "edge": 18,
+        "firefox": 4,
+        "firefox_android": 4,
+        "safari": 7,
+        "safari_ios": 7
+      },
+      "latest_release_date": {
+        "year": 2018,
+        "month": 10,
+        "day": 2
+      }
+    }
+  }
+}

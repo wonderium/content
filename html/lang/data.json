@@ -1,0 +1,26 @@
+{
+  "title": "[lang]",
+  "description": "The `lang` HTML attribute specifies the language of content within an element, helping browsers and search engines render and make content accessible in the appropriate language.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that specifies the language of an element's content. It helps screen readers and search engines interpret the text correctly, ensuring better accessibility and accurate indexing.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

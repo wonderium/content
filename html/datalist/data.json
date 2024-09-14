@@ -1,0 +1,26 @@
+{
+  "title": "<datalist>",
+  "description": "The `<datalist>` HTML element contains a set of `<option>` elements that represent predefined options for other controls, such as `<input>` elements with a `list` attribute.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that provides a list of predefined options for an `<input>` element. When the user starts typing in the input field, the options in the `<datalist>` are filtered and displayed as a dropdown, allowing for easier selection.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 20,
+        "chrome_android": 33,
+        "edge": 12,
+        "firefox": 4,
+        "firefox_android": 79,
+        "safari": 12.1,
+        "safari_ios": 12.2
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 7,
+        "day": 28
+      }
+    }
+  }
+}

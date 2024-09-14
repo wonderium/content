@@ -1,0 +1,26 @@
+{
+  "title": "<samp>",
+  "description": "The `<samp>` HTML element represents sample output or example code snippets.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used to represent sample output from a program or computing device. It’s typically displayed in a monospaced font, which differs it from regular text.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

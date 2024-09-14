@@ -1,0 +1,9 @@
+{
+  "title": "Margin Collapsing",
+  "description": "The Margin Collapsing in HTML is a concept where the vertical margins of adjacent block-level elements merge into a single margin.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The behavior where vertical margins of adjacent block-level elements collapse into a single margin. This occurs when two or more block elements have vertical margins that touch each other, resulting in only the largest margin being applied.",
+  "extensions": {}
+}

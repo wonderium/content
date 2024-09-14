@@ -1,0 +1,9 @@
+{
+  "title": "Element",
+  "description": "The Element in HTML is a fundamental component of a web page, capable of containing text, images or other objects.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The building blocks of a webpage, represented by tags like `<div>`, `<p>` or `<img>`. Each HTML element defines a part of the content, structure or behavior of a webpage and is written using a start tag, content and an optional end tag.",
+  "extensions": {}
+}

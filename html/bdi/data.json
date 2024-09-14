@@ -1,0 +1,26 @@
+{
+  "title": "<bdi>",
+  "description": "The `<bdi>` HTML element isolates a span of text that might be formatted in a different directionality from the surrounding text.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that stands for Bi-Directional Isolation. It isolates a portion of text that might be formatted in a different direction (left-to-right or right-to-left) from its surrounding content, ensuring correct display in bi-directional text contexts.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 16,
+        "chrome_android": 18,
+        "edge": 79,
+        "firefox": 10,
+        "firefox_android": 10,
+        "safari": 6,
+        "safari_ios": 6
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

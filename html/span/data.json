@@ -1,0 +1,26 @@
+{
+  "title": "<span>",
+  "description": "The `<span>` HTML element is an inline container used to apply styles or manipulate text within a larger block of content.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used to apply styles or add attributes to inline content. It doesn't have any specific meaning and is often used for styling or scripting purposes within a line of text.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

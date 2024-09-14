@@ -1,0 +1,26 @@
+{
+  "title": "<figcaption>",
+  "description": "The `<figcaption>` HTML element represents the caption or legend for the content within a `<figure>` element.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used to provide a caption or description for the content inside a `<figure>` element. It helps explain or label the visual content, such as an image or chart and is typically displayed above or below the figure.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 8,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 4,
+        "firefox_android": 4,
+        "safari": 5.1,
+        "safari_ios": 5
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

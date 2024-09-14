@@ -1,0 +1,26 @@
+{
+  "title": "<button>",
+  "description": "The `<button>` HTML element creates a clickable button on a web page.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that represents a clickable button, used for user interactions like submitting forms, triggering actions or toggling states. It can contain text, images or other elements and is highly customizable with attributes and styles.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

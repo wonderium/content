@@ -1,0 +1,26 @@
+{
+  "title": "<sub>",
+  "description": "The `<sub>` HTML element defines subscript text, which appears half a character below the normal line of text.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that displays text as subscript, positioning it lower than the normal text line. It’s commonly used in mathematical expressions or chemical formulas.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

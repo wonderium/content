@@ -1,0 +1,26 @@
+{
+  "title": "[title]",
+  "description": "The `title` HTML attribute specifies extra information about an element.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that provides additional information about an element when the user hovers over it. It often appears as a tooltip and can be used to give context or explain abbreviations.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

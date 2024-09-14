@@ -1,0 +1,26 @@
+{
+  "title": "<dl>",
+  "description": "The `<dl>` HTML element represents a description list, presenting a series of term/definition pairs.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that represents a description list, which pairs terms and descriptions. It’s used to create lists of items where each term (`<dt>`) is followed by its corresponding description (`<dd>`), often for glossaries or FAQs.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

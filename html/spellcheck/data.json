@@ -1,0 +1,26 @@
+{
+  "title": "[spellcheck]",
+  "description": "The `spellcheck` HTML attribute enables or disables spell checking for text content within an element.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that enables or disables the spell-checking feature for a text field. When enabled, it helps users by underlining misspelled words within the input field.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 9,
+        "chrome_android": 47,
+        "edge": 12,
+        "firefox": 2,
+        "firefox_android": 57,
+        "safari": 5.1,
+        "safari_ios": 9.3
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 11,
+        "day": 28
+      }
+    }
+  }
+}

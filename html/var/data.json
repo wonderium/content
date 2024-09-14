@@ -1,0 +1,26 @@
+{
+  "title": "<var>",
+  "description": "The `<var>` HTML element represents a variable in a mathematical expression or programming context.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that represents a variable in mathematical expressions or programming contexts. It’s typically displayed in italicized text, which differs it from regular text.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

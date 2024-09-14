@@ -1,0 +1,26 @@
+{
+  "title": "<symbol>",
+  "description": "The `<symbol>` HTML element defines reusable graphical objects or icons that can be referenced by `<use>` elements in an SVG.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used within `<svg>` to define reusable graphic elements. These symbols can be referenced multiple times in the document using the `<use>` element, which helps in reducing redundancy and improving performance.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1.5,
+        "firefox_android": 4,
+        "safari": 3,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

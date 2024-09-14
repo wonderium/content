@@ -1,0 +1,26 @@
+{
+  "title": "<noscript>",
+  "description": "The `<noscript>` HTML element provides alternative content for browsers that don't support JavaScript or have it disabled.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that provides alternative content for users who have disabled JavaScript in their browsers. It ensures that essential information or functionality is still available, even without scripting support.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 3,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

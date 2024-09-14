@@ -1,0 +1,10 @@
+{
+  "title": "Tag",
+  "description": "The Tag in HTML is the basic part of markup, enclosed in angle brackets, marking the start and end of elements, such as `<p>` and `</p>`.",
+  "categories": [
+    "concept",
+    "syntax"
+  ],
+  "content": "The main part of HTML syntax enclosed in angle brackets, that is used to mark the start and end of HTML elements. For example, `<p>` starts a paragraph and `</p>` ends it.",
+  "extensions": {}
+}

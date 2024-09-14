@@ -1,0 +1,9 @@
+{
+  "title": "Block Formatting Context",
+  "description": "The Block Formatting Context in HTML controls how block-level elements stack vertically and manage layout issues.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The concept that describes how block-level elements, like paragraphs and divs, stack vertically one after another. Each block takes up the full width of its container and starts on a new line. This context helps manage layout issues, like keeping floating elements contained and avoiding overlaps.",
+  "extensions": {}
+}

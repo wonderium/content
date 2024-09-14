@@ -1,0 +1,26 @@
+{
+  "title": "<script>",
+  "description": "The `<script>` HTML element is used to embed or reference executable JavaScript code within an HTML document.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used to embed or reference executable code, typically JavaScript. It allows to add interactivity, functionality or manipulate the content of the webpage.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 3,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "[data-*]",
+  "description": "The `data-*` HTML attribute stores custom data that can be accessed by JavaScript, providing a way to embed extra information within an element.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that allows embedding extra information in an element, where '*' can be any name. These attributes are commonly used to store data that can be accessed or manipulated using JavaScript, making them flexible for various use cases.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 7,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 6,
+        "firefox_android": 6,
+        "safari": 5.1,
+        "safari_ios": 5
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "<head>",
+  "description": "The `<head>` HTML element contains metadata about the document, such as title, links to stylesheets and scripts.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that contains metadata and links to external resources for the webpage. It includes elements like `<title>`, `<meta>`, `<link>` and is placed at the top of the document, above the `<body>` element.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

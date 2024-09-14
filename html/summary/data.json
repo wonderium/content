@@ -1,0 +1,26 @@
+{
+  "title": "<summary>",
+  "description": "The `<summary>` HTML element provides a visible heading or title for the content within a `<details>` element.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that provides a summary or caption for the content of a `<details>` element. It acts as a clickable header, which, when clicked, toggles the visibility of the content within the `<details>`.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 12,
+        "chrome_android": 18,
+        "edge": 79,
+        "firefox": 49,
+        "firefox_android": 49,
+        "safari": 6,
+        "safari_ios": 6
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

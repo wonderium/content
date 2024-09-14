@@ -1,0 +1,26 @@
+{
+  "title": "<dd>",
+  "description": "The `<dd>` HTML element represents the description or definition that accompanies a term (`<dt>`) within a description list (`<dl>`).",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that defines a description or value for a term in a `<dl>` (description list). It’s used alongside `<dt>` (term) elements to create a list of terms and their corresponding definitions or descriptions.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

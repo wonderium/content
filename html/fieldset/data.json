@@ -1,0 +1,26 @@
+{
+  "title": "<fieldset>",
+  "description": "The `<fieldset>` HTML element groups related form controls within a `<form>` element, providing a visual and semantic structure.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used to group related elements within a form, often with a `<legend>` element to provide a caption. It visually separates different sections of the form, making it easier to understand and navigate.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

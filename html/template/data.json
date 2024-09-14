@@ -1,0 +1,26 @@
+{
+  "title": "<template>",
+  "description": "The `<template>` HTML element is used to declare fragments of HTML content that are inert or dormant within the document.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used to define a fragment of HTML that can be cloned and inserted into the document by scripts. The content within a `<template>` is not rendered immediately but can be used dynamically.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 26,
+        "chrome_android": 26,
+        "edge": 13,
+        "firefox": 22,
+        "firefox_android": 22,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 11,
+        "day": 12
+      }
+    }
+  }
+}

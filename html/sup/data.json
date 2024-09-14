@@ -1,0 +1,26 @@
+{
+  "title": "<sup>",
+  "description": "The `<sup>` HTML element defines superscript text, which appears half a character above the normal line of text.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that displays text as superscript, positioning it higher than the normal text line. It’s often used for footnotes, ordinal indicators and mathematical exponents.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

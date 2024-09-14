@@ -1,0 +1,26 @@
+{
+  "title": "<canvas>",
+  "description": "The `<canvas>` HTML element provides a bitmap canvas for rendering graphics, animations and other visuals using JavaScript.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that provides a drawing surface for rendering graphics, including shapes, images and animations, using JavaScript. It’s a powerful tool for creating dynamic and interactive visual content on web pages.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1.5,
+        "firefox_android": 4,
+        "safari": 2,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

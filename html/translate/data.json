@@ -1,0 +1,26 @@
+{
+  "title": "[translate]",
+  "description": "The `translate` HTML attribute specifies whether the element's contents should be translated when the page is localized into other languages.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that indicates whether the content of an element should be translated when the page is localized. It can be set to 'yes' or 'no', helping control the translation process.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 19,
+        "chrome_android": 25,
+        "edge": 79,
+        "firefox": 111,
+        "firefox_android": 111,
+        "safari": 6,
+        "safari_ios": 6
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 3,
+        "day": 14
+      }
+    }
+  }
+}

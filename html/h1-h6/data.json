@@ -1,0 +1,26 @@
+{
+  "title": "<h1>...<h6>",
+  "description": "The `<h1>...<h6>` HTML elements are used to define headings of varying levels of importance.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The set of elements representing different levels of headings, with `<h1>` being the most important and `<h6>` the least. Headings are used to structure content, create a hierarchy and improve accessibility by clearly indicating sections.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

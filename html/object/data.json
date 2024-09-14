@@ -1,0 +1,26 @@
+{
+  "title": "<object>",
+  "description": "The `<object>` HTML element embeds external resources into documents, such as images, audio, videos or other multimedia content.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used to embed multimedia elements such as images, videos or interactive content like PDFs. It can also serve as a fallback for content that browsers cannot natively support.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 3,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "<details>",
+  "description": "The `<details>` HTML element creates a disclosure widget where information is visible only when toggled open.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that creates a collapsible section on a webpage. It can be used to hide or show additional content, such as FAQs or extra information and typically includes a `<summary>` element to label the toggleable area.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 12,
+        "chrome_android": 18,
+        "edge": 79,
+        "firefox": 49,
+        "firefox_android": 49,
+        "safari": 6,
+        "safari_ios": 6
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

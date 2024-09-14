@@ -1,0 +1,26 @@
+{
+  "title": "[tabindex]",
+  "description": "The `tabindex` HTML attribute sets the order for keyboard navigation of focusable elements, enhancing accessibility by determining when elements receive focus.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that controls the keyboard navigation order of focusable elements. It determines the order in which elements are focused when the user presses the Tab key.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1.5,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

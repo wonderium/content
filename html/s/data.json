@@ -1,0 +1,26 @@
+{
+  "title": "<s>",
+  "description": "The `<s>` HTML element represents text that is no longer accurate or relevant.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that represents text that is no longer accurate or relevant, often displayed with a strikethrough. It’s used to indicate that the content has been removed or replaced by more up-to-date information.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "<search>",
+  "description": "The `<search>` HTML element is intended to provide a dedicated field for search queries within a web page, optimizing the user experience for entering and submitting search terms.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that represents a container for controls and content related to search or filtering purposes and can be used in various contexts, including the current webpage, a website or a document.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 118,
+        "chrome_android": 118,
+        "edge": 118,
+        "firefox": 118,
+        "firefox_android": 118,
+        "safari": 17,
+        "safari_ios": 17
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 10,
+        "day": 13
+      }
+    }
+  }
+}

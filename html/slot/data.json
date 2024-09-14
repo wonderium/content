@@ -1,0 +1,26 @@
+{
+  "title": "<slot>",
+  "description": "The `<slot>` HTML element is used as part of the Web Components technology to define placeholders inside a Shadow DOM where content from the light DOM can be inserted.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used in Web Components to define placeholders for external content. It allows developers to create custom elements with flexible content areas that can be filled by the parent component.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 53,
+        "chrome_android": 53,
+        "edge": 79,
+        "firefox": 63,
+        "firefox_android": 63,
+        "safari": 10,
+        "safari_ios": 10
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

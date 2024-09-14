@@ -1,0 +1,26 @@
+{
+  "title": "<option>",
+  "description": "The `<option>` HTML element defines an option that can be selected within a `<select>` element or a `<datalist>` element.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that represents an individual option within a `<select>` dropdown menu. It’s used to define choices available to the user, where they can select one or more options.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}
