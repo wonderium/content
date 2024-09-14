@@ -1,0 +1,26 @@
+{
+  "title": "<abbr>",
+  "description": "The `<abbr>` HTML element represents an abbreviation or acronym, providing a full explanation or expanded form when the user hovers over it or views it in assistive technologies.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used to represent an abbreviation or acronym. It often includes a `title` attribute that provides the full term when the user hovers over the abbreviation, improving accessibility and understanding.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 2,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

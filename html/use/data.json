@@ -1,0 +1,26 @@
+{
+  "title": "<use>",
+  "description": "The `<use>` HTML element allows the reuse of SVG elements defined elsewhere in the document, promoting efficiency and consistency in graphics.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used within `<svg>` to reference and reuse elements defined in `<symbol>`. This helps optimize performance by reducing duplicate code and enabling scalable vector graphics.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1.5,
+        "firefox_android": 4,
+        "safari": 3,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "<html>",
+  "description": "The `<html>` HTML element is the foundational container for all content in an HTML document, providing structure and context for web browsers to display information to users.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The root element of an HTML document that wraps all other elements on the page. It defines the beginning and end of the HTML content, with the opening `<html>` tag usually including the `lang` attribute to specify the document's language.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

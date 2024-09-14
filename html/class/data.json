@@ -1,0 +1,26 @@
+{
+  "title": "[class]",
+  "description": "The `class` HTML attribute is used to assign class names to an element, allowing it to be styled using CSS.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that assigns one or more class names to an element. These class names can be used in CSS or JavaScript to apply specific styles or behaviors to the element or group of elements that share the same class.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

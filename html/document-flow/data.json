@@ -1,0 +1,9 @@
+{
+  "title": "Document Flow",
+  "description": "The Document Flow in HTML describes the default arrangement of elements on a webpage before any CSS styling is applied.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The natural order in which elements are displayed on a webpage, typically from top to bottom and left to right. Understanding document flow is important for controlling the layout and positioning of elements using CSS.",
+  "extensions": {}
+}

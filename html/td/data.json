@@ -1,0 +1,26 @@
+{
+  "title": "<td>",
+  "description": "The `<td>` HTML element represents a data cell within a table row.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that represents a cell in a table that contains data. It’s used within `<tr>` to display content like text, images or other elements in a tabular format.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

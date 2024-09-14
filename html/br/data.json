@@ -1,0 +1,26 @@
+{
+  "title": "<br>",
+  "description": "The `<br>` HTML element is used to insert a line break within text.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that inserts a line break, forcing the content that follows it to start on a new line. It’s useful for separating lines of text or controlling the layout of content without adding extra spacing.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

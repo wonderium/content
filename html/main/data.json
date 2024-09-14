@@ -1,0 +1,26 @@
+{
+  "title": "<main>",
+  "description": "The `<main>` HTML element represents the main content of the `<body>` of a document or application.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that represents the main content of a webpage. It’s intended to contain the most important information on the page, helping screen readers and search engines differ the central content from other parts like headers or footers.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 26,
+        "chrome_android": 26,
+        "edge": 12,
+        "firefox": 21,
+        "firefox_android": 21,
+        "safari": 7,
+        "safari_ios": 7
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

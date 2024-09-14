@@ -1,0 +1,26 @@
+{
+  "title": "<embed>",
+  "description": "The `<embed>` HTML element embeds external applications or interactive content into documents, such as plugins, multimedia elements or third-party applications not natively rendered by browsers.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used to embed external content, such as videos, audio or interactive files, directly into a webpage. It allows for the integration of multimedia or other web resources using a specified `src` attribute.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

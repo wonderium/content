@@ -1,0 +1,26 @@
+{
+  "title": "<progress>",
+  "description": "The `<progress>` HTML element represents the visual indication of task or process progress.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that represents the completion progress of a task, such as file upload or download. It’s typically rendered as a progress bar, showing how much of the task has been completed.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 6,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 6,
+        "firefox_android": 6,
+        "safari": 6,
+        "safari_ios": 7
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

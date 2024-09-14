@@ -1,0 +1,26 @@
+{
+  "title": "<ul>",
+  "description": "The `<ul>` HTML element represents an unordered list, which typically renders as a bulleted list of items.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that creates an unordered list, where each item is marked with a bullet point. It’s used to list items where the order is not important.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

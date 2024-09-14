@@ -1,0 +1,9 @@
+{
+  "title": "[itemtype]",
+  "description": "The `itemtype` HTML attribute specifies the type of an item in Microdata using a URL, enhancing semantic HTML for better content understanding by automated systems and applications, crucial for SEO.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that specifies the type of item being defined by Microdata. It provides a URL that describes the nature of the item, often pointing to a schema that outlines expected properties and values.",
+  "extensions": {}
+}

@@ -1,0 +1,26 @@
+{
+  "title": "<input>",
+  "description": "The `<input>` HTML element creates form controls for user data input, supporting various types like text fields, checkboxes, radio buttons and file uploads based on the `type` attribute specified.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used to create interactive controls for forms, allowing users to enter data. It supports various types, such as text fields, checkboxes, radio buttons and file uploads, making it a key element in form interactions.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

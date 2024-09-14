@@ -1,0 +1,26 @@
+{
+  "title": "<data>",
+  "description": "The `<data>` HTML element provides a machine-readable translation of its contents, typically representing a value that can be used programmatically.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that associates a machine-readable value with a piece of content. It’s often used for annotations or to store metadata that can be accessed by scripts or other tools, without affecting the content's presentation.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 62,
+        "chrome_android": 62,
+        "edge": 18,
+        "firefox": 22,
+        "firefox_android": 22,
+        "safari": 10,
+        "safari_ios": 10
+      },
+      "latest_release_date": {
+        "year": 2018,
+        "month": 10,
+        "day": 2
+      }
+    }
+  }
+}

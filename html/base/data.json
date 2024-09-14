@@ -1,0 +1,26 @@
+{
+  "title": "<base>",
+  "description": "The `<base>` HTML element specifies the base URL and default browsing context for relative URLs in a document, affecting elements like `<a>`, `<link>` and `<img>`.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that sets the base URL for all relative URLs in a document. It’s placed inside the `<head>` and ensures that links, images and other resources use the specified base path if their URLs are relative.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 3,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

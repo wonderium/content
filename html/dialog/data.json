@@ -1,0 +1,26 @@
+{
+  "title": "<dialog>",
+  "description": "The `<dialog>` HTML element creates modal windows for alerts, notifications or custom forms that require user interaction.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that creates a dialog box or modal window on a webpage. It can be used for alerts, forms or interactive messages that require user interaction before proceeding.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 37,
+        "chrome_android": 37,
+        "edge": 79,
+        "firefox": 98,
+        "firefox_android": 98,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2022,
+        "month": 3,
+        "day": 14
+      }
+    }
+  }
+}

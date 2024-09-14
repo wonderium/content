@@ -1,0 +1,27 @@
+{
+  "title": "[accesskey]",
+  "description": "The `accesskey` HTML attribute assigns a keyboard shortcut to an element, allowing users to activate or focus on it using a specific key combination.",
+  
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that assigns a keyboard shortcut to an element. This allows users to quickly navigate to the element by pressing the specified key or key combination, enhancing accessibility and usability.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

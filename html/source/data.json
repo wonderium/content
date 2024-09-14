@@ -1,0 +1,26 @@
+{
+  "title": "<source>",
+  "description": "The `<source>` HTML element specifies multiple media resources for an `<audio>`, `<video>` or `<picture>` element. It allows the browser to choose the most appropriate media source based on factors like media type and codec support.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used within `<picture>`, `<audio>` or `<video>` elements to specify multiple media sources. It allows the browser to choose the best available source based on the user’s device or preferences.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 3,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

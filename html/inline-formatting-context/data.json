@@ -1,0 +1,9 @@
+{
+  "title": "Inline Formatting Context",
+  "description": "The Inline Formatting Context in HTML dictates how inline elements align horizontally and wrap text within lines.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The concept that explains how inline-level elements, like text or links, are arranged horizontally within a line. These elements sit next to each other, and if there's not enough space, the content wraps to the next line. Inline elements don't start on a new line and fit within the flow of surrounding text.",
+  "extensions": {}
+}

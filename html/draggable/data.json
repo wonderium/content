@@ -1,0 +1,26 @@
+{
+  "title": "[draggable]",
+  "description": "The `draggable` HTML attribute determines if an element can be dragged by the user, enabling interactive drag-and-drop functionality for elements like images or text within web applications.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that allows an element to be dragged and dropped using the mouse. When set to 'true', the element becomes draggable, enabling users to move it within the webpage or between different areas.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 4,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 2,
+        "firefox_android": 4,
+        "safari": 5,
+        "safari_ios": 4.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

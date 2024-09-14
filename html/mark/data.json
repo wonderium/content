@@ -1,0 +1,26 @@
+{
+  "title": "<mark>",
+  "description": "The `<mark>` HTML element represents text highlighted or marked for reference or emphasis, typically rendered with a yellow background by browsers.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that highlights text, typically to indicate relevance or importance. The text inside `<mark>` is often displayed with a yellow background, making it stand out from the rest of the content.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 7,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 4,
+        "firefox_android": 4,
+        "safari": 5.1,
+        "safari_ios": 5
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

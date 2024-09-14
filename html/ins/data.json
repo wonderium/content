@@ -1,0 +1,26 @@
+{
+  "title": "<ins>",
+  "description": "The `<ins>` HTML element represents inserted or added text within a document.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that represents content that has been added to a document. It’s typically rendered with an underline and can be used in combination with `<del>` to show changes made to a document.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "<article>",
+  "description": "The `<article>` HTML element represents an independent piece of content that can be independently distributed or reused, such as a blog post or news article.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that represents a self-contained piece of content, such as a blog post, news article or forum entry. It’s designed to be independently distributable or reusable and often includes related elements like headings, paragraphs and media.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 5,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 4,
+        "firefox_android": 4,
+        "safari": 5,
+        "safari_ios": 4.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

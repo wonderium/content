@@ -1,0 +1,26 @@
+{
+  "title": "[id]",
+  "description": "The `id` HTML attribute specifies a unique identifier for an element.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute used to assign a unique identifier to an element. The `id` must be unique within the document and is often used for targeting elements with CSS, JavaScript or to create anchor links.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 32,
+        "firefox_android": 32,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

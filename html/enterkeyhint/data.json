@@ -1,0 +1,26 @@
+{
+  "title": "[enterkeyhint]",
+  "description": "The `enterkeyhint` HTML attribute suggests what action should be taken when the user presses Enter within an editable element or form control, aligning keyboard interactions with expected user behavior for improved usability.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that provides a hint about the action that will be taken when the user presses the Enter key. It’s often used on input elements to suggest the expected behavior, such as 'send', 'search' or 'done'.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 77,
+        "chrome_android": 77,
+        "edge": 79,
+        "firefox": 94,
+        "firefox_android": 94,
+        "safari": 13.1,
+        "safari_ios": 13.4
+      },
+      "latest_release_date": {
+        "year": 2021,
+        "month": 11,
+        "day": 2
+      }
+    }
+  }
+}

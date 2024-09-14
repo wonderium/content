@@ -1,0 +1,26 @@
+{
+  "title": "<blockquote>",
+  "description": "The `<blockquote>` HTML element represents a block of text quoted from another source.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used to represent a section of text that is quoted from another source. It typically displays the quoted text as indented from the main content and can include a `cite` attribute to reference the source.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

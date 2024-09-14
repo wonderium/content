@@ -1,0 +1,26 @@
+{
+  "title": "<audio>",
+  "description": "The `<audio>` HTML element embeds sound content into documents.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used to embed sound content, such as music or voice recordings, into a web page. It supports various formats like MP3 and OGG and provides controls for playing, pausing and adjusting the volume.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 3,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 3
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

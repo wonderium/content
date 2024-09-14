@@ -1,0 +1,26 @@
+{
+  "title": "<code>",
+  "description": "The `<code>` HTML element represents a fragment of computer code.",
+  "categories": [
+    "tag"
+  ],
+  "content": "The element that is used to display a fragment of computer code or other text that should be presented in a monospaced font. It’s often used within technical documentation, tutorials or any context where code needs to be highlighted or shown differently from regular text.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}
