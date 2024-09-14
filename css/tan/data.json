@@ -1,0 +1,26 @@
+{
+  "title": "tan()",
+  "description": "The `tan()` CSS math function returns the tangent of a number, in radians.",
+  "categories": [
+    "function"
+  ],
+  "content": "The math function that returns the tangent of an angle, used within `calc()` for trigonometric calculations. It can be useful for advanced geometrical layouts or animations that require precise angle-based transformations.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 111,
+        "chrome_android": 111,
+        "edge": 111,
+        "firefox": 108,
+        "firefox_android": 108,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 3,
+        "day": 13
+      }
+    }
+  }
+}

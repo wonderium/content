@@ -1,0 +1,26 @@
+{
+  "title": "::marker",
+  "description": "The `::marker` CSS pseudo-element styles the marker of list items, such as bullets or numbers.",
+  "categories": [
+    "pseudo-element"
+  ],
+  "content": "The pseudo-element that targets the marker box of list items, such as bullets or numbers. It allows to style these markers separately from the list item’s content, including changing their size, color or font.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 86,
+        "chrome_android": 86,
+        "edge": 86,
+        "firefox": 68,
+        "firefox_android": 68,
+        "safari": 11.1,
+        "safari_ios": 11.3
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 10,
+        "day": 20
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": ":only-child",
+  "description": "The `:only-child` CSS pseudo-class selects an element that is the only child of its parent element, without any siblings.",
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that selects an element that is the only child of its parent. It targets elements that have no siblings, allowing to style such elements uniquely when they are the sole child of their container.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 2,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1.5,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

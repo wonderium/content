@@ -1,0 +1,26 @@
+{
+  "title": "font-variant-numeric",
+  "description": "The `font-variant-numeric` CSS property controls the usage of alternate glyphs for numbers, fractions and ordinal markers.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that adjusts the styling of numeric characters, such as using old-style figures, lining figures or fractions. It helps to match the numeric styling to the overall design of the text, improving consistency and readability in typography.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 52,
+        "chrome_android": 52,
+        "edge": 79,
+        "firefox": 34,
+        "firefox_android": 34,
+        "safari": 9.1,
+        "safari_ios": 9.3
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

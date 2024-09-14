@@ -1,0 +1,26 @@
+{
+  "title": ":out-of-range",
+  "description": "The `:out-of-range` CSS pseudo-class applies to form elements, such as input fields, that have a value outside a specified range.",
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that applies styles to form input elements when their value is outside of a defined range. For example, it can be used to style inputs with values that are too high or too low, helping to indicate invalid input conditions.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 10,
+        "chrome_android": 18,
+        "edge": 13,
+        "firefox": 29,
+        "firefox_android": 16,
+        "safari": 5.1,
+        "safari_ios": 5
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 11,
+        "day": 12
+      }
+    }
+  }
+}

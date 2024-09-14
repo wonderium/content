@@ -1,0 +1,26 @@
+{
+  "title": "grid-column-start",
+  "description": "The `grid-column-start` CSS property specifies a grid item's starting position within the grid columns.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that defines the starting point for a grid item within the columns of a grid layout. It marks where the item begins on the grid, allowing to place it at a specific column line or span multiple columns.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 57,
+        "chrome_android": 57,
+        "edge": 16,
+        "firefox": 52,
+        "firefox_android": 52,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 10,
+        "day": 17
+      }
+    }
+  }
+}

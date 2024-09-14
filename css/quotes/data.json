@@ -1,0 +1,26 @@
+{
+  "title": "quotes",
+  "description": "The `quotes` CSS property sets the type of quotation marks for quotations embedded in text.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that defines the quotation marks used in text when the `<q>` element is used. It allows to specify the opening and closing quotation marks for different languages or styles, ensuring the correct symbols are displayed when quoting text.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 11,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1.5,
+        "firefox_android": 4,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

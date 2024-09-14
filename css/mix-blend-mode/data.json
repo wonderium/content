@@ -1,0 +1,26 @@
+{
+  "title": "mix-blend-mode",
+  "description": "The `mix-blend-mode` CSS property defines how an element's content blends with its background or other elements' content.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that specifies how an element’s content should blend with the content behind it. It defines how colors and textures combine, using modes like 'multiply', 'screen' or 'overlay', to create various visual effects and layers.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 41,
+        "chrome_android": 41,
+        "edge": 79,
+        "firefox": 32,
+        "firefox_android": 32,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

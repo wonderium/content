@@ -1,0 +1,26 @@
+{
+  "title": "sin()",
+  "description": "The `sin()` CSS math function returns the sine of a number, in radians.",
+  "categories": [
+    "function"
+  ],
+  "content": "The math function that returns the sine of an angle, typically used within `calc()` to perform trigonometric calculations. This function can help create advanced geometrical effects or animations based on sinusoidal wave patterns.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 111,
+        "chrome_android": 111,
+        "edge": 111,
+        "firefox": 108,
+        "firefox_android": 108,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 3,
+        "day": 13
+      }
+    }
+  }
+}

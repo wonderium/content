@@ -1,0 +1,26 @@
+{
+  "title": "grid-template-rows",
+  "description": "The `grid-template-rows` CSS property defines the row structure of a grid container.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that defines the height of each row in a grid layout. Similar to `grid-template-columns`, it allows specifying exact sizes or flexible units, helping manage the vertical layout of the grid with precision.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 57,
+        "chrome_android": 57,
+        "edge": 16,
+        "firefox": 52,
+        "firefox_android": 52,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 10,
+        "day": 17
+      }
+    }
+  }
+}

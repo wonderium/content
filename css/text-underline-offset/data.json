@@ -1,0 +1,26 @@
+{
+  "title": "text-underline-offset",
+  "description": "The `text-underline-offset` CSS property sets the distance between the text decoration underline and its original position.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that adjusts the distance between the text and its underline. This allows for fine-tuning the position of the underline, making it closer to or further from the text, which can be important for achieving specific visual effects or improving readability.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 87,
+        "chrome_android": 87,
+        "edge": 87,
+        "firefox": 70,
+        "firefox_android": 79,
+        "safari": 12.1,
+        "safari_ios": 12.2
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 11,
+        "day": 19
+      }
+    }
+  }
+}

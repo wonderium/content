@@ -1,0 +1,26 @@
+{
+  "title": ":checked",
+  "description": "The `:checked` CSS pseudo-class applies to radio buttons and checkboxes that are checked by the user.",
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that applies styles to elements like checkboxes or radio buttons when they are selected. It’s used to create visual feedback, such as highlighting or changing the appearance of checked form controls.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

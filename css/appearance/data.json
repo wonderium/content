@@ -1,0 +1,26 @@
+{
+  "title": "appearance",
+  "description": "The `appearance` CSS property controls the visual styling of an element's UI controls, such as checkboxes and radio buttons, to match the platform's native appearance or a custom design.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that controls the styling of an element's appearance based on the platform's native UI. It can be used to remove default styles for things like buttons or input fields, making them look consistent across different browsers and devices.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 84,
+        "chrome_android": 84,
+        "edge": 84,
+        "firefox": 80,
+        "firefox_android": 80,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2022,
+        "month": 3,
+        "day": 14
+      }
+    }
+  }
+}

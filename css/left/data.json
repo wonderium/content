@@ -1,0 +1,26 @@
+{
+  "title": "left",
+  "description": "The `left` CSS property specifies the horizontal offset of a positioned element from the left edge of its containing block.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the distance between the left edge of an element and the left edge of its containing block. It's used with the `position` property set to 'absolute' or 'fixed' to control horizontal placement relative to the nearest ancestor or viewport, while with 'relative' it shifts the element from its original position.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

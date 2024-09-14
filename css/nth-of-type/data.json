@@ -1,0 +1,26 @@
+{
+  "title": ":nth-of-type(n)",
+  "description": "The `:nth-of-type(n)` CSS pseudo-class selects elements of a specific type based on their position among siblings.",
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that selects elements based on their position among siblings of the same type. It applies styles to elements that match the specified pattern, such as every second ('2n') `<p>` tag, allowing for precise control over elements of a certain type within their parent.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Vendor Prefixes",
+  "description": "The Vendor Prefixes in CSS are added before property names and are used to ensure compatibility with different browsers.",
+  "categories": [
+    "syntax"
+  ],
+  "content": "The special prefixes added to CSS properties by browser vendors to support experimental or non-standard features. Examples include `-webkit-`, `-moz-`, `-ms-` and `-o-`. They are used to ensure compatibility with different browsers until features become standard.",
+  "extensions": {}
+}

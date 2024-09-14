@@ -1,0 +1,26 @@
+{
+  "title": "column-span",
+  "description": "The `column-span` CSS property allows an element to span across all columns in a multi-column layout.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that allows an element to span across multiple columns in a multi-column layout. It’s often used for headings or large images that need to stretch across the entire width of the layout, overriding the column structure.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 50,
+        "chrome_android": 50,
+        "edge": 12,
+        "firefox": 71,
+        "firefox_android": 79,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 7,
+        "day": 28
+      }
+    }
+  }
+}

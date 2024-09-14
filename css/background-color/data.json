@@ -1,0 +1,26 @@
+{
+  "title": "background-color",
+  "description": "The `background-color` CSS property sets the color of an element's background.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the background color of an element. It fills the entire area of the element with the specified color, which can be solid or semi-transparent.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

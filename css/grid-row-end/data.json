@@ -1,0 +1,26 @@
+{
+  "title": "grid-row-end",
+  "description": "The `grid-row-end` CSS property specifies a grid item's ending position within the grid rows.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that defines the ending point for a grid item within the rows of a grid layout. Similar to `grid-column-end`, it determines where the item stops on the grid, based on line numbers, spans or the keyword 'auto'.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 57,
+        "chrome_android": 57,
+        "edge": 16,
+        "firefox": 52,
+        "firefox_android": 52,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 10,
+        "day": 17
+      }
+    }
+  }
+}

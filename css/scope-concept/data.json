@@ -1,0 +1,9 @@
+{
+  "title": "Scope",
+  "description": "The Scope in CSS defines the range of elements to which a particular style rule applies.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The area or context in which certain styles or variables are applied. Scoped styles affect only the elements within the defined boundaries, allowing for more targeted and controlled styling, reducing the risk of unintended side effects.",
+  "extensions": {}
+}

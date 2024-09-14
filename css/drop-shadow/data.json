@@ -1,0 +1,26 @@
+{
+  "title": "drop-shadow()",
+  "description": "The `drop-shadow()` CSS function applies a drop shadow effect to an element's content or to a specified image.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function used as a value for the `filter` property to add a shadow effect around an element. Unlike `box-shadow`, it applies a shadow that follows the shape of the content, making it ideal for images with transparent areas or complex shapes.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 18,
+        "chrome_android": 53,
+        "edge": 12,
+        "firefox": 35,
+        "firefox_android": 35,
+        "safari": 6,
+        "safari_ios": 6
+      },
+      "latest_release_date": {
+        "year": 2016,
+        "month": 9,
+        "day": 7
+      }
+    }
+  }
+}

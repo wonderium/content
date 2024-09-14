@@ -1,0 +1,26 @@
+{
+  "title": "rotateZ()",
+  "description": "The `rotateZ()` CSS function rotates an element around the Z-axis.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function that applies a 2D or 3D rotation to an element around the Z-axis, which is perpendicular to the screen. This is similar to the regular 'rotate()' function and makes the element appear to spin or rotate clockwise or counterclockwise within the plane of the screen.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 12,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 10,
+        "firefox_android": 10,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

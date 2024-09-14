@@ -1,0 +1,26 @@
+{
+  "title": "text-rendering",
+  "description": "The `text-rendering` CSS property provides information to the rendering engine about what to optimize for when rendering text.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that provides hints to the browser about how to optimize the rendering of text. It can prioritize speed, legibility or geometric precision, allowing developers to fine-tune text appearance depending on the needs of the design and content.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 4,
+        "chrome_android": 18,
+        "edge": 79,
+        "firefox": 1,
+        "firefox_android": 46,
+        "safari": 5,
+        "safari_ios": 4.2
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

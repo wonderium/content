@@ -1,0 +1,26 @@
+{
+  "title": "counter()",
+  "description": "The `counter()` CSS function retrieves the current value of a counter and inserts it into the `content` property.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function used as a value for the `content` property to display a counter value. It's often used in ordered lists or custom counters, allowing for automatic numbering of items based on their position in the document.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 3,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

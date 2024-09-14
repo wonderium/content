@@ -1,0 +1,26 @@
+{
+  "title": "pow()",
+  "description": "The `pow()` CSS math function returns the base to the exponent power, that is, base raised to the power of exponent.",
+  "categories": [
+    "function"
+  ],
+  "content": "The math function used with the `calc()` function to raise a number to a specified power. It’s useful for performing complex calculations within stylesheets.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 120,
+        "chrome_android": 120,
+        "edge": 120,
+        "firefox": 118,
+        "firefox_android": 118,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 12,
+        "day": 7
+      }
+    }
+  }
+}

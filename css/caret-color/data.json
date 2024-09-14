@@ -1,0 +1,26 @@
+{
+  "title": "caret-color",
+  "description": "The `caret-color` CSS property sets the color of the text cursor (caret) in input fields, textareas or any element with editable content.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the color of the text input cursor (caret). It’s useful for customizing the appearance of form fields, especially when matching the cursor color to the overall theme or design.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 57,
+        "chrome_android": 57,
+        "edge": 79,
+        "firefox": 53,
+        "firefox_android": 53,
+        "safari": 11.1,
+        "safari_ios": 11.3
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "@font-face",
+  "description": "The `@font-face` CSS directive is used to define custom fonts to be used within a webpage, allowing web designers to specify a unique font.",
+  "categories": [
+    "directive"
+  ],
+  "content": "The directive that allows to define custom fonts to be used in the web pages. It specifies the font's file location, style, weight and other properties, enabling the use of fonts that aren’t installed on the user’s device.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

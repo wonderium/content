@@ -1,0 +1,26 @@
+{
+  "title": "transition-duration",
+  "description": "The `transition-duration` CSS property specifies the length of time that a transition effect takes to complete when a CSS property value changes.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the length of time a transition effect should take to complete. It defines how long it takes for the change from one style to another to occur, allowing for smooth and controlled visual transitions.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 26,
+        "chrome_android": 26,
+        "edge": 12,
+        "firefox": 16,
+        "firefox_android": 16,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "transform-box",
+  "description": "The `transform-box` CSS property defines the reference box used by the `transform` and `transform-origin` properties.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that defines the reference box used for the `transform` property. It determines how transformations like scaling and rotating are applied in relation to the element's bounding box, content box or padding box.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 64,
+        "chrome_android": 64,
+        "edge": 79,
+        "firefox": 55,
+        "firefox_android": 55,
+        "safari": 11,
+        "safari_ios": 11
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

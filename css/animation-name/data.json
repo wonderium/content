@@ -1,0 +1,26 @@
+{
+  "title": "animation-name",
+  "description": "The `animation-name` CSS property specifies the name of the keyframe animation that should be applied to an element.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that specifies the name of the animation defined by `@keyframes`. It associates the keyframes with the element, indicating to the browser which animation to apply based on the sequence of styles.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 43,
+        "chrome_android": 43,
+        "edge": 12,
+        "firefox": 16,
+        "firefox_android": 16,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

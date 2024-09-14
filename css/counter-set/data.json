@@ -1,0 +1,26 @@
+{
+  "title": "counter-set",
+  "description": "The `counter-set` CSS property sets a counter to a specific value.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that directly sets the value of a counter to a specific number, overriding any previous value. This provides precise control over the counter’s value, useful for custom numbering or complex layouts.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 85,
+        "chrome_android": 85,
+        "edge": 85,
+        "firefox": 68,
+        "firefox_android": 68,
+        "safari": 17.2,
+        "safari_ios": 17.2
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 12,
+        "day": 11
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "place-self",
+  "description": "The `place-self` CSS property is a shorthand for setting the individual alignment of an item along both the block and inline axes within its grid or flex container.",
+  "categories": [
+    "property"
+  ],
+  "content": "The shorthand property that combines `align-self` and `justify-self` properties to control the alignment of a single grid or flex item within its container. It allows to override the container's alignment settings for a specific item, positioning it precisely within its cell.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 59,
+        "chrome_android": 59,
+        "edge": 79,
+        "firefox": 45,
+        "firefox_android": 45,
+        "safari": 11,
+        "safari_ios": 11
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

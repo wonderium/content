@@ -1,0 +1,26 @@
+{
+  "title": "Grouping Selector",
+  "description": "The Grouping CSS selector allows to apply the same styles to multiple elements by listing selectors separated by commas.",
+  "categories": [
+    "selector"
+  ],
+  "content": "The selector that allows to apply the same styles to multiple elements by separating their selectors with a ',' symbol. It’s useful for reducing repetition in the stylesheets, allowing the grouping of related elements together in one rule.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

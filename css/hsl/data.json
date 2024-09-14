@@ -1,0 +1,26 @@
+{
+  "title": "hsl()",
+  "description": "The `hsl()` CSS function specifies a color using hue, saturation and lightness values (HSL model).",
+  "categories": [
+    "function"
+  ],
+  "content": "The function that defines colors using the HSL (Hue, Saturation, Lightness) model. Hue is the color type, saturation is the intensity and lightness controls the brightness. It provides an intuitive way to adjust colors by manipulating these three components.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

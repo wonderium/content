@@ -1,0 +1,26 @@
+{
+  "title": "counters()",
+  "description": "The `counters()` CSS function retrieves the values of a counter with nested counters and inserts them into the content.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function that combines multiple counters into a single string, separated by a specified separator. It’s used with the `content` property to display hierarchical numbering, like 1.1, 1.2, etc., in nested lists or sections.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1.5,
+        "firefox_android": 4,
+        "safari": 3,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

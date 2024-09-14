@@ -1,0 +1,26 @@
+{
+  "title": "oklab()",
+  "description": "The `oklab()` CSS function specifies a color using the Oklab color space, specifying lightness, 'a' and 'b' components for more accurate color representation.",
+  "categories": [
+    "function"
+  ],
+  "content": "The color function that defines a color in the Oklab color space, which is designed to be perceptually uniform. This function is useful for creating colors that look consistent across different devices and lighting conditions. It provides more natural color adjustments compared to traditional color spaces.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 111,
+        "chrome_android": 111,
+        "edge": 111,
+        "firefox": 113,
+        "firefox_android": 113,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 5,
+        "day": 9
+      }
+    }
+  }
+}

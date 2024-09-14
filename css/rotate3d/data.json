@@ -1,0 +1,26 @@
+{
+  "title": "rotate3d()",
+  "description": "The `rotate3d()` CSS function rotates an element around an arbitrary axis in 3D space.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function that applies a 3D rotation to an element along an arbitrary axis defined by the X, Y and Z coordinates. This enables more complex and precise 3D transformations, offering control over the exact direction and angle of rotation in 3D space.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 12,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 10,
+        "firefox_android": 10,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

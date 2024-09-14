@@ -1,0 +1,26 @@
+{
+  "title": "transparent",
+  "description": "The `transparent` CSS keyword represents a fully transparent color.",
+  "categories": [
+    "keyword"
+  ],
+  "content": "The keyword that sets an element's color to fully transparent, making it invisible while maintaining its layout space. it's useful for removing background colors or borders without affecting the layout. This keyword ensures that elements blend seamlessly with their underlying content.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": ":last-child",
+  "description": "The `:last-child` CSS pseudo-class selects an element that is the last child of its parent element.",
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that targets the last child element of its parent. It applies styles to this element specifically, allowing to differentiate the appearance or layout of the last item in a group.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

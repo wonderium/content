@@ -1,0 +1,26 @@
+{
+  "title": "border-radius",
+  "description": "The `border-radius` CSS property defines the radius of an element's corners.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that rounds the corners of an element's border. The roundness for each corner can be controlled individually or the same radius can be applied to all corners, making the element appear less sharp and more smooth.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 4,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 4,
+        "firefox_android": 4,
+        "safari": 5,
+        "safari_ios": 4.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

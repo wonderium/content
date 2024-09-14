@@ -1,0 +1,26 @@
+{
+  "title": ":link",
+  "description": "The `:link` CSS pseudo-class selects links that have not been visited by the user, applying styles to anchor elements with an `href` attribute.",
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that targets links (usually `<a>` elements) that have not yet been visited. It allows to style these links differently from visited links, often used to set the initial color or underline style of hyperlinks before they are clicked.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

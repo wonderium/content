@@ -1,0 +1,26 @@
+{
+  "title": "font-variant-position",
+  "description": "The `font-variant-position` CSS property controls the usage of alternate glyphs for subscript and superscript.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that controls the positioning of text, specifically subscripts or superscripts. It enables to format text for mathematical notations, chemical formulas or footnotes, ensuring that text is correctly aligned.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 117,
+        "chrome_android": 117,
+        "edge": 117,
+        "firefox": 34,
+        "firefox_android": 34,
+        "safari": 9.1,
+        "safari_ios": 9.3
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 9,
+        "day": 15
+      }
+    }
+  }
+}

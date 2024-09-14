@@ -1,0 +1,26 @@
+{
+  "title": "font-feature-settings",
+  "description": "The `font-feature-settings` CSS property allows control over advanced typographic features in OpenType fonts.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that provides low-level control over OpenType font features, such as ligatures, small caps or stylistic alternates. It allows to fine-tune how text is displayed by enabling or disabling specific font features, often enhancing typographic quality.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 48,
+        "chrome_android": 48,
+        "edge": 15,
+        "firefox": 34,
+        "firefox_android": 34,
+        "safari": 9.1,
+        "safari_ios": 9.3
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 4,
+        "day": 5
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "::placeholder",
+  "description": "The `::placeholder` CSS pseudo-element styles the placeholder text in input fields and textareas.",
+  "categories": [
+    "pseudo-element"
+  ],
+  "content": "The pseudo-element used to style the placeholder text within an input or textarea element. It allows to change the appearance of the placeholder, such as its color, font or opacity, without affecting the input text itself.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 57,
+        "chrome_android": 57,
+        "edge": 79,
+        "firefox": 51,
+        "firefox_android": 51,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

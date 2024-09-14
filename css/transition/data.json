@@ -1,0 +1,26 @@
+{
+  "title": "transition",
+  "description": "The `transition` CSS property is a shorthand for setting the transition effects applied when a CSS property value changes.",
+  "categories": [
+    "property"
+  ],
+  "content": "The shorthand property that defines the transition effects for CSS properties. It combines properties like `transition-property`, `transition-duration`, `transition-timing-function` and `transition-delay`, allowing smooth changes between styles over a specified period.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 26,
+        "chrome_android": 26,
+        "edge": 12,
+        "firefox": 16,
+        "firefox_android": 16,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

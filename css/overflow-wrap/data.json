@@ -1,0 +1,26 @@
+{
+  "title": "overflow-wrap",
+  "description": "The `overflow-wrap` CSS property applies to inline elements and specifies that the browser can break the line inside the element to prevent overflow.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that controls how words should break when they are too long to fit within their container. It ensures that long words or URLs break onto a new line if necessary, preventing overflow and improving readability within the layout.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 23,
+        "chrome_android": 25,
+        "edge": 18,
+        "firefox": 49,
+        "firefox_android": 49,
+        "safari": 7,
+        "safari_ios": 7
+      },
+      "latest_release_date": {
+        "year": 2018,
+        "month": 10,
+        "day": 2
+      }
+    }
+  }
+}

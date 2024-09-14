@@ -1,0 +1,26 @@
+{
+  "title": "float",
+  "description": "The `float` CSS property is used to place an element to the left or right within its container, allowing other elements to wrap around it.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that causes an element to be positioned to the left or right of its container, allowing text and inline elements to wrap around it. It’s often used to create simple layouts, like wrapping text around an image, but is less common in modern layouts due to flexbox and grid.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

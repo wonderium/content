@@ -1,0 +1,26 @@
+{
+  "title": "hwb()",
+  "description": "The `hwb()` CSS function specifies a color using hue, whiteness and blackness values (HWB model).",
+  "categories": [
+    "function"
+  ],
+  "content": "The function that defines colors using the HWB (Hue, Whiteness, Blackness) model. It’s similar to HSL, but instead of saturation and lightness, it uses whiteness and blackness to adjust the color, making it easy to mix shades and tones.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 101,
+        "chrome_android": 101,
+        "edge": 101,
+        "firefox": 96,
+        "firefox_android": 96,
+        "safari": 15,
+        "safari_ios": 15
+      },
+      "latest_release_date": {
+        "year": 2022,
+        "month": 4,
+        "day": 28
+      }
+    }
+  }
+}

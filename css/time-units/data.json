@@ -1,0 +1,26 @@
+{
+  "title": "Time Units",
+  "description": "The Time CSS units, such as 's' and 'ms', define the duration of animations and transitions.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The units that measure time for animations and transitions. Common time units include 's' and 'ms', allowing precise control over the duration and timing of effects. These units define how long animations or transitions should run or wait before starting.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 4,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

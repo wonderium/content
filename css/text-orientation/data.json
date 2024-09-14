@@ -1,0 +1,26 @@
+{
+  "title": "text-orientation",
+  "description": "The `text-orientation` CSS property defines the orientation of the text in a block, such as 'mixed', 'upright' or 'sideways'.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that controls the orientation of text within a line, especially useful in vertical writing modes. It determines whether characters are laid out in their natural orientation or rotated, playing a key role in languages that use vertical text, like Chinese or Japanese.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 48,
+        "chrome_android": 48,
+        "edge": 79,
+        "firefox": 41,
+        "firefox_android": 41,
+        "safari": 14,
+        "safari_ios": 14
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 9,
+        "day": 16
+      }
+    }
+  }
+}

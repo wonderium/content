@@ -1,0 +1,26 @@
+{
+  "title": "text-decoration-line",
+  "description": "The `text-decoration-line` CSS property sets the type of line decoration applied to text, such as 'underline', 'overline' or 'line-through'.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that defines what type of line decoration will be applied to text, such as 'underline', 'overline' or 'line-through'. It allows for combining multiple lines, such as underlining and striking through, to create different text decoration effects.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 57,
+        "chrome_android": 57,
+        "edge": 79,
+        "firefox": 36,
+        "firefox_android": 36,
+        "safari": 12.1,
+        "safari_ios": 12.2
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

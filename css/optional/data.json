@@ -1,0 +1,26 @@
+{
+  "title": ":optional",
+  "description": "The `:optional` CSS pseudo-class applies to form elements that don't have the `required` attribute set.",
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that selects form elements that are not required and can be left empty. It helps style optional form fields differently from required ones, making it easier to indicate which fields are necessary for submission.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 10,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 4,
+        "firefox_android": 4,
+        "safari": 5,
+        "safari_ios": 5
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

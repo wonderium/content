@@ -1,0 +1,26 @@
+{
+  "title": "Child Selector",
+  "description": "The Child CSS selector targets elements that are direct children of a specified parent element.",
+  "categories": [
+    "selector"
+  ],
+  "content": "The selector that targets an element that is a direct child of another element. It’s written using the '>' symbol and allows to apply styles only to the immediate children of a specific parent, offering more control over nested elements.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

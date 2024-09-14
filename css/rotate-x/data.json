@@ -1,0 +1,26 @@
+{
+  "title": "rotateX()",
+  "description": "The `rotateX()` CSS function rotates an element around the X-axis.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function that applies a 3D rotation to an element around the X-axis. This transformation tilts the element forward or backward, creating the illusion of depth as if the element is being rotated on a hinge running from left to right.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 12,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 10,
+        "firefox_android": 10,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

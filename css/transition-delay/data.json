@@ -1,0 +1,26 @@
+{
+  "title": "transition-delay",
+  "description": "The `transition-delay` CSS property specifies the delay before a transition effect starts when a CSS property value changes.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that specifies the time to wait before starting a transition effect. It’s useful for creating delays before animations or transitions begin, enhancing the timing and coordination of visual changes.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 26,
+        "chrome_android": 26,
+        "edge": 12,
+        "firefox": 16,
+        "firefox_android": 16,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

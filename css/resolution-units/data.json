@@ -1,0 +1,22 @@
+{
+  "title": "Resolution Units",
+  "description": "The Resolution CSS units, such as 'dpi', 'dpcm' and 'dppx', define the density of the display output.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The units that measure the resolution of a display or image, such as 'dpi', 'dpcm' and 'dppx'. These units are used in media queries and other properties to ensure designs look sharp and appropriate on various screens and devices.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 29,
+        "chrome_android": 29,
+        "edge": 12,
+        "firefox": 8,
+        "firefox_android": 8,
+        "safari": null,
+        "safari_ios": null
+      },
+      "latest_release_date": "Limited availability"
+    }
+  }
+}

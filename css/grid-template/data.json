@@ -1,0 +1,26 @@
+{
+  "title": "grid-template",
+  "description": "The `grid-template` CSS property is a shorthand for setting the `grid-template-rows`, `grid-template-columns` and `grid-template-areas` properties.",
+  "categories": [
+    "property"
+  ],
+  "content": "The shorthand property that defines the structure of the grid layout by combining `grid-template-rows`, `grid-template-columns` and `grid-template-areas` properties into a single declaration. It provides a concise way to create and organize the entire grid.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 57,
+        "chrome_android": 57,
+        "edge": 16,
+        "firefox": 52,
+        "firefox_android": 52,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 10,
+        "day": 17
+      }
+    }
+  }
+}

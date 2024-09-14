@@ -1,0 +1,26 @@
+{
+  "title": "justify-self",
+  "description": "The `justify-self` CSS property aligns an individual item inside a grid container along the inline axis.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that aligns a single grid item within its grid cell, overriding the `justify-items` property for that item. Control is provided over how an individual item is positioned horizontally within its space, independent of other items.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 57,
+        "chrome_android": 57,
+        "edge": 16,
+        "firefox": 45,
+        "firefox_android": 45,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 10,
+        "day": 17
+      }
+    }
+  }
+}

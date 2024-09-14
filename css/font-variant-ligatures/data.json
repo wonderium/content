@@ -1,0 +1,26 @@
+{
+  "title": "font-variant-ligatures",
+  "description": "The `font-variant-ligatures` CSS property controls the usage of ligatures and contextual forms.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that controls the use of ligatures, which are special character combinations, like fi or fl, that are replaced with a single glyph. It can enable or disable standard or discretionary ligatures, improving the flow and appearance of text.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 34,
+        "chrome_android": 34,
+        "edge": 79,
+        "firefox": 34,
+        "firefox_android": 34,
+        "safari": 9.1,
+        "safari_ios": 9.3
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

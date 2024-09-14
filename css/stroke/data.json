@@ -1,0 +1,26 @@
+{
+  "title": "stroke",
+  "description": "The `stroke` CSS property sets the color used to draw the outline of shapes created with SVG.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property used in SVG to define the color, width and other characteristics of the outline or border of a shape, text or path. It’s essential for controlling the appearance of lines and edges in vector graphics, allowing to adjust the thickness and style of strokes.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 80,
+        "chrome_android": 80,
+        "edge": 80,
+        "firefox": 72,
+        "firefox_android": 79,
+        "safari": 13.1,
+        "safari_ios": 13.4
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 7,
+        "day": 28
+      }
+    }
+  }
+}

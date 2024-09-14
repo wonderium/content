@@ -1,0 +1,26 @@
+{
+  "title": "font-synthesis",
+  "description": "The `font-synthesis` CSS property controls which missing font properties can be synthesized by the browser.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that controls whether the browser can simulate bold or italic styles if they aren’t available in the specified font. It can prevent the browser from artificially synthesizing these styles, ensuring text appears only as intended by the font design.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 97,
+        "chrome_android": 97,
+        "edge": 97,
+        "firefox": 34,
+        "firefox_android": 34,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2022,
+        "month": 1,
+        "day": 6
+      }
+    }
+  }
+}

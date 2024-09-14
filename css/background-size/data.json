@@ -1,0 +1,26 @@
+{
+  "title": "background-size",
+  "description": "The `background-size` CSS property specifies the size of the background images.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that specifies the size of the background image, allowing it to stretch, cover or contain the element. It gives flexibility in how the image fits within the element's boundaries.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 3,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 4,
+        "firefox_android": 4,
+        "safari": 5,
+        "safari_ios": 4.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

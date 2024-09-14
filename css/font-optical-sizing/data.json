@@ -1,0 +1,26 @@
+{
+  "title": "font-optical-sizing",
+  "description": "The `font-optical-sizing` CSS property enables or disables the usage of optical size variations in variable fonts.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that controls whether a font’s optical sizing feature is used. Optical sizing automatically adjusts the font’s design based on the size of the text, ensuring it remains legible and aesthetically pleasing at different sizes.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 79,
+        "chrome_android": 79,
+        "edge": 17,
+        "firefox": 62,
+        "firefox_android": 62,
+        "safari": 11,
+        "safari_ios": 11
+      },
+      "latest_release_date": {
+        "year": 2019,
+        "month": 12,
+        "day": 17
+      }
+    }
+  }
+}

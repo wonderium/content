@@ -1,0 +1,9 @@
+{
+  "title": "Cascade Principle",
+  "description": "The Cascade Principle in CSS determines how styles are applied to HTML elements.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The fundamental concept in CSS that determines which styles are applied to an element when multiple rules conflict. The cascade resolves conflicts based on the source order, specificity, importance and inheritance, ensuring that the most appropriate styles are applied.",
+  "extensions": {}
+}

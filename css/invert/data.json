@@ -1,0 +1,26 @@
+{
+  "title": "invert()",
+  "description": "The `invert()` CSS function inverts the colors of an element's content.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function used as a value for the `filter` property to invert the colors of an element. The value ranges from '0' (no effect) to '1' (full inversion), turning light colors dark and dark colors light, useful for creating negative images or high-contrast effects.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 18,
+        "chrome_android": 53,
+        "edge": 12,
+        "firefox": 35,
+        "firefox_android": 35,
+        "safari": 6,
+        "safari_ios": 6
+      },
+      "latest_release_date": {
+        "year": 2016,
+        "month": 9,
+        "day": 7
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "counter-increment",
+  "description": "The `counter-increment` CSS property increments a counter by a specified value.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that increases the value of a counter by a specified amount each time an element appears. It’s used in conjunction with the `content` property set to 'counter()' to create custom numbering, such as for lists or sections.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 2,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 25,
+        "safari": 3,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

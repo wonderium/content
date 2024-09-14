@@ -1,0 +1,26 @@
+{
+  "title": "align-self",
+  "description": "The `align-self` CSS property aligns the selected item inside the flex container along the cross axis, overriding the `align-items` value.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that allows an individual flex or grid item to override the alignment that is set by `align-items`. It gives more control to adjust the position of specific items within a container.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 29,
+        "chrome_android": 29,
+        "edge": 12,
+        "firefox": 20,
+        "firefox_android": 20,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

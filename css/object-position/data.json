@@ -1,0 +1,26 @@
+{
+  "title": "object-position",
+  "description": "The `object-position` CSS property defines the alignment of an element's content, such as images or videos, within its container when using `object-fit` property.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that defines the position of an element’s content within its container when `object-fit` property is used. It sets the alignment of the content, such as 'center', 'top', 'left' or specific coordinates (using pixels, percentages or other units), controlling how the content is positioned relative to its container.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 32,
+        "chrome_android": 32,
+        "edge": 79,
+        "firefox": 36,
+        "firefox_android": 36,
+        "safari": 10,
+        "safari_ios": 10
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

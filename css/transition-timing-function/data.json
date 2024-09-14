@@ -1,0 +1,26 @@
+{
+  "title": "transition-timing-function",
+  "description": "The `transition-timing-function` CSS property specifies the pace and rhythm of a transition effect.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that defines the speed curve of a transition, controlling how the transition progresses over time. Common values include 'linear', 'ease', 'ease-in', 'ease-out' and 'ease-in-out', which affect the acceleration and deceleration of the transition.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 26,
+        "chrome_android": 26,
+        "edge": 12,
+        "firefox": 16,
+        "firefox_android": 16,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

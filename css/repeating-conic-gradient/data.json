@@ -1,0 +1,26 @@
+{
+  "title": "repeating-conic-gradient()",
+  "description": "The `repeating-conic-gradient()` CSS function creates an image consisting of repeated conical gradients rotating around a central point.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function that creates a conic gradient that repeats itself in a circular pattern. It blends colors in a spiral or pie-slice pattern and can be repeated indefinitely, useful for creating intricate patterns and effects for backgrounds or other design elements.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 69,
+        "chrome_android": 69,
+        "edge": 79,
+        "firefox": 83,
+        "firefox_android": 83,
+        "safari": 12.1,
+        "safari_ios": 12.2
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 11,
+        "day": 17
+      }
+    }
+  }
+}

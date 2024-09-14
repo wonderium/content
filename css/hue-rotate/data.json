@@ -1,0 +1,26 @@
+{
+  "title": "hue-rotate()",
+  "description": "The `hue-rotate()` CSS function applies a hue rotation to an element's content.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function used as a value for the `filter` property to rotate the hues of an element’s colors around the color wheel. The value is given in degrees and it changes the overall color scheme by shifting the hues, useful for creating dynamic color effects.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 18,
+        "chrome_android": 53,
+        "edge": 12,
+        "firefox": 35,
+        "firefox_android": 35,
+        "safari": 6,
+        "safari_ios": 6
+      },
+      "latest_release_date": {
+        "year": 2016,
+        "month": 9,
+        "day": 7
+      }
+    }
+  }
+}

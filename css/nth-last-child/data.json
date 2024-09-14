@@ -1,0 +1,26 @@
+{
+  "title": ":nth-last-child(n)",
+  "description": "The `:nth-last-child(n)` CSS pseudo-class selects elements based on their position among sibling elements, counting from the last child to the first.",
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that selects elements based on their position from the end of their parent’s child list. It works similarly to `:nth-child(n)`, but counts from the last child to the first, enabling to target elements relative to the end of the list.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 4,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

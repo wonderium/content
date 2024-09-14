@@ -1,0 +1,26 @@
+{
+  "title": "image-rendering",
+  "description": "The `image-rendering` CSS property controls the scaling algorithm used to render images to maintain image quality.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that controls how images are scaled or displayed when their size is changed. It can improve the quality of images by preserving sharp edges ('crisp-edges`) or smoothing them out ('smooth'), especially when resizing.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 13,
+        "chrome_android": 18,
+        "edge": 79,
+        "firefox": 3.6,
+        "firefox_android": 4,
+        "safari": 6,
+        "safari_ios": 6
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

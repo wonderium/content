@@ -1,0 +1,26 @@
+{
+  "title": "scroll-padding",
+  "description": "The `scroll-padding` CSS property defines the padding area around an element when using smooth scrolling, ensuring that content is not obscured by fixed headers or footers.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the padding around the scrollable area within an element. It defines the space between the edge of the container and the content, ensuring that elements aren't too close to the scroll boundaries, improving readability and usability.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 69,
+        "chrome_android": 69,
+        "edge": 79,
+        "firefox": 68,
+        "firefox_android": 68,
+        "safari": 14.1,
+        "safari_ios": 14.5
+      },
+      "latest_release_date": {
+        "year": 2021,
+        "month": 4,
+        "day": 26
+      }
+    }
+  }
+}

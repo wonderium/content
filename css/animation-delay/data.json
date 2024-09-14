@@ -1,0 +1,26 @@
+{
+  "title": "animation-delay",
+  "description": "The `animation-delay` CSS property specifies the delay before an animation starts, allowing control over when the animation begins after it’s applied to an element.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that specifies how long to wait before starting the animation. It can be used to delay the start of an animation, making it begin a few seconds after the page loads or after an event occurs.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 43,
+        "chrome_android": 43,
+        "edge": 12,
+        "firefox": 16,
+        "firefox_android": 16,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

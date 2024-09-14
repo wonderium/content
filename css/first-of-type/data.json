@@ -1,0 +1,26 @@
+{
+  "title": ":first-of-type",
+  "description": "The `:first-of-type` CSS pseudo-class selects the first element of its type among siblings of the same parent element.", 
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that targets the first element of its type within a parent, such as the first paragraph or first image. It’s useful for styling the first occurrence of a specific element differently from others of the same type in a container.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

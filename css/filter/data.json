@@ -1,0 +1,26 @@
+{
+  "title": "filter",
+  "description": "The `filter` CSS property applies visual effects like blurring or color shifting to an element's rendering.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that applies graphical effects like blur, brightness, contrast or drop shadow to an element. It allows to modify the appearance of images, backgrounds and text, adding visual effects without needing to edit the original content.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 53,
+        "chrome_android": 53,
+        "edge": 12,
+        "firefox": 35,
+        "firefox_android": 35,
+        "safari": 9.1,
+        "safari_ios": 9.3
+      },
+      "latest_release_date": {
+        "year": 2016,
+        "month": 9,
+        "day": 7
+      }
+    }
+  }
+}

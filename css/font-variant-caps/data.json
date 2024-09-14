@@ -1,0 +1,26 @@
+{
+  "title": "font-variant-caps",
+  "description": "The `font-variant-caps` CSS property controls the usage of alternate glyphs for capital letters.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that transforms text into different capitalization styles, like small caps or all caps. It enables to adjust the appearance of text for different typographic effects, making it useful for headings, acronyms or emphasis.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 52,
+        "chrome_android": 52,
+        "edge": 79,
+        "firefox": 34,
+        "firefox_android": 34,
+        "safari": 9.1,
+        "safari_ios": 9.3
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

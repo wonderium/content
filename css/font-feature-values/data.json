@@ -1,0 +1,26 @@
+{
+  "title": "@font-feature-values",
+  "description": "The `@font-feature-values` CSS directive allows authors to control OpenType font features in a more specific way.",
+  "categories": [
+    "directive"
+  ],
+  "content": "The directive that allows to define custom names for font feature values, making them easier to use with the `font-feature-settings` property. This helps create more readable and maintainable code when working with complex font features.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 111,
+        "chrome_android": 111,
+        "edge": 111,
+        "firefox": 34,
+        "firefox_android": 34,
+        "safari": 9.1,
+        "safari_ios": 9.3
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 3,
+        "day": 13
+      }
+    }
+  }
+}

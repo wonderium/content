@@ -1,0 +1,26 @@
+{
+  "title": "::first-letter",
+  "description": "The `::first-letter` CSS pseudo-element styles the first letter of the first line of a block-level element.",
+  "categories": [
+    "pseudo-element"
+  ],
+  "content": "The pseudo-element that styles the first letter of a block-level element, like a paragraph. It’s commonly used to create drop caps or to highlight the first letter in a special way, adding a decorative or emphasis effect to text.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

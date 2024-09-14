@@ -1,0 +1,26 @@
+{
+  "title": "@page",
+  "description": "The `@page` CSS directive is used to define styles for specific pages when printing a document using CSS paged media.",
+  "categories": [
+    "directive"
+  ],
+  "content": "The directive used in print stylesheets to define specific styles for pages when printing a document. It allows to control the size, margins orientation and other properties of printed pages, ensuring the document prints as intended.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 2,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 19,
+        "firefox_android": 19,
+        "safari": 13.1,
+        "safari_ios": 13.4
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 3,
+        "day": 24
+      }
+    }
+  }
+}

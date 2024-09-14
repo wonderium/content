@@ -1,0 +1,10 @@
+{
+  "title": "Directive",
+  "description": "The Directive in CSS is an instruction, like `@import` or `@media`, that provides metadata or conditions for applying styles.",
+  "categories": [
+    "concept",
+    "syntax"
+  ],
+  "content": "The special instruction that starts with an '@' symbol and controls how styles are applied. Examples include `@import` for including other stylesheets and `@media` for applying styles based on conditions like screen size. These instructions help manage and organize CSS more effectively.",
+  "extensions": {}
+}

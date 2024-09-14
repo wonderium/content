@@ -1,0 +1,26 @@
+{
+  "title": "font-kerning",
+  "description": "The `font-kerning` CSS property controls the usage of the kerning information stored in a font.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that controls the use of kerning information in a font. Kerning adjusts the spacing between specific pairs of characters to improve the overall appearance and readability of text. The property can enable or disable this automatic adjustment.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 33,
+        "chrome_android": 33,
+        "edge": 79,
+        "firefox": 32,
+        "firefox_android": 32,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

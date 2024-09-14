@@ -1,0 +1,22 @@
+{
+  "title": "::selection",
+  "description": "The `::selection` CSS pseudo-element styles the portion of text that has been selected by the user with the mouse or keyboard.",
+  "categories": [
+    "pseudo-element"
+  ],
+  "content": "The pseudo-element that applies styles to the portion of text that a user has highlighted or selected with the mouse or keyboard. It allows customization of the background color, text color and other properties of selected text, making it stand out visually when highlighted.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 62,
+        "firefox_android": 62,
+        "safari": 1.1,
+        "safari_ios": null
+      },
+      "latest_release_date": "Limited availability"
+    }
+  }
+}

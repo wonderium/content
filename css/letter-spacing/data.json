@@ -1,0 +1,26 @@
+{
+  "title": "letter-spacing",
+  "description": "The `letter-spacing` CSS property is used to control the space between characters in a text element.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that controls the space between individual characters in a text. It can be used to increase or decrease the spacing, affecting the overall readability and appearance of text, often used for stylistic effects in headlines or to improve legibility.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

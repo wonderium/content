@@ -1,0 +1,26 @@
+{
+  "title": "::backdrop",
+  "description": "The `::backdrop` CSS pseudo-element styles the area behind an element that has been opened in fullscreen mode, such as a dialog or modal.",
+  "categories": [
+    "pseudo-element"
+  ],
+  "content": "The pseudo-element that represents the backdrop behind a modal or fullscreen element. It allows to style the background that appears behind the content, often used to create dimming or blurring effects.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 37,
+        "chrome_android": 37,
+        "edge": 79,
+        "firefox": 47,
+        "firefox_android": 47,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2022,
+        "month": 3,
+        "day": 14
+      }
+    }
+  }
+}

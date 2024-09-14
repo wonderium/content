@@ -1,0 +1,26 @@
+{
+  "title": "font-size-adjust",
+  "description": "The `font-size-adjust` CSS property allows text to remain legible when the font fallback occurs.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that fine-tunes the size of lowercase letters relative to uppercase letters, ensuring consistent text readability across different fonts. It compensates for variations in font design by adjusting the aspect ratio of the font’s size.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 127,
+        "chrome_android": 127,
+        "edge": 127,
+        "firefox": 3,
+        "firefox_android": 4,
+        "safari": 16.4,
+        "safari_ios": 16.4
+      },
+      "latest_release_date": {
+        "year": 2024,
+        "month": 7,
+        "day": 25
+      }
+    }
+  }
+}

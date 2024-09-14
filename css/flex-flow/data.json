@@ -1,0 +1,26 @@
+{
+  "title": "flex-flow",
+  "description": "The `flex-flow` CSS property is a shorthand for setting both the `flex-direction` and `flex-wrap` properties.",
+  "categories": [
+    "property"
+  ],
+  "content": "The shorthand property that combines `flex-direction` and `flex-wrap` properties into a single declaration. It controls both the direction in which flex items are laid out and whether they should wrap onto multiple lines if there's not enough space in the flex container.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 29,
+        "chrome_android": 29,
+        "edge": 12,
+        "firefox": 28,
+        "firefox_android": 28,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

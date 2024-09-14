@@ -1,0 +1,26 @@
+{
+  "title": "@counter-style",
+  "description": "The `@counter-style` CSS directive allows custom counter styles to be defined for use with list markers.",
+  "categories": [
+    "directive"
+  ],
+  "content": "The directive that defines custom counter styles, such as the appearance of list item markers. It allows to create unique bullet points, numbers or symbols for ordered and unordered lists, enhancing list presentation.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 91,
+        "chrome_android": 91,
+        "edge": 91,
+        "firefox": 33,
+        "firefox_android": 33,
+        "safari": 17,
+        "safari_ios": 17
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 9,
+        "day": 18
+      }
+    }
+  }
+}

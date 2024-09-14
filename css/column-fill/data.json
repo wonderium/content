@@ -1,0 +1,26 @@
+{
+  "title": "column-fill",
+  "description": "The `column-fill` CSS property controls how content is distributed between columns.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that controls how content is distributed across columns. It can either fill each column equally, creating balanced columns ('balance') or fill columns sequentially, leaving some columns taller than others ('auto').",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 50,
+        "chrome_android": 50,
+        "edge": 12,
+        "firefox": 52,
+        "firefox_android": 52,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 3,
+        "day": 7
+      }
+    }
+  }
+}

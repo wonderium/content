@@ -1,0 +1,26 @@
+{
+  "title": "transform-style",
+  "description": "The `transform-style` CSS property specifies how nested elements are rendered in 3D space.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that specifies how nested elements are rendered in 3D space. It can be set to 'flat' to flatten child elements or 'preserve-3d' to maintain their 3D positioning, affecting how transformations are applied to nested elements.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 36,
+        "chrome_android": 36,
+        "edge": 12,
+        "firefox": 16,
+        "firefox_android": 16,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

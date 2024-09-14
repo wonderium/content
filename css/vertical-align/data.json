@@ -1,0 +1,26 @@
+{
+  "title": "vertical-align",
+  "description": "The `vertical-align` CSS property specifies the vertical alignment of inline or table-cell content within a line box or table row.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that aligns inline-level elements or table cells vertically relative to their line box or containing element. It’s useful for adjusting the positioning of text or images within a line or cell, such as aligning text to the middle or top of a container.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

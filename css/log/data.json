@@ -1,0 +1,26 @@
+{
+  "title": "log()",
+  "description": "The `log()` CSS math function computes the natural logarithm of a number.",
+  "categories": [
+    "function"
+  ],
+  "content": "The math function used as a value for the `filter` property to apply logarithmic scaling to an element. It can be used to create effects that emphasize or de-emphasize certain parts of an image or visual element.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 120,
+        "chrome_android": 120,
+        "edge": 120,
+        "firefox": 118,
+        "firefox_android": 118,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 12,
+        "day": 7
+      }
+    }
+  }
+}

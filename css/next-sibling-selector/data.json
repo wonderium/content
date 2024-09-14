@@ -1,0 +1,26 @@
+{
+  "title": "Next Sibling Selector",
+  "description": "The Next Sibling CSS selector targets an element that is immediately preceded by a specified sibling element.",
+  "categories": [
+    "selector"
+  ],
+  "content": "The selector that targets an element that immediately follows a specified element. It applies styles only to the next sibling element of a specified type, useful for styling elements in a sequence without affecting others.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

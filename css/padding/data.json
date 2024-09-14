@@ -1,0 +1,26 @@
+{
+  "title": "padding",
+  "description": "The `padding` CSS property sets the space between the content of an element and its border.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the space between the content of an element and its border. It can be applied to all sides of an element or individually for each side using `padding-top`, `padding-right`, `padding-bottom` and `padding-left`. It helps create internal spacing within the element without affecting its border or margins.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

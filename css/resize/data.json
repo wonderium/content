@@ -1,0 +1,26 @@
+{
+  "title": "resize",
+  "description": "The `resize` CSS property specifies whether an element is resizable by the user and in which directions.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that controls whether an element can be resized by the user. It can be set to values like 'vertical', 'horizontal', 'both' or 'none', typically applied to text areas or other elements where resizing might be useful or necessary.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 79,
+        "firefox": 4,
+        "firefox_android": 4,
+        "safari": 3,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

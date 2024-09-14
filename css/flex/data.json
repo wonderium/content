@@ -1,0 +1,26 @@
+{
+  "title": "flex",
+  "description": "The `flex` CSS property is a shorthand for setting the alignment of grid items along both the block and inline axes within their respective grid areas.",
+  "categories": [
+    "property"
+  ],
+  "content": "The shorthand property that sets the `flex-grow`, `flex-shrink` and `flex-basis` properties for a flex item. It defines how a flex item should grow, shrink and be sized within a flex container, making it key to creating responsive layouts.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 29,
+        "chrome_android": 29,
+        "edge": 12,
+        "firefox": 20,
+        "firefox_android": 20,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

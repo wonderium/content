@@ -1,0 +1,26 @@
+{
+  "title": "Subsequent Sibling Selector",
+  "description": "The Subsequent Sibling CSS selector targets elements that are siblings of a specified element, appearing after it, but not necessarily immediately.",
+  "categories": [
+    "selector"
+  ],
+  "content": "The selector that targets elements that share the same parent and are placed immediately after a specified element. It uses the '~' symbol and allows styling of elements that come after a particular sibling in the DOM, regardless of how many elements are between them.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 3,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

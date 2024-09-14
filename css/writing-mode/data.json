@@ -1,0 +1,26 @@
+{
+  "title": "writing-mode",
+  "description": "The `writing-mode` CSS property defines the direction in which lines of text are laid out (horizontal or vertical) and the direction in which text blocks progress.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the direction in which text and content are displayed. It can be used to specify vertical or horizontal text flow, accommodating languages and writing systems that use different orientations.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 48,
+        "chrome_android": 48,
+        "edge": 12,
+        "firefox": 41,
+        "firefox_android": 41,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 3,
+        "day": 27
+      }
+    }
+  }
+}

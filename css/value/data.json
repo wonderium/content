@@ -1,0 +1,9 @@
+{
+  "title": "Value",
+  "description": "The Value in CSS is the setting given to a property to define the specific style, such as 'red' for `color` or '16px' for `font-size`.",
+  "categories": [
+    "concept", "syntax"
+  ],
+  "content": "The specific setting or data assigned to a CSS property. Values can be keywords, lengths, percentages, colors or other types of data that define how a property behaves and affects the styling of elements.",
+  "extensions": {}
+}

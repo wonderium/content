@@ -1,0 +1,26 @@
+{
+  "title": "clip-path",
+  "description": "The `clip-path` CSS property creates a clipping region to display a specific part of an element.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that creates a clipping region, allowing to hide parts of an element or make it visible in a specific shape, like a circle, polygon or custom path. This is useful for creative designs and masking effects.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 55,
+        "chrome_android": 55,
+        "edge": 79,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 9.1,
+        "safari_ios": 9.3
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

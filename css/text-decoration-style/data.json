@@ -1,0 +1,26 @@
+{
+  "title": "text-decoration-style",
+  "description": "The `text-decoration-style` CSS property sets the style of the line decoration, such as 'solid', 'wavy', 'dotted', 'dashed' or 'double'.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that defines the style of the text decoration, such as 'solid', 'wavy', 'dotted', 'dashed' or 'double'. This property allows for customization of the appearance of underlines, overlines and line-throughs, giving more creative options for text styling.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 57,
+        "chrome_android": 57,
+        "edge": 79,
+        "firefox": 36,
+        "firefox_android": 36,
+        "safari": 12.1,
+        "safari_ios": 12.2
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

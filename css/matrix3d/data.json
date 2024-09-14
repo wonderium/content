@@ -1,0 +1,26 @@
+{
+  "title": "matrix3d()",
+  "description": "The `matrix3d()` CSS function defines a 3D transformation using a matrix of 16 values.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function used as a value for the `transform` property to apply a 3D transformation to an element using a 4x4 matrix. It enables more advanced 3D effects, including perspective transformations, by providing precise control over the 3D positioning and transformation of elements.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 12,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 10,
+        "firefox_android": 10,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

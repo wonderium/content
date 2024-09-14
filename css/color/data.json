@@ -1,0 +1,26 @@
+{
+  "title": "color()",
+  "description": "The `color()` CSS function defines a color value using a specified color space, enabling consistent color representation.", 
+  "categories": [
+    "function"
+  ],
+  "content": "The function that allows specifying a color in a particular color space instead of the default sRGB color space. It provides more flexibility and accuracy for color management, enabling compatibility with modern displays.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Global Keywords",
+  "description": "The Global Keywords in CSS, such as 'inherit', 'initial', 'unset' and 'revert', provide default values for properties.",
+  "categories": [
+    "concept",
+    "syntax"
+  ],
+  "content": "The special values that can be applied to any property include `inherit`, which takes the parent's value; `initial`, which resets to the default; `unset`, which behaves as `inherit` or `initial` depending on the property; and `revert`, which restores the value from the user-agent stylesheet or less specific styles.",
+  "extensions": {}
+}
+

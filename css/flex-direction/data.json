@@ -1,0 +1,26 @@
+{
+  "title": "flex-direction",
+  "description": "The `flex-direction` CSS property defines the direction in which the flex items are placed in the flex container.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that defines the direction in which flex items are placed within a flex container. Options include 'row', 'row-reverse', 'column' and 'column-reverse', which control whether items are arranged horizontally, vertically or in reverse order.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 29,
+        "chrome_android": 29,
+        "edge": 12,
+        "firefox": 20,
+        "firefox_android": 20,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

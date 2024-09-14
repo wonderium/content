@@ -1,0 +1,26 @@
+{
+  "title": "column-rule-width",
+  "description": "The `column-rule-width` CSS property sets the width of the rule between columns.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the thickness (width) of the line (rule) between columns in a multi-column layout. It can be adjusted to make the line more prominent or subtle, depending on the design needs.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 50,
+        "chrome_android": 50,
+        "edge": 12,
+        "firefox": 52,
+        "firefox_android": 52,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 3,
+        "day": 7
+      }
+    }
+  }
+}

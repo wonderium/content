@@ -1,0 +1,26 @@
+{
+  "title": "row-gap",
+  "description": "The `row-gap` CSS property specifies the size of the gap between rows in layout systems, including grid and flexbox.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the vertical space between rows in a grid or flex container. It helps to create consistent spacing between rows of items, improving the overall layout and readability of content.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 47,
+        "chrome_android": 47,
+        "edge": 16,
+        "firefox": 52,
+        "firefox_android": 52,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 10,
+        "day": 17
+      }
+    }
+  }
+}

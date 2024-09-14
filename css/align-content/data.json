@@ -1,0 +1,26 @@
+{
+  "title": "align-content",
+  "description": "The `align-content` CSS property aligns the flexible container's lines within the flex container when there is extra space on the cross axis.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that controls the distribution of space between and around content items along the cross axis in a flex or grid container. This property is useful for aligning multiple lines of content when there is extra space. For example, it can center content or push it to the start or end of the container.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 29,
+        "chrome_android": 29,
+        "edge": 12,
+        "firefox": 28,
+        "firefox_android": 28,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

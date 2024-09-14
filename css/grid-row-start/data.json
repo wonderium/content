@@ -1,0 +1,26 @@
+{
+  "title": "grid-row-start",
+  "description": "The `grid-row-start` CSS property specifies a grid item's starting position within the grid rows.",  
+  "categories": [
+    "property"
+  ],
+  "content": "The property that defines the starting point for a grid item within the rows of a grid layout. It sets where the item begins, either at a specific row line or spanning a certain number of rows.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 57,
+        "chrome_android": 57,
+        "edge": 16,
+        "firefox": 52,
+        "firefox_android": 52,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 10,
+        "day": 17
+      }
+    }
+  }
+}

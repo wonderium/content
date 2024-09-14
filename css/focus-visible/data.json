@@ -1,0 +1,26 @@
+{
+  "title": ":focus-visible",
+  "description": "The `:focus-visible` CSS pseudo-class applies when an element receives focus and it’s done in a way that is evident to the user.",
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that applies styles to an element only when it receives focus and is also being interacted with using a keyboard or other assistive technology. This helps create a more accessible experience by showing focus outlines only when they are useful for navigation.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 86,
+        "chrome_android": 86,
+        "edge": 86,
+        "firefox": 85,
+        "firefox_android": 85,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2022,
+        "month": 3,
+        "day": 14
+      }
+    }
+  }
+}
