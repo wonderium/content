@@ -1,0 +1,26 @@
+{
+  "title": ":hover",
+  "description": "The `:hover` CSS pseudo-class selects an element when the user moves the mouse pointer over it, allowing for hover effects to be applied.",
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that applies styles to an element when the user moves the mouse pointer over it. It’s commonly used for interactive elements like buttons or links, changing their appearance to indicate they are clickable or to highlight them.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 2,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

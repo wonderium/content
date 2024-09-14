@@ -1,0 +1,10 @@
+{
+  "title": "Pseudo-element",
+  "description": "The Pseudo-element in CSS is a type of selector used to style specified parts of an element, such as `::before` or `::after`.",
+  "categories": [
+    "concept",
+    "syntax"
+  ],
+  "content": "The selector used to style parts of an element without adding extra HTML. Common pseudo-elements include `::before` and `::after`, which allow inserting content before or after an element’s content. They help in adding decorative elements or text without modifying the HTML structure.",
+  "extensions": {}
+}

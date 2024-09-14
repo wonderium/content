@@ -1,0 +1,26 @@
+{
+  "title": "column-rule-style",
+  "description": "The `column-rule-style` CSS property sets the style of the rule between columns.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that defines the style of the line (rule) between columns in a multi-column layout, such as 'solid', 'dashed' or 'dotted'. It controls the visual appearance of the line separating the columns.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 50,
+        "chrome_android": 50,
+        "edge": 12,
+        "firefox": 52,
+        "firefox_android": 52,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 3,
+        "day": 7
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": ":lang",
+  "description": "The `:lang` CSS pseudo-class selects elements based on the language specified in their `lang` attribute, allowing for styling based on language codes like 'en' for English or 'fr' for French.",
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that applies styles to elements based on the language of the content, as specified by the `lang` attribute. It helps in adapting styles for different languages, like adjusting font styles or text directions for better readability.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

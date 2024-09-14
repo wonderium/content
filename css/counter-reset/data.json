@@ -1,0 +1,26 @@
+{
+  "title": "counter-reset",
+  "description": "The `counter-reset` CSS property initializes or resets a counter to a specific value.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that initializes or resets the value of a counter to a specific number. It’s commonly used to start numbering from a certain point, allowing to control how counters are displayed in a sequence.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 2,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 25,
+        "safari": 3,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

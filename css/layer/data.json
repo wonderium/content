@@ -1,0 +1,26 @@
+{
+  "title": "@layer",
+  "description": "The `@layer` CSS directive is used to organize and manage the specificity of CSS styles by grouping them into named layers.",
+  "categories": [
+    "directive"
+  ],
+  "content": "The directive used to control the order in which styles are applied by grouping them into layers. This helps manage the cascade and specificity, allowing to prioritize certain styles over others without relying on `!important` or changing the order of the stylesheets.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 99,
+        "chrome_android": 99,
+        "edge": 99,
+        "firefox": 97,
+        "firefox_android": 97,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2022,
+        "month": 3,
+        "day": 14
+      }
+    }
+  }
+}

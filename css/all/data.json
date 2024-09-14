@@ -1,0 +1,26 @@
+{
+  "title": "all",
+  "description": "The `all` CSS property is a shorthand for resetting all properties, except `direction` and `unicode-bidi`, to their initial or inherited values.",
+  "categories": [
+    "property"
+  ],
+  "content": "The shorthand property that resets all the properties of an element to their initial, inherited or unset values. It's a quick way to remove custom styles and start fresh with default settings.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 37,
+        "chrome_android": 37,
+        "edge": 79,
+        "firefox": 27,
+        "firefox_android": 27,
+        "safari": 9.1,
+        "safari_ios": 9.3
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

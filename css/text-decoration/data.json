@@ -1,0 +1,26 @@
+{
+  "title": "text-decoration",
+  "description": "The `text-decoration` CSS property is a shorthand for setting multiple text decoration properties in one declaration, including `text-decoration-line`, `text-decoration-style` and `text-decoration-color`.",
+  "categories": [
+    "property"
+  ],
+  "content": "The shorthand property that applies decoration to text, such as underlining, overlining or striking through. It combines `text-decoration-line`, `text-decoration-style` and `text-decoration-color` properties into one rule, enhancing or altering the visual style of text.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

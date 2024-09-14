@@ -1,0 +1,26 @@
+{
+  "title": "@font-palette-values",
+  "description": "The `@font-palette-values` CSS directive allows the definition of font palette values to control the color palette used by a font.",
+  "categories": [
+    "directive"
+  ],
+  "content": "The directive that allows to define and use custom color palettes for OpenType fonts that support color variations. It enables to customize the appearance of multi-color fonts by selecting or creating specific color schemes.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 101,
+        "chrome_android": 101,
+        "edge": 101,
+        "firefox": 107,
+        "firefox_android": 107,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2022,
+        "month": 11,
+        "day": 15
+      }
+    }
+  }
+}

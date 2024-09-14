@@ -1,0 +1,26 @@
+{
+  "title": "linear-gradient()",
+  "description": "The `linear-gradient()` CSS function creates an image consisting of a progressive transition between two or more colors along a straight line.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function that creates a gradient by blending colors along a straight line. It’s commonly used for backgrounds, where the direction and color stops can be defined to create smooth transitions between colors, adding depth and dimension to the designs.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 26,
+        "chrome_android": 26,
+        "edge": 12,
+        "firefox": 16,
+        "firefox_android": 16,
+        "safari": 7,
+        "safari_ios": 7
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

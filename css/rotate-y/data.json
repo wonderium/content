@@ -1,0 +1,26 @@
+{
+  "title": "rotateY()",
+  "description": "The `rotateY()` CSS function rotates an element around the Y-axis.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function that applies a 3D rotation to an element around the Y-axis. This transformation swivels the element left or right, making it appear as though the element is rotating around a vertical line running from top to bottom.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 12,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 10,
+        "firefox_android": 10,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

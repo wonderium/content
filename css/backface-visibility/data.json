@@ -1,0 +1,26 @@
+{
+  "title": "backface-visibility",
+  "description": "The `backface-visibility` CSS property determines whether the back face of an element is visible when rotated.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that controls whether the back face of an element is visible when it’s rotated in 3D space. This is useful for hiding or showing the back side of elements during complex animations or transformations.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 36,
+        "chrome_android": 36,
+        "edge": 12,
+        "firefox": 16,
+        "firefox_android": 16,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2022,
+        "month": 3,
+        "day": 14
+      }
+    }
+  }
+}

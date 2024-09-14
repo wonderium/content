@@ -1,0 +1,26 @@
+{
+  "title": "animation",
+  "description": "The `animation` CSS property combines multiple animation properties into a single declaration, that defines the keyframes, duration, timing function, delay, iteration count, direction, fill mode and play state of an animation applied to an element.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that animates elements, allowing them to move, change color, size or other properties over time. It uses keyframes to define what styles the element should have at different times during the animation.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 43,
+        "chrome_android": 43,
+        "edge": 12,
+        "firefox": 16,
+        "firefox_android": 16,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

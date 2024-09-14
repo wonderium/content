@@ -1,0 +1,26 @@
+{
+  "title": "@namespace",
+  "description": "The `@namespace` CSS directive is used to define XML namespaces for use in XML-based languages within CSS.",
+  "categories": [
+    "directive"
+  ],
+  "content": "The directive that declares a namespace for CSS selectors, useful in XML-based documents to differentiate between elements from different XML namespaces. It helps avoid conflicts by specifying which namespace the selectors apply to, ensuring proper styling in complex documents.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

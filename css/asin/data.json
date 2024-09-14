@@ -1,0 +1,26 @@
+{
+  "title": "asin()",
+  "description": "The `asin()` CSS math function returns the arcsine of a number, in radians, within the range [-π/2, π/2].",
+  "categories": [
+    "function"
+  ],
+  "content": "The math function that returns the angle in radians whose sine is the given number. It’s used to determine the angle when the sine value is known.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 111,
+        "chrome_android": 111,
+        "edge": 111,
+        "firefox": 108,
+        "firefox_android": 108,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 3,
+        "day": 13
+      }
+    }
+  }
+}

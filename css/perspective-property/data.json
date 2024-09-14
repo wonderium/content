@@ -1,0 +1,26 @@
+{
+  "title": "perspective",
+  "description": "The `perspective` CSS property is used to give an element a 3D perspective view, defining how far the object is from the user.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that defines the distance between the viewer and the z=0 plane, affecting the depth of 3D transformed elements. It doesn’t overwrite the `transform` property, as it adjusts the perspective without altering other transform functions. This property helps create realistic 3D effects by controlling the depth of elements.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 36,
+        "chrome_android": 36,
+        "edge": 12,
+        "firefox": 16,
+        "firefox_android": 16,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

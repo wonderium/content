@@ -1,0 +1,26 @@
+{
+  "title": "text-indent",
+  "description": "The `text-indent` CSS property specifies the amount of space to indent the first line of a block of text.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that specifies the amount of space that is added before the start of the first line of text in a block. It’s commonly used to indent the first line of a paragraph, making text easier to read or helping to visually separate content.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

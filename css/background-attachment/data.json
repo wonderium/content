@@ -1,0 +1,26 @@
+{
+  "title": "background-attachment",
+  "description": "The `background-attachment` CSS property specifies whether a background image is fixed or scrolls with the content.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that determines whether a background image scrolls with the page or stays fixed in place. It can create interesting visual effects, like having a background image that remains static while the rest of the content scrolls.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

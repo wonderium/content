@@ -1,0 +1,26 @@
+{
+  "title": "var()",
+  "description": "The `var()` CSS function is used to insert the value of a custom property into a CSS declaration.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function used to insert the value of a custom property into a CSS declaration. It allows for reusable values and easier updates, making it possible to define a color or size once and use it throughout the stylesheet.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 49,
+        "chrome_android": 49,
+        "edge": 15,
+        "firefox": 31,
+        "firefox_android": 31,
+        "safari": 9.1,
+        "safari_ios": 9.3
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 4,
+        "day": 5
+      }
+    }
+  }
+}

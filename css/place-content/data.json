@@ -1,0 +1,26 @@
+{
+  "title": "place-content",
+  "description": "The `place-content` CSS property is a shorthand for `align-content` and `justify-content`, aligning the content within a grid or flex container.",
+  "categories": [
+    "property"
+  ],
+  "content": "The shorthand property that combines `align-content` and `justify-content` properties to align and distribute space within a flex or grid container. It controls how the content is positioned within the container, both horizontally and vertically, ensuring balanced layouts.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 59,
+        "chrome_android": 59,
+        "edge": 79,
+        "firefox": 45,
+        "firefox_android": 45,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

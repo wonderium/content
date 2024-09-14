@@ -1,0 +1,26 @@
+{
+  "title": "grid-auto-rows",
+  "description": "The `grid-auto-rows` CSS property specifies the size of implicitly created grid rows.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the height of rows in a grid container that are automatically created. Similar to `grid-auto-columns`, it determines the size of additional rows that are needed when placing items beyond the defined grid structure.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 57,
+        "chrome_android": 57,
+        "edge": 16,
+        "firefox": 70,
+        "firefox_android": 79,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 7,
+        "day": 28
+      }
+    }
+  }
+}

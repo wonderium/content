@@ -1,0 +1,26 @@
+{
+  "title": ":disabled",
+  "description": "The `:disabled` CSS pseudo-class applies to form elements that are currently disabled.",
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that targets form elements that are disabled, preventing user interaction. It’s commonly used to style input fields, buttons or other controls that are temporarily or permanently inactive, often graying them out or reducing their opacity.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Inheritance",
+  "description": "The Inheritance in CSS is the mechanism by which certain properties are passed from parent elements to their children.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The fundamental concept where some properties are passed down from a parent element to its children. For example, text-related properties like `color` or `font-family` are inherited by default, helping to maintain consistent styling across related elements.",
+  "extensions": {}
+}

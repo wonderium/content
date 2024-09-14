@@ -1,0 +1,26 @@
+{
+  "title": "conic-gradient()",
+  "description": "The `conic-gradient()` CSS function creates an image consisting of a progressive transition between two or more colors along a conical gradient.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function that creates a gradient that radiates from the center of a circle, resembling a pie chart. It allows to create complex, circular color transitions that can be used for backgrounds, charts or decorative elements.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 69,
+        "chrome_android": 69,
+        "edge": 79,
+        "firefox": 83,
+        "firefox_android": 83,
+        "safari": 12.1,
+        "safari_ios": 12.2
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 11,
+        "day": 17
+      }
+    }
+  }
+}

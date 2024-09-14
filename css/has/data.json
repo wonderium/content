@@ -1,0 +1,26 @@
+{
+  "title": ":has()",
+  "description": "The `:has()` CSS pseudo-class selects elements that have at least one descendant matching the specified selector.",
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that allows to select an element based on its children or descendants. It acts like a parent selector, allowing styles to be applied to an element if it contains another element that matches the criteria within `:has()`.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 105,
+        "chrome_android": 105,
+        "edge": 105,
+        "firefox": 121,
+        "firefox_android": 121,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 12,
+        "day": 19
+      }
+    }
+  }
+}

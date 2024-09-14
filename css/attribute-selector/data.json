@@ -1,0 +1,26 @@
+{
+  "title": "Attribute Selector",
+  "description": "The Attribute CSS selector targets elements based on the presence or value of attributes, such as `href` or `type` wuth the 'text' value.",
+  "categories": [
+    "selector"
+  ],
+  "content": "The selector used to style elements based on the presence or value of an HTML attribute. It provides more control over styling by targeting elements with specific attributes or attribute values.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 3,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Selector",
+  "description": "The Selector in CSS is a pattern used to select the elements intended for styling.",
+  "categories": [
+    "concept", "syntax"
+  ],
+  "content": "The pattern in CSS used to target HTML elements for styling. Selectors can be simple, like targeting by element name, class or ID or more complex, involving combinations and pseudo-classes to style elements based on their attributes, state or position in the document.",
+  "extensions": {}
+}

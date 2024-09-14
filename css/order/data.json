@@ -1,0 +1,26 @@
+{
+  "title": "order",
+  "description": "The `order` CSS property sets the order in which a flex item appears within the flex container.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property used in flexbox layouts to specify the order in which flex items appear in the container. By setting the `order` property, the visual order of items can be changed without altering their source order, allowing for flexible layouts.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 29,
+        "chrome_android": 29,
+        "edge": 12,
+        "firefox": 20,
+        "firefox_android": 20,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "content",
+  "description": "The `content` property is used with `::before` and `::after` pseudo-elements to insert generated content before or after an element's content.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property used with `::before` and `::after` pseudo-elements to insert generated content into an element. It can add text, symbols or images before or after the element's actual content, enhancing design without modifying the HTML.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

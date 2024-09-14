@@ -1,0 +1,26 @@
+{
+  "title": "Color Keywords",
+  "description": "The Color Keywords in CSS represent predefined colors by name, such as 'red', 'blue', 'green', etc.",
+  "categories": [
+    "keyword"
+  ],
+  "content": "The predefined color names in CSS, like 'red', 'blue' or 'lightgray', that can be used directly to set colors. They are easy to use and widely supported, offering a simple way to apply common colors to elements.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

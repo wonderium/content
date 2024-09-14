@@ -1,0 +1,26 @@
+{
+  "title": "atan()",
+  "description": "The `atan()` CSS math function returns the inverse tangent of a number, in radians, within the range [-π/2, π/2].",
+  "categories": [
+    "function"
+  ],
+  "content": "The math function that returns the angle in radians whose tangent is the given number. It’s useful for calculating angles based on the tangent value.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 111,
+        "chrome_android": 111,
+        "edge": 111,
+        "firefox": 108,
+        "firefox_android": 108,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 3,
+        "day": 13
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "sepia()",
+  "description": "The `sepia()` CSS function converts an element's content to sepia tones.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function used as a value for the `filter` property to apply a sepia tone to an element’s content. This filter gives images or content a warm, brownish tint, reminiscent of old photographs, creating a vintage or classic look.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 18,
+        "chrome_android": 53,
+        "edge": 12,
+        "firefox": 35,
+        "firefox_android": 35,
+        "safari": 6,
+        "safari_ios": 6
+      },
+      "latest_release_date": {
+        "year": 2016,
+        "month": 9,
+        "day": 7
+      }
+    }
+  }
+}

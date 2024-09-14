@@ -1,0 +1,26 @@
+{
+  "title": "list-style-position",
+  "description": "The `list-style-position` CSS property sets whether the list item markers should appear inside or outside the content flow.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that defines the position of the list marker (like a bullet or number) relative to the list item's content. It can be set to 'inside' (marker is part of the list item’s content flow) or 'outside' (marker is outside the content flow), affecting the layout of the list.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

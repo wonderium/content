@@ -1,0 +1,10 @@
+{
+  "title": "Pseudo-сlass",
+  "description": "The Pseudo-class in CSS is a type of selector that specifies a special state of the selected elements, such as `:hover` or `:nth-child(n)`.",
+  "categories": [
+    "concept",
+    "syntax"
+  ],
+  "content": "The selector that targets elements based on their state or position in the document. Pseudo-classes start with a colon and can style elements like links when hovered or form fields when disabled, adding dynamic styling based on user interaction or document structure.",
+  "extensions": {}
+}

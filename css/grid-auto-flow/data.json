@@ -1,0 +1,26 @@
+{
+  "title": "grid-auto-flow",
+  "description": "The `grid-auto-flow` CSS property controls how auto-placed items are inserted into the grid.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that controls how grid items are placed in the grid when they are not explicitly positioned. It can arrange items by rows or columns and can also pack them to fill gaps, helping to manage the flow and order of items in dynamic layouts.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 57,
+        "chrome_android": 57,
+        "edge": 16,
+        "firefox": 52,
+        "firefox_android": 52,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 10,
+        "day": 17
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "saturate()",
+  "description": "The `saturate()` CSS function adjusts the saturation of an element's content.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function used as a value for the `filter` property to adjust the saturation of an element’s colors. Increasing saturation makes colors more vivid, while decreasing it can make them appear more muted or grayscale, allowing to modify the intensity of colors directly within the styles",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 18,
+        "chrome_android": 53,
+        "edge": 12,
+        "firefox": 35,
+        "firefox_android": 35,
+        "safari": 6,
+        "safari_ios": 6
+      },
+      "latest_release_date": {
+        "year": 2016,
+        "month": 9,
+        "day": 7
+      }
+    }
+  }
+}

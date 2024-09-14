@@ -1,0 +1,26 @@
+{
+  "title": "::first-line",
+  "description": "The `::first-line` CSS pseudo-element styles the first line of text within a block-level element.",
+  "categories": [
+    "pseudo-element"
+  ],
+  "content": "The pseudo-element that targets the first line of text in a block-level element, such as a paragraph. It allows to apply specific styles, like a different font or color, to just the first line, helping to draw attention or improve readability.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

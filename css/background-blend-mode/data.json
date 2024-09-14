@@ -1,0 +1,26 @@
+{
+  "title": "background-blend-mode",
+  "description": "The `background-blend-mode` CSS property specifies how a background image or color blends with the element's background color and/or other background images.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets how background images and colors blend together. Different blend modes like `multiply`, `screen` or `overlay` can create unique visual effects by mixing the layers in various ways.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 35,
+        "chrome_android": 35,
+        "edge": 79,
+        "firefox": 30,
+        "firefox_android": 30,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

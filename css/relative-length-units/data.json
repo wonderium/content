@@ -1,0 +1,26 @@
+{
+  "title": "Relative Length Units",
+  "description": "The Relative Length CSS units, such as 'em', 'rem', 'vw' and 'vh', scale based on other elements or the viewport size.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The units that are relative to another length value, such as the size of the parent element or the root element’s font size. Common relative units include 'em', 'rem', 'vw' and 'vh' allowing for flexible and responsive designs that adapt to different screen sizes and contexts.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "list-style-image",
+  "description": "The `list-style-image` CSS property sets an image as the list item marker.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets an image to be used as the marker for list items. Instead of the default bullets or numbers, a custom image can be used, providing a unique look to ordered or unordered lists.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

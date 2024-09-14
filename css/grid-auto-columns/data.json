@@ -1,0 +1,26 @@
+{
+  "title": "grid-auto-columns",
+  "description": "The `grid-auto-columns` CSS property specifies the size of implicitly created grid columns.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the size of columns in a grid container that are automatically generated. When items are placed outside the defined grid, this property controls the width of those additional columns, ensuring they fit within the layout.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 57,
+        "chrome_android": 57,
+        "edge": 16,
+        "firefox": 70,
+        "firefox_android": 79,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 7,
+        "day": 28
+      }
+    }
+  }
+}

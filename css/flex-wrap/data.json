@@ -1,0 +1,26 @@
+{
+  "title": "flex-wrap",
+  "description": "The `flex-wrap` CSS property defines whether the flex items should wrap onto multiple lines inside the flex container.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that controls whether flex items are forced onto a single line or can wrap onto multiple lines within a flex container. It helps manage how items flow when there’s not enough space, allowing for more flexible and responsive designs.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 29,
+        "chrome_android": 29,
+        "edge": 12,
+        "firefox": 28,
+        "firefox_android": 28,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

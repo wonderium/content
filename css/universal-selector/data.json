@@ -1,0 +1,26 @@
+{
+  "title": "Universal Selector",
+  "description": "The Universal CSS selector, denoted by the '*' symbol, targets all elements in the document.",
+  "categories": [
+    "selector"
+  ],
+  "content": "The selector that targets all elements within a document. Represented by the '*' symbol, it applies styles to every element, useful for applying global styles or resetting default browser styling.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

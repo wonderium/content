@@ -1,0 +1,26 @@
+{
+  "title": ":is()",
+  "description": "The `:is()` CSS pseudo-class allows for grouping multiple selectors together to apply the same styles to elements that match any of the selectors within the function, increasing specificity.",
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that matches elements based on a selector list, but it does increase specificity. it's useful for applying styles to elements while also influencing their specificity in the cascade. This pseudo-class helps target specific elements with more precise control over styling hierarchy.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 88,
+        "chrome_android": 88,
+        "edge": 88,
+        "firefox": 78,
+        "firefox_android": 79,
+        "safari": 14,
+        "safari_ios": 14
+      },
+      "latest_release_date": {
+        "year": 2021,
+        "month": 1,
+        "day": 21
+      }
+    }
+  }
+}

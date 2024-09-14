@@ -1,0 +1,26 @@
+{
+  "title": "Absolute Length Units",
+  "description": "The Absolute Length CSS units, such as 'px', 'cm', 'mm', 'in', 'pt' and 'pc', represent fixed measurements that don't scale.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The units, such as 'px', 'cm', 'mm', 'in', 'pt' and 'pc', that represent fixed sizes. They don't change based on screen size or resolution, making them useful when precise control over layout is needed.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "justify-content",
+  "description": "The `justify-content` CSS property aligns the flexible container's items when the items don't use all available space on the main axis.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property used in flexbox and grid layouts to align items along the main axis (horizontally in rows or vertically in columns). It can space items evenly, push them to the start, end or center, helping to control the overall layout and distribution of space.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 29,
+        "chrome_android": 29,
+        "edge": 12,
+        "firefox": 20,
+        "firefox_android": 20,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

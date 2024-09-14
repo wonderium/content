@@ -1,0 +1,26 @@
+{
+  "title": "aspect-ratio",
+  "description": "The `aspect-ratio` CSS property sets a specific aspect ratio for an element, controlling its proportional dimensions.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the width-to-height ratio of an element, helping it maintain its shape as the screen size changes. This is useful for ensuring consistent proportions, like keeping images or videos from stretching.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 88,
+        "chrome_android": 88,
+        "edge": 88,
+        "firefox": 89,
+        "firefox_android": 89,
+        "safari": 15,
+        "safari_ios": 15
+      },
+      "latest_release_date": {
+        "year": 2021,
+        "month": 9,
+        "day": 20
+      }
+    }
+  }
+}

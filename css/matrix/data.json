@@ -1,0 +1,26 @@
+{
+  "title": "matrix()",
+  "description": "The `matrix()` CSS function defines a 2D transformation using a matrix of 6 values.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function used as a value for the `transform` property to apply a 2D transformation to an element using a matrix. It allows to perform complex transformations like rotation, scaling, skewing and translation by specifying values in a matrix form.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

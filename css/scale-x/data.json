@@ -1,0 +1,26 @@
+{
+  "title": "scaleX()",
+  "description": "The `scaleX()` CSS function resizes an element along the X-axis.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function that scales an element horizontally by a specified factor along the X-axis. This transformation stretches or compresses the element’s width while keeping its height unchanged, allowing for specific adjustments to the horizontal dimension.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

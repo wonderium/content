@@ -1,0 +1,26 @@
+{
+  "title": "word-wrap",
+  "description": "The `word-wrap` CSS property allows long words to be broken and wrap onto the next line.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that controls how text should wrap within an element. It can be set to 'normal', where text wraps according to the default behavior or 'break-word', which allows long words to break and wrap onto the next line to prevent overflow.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 80,
+        "chrome_android": 80,
+        "edge": 80,
+        "firefox": 72,
+        "firefox_android": 79,
+        "safari": 13.1,
+        "safari_ios": 13.4
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 7,
+        "day": 28
+      }
+    }
+  }
+}

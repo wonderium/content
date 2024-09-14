@@ -1,0 +1,9 @@
+{
+  "title": "Property",
+  "description": "The Property in CSS defines specific aspects of an element's appearance, such as `color`, `font-size` or `margin`.",
+  "categories": [
+    "concept", "syntax"
+  ],
+  "content": "The aspect of an element that can be controlled or styled, such as `color`, `width`, `margin` or `display`. Properties are paired with values to define how an element should appear or behave in the document, forming the core of CSS styling.",
+  "extensions": {}
+}

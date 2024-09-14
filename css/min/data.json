@@ -1,0 +1,26 @@
+{
+  "title": "min()",
+  "description": "The `min()` CSS math function returns the smallest value from a list of values, allowing for dynamic sizing based on multiple conditions.",
+  "categories": [
+    "function"
+  ],
+  "content": "The math function that returns the smallest value from a list of comma-separated expressions. It’s useful for responsive design, allowing to set properties based on the minimum value of several options, such as adjusting an element’s size or position based on the smallest measurement available.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 79,
+        "chrome_android": 79,
+        "edge": 79,
+        "firefox": 75,
+        "firefox_android": 79,
+        "safari": 11.1,
+        "safari_ios": 11.3
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 7,
+        "day": 28
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "place-items",
+  "description": "The `place-items` CSS property is a shorthand for setting the alignment of items along both the block and inline axes within their respective grid or flex containers.",
+  "categories": [
+    "property"
+  ],
+  "content": "The shorthand property that combines `align-items` and `justify-items` properties to control the alignment of items within a grid or flex container. It determines how items are positioned both vertically and horizontally, ensuring they are placed correctly within their container.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 59,
+        "chrome_android": 59,
+        "edge": 79,
+        "firefox": 45,
+        "firefox_android": 45,
+        "safari": 11,
+        "safari_ios": 11
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

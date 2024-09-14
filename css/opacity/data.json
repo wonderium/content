@@ -1,0 +1,26 @@
+{
+  "title": "opacity()",
+  "description": "The `opacity()` CSS function adjusts the transparency level of an element's content.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function used as a value for the `filter` property to adjust the opacity of an element. It controls how transparent or opaque an element is, with a value between '0' (completely transparent) and '1' (completely opaque), affecting its visibility and layering.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 18,
+        "chrome_android": 53,
+        "edge": 12,
+        "firefox": 35,
+        "firefox_android": 35,
+        "safari": 6,
+        "safari_ios": 6
+      },
+      "latest_release_date": {
+        "year": 2016,
+        "month": 9,
+        "day": 7
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "visibility",
+  "description": "The `visibility` CSS property specifies whether an element is visible or hidden.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that controls whether an element is displayed without impacting its layout. It can be set to 'visible' to display the element, 'hidden' to make it invisible while keeping its space or 'collapse' to remove table rows or columns from view.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

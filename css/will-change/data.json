@@ -1,0 +1,26 @@
+{
+  "title": "will-change",
+  "description": "The `will-change` CSS property provides a way to hint browsers about the kinds of changes to an element's properties that are likely to happen in the future.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that hints to the browser which properties of an element are expected to change, allowing the browser to optimize rendering. It can improve performance for animations or transitions by preparing the browser for upcoming changes.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 36,
+        "chrome_android": 36,
+        "edge": 79,
+        "firefox": 36,
+        "firefox_android": 36,
+        "safari": 9.1,
+        "safari_ios": 9.3
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

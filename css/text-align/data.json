@@ -1,0 +1,26 @@
+{
+  "title": "text-align",
+  "description": "The `text-align` CSS property specifies the alignment of text content within an element's box.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the horizontal alignment of text within an element. It can be aligned to the left, right, center or justified, controlling how text flows in relation to the container’s edges, making it crucial for creating visually balanced typography.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

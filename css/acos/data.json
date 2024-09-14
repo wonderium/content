@@ -1,0 +1,26 @@
+{
+  "title": "acos()",
+  "description": "The `acos()` CSS math function returns the inverse cosine of a number, in radians, within the range [0, π].",
+  "categories": [
+    "function"
+  ],
+  "content": "The math function that calculates the arc cosine of a number. It returns the angle in radians, which is the reverse operation of the cosine function.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 111,
+        "chrome_android": 111,
+        "edge": 111,
+        "firefox": 108,
+        "firefox_android": 108,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 3,
+        "day": 13
+      }
+    }
+  }
+}

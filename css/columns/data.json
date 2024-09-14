@@ -1,0 +1,26 @@
+{
+  "title": "columns",
+  "description": "The `columns` CSS property is a shorthand for setting both `column-width` and `column-count` properties.",
+  "categories": [
+    "property"
+  ],
+  "content": "The shorthand property that combines `column-width` and `column-count` properties, allowing to define both the width and the number of columns in a multi-column layout in a single line. This makes it easier to control the layout’s appearance.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 50,
+        "chrome_android": 50,
+        "edge": 12,
+        "firefox": 52,
+        "firefox_android": 52,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 3,
+        "day": 7
+      }
+    }
+  }
+}

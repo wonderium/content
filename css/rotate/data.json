@@ -1,0 +1,26 @@
+{
+  "title": "rotate()",
+  "description": "The `rotate()` CSS function is used to rotate an element around a fixed point by a specified angle.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function that applies a rotation transformation to an element around its center point. The rotation angle can be specified in degrees, radians or other units, allowing to spin or tilt elements in 2D space.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "skewX()",
+  "description": "The `skewX()` CSS function skews an element along the X-axis.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function that skews an element horizontally along the X-axis. It slants the element left or right, distorting its shape and creating an effect as though the element is being pushed sideways.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

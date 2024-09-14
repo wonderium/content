@@ -1,0 +1,26 @@
+{
+  "title": "Class Selector",
+  "description": "The Class CSS selector targets elements with a specific `class` attribute, defined using a '.' symbol, followed by the class name.",
+  "categories": [
+    "selector"
+  ],
+  "content": "The selector that targets elements based on their `class` attribute. It’s one of the most common selectors and is written with a '.' symbol, followed by the class name, allowing to apply styles to multiple elements with the same name.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "justify-items",
+  "description": "The `justify-items` CSS property defines the default `justify-self` property for all items of the box, giving the same alignment to them all.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that aligns grid items along the inline axis within their grid cells. It affects how each item is positioned inside its cell, allowing to control whether they are centered, stretched or aligned to one side.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 52,
+        "chrome_android": 52,
+        "edge": 12,
+        "firefox": 20,
+        "firefox_android": 20,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2016,
+        "month": 7,
+        "day": 27
+      }
+    }
+  }
+}

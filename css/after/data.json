@@ -1,0 +1,26 @@
+{
+  "title": "::after",
+  "description": "The `::after` CSS pseudo-element inserts content after the element's actual content, specified using the `content` property.",
+  "categories": [
+    "pseudo-element"
+  ],
+  "content": "The pseudo-element used to insert content after the content of an element. It can be used to add decorative elements, such as icons or special symbols without changing the HTML structure.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1.5,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

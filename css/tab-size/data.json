@@ -1,0 +1,26 @@
+{
+  "title": "tab-size",
+  "description": "The `tab-size` CSS property specifies the width of tab characters.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that specifies the width of the tab character in spaces. It’s commonly used to control the appearance of tabs in code or text displayed in a `<pre>` element, making it easier to align content or adjust indentation levels.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 21,
+        "chrome_android": 25,
+        "edge": 79,
+        "firefox": 91,
+        "firefox_android": 91,
+        "safari": 7,
+        "safari_ios": 7
+      },
+      "latest_release_date": {
+        "year": 2021,
+        "month": 8,
+        "day": 10
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "translateX()",
+  "description": "The `translateX()` CSS function moves an element from its current position along the X-axis.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function that moves an element horizontally along the X-axis. It translates the element to the left or right from its current position, useful for creating sliding or shifting effects in horizontal layouts.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "@import",
+  "description": "The `@import` CSS directive is used to import external stylesheets into the current stylesheet.",
+  "categories": [
+    "directive"
+  ],
+  "content": "The directive that allows to include styles from other stylesheets into the current stylesheet. It’s useful for organizing and reusing CSS code across different files, but can affect page load times as it delays the rendering of styles.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

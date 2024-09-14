@@ -1,0 +1,26 @@
+{
+  "title": "overflow",
+  "description": "The `overflow` CSS property controls how content that exceeds the boundaries of an element is handled.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that determines how content is handled when it overflows the bounds of its container. It can be set to values like 'visible', 'hidden', 'scroll' or 'auto', allowing to control whether the content is clipped, scrollable or visible beyond the container.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

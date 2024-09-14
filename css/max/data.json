@@ -1,0 +1,26 @@
+{
+  "title": "max()",
+  "description": "The `max()` CSS math function returns the largest value from a list of values, allowing for dynamic sizing based on multiple conditions.",
+  "categories": [
+    "function"
+  ],
+  "content": "The math function that returns the largest value from a list of comma-separated expressions. It’s useful for setting properties that need to adapt to varying conditions, such as responsive designs where an element's size or position adjusts based on the maximum of multiple values.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 79,
+        "chrome_android": 79,
+        "edge": 79,
+        "firefox": 75,
+        "firefox_android": 79,
+        "safari": 11.1,
+        "safari_ios": 11.3
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 7,
+        "day": 28
+      }
+    }
+  }
+}

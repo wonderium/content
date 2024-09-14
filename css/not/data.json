@@ -1,0 +1,26 @@
+{
+  "title": ":not()",
+  "description": "The `:not()` CSS pseudo-class selects elements that don't match a given selector.",
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that selects elements that don't match a given selector. It helps to exclude certain elements from being styled, allowing for more specific styling rules by targeting elements that don't meet certain criteria.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

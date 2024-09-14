@@ -1,0 +1,26 @@
+{
+  "title": "Type Selector",
+  "description": "The Type CSS selector targets HTML elements based on their tag name, such as `<div>`, `<p>` or `<h1>`.",
+  "categories": [
+    "selector"
+  ],
+  "content": "The selector that targets HTML elements by their tag name. It applies styles to all elements of a specified type, such as `<p>` for paragraphs or `<h1>` for headings, making it a basic way to style groups of elements consistently.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

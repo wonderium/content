@@ -1,0 +1,9 @@
+{
+  "title": "CSS Rule",
+  "description": "The CSS rule consists of a selector and a declaration block, defining how to style specific elements.",
+  "categories": [
+    "concept", "syntax"
+  ],
+  "content": "The basic building block of CSS that consists of a selector and a set of declarations. The selector targets specific elements and the declarations define the styles to be applied to those elements, like color, font or layout properties.",
+  "extensions": {}
+}

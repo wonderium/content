@@ -1,0 +1,26 @@
+{
+  "title": "column-gap",
+  "description": "The `column-gap` CSS property specifies the size of the gap between columns in layout systems, including grid, flexbox and multi-column.",
+  "categories": [
+    "property" 
+  ],
+  "content": "The property that sets the size of the gap between columns in layout systems, such as grid, flexbox and multi-column. It controls the width of the space between columns, helping to separate content and improve readability.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1.5,
+        "firefox_android": 4,
+        "safari": 3,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

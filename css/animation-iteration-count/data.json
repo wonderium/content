@@ -1,0 +1,26 @@
+{
+  "title": "animation-iteration-count",
+  "description": "The `animation-iteration-count` CSS property specifies the number of times an animation cycle should be played.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that specifies how many times the animation should repeat. It can be set to a specific number of times or made to loop infinitely, repeating continuously.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 43,
+        "chrome_android": 43,
+        "edge": 12,
+        "firefox": 16,
+        "firefox_android": 16,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

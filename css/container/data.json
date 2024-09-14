@@ -1,0 +1,26 @@
+{
+  "title": "@container",
+  "description": "The `@container` CSS directive is used for container queries, allowing styles to be applied based on the size of a container element.",
+  "categories": [
+    "directive"
+  ],
+  "content": "The directive used to apply styles based on the size of an element’s container, not the viewport. It helps create responsive designs that adapt to different container sizes, providing more flexibility in layout adjustments.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 105,
+        "chrome_android": 105,
+        "edge": 105,
+        "firefox": 110,
+        "firefox_android": 110,
+        "safari": 16,
+        "safari_ios": 16
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 2,
+        "day": 14
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "blur()",
+  "description": "The `blur()` CSS function applies a Gaussian blur to an element's background or content.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function that applies a blur effect to an element, making it appear out of focus. It’s often used in conjunction with filters to create soft, hazy visuals or to de-emphasize parts of an image.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 18,
+        "chrome_android": 53,
+        "edge": 12,
+        "firefox": 35,
+        "firefox_android": 35,
+        "safari": 6,
+        "safari_ios": 6
+      },
+      "latest_release_date": {
+        "year": 2016,
+        "month": 9,
+        "day": 7
+      }
+    }
+  }
+}

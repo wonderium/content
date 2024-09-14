@@ -1,0 +1,26 @@
+{
+  "title": ":last-of-type",
+  "description": "The `:last-of-type` CSS pseudo-class selects the last element of its type among siblings of the same parent element.",
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that applies styles to the last element of a specific type within its parent. It’s similar to `:last-child`, but it only matches elements of the same type (like the last `<p>` in a series of paragraphs), making it useful for styling specific types of content in a group.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

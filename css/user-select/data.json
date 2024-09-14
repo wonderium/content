@@ -1,0 +1,26 @@
+{
+  "title": "user-select",
+  "description": "The `user-select` CSS property controls whether the user can select text in an element and how it can be selected.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that controls the user's ability to select text or interact with content. It can be set to 'none' to prevent text selection, 'text' to allow selection or other values to define how and whether the content can be selected by the user.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 54,
+        "chrome_android": 54,
+        "edge": 79,
+        "firefox": 69,
+        "firefox_android": 79,
+        "safari": 3,
+        "safari_ios": 3
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 7,
+        "day": 28
+      }
+    }
+  }
+}

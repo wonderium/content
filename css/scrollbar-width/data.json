@@ -1,0 +1,22 @@
+{
+  "title": "scrollbar-width",
+  "description": "The `scrollbar-width` CSS property sets the width of the scrollbar, allowing customization of its appearance.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that adjusts the width of the scrollbar. It can be set to 'auto', 'thin' or 'none', allowing for customization of scrollbar appearance and behavior, especially useful for creating cleaner and more minimalist designs.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 121,
+        "chrome_android": 121,
+        "edge": 121,
+        "firefox": 64,
+        "firefox_android": 64,
+        "safari": null,
+        "safari_ios": null
+      },
+      "latest_release_date": "Limited availability"
+    }
+  }
+}

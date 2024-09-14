@@ -1,0 +1,26 @@
+{
+  "title": "@supports",
+  "description": "The `@supports` CSS directive is used to apply styles only if a given condition or feature query is true, allowing for CSS feature detection.",
+  "categories": [
+    "directive"
+  ],
+  "content": "The directive that allows to apply styles only if a browser supports a particular CSS feature. This helps create fallback styles or alternative designs for browsers that don't support newer CSS properties, ensuring better compatibility and user experience.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 28,
+        "chrome_android": 28,
+        "edge": 12,
+        "firefox": 22,
+        "firefox_android": 22,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "title": "backdrop-filter",
+  "description": "The `backdrop-filter` CSS property applies graphical effects, such as blurring or color shifting, to the area behind an element's content.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that applies graphical effects like blurring or color shifting to the area behind an element. It’s often used with `::backdrop` property to create frosted glass or other visual effects.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 76,
+        "chrome_android": 76,
+        "edge": 79,
+        "firefox": 103,
+        "firefox_android": 103,
+        "safari": 18,
+        "safari_ios": 18
+      },
+      "latest_release_date": "Limited availability"
+    }
+  }
+}

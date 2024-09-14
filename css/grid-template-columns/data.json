@@ -1,0 +1,26 @@
+{
+  "title": "grid-template-columns",
+  "description": "The `grid-template-columns` CSS property defines the column structure of a grid container.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that defines the width of each column in a grid layout. Specific sizes, flexible units and repeating patterns can be applied, allowing precise control over the column structure and space distribution in the grid layout.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 57,
+        "chrome_android": 57,
+        "edge": 16,
+        "firefox": 52,
+        "firefox_android": 52,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 10,
+        "day": 17
+      }
+    }
+  }
+}

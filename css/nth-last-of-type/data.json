@@ -1,0 +1,26 @@
+{
+  "title": ":nth-last-of-type(n)",
+  "description": "The `:nth-last-of-type(n)` CSS pseudo-class selects elements of a specific type based on their position among siblings, counting backwards from the last element of that type.",
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that selects elements of a specific type based on their position among siblings of the same type. It’s useful for targeting specific elements in a sequence, counting backwards from the last element of that type.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 4,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

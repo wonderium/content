@@ -1,0 +1,26 @@
+{
+  "title": "clear",
+  "description": "The `clear` CSS property specifies whether an element can be positioned next to (and if so, on which sides) floating elements that precede it.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property used to control the behavior of floating elements. It ensures that elements don’t wrap around floated elements by moving the element below the floating elements, often used to manage layout and text flow.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": ":in-range",
+  "description": "The `:in-range` CSS pseudo-class applies to form elements, such as input fields, that have a value within a specified range.",
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that selects input elements whose values fall within a specified range, as defined by the `min` and `max` attributes. It’s typically used with forms to apply styles when the user's input is valid and within acceptable limits.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 10,
+        "chrome_android": 18,
+        "edge": 13,
+        "firefox": 29,
+        "firefox_android": 16,
+        "safari": 5.1,
+        "safari_ios": 5
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 11,
+        "day": 12
+      }
+    }
+  }
+}

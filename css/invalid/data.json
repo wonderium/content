@@ -1,0 +1,26 @@
+{
+  "title": ":invalid",
+  "description": "The `:invalid` CSS pseudo-class applies to form elements whose contents are not valid according to their validation constraints.",
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that applies styles to form elements when their value doesn’t match the required format or constraints, like an incorrect email address or an empty required field. It helps indicate to users that their input needs correction.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 10,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 4,
+        "firefox_android": 4,
+        "safari": 5,
+        "safari_ios": 5
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

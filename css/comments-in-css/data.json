@@ -1,0 +1,9 @@
+{
+  "title": "Comments in CSS",
+  "description": "The Comments in CSS are used to add notes or explanations within the stylesheet.",
+  "categories": [
+    "syntax"
+  ],
+  "content": "The way to add notes or explanations within CSS code that are not visible on the web page. Comments are written between /* and */ and are used to document code, temporarily disable styles or make the CSS easier to understand for others.",
+  "extensions": {}
+}

@@ -2,9 +2,540 @@
 	"data": {
 		"meta": {
 			"title": "CSS",
-			"description": "The style sheet language used to describe the presentation of a document written in HTML or XML, including the layout, colors, and fonts."
+			"description": "The style sheet language used to describe the presentation of a document written in HTML or XML, including the layout, colors and fonts."
 		},
 		"color": "#2965F1",
-		"topics": []
+		"topics": [
+			{
+				"name": "Basics",
+				"units": [
+					"cascade-principle",
+					"scope-concept",
+					"specificity",
+					"css-rule",
+					"selector",
+					"property-concept",
+					"value",
+					"inheritance",
+					"stacking-context",
+					"linking-styles",
+					"pseudo-class",
+					"pseudo-element",
+					"directive",
+					"function",
+					"animations",
+					"global-keywords",
+					"display",
+					"all",
+					"vendor-prefixes",
+					"important",
+					"variables",
+					"counters-concept",
+					"comments-in-css"
+				]
+			},
+			{
+				"name": "Selectors",
+				"units": [
+					"type-selector",
+					"class-selector",
+					"id-selector",
+					"attribute-selector",
+					"universal-selector",
+					"grouping-selector",
+					"descendant-selector",
+					"compound-selector",
+					"child-selector",
+					"next-sibling-selector",
+					"subsequent-sibling-selector"
+				]
+			},
+			{
+				"name": "Directives",
+				"units": [
+					"charset",
+					"container",
+					"counter-style",
+					"font-face",
+					"font-feature-values",
+					"font-palette-values",
+					"import",
+					"keyframes",
+					"layer",
+					"media",
+					"namespace",
+					"page",
+					"property",
+					"scope",
+					"supports"
+				]
+			},
+			{
+				"name": "Global Functions",
+				"units": [
+					"attr", 
+					"var", 
+					"url", 
+					"env"
+				]
+			},
+			{
+				"name": "Pseudo Classes",
+				"units": [
+					"only-child",
+					"first-child",
+					"last-child",
+					"nth-child",
+					"nth-last-child",
+					"first-of-type",
+					"nth-of-type",
+					"last-of-type",
+					"nth-last-of-type",
+					"not",
+					"has",
+					"is",
+					"where",
+					"target",
+					"lang",
+					"root",
+					"link",
+					"visited",
+					"hover",
+					"active",
+					"focus",
+					"focus-visible",
+					"focus-within",
+					"checked",
+					"disabled",
+					"enabled",
+					"empty",
+					"in-range",
+					"out-of-range",
+					"required",
+					"optional",
+					"invalid",
+					"valid",
+					"placeholder-shown",
+					"default",
+					"indeterminate",
+					"read-only",
+					"read-write"
+				]
+			},
+			{
+				"name": "Pseudo Elements",
+				"units": [
+					"before",
+					"after",
+					"placeholder",
+					"first-letter",
+					"first-line",
+					"selection",
+					"marker",
+					"backdrop",
+					"content"
+				]
+			},
+			{
+				"name": "Colors",
+				"units": [
+					"color-keywords",
+					"rgb",
+					"hex-color",
+					"hsl",
+					"hwb",
+					"currentcolor",
+					"transparent",
+					"color-scheme",
+					"light-dark",
+					"color",
+					"color-mix",
+					"lab",
+					"oklab",
+					"lch",
+					"oklch"
+				]
+			},
+			{
+				"name": "Measurement Units",
+				"units": [
+					"relative-length-units",
+					"absolute-length-units",
+					"percentages",
+					"time-units",
+					"angle-units",
+					"resolution-units"
+				]
+			},
+			{
+				"name": "Sizes & Margins",
+				"units": [
+					"width",
+					"min-width",
+					"max-width",
+					"height",
+					"min-height",
+					"max-height",
+					"padding",
+					"margin",
+					"box-sizing"
+				]
+			},
+			{
+				"name": "Positioning",
+				"units": [
+					"position",
+					"top",
+					"left",
+					"right",
+					"bottom",
+					"inset-property",
+					"z-index"
+				]
+			},
+			{
+				"name": "Visibility",
+				"units": [
+					"opacity-property", 
+					"visibility", 
+					"clip", 
+					"clip-path"
+				]
+			},
+			{
+				"name": "Borders, Outlines & Shadows",
+				"units": [
+					"border",
+					"border-block",
+					"border-inline",
+					"border-collapse",
+					"border-image",
+					"border-style",
+					"border-radius",
+					"border-spacing",
+					"border-color",
+					"border-width",
+					"outline",
+					"outline-color",
+					"outline-offset",
+					"outline-style",
+					"outline-width",
+					"box-shadow"
+				]
+			},
+			{
+				"name": "Flexboxes",
+				"units": [
+					"flex",
+					"flex-basis",
+					"flex-direction",
+					"flex-flow",
+					"flex-grow",
+					"flex-shrink",
+					"flex-wrap",
+					"order"
+				]
+			},
+			{
+				"name": "Grids",
+				"units": [
+					"grid",
+					"grid-area",
+					"grid-auto-columns",
+					"grid-auto-rows",
+					"grid-auto-flow",
+					"grid-column",
+					"grid-row",
+					"grid-column-start",
+					"grid-column-end",
+					"grid-row-start",
+					"grid-row-end",
+					"grid-template",
+					"grid-template-areas",
+					"grid-template-columns",
+					"grid-template-rows",
+					"fit-content",
+					"repeat"
+				]
+			},
+			{
+				"name": "Alignment & Float",
+				"units": [
+					"justify-content",
+					"justify-items",
+					"justify-self",
+					"align-content",
+					"align-items",
+					"align-self",
+					"place-content",
+					"place-items",
+					"place-self",
+					"gap",
+					"row-gap",
+					"column-gap",
+					"overflow",
+					"float",
+					"clear"
+				]
+			},
+			{
+				"name": "Background",
+				"units": [
+					"background",
+					"background-color",
+					"background-image",
+					"background-position",
+					"background-repeat",
+					"background-size",
+					"background-attachment",
+					"background-clip",
+					"background-origin",
+					"background-blend-mode",
+					"backdrop-filter",
+					"linear-gradient",
+					"repeating-linear-gradient",
+					"radial-gradient",
+					"repeating-radial-gradient",
+					"conic-gradient",
+					"repeating-conic-gradient",
+					"image-set",
+					"blur",
+					"brightness",
+					"contrast",
+					"drop-shadow",
+					"grayscale",
+					"hue-rotate",
+					"invert",
+					"opacity",
+					"saturate",
+					"sepia"
+				]
+			},
+			{
+				"name": "Text Handling",
+				"units": [
+					"color-property",
+					"font-family",
+					"font-size",
+					"line-height",
+					"text-align",
+					"text-transform",
+					"vertical-align",
+					"font-style",
+					"font-weight",
+					"font-display",
+					"font",
+					"letter-spacing",
+					"text-decoration",
+					"text-decoration-color",
+					"text-decoration-line",
+					"text-decoration-style",
+					"text-decoration-thickness",
+					"text-decoration-skip-ink",
+					"text-rendering",
+					"text-shadow",
+					"white-space",
+					"quotes",
+					"overflow-wrap",
+					"hyphens",
+					"text-indent",
+					"text-orientation",
+					"text-overflow",
+					"text-underline-offset",
+					"text-underline-position",
+					"word-break",
+					"word-spacing",
+					"word-wrap",
+					"writing-mode",
+					"tab-size"
+				]
+			},
+			{
+				"name": "Variable Fonts",
+				"units": [
+					"font-feature-settings",
+					"font-kerning",
+					"font-optical-sizing",
+					"font-size-adjust",
+					"font-stretch",
+					"font-synthesis",
+					"font-variant",
+					"font-variant-alternates",
+					"font-variant-caps",
+					"font-variant-east-asian",
+					"font-variant-ligatures",
+					"font-variant-numeric",
+					"font-variant-position",
+					"font-variation-settings"
+				]
+			},
+			{
+				"name": "Lists",
+				"units": [
+					"list-style",
+					"list-style-image",
+					"list-style-position",
+					"list-style-type"
+				]
+			},
+			{
+				"name": "counters",
+				"units": [
+					"counter-set",
+					"counter-reset",
+					"counter-increment",
+					"counter",
+					"counters"
+				]
+			},
+			{
+				"name": "Columns & Tables",
+				"units": [
+					"columns",
+					"column-count",
+					"column-width",
+					"column-fill",
+					"column-span",
+					"column-rule",
+					"column-rule-color",
+					"column-rule-style",
+					"column-rule-width",
+					"caption-side"
+				]
+			},
+			{
+				"name": "Animations",
+				"units": [
+					"animation",
+					"animation-delay",
+					"animation-direction",
+					"animation-duration",
+					"animation-fill-mode",
+					"animation-iteration-count",
+					"animation-name",
+					"animation-play-state",
+					"animation-timing-function",
+					"transition",
+					"transition-delay",
+					"transition-duration",
+					"transition-property",
+					"transition-timing-function",
+					"will-change"
+				]
+			},
+			{
+				"name": "Transformations",
+				"units": [
+					"transform",
+					"transform-origin",
+					"transform-style",
+					"transform-box",
+					"perspective-property",
+					"perspective-origin",
+					"backface-visibility",
+					"translate",
+					"translate-x",
+					"translate-y",
+					"translate-z",
+					"translate3d",
+					"translate-property",
+					"scale",
+					"scale-x",
+					"scale-y",
+					"scale-z",
+					"scale3d",
+					"scale-property",
+					"skew",
+					"skew-x",
+					"skew-y",
+					"rotate",
+					"rotate-x",
+					"rotate-y",
+					"rotate-z",
+					"rotate3d",
+					"rotate-property",
+					"matrix",
+					"matrix3d",
+					"perspective",
+					"circle",
+					"ellipse",
+					"inset",
+					"polygon"
+				]
+			},
+			{
+				"name": "Image Handling",
+				"units": [
+					"object-fit",
+					"object-position",
+					"aspect-ratio",
+					"filter",
+					"image-rendering",
+					"mix-blend-mode"
+				]
+			},
+			{
+				"name": "SVG",
+				"units": [
+					"fill", 
+					"stroke"
+				]
+			},
+			{
+				"name": "Forms",
+				"units": [
+					"appearance", 
+					"caret-color", 
+					"accent-color"
+				]
+			},
+			{
+				"name": "Print Styles",
+				"units": [
+					"widows"
+				]
+			},
+			{
+				"name": "Client Interface",
+				"units": [
+					"cursor",
+					"user-select",
+					"touch-action",
+					"pointer-events",
+					"resize",
+					"scroll-behavior",
+					"scroll-padding",
+					"scrollbar-color",
+					"scrollbar-gutter",
+					"scrollbar-width",
+					"zoom"
+				]
+			},
+			{
+				"name": "Mathematics",
+				"units": [
+					"acos",
+					"asin",
+					"atan",
+					"atan2",
+					"cos",
+					"sin",
+					"sqrt",
+					"tan",
+					"exp",
+					"hypot",
+					"log",
+					"mod",
+					"pow",
+					"round",
+					"rem",
+					"min",
+					"max",
+					"minmax",
+					"calc",
+					"clamp"
+				]
+			}
+		]
 	}
 }

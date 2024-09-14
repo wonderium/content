@@ -1,0 +1,26 @@
+{
+  "title": "translate3d()",
+  "description": "The `translate3d()` CSS function moves an element from its current position along the X, Y and Z axes.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function that applies a translation along the X, Y and Z axes simultaneously. This function allows for complex 3D movements, providing precise control over the position of elements in 3D space.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 12,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 10,
+        "firefox_android": 10,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

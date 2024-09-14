@@ -1,0 +1,26 @@
+{
+  "title": "word-break",
+  "description": "The `word-break` CSS property specifies how words should break when reaching the end of a line.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that controls how words are broken and wrapped within an element. It can be set to 'normal', 'break-all' or 'keep-all', affecting whether words break at arbitrary points or only at allowed break points.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 15,
+        "firefox_android": 15,
+        "safari": 3,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

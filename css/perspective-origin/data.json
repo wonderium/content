@@ -1,0 +1,26 @@
+{
+  "title": "perspective-origin",
+  "description": "The `perspective-origin` CSS property defines the position at which the viewer is looking at the 3D object.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that defines the point from which the viewer is looking at the element in a 3D space when the `perspective` property is applied. It controls the vanishing point of the perspective effect, determining how the 3D transformation appears.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 36,
+        "chrome_android": 36,
+        "edge": 12,
+        "firefox": 16,
+        "firefox_android": 16,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

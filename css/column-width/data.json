@@ -1,0 +1,26 @@
+{
+  "title": "column-width",
+  "description": "The `column-width` CSS property specifies the ideal width of columns in a multi-column layout.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the ideal width for columns in a multi-column layout. The browser will create as many columns as possible at the specified width, adjusting the number of columns based on the available space.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 50,
+        "chrome_android": 50,
+        "edge": 12,
+        "firefox": 50,
+        "firefox_android": 50,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2016,
+        "month": 11,
+        "day": 15
+      }
+    }
+  }
+}

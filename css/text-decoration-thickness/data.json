@@ -1,0 +1,26 @@
+{
+  "title": "text-decoration-thickness",
+  "description": "The `text-decoration-thickness` CSS property sets the thickness of the text decoration lines.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the thickness of the text decoration lines, like underlines or strikethroughs. This allows precise control over how bold or subtle these lines appear, providing more flexibility in the visual presentation of decorated text.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 89,
+        "chrome_android": 89,
+        "edge": 89,
+        "firefox": 70,
+        "firefox_android": 79,
+        "safari": 12.1,
+        "safari_ios": 12.2
+      },
+      "latest_release_date": {
+        "year": 2021,
+        "month": 3,
+        "day": 4
+      }
+    }
+  }
+}

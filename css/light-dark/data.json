@@ -1,0 +1,26 @@
+{
+  "title": "light-dark()",
+  "description": "The `light-dark()` CSS function calculates a color based on its lightness or darkness relative to a specified threshold.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function that adjusts the color output based on the user’s preferred color scheme, either light or dark mode. It allows to define a color that changes dynamically depending on whether the system or browser is set to a light or dark theme, improving accessibility and user experience.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 123,
+        "chrome_android": 123,
+        "edge": 123,
+        "firefox": 120,
+        "firefox_android": 120,
+        "safari": 17.5,
+        "safari_ios": 17.5
+      },
+      "latest_release_date": {
+        "year": 2024,
+        "month": 5,
+        "day": 13
+      }
+    }
+  }
+}

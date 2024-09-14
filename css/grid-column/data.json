@@ -1,0 +1,26 @@
+{
+  "title": "grid-column",
+  "description": "The `grid-column` CSS property is a shorthand for setting the `grid-column-start` and `grid-column-end` properties.",
+  "categories": [
+    "property"
+  ],
+  "content": "The shorthand property that specifies the starting and ending points of a grid item across the columns in a grid layout. It combines `grid-column-start` and `grid-column-end` properties into one declaration, allowing to control how many columns an item spans.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 57,
+        "chrome_android": 57,
+        "edge": 16,
+        "firefox": 52,
+        "firefox_android": 52,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 10,
+        "day": 17
+      }
+    }
+  }
+}
