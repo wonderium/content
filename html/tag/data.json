@@ -1,10 +1,10 @@
 {
   "title": "Tag",
-  "description": "The Tag in HTML is a component of syntax used to define elements in a web page.",
+  "description": "The Tag in HTML is the basic part of markup, enclosed in angle brackets, marking the start and end of elements, such as `<p>` and `</p>`.",
   "categories": [
     "concept",
     "syntax"
   ],
-  "content": "The basic building block of an HTML document, represented by angle brackets, like `<div>` or `<p>`. Tags define the structure and content of a webpage by marking up text and other elements.",
+  "content": "The main part of HTML syntax enclosed in angle brackets, that is used to mark the start and end of HTML elements. For example, `<p>` starts a paragraph and `</p>` ends it.",
   "extensions": {}
 }
