@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that is used to apply styles or add attributes to inline content. It does not have any specific meaning and is often used for styling or scripting purposes within a line of text.",
+  "content": "The element that is used to apply styles or add attributes to inline content. It doesn't have any specific meaning and is often used for styling or scripting purposes within a line of text.",
   "extensions": {
     "compatibility": {
       "browsers": {
