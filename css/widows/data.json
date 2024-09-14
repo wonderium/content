@@ -1,0 +1,22 @@
+{
+  "title": "widows",
+  "description": "The `widows` CSS property sets the minimum number of lines that must be left at the bottom of a page or column when a page break occurs within a block of text.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the minimum number of lines that must be left at the bottom of a page or column when a block of text is broken. It prevents awkward breaks by ensuring a certain number of lines remain on the page.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 25,
+        "chrome_android": 25,
+        "edge": 12,
+        "firefox": null,
+        "firefox_android": null,
+        "safari": 1.3,
+        "safari_ios": 1
+      },
+      "latest_release_date": "Limited availability"
+    }
+  }
+}

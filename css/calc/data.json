@@ -1,0 +1,26 @@
+{
+  "title": "calc()",
+  "description": "The `calc()` CSS math function performs calculations to determine the value of properties.",
+  "categories": [
+    "function"
+  ],
+  "content": "The math function that performs calculations to determine values for properties like `width`, `margin` or `padding`. It allows to mix units and do math directly in CSS, providing more flexibility and precision in design.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 26,
+        "chrome_android": 28,
+        "edge": 12,
+        "firefox": 16,
+        "firefox_android": 16,
+        "safari": 7,
+        "safari_ios": 7
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

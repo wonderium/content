@@ -1,0 +1,26 @@
+{
+  "title": "sqrt()",
+  "description": "The `sqrt()` CSS math function returns the positive square root of a number.",
+  "categories": [
+    "function"
+  ],
+  "content": "The math function that returns the square root of a number, often used within `calc()` to perform complex mathematical operations. This function can assist in creating precise layouts or responsive designs based on geometric calculations.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 120,
+        "chrome_android": 120,
+        "edge": 120,
+        "firefox": 118,
+        "firefox_android": 118,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 12,
+        "day": 7
+      }
+    }
+  }
+}

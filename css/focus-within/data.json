@@ -1,0 +1,26 @@
+{
+  "title": ":focus-within",
+  "description": "The `:focus-within` CSS pseudo-class applies when an element or any of its descendants receive focus.",
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that applies styles to an element if it or any of its descendants have focus. It’s useful for styling parent elements when a child element inside them, like a form field, is focused, allowing for better visual context and interaction feedback.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 60,
+        "chrome_android": 60,
+        "edge": 79,
+        "firefox": 52,
+        "firefox_android": 52,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "display",
+  "description": "The `display` CSS property specifies how an element is displayed on the screen.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that determines how an element is displayed in the document. Options include 'block', 'inline', 'flex', 'grid' and 'none', which control the element’s layout behavior, visibility and interaction with other elements.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

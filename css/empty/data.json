@@ -1,0 +1,26 @@
+{
+  "title": ":empty",
+  "description": "The `:empty` CSS pseudo-class applies to elements that have no children or text content.",
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that targets elements with no children or content, including text or whitespace. It’s useful for styling elements that are intentionally left empty, such as placeholders or for hiding them completely.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

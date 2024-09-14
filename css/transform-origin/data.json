@@ -1,0 +1,26 @@
+{
+  "title": "transform-origin",
+  "description": "The `transform-origin` CSS property sets the origin point for transformations.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the point around which transformations, such as rotation, scaling occur. It defines the origin of the transformation, allowing to adjust the pivot point of the element to achieve different visual effects.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 36,
+        "chrome_android": 36,
+        "edge": 12,
+        "firefox": 16,
+        "firefox_android": 16,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

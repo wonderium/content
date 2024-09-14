@@ -1,0 +1,26 @@
+{
+  "title": "border-style",
+  "description": "The `border-style` CSS property sets the style of an element's border.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the style of the border around an element, such as 'solid', 'dashed', 'dotted' or 'double'. It defines the visual pattern of the border, making it more distinct or subtle.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

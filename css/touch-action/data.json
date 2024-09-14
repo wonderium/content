@@ -1,0 +1,26 @@
+{
+  "title": "touch-action",
+  "description": "The `touch-action` CSS property specifies how touch input events should be handled by an element, such as scrolling or zooming.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that controls how touch interactions are handled on touch-enabled devices. It can specify whether touch gestures like scrolling, zooming or panning are enabled or disabled, optimizing user experience for touch interfaces.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 36,
+        "chrome_android": 36,
+        "edge": 12,
+        "firefox": 52,
+        "firefox_android": 52,
+        "safari": 13,
+        "safari_ios": 9.3
+      },
+      "latest_release_date": {
+        "year": 2019,
+        "month": 9,
+        "day": 19
+      }
+    }
+  }
+}

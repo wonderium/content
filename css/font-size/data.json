@@ -1,0 +1,26 @@
+{
+  "title": "font-size",
+  "description": "The `font-size` CSS property sets the size of the font for text content within an element.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the size of the text in an element. It can be specified in various units, like pixels, ems or percentages and controls how large or small the text appears on the screen.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

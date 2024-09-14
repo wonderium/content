@@ -1,0 +1,26 @@
+{
+  "title": "fit-content()",
+  "description": "The `fit-content()` CSS function sets a size based on the content's size but not exceeding a specified maximum value.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function that adjusts the size of an element to fit its content within a specified maximum or minimum size. It’s often used with grid or flexbox layouts to make elements expand or contract based on the content they contain, balancing flexibility and control.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 57,
+        "chrome_android": 57,
+        "edge": 16,
+        "firefox": 52,
+        "firefox_android": 52,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 10,
+        "day": 17
+      }
+    }
+  }
+}

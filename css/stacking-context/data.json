@@ -1,0 +1,9 @@
+{
+  "title": "Stacking Context",
+  "description": "The Stacking Context in CSS is a concept that defines a hierarchical layer system used to determine the stacking order of elements on the z-axis.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The concept that defines a hierarchical layer system used to determine the stacking order of elements on the z-axis. It is created by certain properties like `z-index`, `opacity`, and `position`, and it controls how elements overlap, ensuring proper visual hierarchy and clarity in a layout.",
+  "extensions": {}
+}

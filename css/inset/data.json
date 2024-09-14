@@ -1,0 +1,26 @@
+{
+  "title": "inset()",
+  "description": "The `inset()` CSS function defines an inset rectangle shape for use in CSS shapes.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function that defines an inset rectangle shape by specifying the offsets from the edges of the containing block. It acts as shorthand for setting the `top`, `right`, `bottom` and `left` properties, simplifying the control of an element's position and spacing within its container.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 37,
+        "chrome_android": 37,
+        "edge": 79,
+        "firefox": 54,
+        "firefox_android": 54,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

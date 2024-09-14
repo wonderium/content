@@ -1,0 +1,26 @@
+{
+  "title": "@keyframes",
+  "description": "The `@keyframes` CSS directive is used to define the behavior of animations, specifying keyframe styles at various points.",
+  "categories": [
+    "directive"
+  ],
+  "content": "The directive that defines the steps in an animation by specifying how an element’s styles should change at different points during the animation. It allows to create complex animations by controlling the transformation of properties over time.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 43,
+        "chrome_android": 43,
+        "edge": 12,
+        "firefox": 16,
+        "firefox_android": 16,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

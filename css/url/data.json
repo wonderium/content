@@ -1,0 +1,26 @@
+{
+  "title": "url()",
+  "description": "The `url()` CSS function is used to specify a URL, such as for background images or font sources.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function used to include external resources, such as images or fonts, in the styles. It specifies the location of the resource, allowing to set properties like `background-image` or `font-face` with paths to external files.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

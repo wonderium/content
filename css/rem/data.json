@@ -1,0 +1,26 @@
+{
+  "title": "rem()",
+  "description": "The `rem()` CSS math function returns the remainder of dividing two numbers.",
+  "categories": [
+    "function"
+  ],
+  "content": "The math function that returns the remainder when the first parameter is divided by the second parameter, similar to the JavaScript remainder operator. This function is useful for performing modular arithmetic in CSS calculations.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 125,
+        "chrome_android": 125,
+        "edge": 125,
+        "firefox": 118,
+        "firefox_android": 118,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2024,
+        "month": 5,
+        "day": 17
+      }
+    }
+  }
+}

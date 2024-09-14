@@ -1,0 +1,26 @@
+{
+  "title": "@media",
+  "description": "The `@media` CSS directive is used to apply styles based on specific media types and conditions, such as screen size or resolution.",
+  "categories": [
+    "directive"
+  ],
+  "content": "The directive used to apply styles based on the conditions of the user's viewport or device, such as screen size or resolution. It enables responsive design by allowing different stylesheets or style rules to be applied depending on the device characteristics.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 3,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

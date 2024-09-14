@@ -1,0 +1,26 @@
+{
+  "title": "column-rule-color",
+  "description": "The `column-rule-color` CSS property sets the color of the rule between columns.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the color of the line (rule) between columns in a multi-column layout. The color of the rule can be matched or contrasted with the surrounding content, making the columns stand out.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 50,
+        "chrome_android": 50,
+        "edge": 12,
+        "firefox": 52,
+        "firefox_android": 52,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 3,
+        "day": 7
+      }
+    }
+  }
+}

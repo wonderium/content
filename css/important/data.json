@@ -1,0 +1,9 @@
+{
+  "title": "!important",
+  "description": "The `!important` CSS rule is used to override other declarations. When added to a property value, it gives that property the highest priority, regardless of specificity.",
+  "categories": [
+    "modifier"
+  ],
+  "content": "The rule that forces a style to be applied, overriding any other conflicting rules, even those with higher specificity. It should be used sparingly, as it can make the CSS harder to maintain and debug by breaking the natural cascading order.",
+  "extensions": {}
+}

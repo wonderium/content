@@ -1,0 +1,26 @@
+{
+  "title": "animation-direction",
+  "description": "The `animation-direction` CSS property specifies whether an animation should play forwards, backwards, alternate between forwards and backwards or alternate direction with each iteration.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that defines the direction in which the animation should play. It can play normally from start to finish, in reverse or alternate between forward and backward. This adds variety to how animations behave.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 43,
+        "chrome_android": 43,
+        "edge": 12,
+        "firefox": 16,
+        "firefox_android": 16,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

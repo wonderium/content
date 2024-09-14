@@ -1,0 +1,26 @@
+{
+  "title": "font-stretch",
+  "description": "The `font-stretch` CSS property selects a 'normal', 'condensed' or 'expanded' face from a font.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that selects a 'normal', 'condensed' or 'expanded' version of the font, if available. The width of characters in a font can be changed, providing control over the text’s appearance and spacing.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 60,
+        "chrome_android": 60,
+        "edge": 12,
+        "firefox": 9,
+        "firefox_android": 9,
+        "safari": 11,
+        "safari_ios": 11
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 9,
+        "day": 19
+      }
+    }
+  }
+}

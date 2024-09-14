@@ -1,0 +1,26 @@
+{
+  "title": "grid-template-areas",
+  "description": "The `grid-template-areas` CSS property specifies a grid container's named grid areas.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that defines named grid areas within a grid container, making it easier to position grid items. Descriptive names can be used to map out the layout visually, assigning grid items to specific areas in a simple, readable way.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 57,
+        "chrome_android": 57,
+        "edge": 16,
+        "firefox": 52,
+        "firefox_android": 52,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 10,
+        "day": 17
+      }
+    }
+  }
+}

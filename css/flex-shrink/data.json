@@ -1,0 +1,26 @@
+{
+  "title": "flex-shrink",
+  "description": "The `flex-shrink` CSS property defines how much a flex item will shrink relative to the rest of the flex items inside the flex container.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that controls how much a flex item should shrink relative to the other flex items when there's not enough space in the flex container. It determines how an item reduces in size when the container is too small, helping to manage space distribution in tight layouts.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 29,
+        "chrome_android": 29,
+        "edge": 12,
+        "firefox": 20,
+        "firefox_android": 20,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

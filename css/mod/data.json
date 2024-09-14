@@ -1,0 +1,26 @@
+{
+  "title": "mod()",
+  "description": "The `mod()` CSS math function calculates the modulus of a division operation.",
+  "categories": [
+    "function"
+  ],
+  "content": "The math function used with the `calc()` function to calculate the modulus (remainder) of a division operation. It’s useful for creating repeating patterns or layouts that need to adjust based on the modulus of certain values.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 125,
+        "chrome_android": 125,
+        "edge": 125,
+        "firefox": 118,
+        "firefox_android": 118,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2024,
+        "month": 5,
+        "day": 17
+      }
+    }
+  }
+}

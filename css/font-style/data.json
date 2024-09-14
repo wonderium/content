@@ -1,0 +1,26 @@
+{
+  "title": "font-style",
+  "description": "The `font-style` CSS property specifies the italicization of text content within an element.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the style of the text, such as 'normal', 'italic' or 'oblique'. It controls whether the text is displayed with a normal or slanted appearance, often used for emphasis or to differentiate content.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

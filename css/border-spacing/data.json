@@ -1,0 +1,26 @@
+{
+  "title": "border-spacing",
+  "description": "The `border-spacing` CSS property sets the distance between the borders of adjacent table cells.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property used in tables to set the space between the borders of adjacent cells. It helps control the spacing and separation between cells, affecting the overall table layout and appearance.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "hypot()",
+  "description": "The `hypot()` CSS math function returns the square root of the sum of the squares of its arguments, providing the length of the hypotenuse of a right-angled triangle given the lengths of its other two sides.",
+  "categories": [
+    "function"
+  ],
+  "content": "The math function that calculates the length of the hypotenuse of a right-angled triangle. It takes two or more numbers as arguments, representing the sides of the triangle and returns the square root of the sum of their squares, useful in advanced layout calculations.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 120,
+        "chrome_android": 120,
+        "edge": 120,
+        "firefox": 118,
+        "firefox_android": 118,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 12,
+        "day": 7
+      }
+    }
+  }
+}

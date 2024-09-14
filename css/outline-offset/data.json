@@ -1,0 +1,26 @@
+{
+  "title": "outline-offset",
+  "description": "The `outline-offset` CSS property sets the space between an outline and the edge of an element's border box.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the space between the outline and the edge of the element’s border box. It controls how far the outline is drawn from the element.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 15,
+        "firefox": 1.5,
+        "firefox_android": 4,
+        "safari": 1.2,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 4,
+        "day": 5
+      }
+    }
+  }
+}

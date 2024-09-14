@@ -1,0 +1,26 @@
+{
+  "title": "cursor",
+  "description": "The `cursor` CSS property specifies the mouse cursor's appearance when hovering over an element.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that specifies the type of mouse cursor to display when hovering over an element. Options include 'pointer', 'default', 'text' and more, helping indicate how users can interact with the element.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 95,
+        "safari": 1.2,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2021,
+        "month": 12,
+        "day": 7
+      }
+    }
+  }
+}

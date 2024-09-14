@@ -1,0 +1,26 @@
+{
+  "title": "height",
+  "description": "The `height` CSS property sets the height of an element's content area.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that defines the height of an element. It can be set using units like pixels, percentages or other measurements, controlling how tall an element appears on the page and adjusting its size based on the content or parent element.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

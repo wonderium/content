@@ -1,0 +1,26 @@
+{
+  "title": "grid",
+  "description": "The `grid` CSS property is a shorthand for setting all the properties that define a grid container.",
+  "categories": [
+    "property"
+  ],
+  "content": "The shorthand property that creates a layout structure with rows and columns. It allows arranging elements in a flexible organized way. Using this property, elements can be placed precisely within the grid areas. It’s helpful for designing complex web layouts.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 57,
+        "chrome_android": 57,
+        "edge": 16,
+        "firefox": 52,
+        "firefox_android": 52,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 10,
+        "day": 17
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "font-variation-settings",
+  "description": "The `font-variation-settings` CSS property provides low-level control over variable font features.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that provides fine-grained control over variable fonts by adjusting specific axes, such as weight, width or slant. It allows to customize the appearance of a font beyond predefined styles, offering flexibility in font design.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 62,
+        "chrome_android": 62,
+        "edge": 17,
+        "firefox": 62,
+        "firefox_android": 62,
+        "safari": 11,
+        "safari_ios": 11
+      },
+      "latest_release_date": {
+        "year": 2018,
+        "month": 9,
+        "day": 5
+      }
+    }
+  }
+}

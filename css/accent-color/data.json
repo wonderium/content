@@ -1,0 +1,26 @@
+{
+  "title": "accent-color",
+  "description": "The `accent-color` CSS property sets the color used for accentuating elements that are focusable, selected or activated, providing a consistent UI experience across platforms.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the color of interactive elements like checkboxes, radio buttons and other form controls. It helps ensure that these elements fit the overall design of the website.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 93,
+        "chrome_android": 93,
+        "edge": 93,
+        "firefox": 92,
+        "firefox_android": 92,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2022,
+        "month": 3,
+        "day": 14
+      }
+    }
+  }
+}

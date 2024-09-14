@@ -1,0 +1,26 @@
+{
+  "title": ":placeholder-shown",
+  "description": "The `:placeholder-shown` CSS pseudo-class applies to input elements when their placeholder text is visible in the UI.",
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that selects input or textarea elements when their placeholder text is visible. It can be used to apply styles when the placeholder is present, such as adjusting the background color or adding a border to indicate that the field is empty.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 47,
+        "chrome_android": 47,
+        "edge": 79,
+        "firefox": 51,
+        "firefox_android": 51,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "scaleZ()",
+  "description": "The `scaleZ()` CSS function resizes an element along the Z-axis.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function that scales an element along the Z-axis, which represents depth in 3D space. This transformation affects how an element appears in relation to the viewer, making it look closer or farther away, though its effects are most visible when combined with other 3D transformations.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 12,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 10,
+        "firefox_android": 10,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

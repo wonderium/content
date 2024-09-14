@@ -1,0 +1,26 @@
+{
+  "title": "currentcolor",
+  "description": "The `currentcolor` CSS keyword is a computed value of the `color` property.",
+  "categories": [
+    "keyword"
+  ],
+  "content": "The keyword that represents the current value of the `color` property. It allows to reuse the same color for different properties, such as `border` or `background`, ensuring consistency in design.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1.5,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

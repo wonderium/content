@@ -1,0 +1,10 @@
+{
+  "title": "Variables",
+  "description": "The Variables CSS syntax allows to store values for reuse throughout a stylesheet.",
+  "categories": [
+    "concept",
+    "syntax"
+  ],
+  "content": "The custom properties that store reusable values for use throughout a CSS stylesheet. Defined with '--', they can be accessed with the `var()` function, making it simpler to manage and update styles.",
+  "extensions": {}
+}

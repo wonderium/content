@@ -1,0 +1,26 @@
+{
+  "title": "text-decoration-skip-ink",
+  "description": "The `text-decoration-skip-ink` CSS property determines if the text decoration line skips over characters where it would collide with ink.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that controls whether the underline or other text decorations skip over descenders, such as the lower parts of letters like 'g' and 'y'. It improves readability by making sure underlines don't interfere with the shapes of letters, creating a cleaner look.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 64,
+        "chrome_android": 64,
+        "edge": 79,
+        "firefox": 70,
+        "firefox_android": 79,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2022,
+        "month": 3,
+        "day": 14
+      }
+    }
+  }
+}

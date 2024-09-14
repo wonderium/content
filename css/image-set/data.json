@@ -1,0 +1,26 @@
+{
+  "title": "image-set()",
+  "description": "The `image-set()` CSS function defines a list of images to be used in an element, allowing for different image sources to be selected based on factors, such as resolution or display capabilities.", 
+  "categories": [
+    "function"
+  ],
+  "content": "The function that allows to define multiple versions of an image for different screen resolutions. It’s similar to the `srcset` attribute in HTML and helps to deliver the best quality image based on the user's device, improving visual performance.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 113,
+        "chrome_android": 113,
+        "edge": 113,
+        "firefox": 89,
+        "firefox_android": 89,
+        "safari": 17,
+        "safari_ios": 17
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 9,
+        "day": 18
+      }
+    }
+  }
+}

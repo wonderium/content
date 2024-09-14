@@ -1,0 +1,26 @@
+{
+  "title": "color-scheme",
+  "description": "The `color-scheme` CSS property specifies the preferred color scheme for elements, allowing developers to define light or dark themes.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that indicates which color schemes the page supports, like light or dark mode. It helps browsers automatically adjust the appearance of form controls and other elements to match the selected color scheme, improving the user experience.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 81,
+        "chrome_android": 81,
+        "edge": 81,
+        "firefox": 96,
+        "firefox_android": 96,
+        "safari": 13,
+        "safari_ios": 13
+      },
+      "latest_release_date": {
+        "year": 2022,
+        "month": 1,
+        "day": 11
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "text-underline-position",
+  "description": "The `text-underline-position` CSS property specifies the position of the underline set by the `text-decoration` property.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that determines the placement of underlines in relation to the text, particularly in situations where the default underline might interfere with text readability. It can be set to 'auto', 'under' or 'left' (for vertical text), helping ensure that underlines are positioned optimally for different fonts and text layouts.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 33,
+        "chrome_android": 33,
+        "edge": 12,
+        "firefox": 74,
+        "firefox_android": 79,
+        "safari": 12.1,
+        "safari_ios": 12.2
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 7,
+        "day": 28
+      }
+    }
+  }
+}

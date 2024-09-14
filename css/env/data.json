@@ -1,0 +1,26 @@
+{
+  "title": "env()",
+  "description": "The `env()` CSS function is used to access environment variables, allowing styles to adapt based on system settings like user preferences or device characteristics.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function that accesses environment variables, like safe area insets on mobile devices, to adjust the layout dynamically. It helps ensure that content doesn’t overlap with system UI elements, like the notch or home bar, on devices with special hardware features.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 69,
+        "chrome_android": 69,
+        "edge": 79,
+        "firefox": 65,
+        "firefox_android": 65,
+        "safari": 11.1,
+        "safari_ios": 11.3
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

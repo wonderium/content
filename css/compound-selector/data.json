@@ -1,0 +1,9 @@
+{
+  "title": "Compound Selector",
+  "description": "The Compound CSS selector uses multiple selectors combined without a combinator to apply styles based on complex criteria.",
+  "categories": [
+    "selector"
+  ],
+  "content": "The selector that combines multiple simple selectors without any combinator. It targets elements that match all of the specified selectors, allowing for more precise styling.",
+  "extensions": {}
+}

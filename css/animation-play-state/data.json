@@ -1,0 +1,26 @@
+{
+  "title": "animation-play-state",
+  "description": "The `animation-play-state` CSS property specifies whether an animation is running or paused.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that controls whether the animation is running or paused. It’s useful for interactive elements where users control the animation.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 43,
+        "chrome_android": 43,
+        "edge": 12,
+        "firefox": 16,
+        "firefox_android": 16,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

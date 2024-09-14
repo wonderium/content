@@ -1,0 +1,26 @@
+{
+  "title": "grayscale()",
+  "description": "The `grayscale()` CSS function converts an element's content to grayscale.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function used as a value for the `filter` property to convert an element’s colors to shades of gray. The value can range from '0' (no effect) to '1' (full grayscale), which is useful for creating monochromatic effects or toning down the colors in an image or element.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 18,
+        "chrome_android": 53,
+        "edge": 12,
+        "firefox": 35,
+        "firefox_android": 35,
+        "safari": 6,
+        "safari_ios": 6
+      },
+      "latest_release_date": {
+        "year": 2016,
+        "month": 9,
+        "day": 7
+      }
+    }
+  }
+}

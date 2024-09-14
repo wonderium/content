@@ -1,0 +1,9 @@
+{
+  "title": "Counters",
+  "description": "The Counters in CSS are used to track and display the number of occurrences of elements.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The feature that allows for the creation and manipulation of custom counters within a document. Counters can be incremented, reset or combined to generate automatic numbering for elements like lists or headings.",
+  "extensions": {}
+}

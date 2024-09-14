@@ -1,0 +1,26 @@
+{
+  "title": "ellipse()",
+  "description": "The `ellipse()` CSS function defines an elliptical shape for use in CSS shapes.",
+  "categories": [
+    "function"
+  ],
+  "content": "The shape function used as a value for the `clip-path` property to create an elliptical clipping region. It defines the size and position of the ellipse, allowing to clip content into an oval or circular shape.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 37,
+        "chrome_android": 37,
+        "edge": 79,
+        "firefox": 54,
+        "firefox_android": 54,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

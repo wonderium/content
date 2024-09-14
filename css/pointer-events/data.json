@@ -1,0 +1,26 @@
+{
+  "title": "pointer-events",
+  "description": "The `pointer-events` CSS property determines whether an element can be the target of mouse events or touch events, overriding the default behavior of HTML elements.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that controls whether an element can be the target of mouse events or touch events. It can be set to values like 'auto', 'none' or others, determining whether the element can respond to clicks, hovers or other pointer interactions.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1.5,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

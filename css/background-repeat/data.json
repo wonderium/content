@@ -1,0 +1,26 @@
+{
+  "title": "background-repeat",
+  "description": "The `background-repeat` CSS property determines how a background image repeats (or doesn't repeat) both horizontally and vertically within its container.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that controls whether and how a background image repeats within an element. The image can be made to repeat horizontally, vertically, both or not at all.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

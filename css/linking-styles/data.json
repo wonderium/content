@@ -1,0 +1,9 @@
+{
+  "title": "Linking Styles",
+  "description": "The Linking Styles in CSS involves connecting external, internal or inline stylesheets to an HTML document.",
+  "categories": [
+    "syntax"
+  ],
+  "content": "The process of connecting CSS stylesheets to HTML documents using the `<link>` element. This allows external CSS files to apply styles to a webpage, enabling to separate content from design, making it easier to manage and reuse styles across multiple pages.",
+  "extensions": {}
+}

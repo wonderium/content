@@ -1,0 +1,26 @@
+{
+  "title": "list-style",
+  "description": "The `list-style` CSS property is a shorthand for setting `list-style-type`, `list-style-position` and `list-style-image` properties.",
+  "categories": [
+    "property"
+  ],
+  "content": "The shorthand property that sets the style of lists by combining `list-style-type`, `list-style-position` and `list-style-image` properties into one declaration. It allows to specify how list items are marked, including their type (like bullets or numbers), position and image.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

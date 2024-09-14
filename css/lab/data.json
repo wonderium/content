@@ -1,0 +1,26 @@
+{
+  "title": "lab()",
+  "description": "The `lab()` CSS function specifies a color using the CIELAB color space, which describes colors based on lightness and two color components.",
+  "categories": [
+    "function"
+  ],
+  "content": "The color function that defines colors using the CIELAB color space, which separates lightness from two color components: 'a' (from green to red) and 'b' (from blue to yellow). It provides a more perceptually uniform way of defining colors, making it easier to achieve consistent color contrasts.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 111,
+        "chrome_android": 111,
+        "edge": 111,
+        "firefox": 113,
+        "firefox_android": 113,
+        "safari": 15,
+        "safari_ios": 15
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 5,
+        "day": 9
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "@charset",
+  "description": "The `@charset` CSS directive defines the character encoding of the stylesheet.",
+  "categories": [
+    "directive"
+  ],
+  "content": "The directive that declares the character encoding of a stylesheet, like UTF-8. It should be placed at the very top of the CSS file, ensuring that the browser correctly interprets the characters in the file.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 2,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1.5,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 4
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": ":indeterminate",
+  "description": "The `:indeterminate` CSS pseudo-class applies to form elements, such as checkboxes, that are neither checked nor unchecked, but in an indeterminate state.",
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that applies to form elements, like checkboxes, when they are in an indeterminate state. This means the element is neither checked nor unchecked, often used to indicate a mixed state or partial selection.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 2,
+        "firefox_android": 4,
+        "safari": 3,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

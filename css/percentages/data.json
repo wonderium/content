@@ -1,0 +1,26 @@
+{
+  "title": "Percentages",
+  "description": "The Percentages CSS units represent relative sizes based on the dimensions of a parent element, allowing for responsive layouts",
+  "categories": [
+    "concept"
+  ],
+  "content": "The units that represent the proportion of a reference value, usually relative to the parent element’s size. Percentages are commonly used for widths or heights, enabling responsive designs that adapt to different screen sizes.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

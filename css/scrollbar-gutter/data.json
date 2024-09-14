@@ -1,0 +1,22 @@
+{
+  "title": "scrollbar-gutter",
+  "description": "The `scrollbar-gutter` CSS property specifies whether a space should be reserved for the scrollbar to prevent content from jumping when it appears or disappears.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that reserves space for the scrollbar, ensuring the layout doesn’t shift when a scrollbar appears. It can be used to create a consistent design experience, even when content overflows and requires scrolling.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 94,
+        "chrome_android": 94,
+        "edge": 94,
+        "firefox": 97,
+        "firefox_android": 97,
+        "safari": null,
+        "safari_ios": null
+      },
+      "latest_release_date": "Limited availability"
+    }
+  }
+}

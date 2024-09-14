@@ -1,0 +1,26 @@
+{
+  "title": "animation-fill-mode",
+  "description": "The `animation-fill-mode` CSS property specifies how an element should be styled before and after an animation is executed.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that determines what styles are applied to the element before and after the animation runs. It can make the element keep its animation styles after the animation ends or reset to its original state.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 43,
+        "chrome_android": 43,
+        "edge": 12,
+        "firefox": 16,
+        "firefox_android": 16,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "polygon()",
+  "description": "The `polygon()` CSS function defines a polygon shape for use in CSS shapes.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function used as a value for the `clip-path` property to define a clipping area as a polygon. It allows to create complex shapes by specifying a series of points, clipping the element’s content to that custom shape, useful for creating unique visual effects.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 37,
+        "chrome_android": 37,
+        "edge": 79,
+        "firefox": 54,
+        "firefox_android": 54,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

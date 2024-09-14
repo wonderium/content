@@ -1,0 +1,26 @@
+{
+  "title": ":required",
+  "description": "The `:required` CSS pseudo-class applies to form elements that have the `required` attribute set.",
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that selects form elements with the `required` attribute. It applies to fields that must be filled out before a form can be submitted, enabling specific styling to indicate the importance of these fields to the user.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 10,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 4,
+        "firefox_android": 4,
+        "safari": 5,
+        "safari_ios": 5
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

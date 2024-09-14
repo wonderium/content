@@ -1,0 +1,26 @@
+{
+  "title": "translate()",
+  "description": "The `translate()` CSS function moves an element from its current position along the X and Y axes.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function that moves an element from its current position along the X and Y axes. It can be used to adjust an element's position relative to its normal flow, creating effects like shifting or sliding.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

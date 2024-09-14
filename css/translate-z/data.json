@@ -1,0 +1,26 @@
+{
+  "title": "translateZ()",
+  "description": "The `translateZ()` CSS function moves an element from its current position along the Z-axis.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function that moves an element along the Z-axis in 3D space. It adjusts the depth of the element, making it appear closer or farther away from the viewer, adding a sense of 3D perspective to the design.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 12,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 10,
+        "firefox_android": 10,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

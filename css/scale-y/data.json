@@ -1,0 +1,26 @@
+{
+  "title": "scaleY()",
+  "description": "The `scaleY()` CSS function resizes an element along the Y-axis.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function that scales an element vertically by a specified factor along the Y-axis. This transformation adjusts the height of the element, stretching or compressing it while keeping the width unchanged, allowing for vertical resizing.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

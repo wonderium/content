@@ -1,0 +1,26 @@
+{
+  "title": "Angle Units",
+  "description": "The Angle CSS units, such as 'deg', 'rad', 'grad' and 'turn', specify rotation angles.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The units, such as 'deg', 'rad', 'grad' and 'turn' used to define angles, often for rotations. For example, '90deg' would rotate an element a quarter turn and '1turn' would rotate it a full circle.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 2,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.6,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

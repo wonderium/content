@@ -1,0 +1,26 @@
+{
+  "title": "exp()",
+  "description": "The `exp()` CSS math function returns the value of `e` raised to the power of a specified number.",
+  "categories": [
+    "function"
+  ],
+  "content": "The math function that returns the value of `e` (Euler's number) raised to the power of a given number. It’s used in calculations involving exponential growth, decay or other mathematical models in programming.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 120,
+        "chrome_android": 120,
+        "edge": 120,
+        "firefox": 118,
+        "firefox_android": 118,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 12,
+        "day": 7
+      }
+    }
+  }
+}

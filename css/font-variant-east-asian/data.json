@@ -1,0 +1,26 @@
+{
+  "title": "font-variant-east-asian",
+  "description": "The `font-variant-east-asian` CSS property controls the usage of alternate glyphs for East Asian languages.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that adjusts the appearance of text for East Asian scripts, such as Japanese or Chinese. It includes features like alternate glyph shapes, full-width or proportional forms and vertical writing, enhancing readability and cultural accuracy.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 63,
+        "chrome_android": 63,
+        "edge": 79,
+        "firefox": 34,
+        "firefox_android": 34,
+        "safari": 9.1,
+        "safari_ios": 9.3
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "border-color",
+  "description": "The `border-color` CSS property sets the color of an element's border.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the color of the border around an element. A single color can be applied to all sides or different colors can be used for each side, adding visual emphasis or separation.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

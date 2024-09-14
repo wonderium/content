@@ -1,0 +1,26 @@
+{
+  "title": "rgb() / rgba()",
+  "description": "The `rgb()` CSS function specifies a color using red, green and blue values. The `rgba()` CSS function is an extension that includes an alpha channel for transparency.",
+  "categories": [
+    "function"
+  ],
+  "content": "The functions used to define colors using the RGB (Red, Green, Blue) color model. The `rgb()` function specifies colors with three numeric values, while `rgba()` adds a fourth value for transparency (alpha channel), allowing for precise control over color and opacity.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

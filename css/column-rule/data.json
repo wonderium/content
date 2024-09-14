@@ -1,0 +1,26 @@
+{
+  "title": "column-rule",
+  "description": "The `column-rule` CSS property is a shorthand for setting the width, style and color of the rule between columns.",
+  "categories": [
+    "property"
+  ],
+  "content": "The shorthand property that sets the style, width and color of the line (rule) drawn between columns in a multi-column layout. It’s used to visually separate columns with a line, enhancing the overall design.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 50,
+        "chrome_android": 50,
+        "edge": 12,
+        "firefox": 52,
+        "firefox_android": 52,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 3,
+        "day": 7
+      }
+    }
+  }
+}

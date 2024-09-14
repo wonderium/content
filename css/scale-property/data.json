@@ -1,0 +1,26 @@
+{
+  "title": "scale",
+  "description": "The `scale` CSS property allows to resize an element along the X and Y axes.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that scales an element in 2D or 3D space by adjusting its size. It doesn’t overwrite the `transform` property, as it modifies the element’s size without affecting other transform functions. This property is useful for enlarging or shrinking elements to create various visual effects.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 104,
+        "chrome_android": 104,
+        "edge": 104,
+        "firefox": 72,
+        "firefox_android": 79,
+        "safari": 14.1,
+        "safari_ios": 14.5
+      },
+      "latest_release_date": {
+        "year": 2022,
+        "month": 8,
+        "day": 5
+      }
+    }
+  }
+}

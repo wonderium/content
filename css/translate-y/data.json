@@ -1,0 +1,26 @@
+{
+  "title": "translateY()",
+  "description": "The `translateY()` CSS function moves an element from its current position along the Y-axis.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function that moves an element vertically along the Y-axis. It shifts the element up or down from its original position, allowing for vertical adjustments and animations.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "transform",
+  "description": "The `transform` CSS property applies a 2D or 3D transformation to an element.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that applies a 2D or 3D transformation to an element. It allows for scaling, rotating, skewing or translating elements using functions like 'scale()', 'rotate()', 'skew()' and 'translate()', enabling dynamic and interactive visual effects while maintaining the element's layout.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 36,
+        "chrome_android": 36,
+        "edge": 12,
+        "firefox": 16,
+        "firefox_android": 16,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

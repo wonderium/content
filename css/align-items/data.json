@@ -1,0 +1,26 @@
+{
+  "title": "align-items",
+  "description": "The `align-items` CSS property aligns flex items along the cross axis of the current line of the flex container.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that aligns the items inside a flex or grid container along the cross axis, which can be vertical or horizontal depending on the direction. It ensures that items are aligned consistently, like centering them or stretching them to fill the space.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 29,
+        "chrome_android": 29,
+        "edge": 12,
+        "firefox": 20,
+        "firefox_android": 20,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

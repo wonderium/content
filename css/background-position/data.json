@@ -1,0 +1,26 @@
+{
+  "title": "background-position",
+  "description": "The `background-position` CSS property specifies the initial position of a background image within its container.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the starting position of a background image within an element. It allows precise control over where the image appears, using coordinates, keywords or percentages.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

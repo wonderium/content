@@ -1,0 +1,26 @@
+{
+  "title": "border-inline",
+  "description": "The `border-inline` CSS property sets the border for the inline-start and inline-end sides of an element.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the border on the inline-start and inline-end sides of an element, which correspond to the left and right sides in a horizontal writing mode. It’s a shorthand for `border-inline-start` and `border-inline-end`, useful for styling borders on inline sides.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 87,
+        "chrome_android": 87,
+        "edge": 87,
+        "firefox": 66,
+        "firefox_android": 66,
+        "safari": 14.1,
+        "safari_ios": 14.5
+      },
+      "latest_release_date": {
+        "year": 2021,
+        "month": 4,
+        "day": 26
+      }
+    }
+  }
+}

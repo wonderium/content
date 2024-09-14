@@ -1,0 +1,26 @@
+{
+  "title": ":valid",
+  "description": "The `:valid` CSS pseudo-class applies to form elements whose contents are valid according to their validation constraints.",
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that applies styles to form elements that contain valid input. It targets fields that meet the requirements set by their type, pattern or other validation constraints, allowing for visual feedback when input is correct.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 10,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 4,
+        "firefox_android": 4,
+        "safari": 5,
+        "safari_ios": 5
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

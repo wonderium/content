@@ -1,0 +1,22 @@
+{
+  "title": "@scope",
+  "description": "The `@scope` CSS directive is used to define the scope of styles within a shadow DOM, encapsulating CSS styles to apply only within that shadow DOM.",
+  "categories": [
+    "directive"
+  ],
+  "content": "The directive used to define the scope of styles within a specific part of the document. It allows to apply styles only to elements within a defined section, making it easier to manage and contain styles, especially in large or complex projects.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 118,
+        "chrome_android": 118,
+        "edge": 118,
+        "firefox": null,
+        "firefox_android": null,
+        "safari": 17.4,
+        "safari_ios": 17.4
+      },
+      "latest_release_date": "Limited availability"
+    }
+  }
+}

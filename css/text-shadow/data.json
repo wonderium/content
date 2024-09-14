@@ -1,0 +1,26 @@
+{
+  "title": "text-shadow",
+  "description": "The `text-shadow` CSS property adds shadow effects to text.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that adds a shadow to text, creating a sense of depth or emphasis. It allows to specify the shadow's color, offset, blur radius and spread, enhancing text by making it stand out or adding a stylistic effect.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 2,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 1.1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": ":read-only",
+  "description": "The `:read-only` CSS pseudo-class applies to form elements with the `readonly` attribute, preventing user input and styling them accordingly.",
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that selects form elements that cannot be edited by the user. It’s applied to fields that are set to `readonly`, ensuring these fields are styled differently from those that can be modified.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 13,
+        "firefox": 78,
+        "firefox_android": 79,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 7,
+        "day": 28
+      }
+    }
+  }
+}

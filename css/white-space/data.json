@@ -1,0 +1,26 @@
+{
+  "title": "white-space",
+  "description": "The `white-space` CSS property controls how whitespace inside an element is handled, such as whether lines should wrap or not.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that controls how white space inside an element is handled. It can be set to 'normal', 'nowrap', 'pre', 'pre-wrap' or 'pre-line', affecting whether text wraps, is preserved or collapses whitespace.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

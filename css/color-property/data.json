@@ -1,0 +1,26 @@
+{
+  "title": "сolor",
+  "description": "The `color` CSS property sets the color of text content.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the color of text in an element. It applies to the content of the element, including text, borders and other inline elements and can be defined using color keywords, hexadecimal values, RGB, HSL or other color functions.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

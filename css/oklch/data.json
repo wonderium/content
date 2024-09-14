@@ -1,0 +1,26 @@
+{
+  "title": "oklch()",
+  "description": "The `oklch()` CSS function specifies a color using the Oklch color space, specifying lightness, chroma and hue for more perceptually uniform colors.",
+  "categories": [
+    "function"
+  ],
+  "content": "The color function that specifies a color in the Oklch color space, which is based on lightness, chroma and hue. It's useful for fine-tuning colors with precise control over their appearance. It offers a more intuitive way to adjust colors while maintaining consistency and harmony.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 111,
+        "chrome_android": 111,
+        "edge": 111,
+        "firefox": 113,
+        "firefox_android": 113,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 5,
+        "day": 9
+      }
+    }
+  }
+}

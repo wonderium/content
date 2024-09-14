@@ -1,0 +1,26 @@
+{
+  "title": "box-shadow",
+  "description": "The `box-shadow` CSS property adds shadow effects around an element's frame.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that adds a shadow effect around an element's frame. It can create different shadow styles, like drop shadows or inner shadows, by adjusting the color, size, blur and spread of the shadow.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 10,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 4,
+        "firefox_android": 4,
+        "safari": 5.1,
+        "safari_ios": 5
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

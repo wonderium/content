@@ -1,0 +1,26 @@
+{
+  "title": "outline",
+  "description": "The `outline` CSS property is a shorthand for setting the `outline-color`, `outline-style` and `outline-width` properties.",
+  "categories": [
+    "property"
+  ],
+  "content": "The shorthand property that sets a line around an element, similar to a border but without affecting the element's dimensions. It combines `outline-color`, `outline-style` and `outline-width` properties into one declaration, useful for creating visual emphasis or focus indicators.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 94,
+        "chrome_android": 94,
+        "edge": 94,
+        "firefox": 88,
+        "firefox_android": 88,
+        "safari": 16.4,
+        "safari_ios": 16.4
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 3,
+        "day": 27
+      }
+    }
+  }
+}

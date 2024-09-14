@@ -1,0 +1,26 @@
+{
+  "title": "transition-property",
+  "description": "The `transition` CSS property specifies the name of the CSS properties to which a transition effect should be applied.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that specifies which CSS properties should be animated during a transition. It allows to select specific properties, such as `opacity` or `background-color` to change gradually over a defined duration, creating smooth visual effects.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 26,
+        "chrome_android": 26,
+        "edge": 12,
+        "firefox": 16,
+        "firefox_android": 16,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

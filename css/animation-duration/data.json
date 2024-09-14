@@ -1,0 +1,26 @@
+{
+  "title": "animation-duration",
+  "description": "The `animation-duration` CSS property specifies the length of time that an animation takes to complete one cycle.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the length of time an animation takes to complete one cycle. This controls how fast or slow the animation runs, with shorter durations making it quicker and longer durations making it slower.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 43,
+        "chrome_android": 43,
+        "edge": 12,
+        "firefox": 16,
+        "firefox_android": 16,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

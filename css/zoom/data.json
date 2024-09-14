@@ -1,0 +1,26 @@
+{
+  "title": "zoom",
+  "description": "The `zoom` CSS property allows for scaling an element, enlarging or reducing its size.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that scales an element by a specified factor. It enlarges or reduces the size of the element and its content, affecting layout and rendering but not changing the element's dimensions or position in the document.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 126,
+        "firefox_android": 126,
+        "safari": 3.1,
+        "safari_ios": 3
+      },
+      "latest_release_date": {
+        "year": 2024,
+        "month": 5,
+        "day": 14
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Animations",
+  "description": "The Animations in CSS allow for the gradual change of property values over time.",
+  "categories": [
+    "concept"
+  ], 
+  "content": "The way to make elements on a webpage move or change over time. It can involve changing colors, sizes or positions, creating smooth transitions that make a webpage more dynamic and engaging. Animations can be simple, like a button that changes color when hovered over or complex, like an image that slides across the screen.",
+  "extensions": {}
+}

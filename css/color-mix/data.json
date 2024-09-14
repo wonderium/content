@@ -1,0 +1,26 @@
+{
+  "title": "color-mix()",
+  "description": "The `color-mix()` CSS function blends two or more colors together based on a specified weight or ratio.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function that blends two colors together based on a specified ratio, creating a new color that is a mix of the two. It’s useful for generating gradients, adjusting colors dynamically or creating themes with blended hues.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 111,
+        "chrome_android": 111,
+        "edge": 111,
+        "firefox": 113,
+        "firefox_android": 113,
+        "safari": 16.2,
+        "safari_ios": 16.2
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 5,
+        "day": 9
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "radial-gradient()",
+  "description": "The `radial-gradient()` CSS function creates an image consisting of a progressive transition between two or more colors radiating from a central point.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function that creates a gradient that radiates outward from a central point. It blends colors in a circular or elliptical pattern, often used for backgrounds, allowing to create smooth transitions between colors in various shapes and directions.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 26,
+        "chrome_android": 26,
+        "edge": 12,
+        "firefox": 16,
+        "firefox_android": 16,
+        "safari": 7,
+        "safari_ios": 7
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

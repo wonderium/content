@@ -1,0 +1,26 @@
+{
+  "title": "border-width",
+  "description": "The `border-width` CSS property sets the width of an element's border.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that sets the thickness of the border around an element. Different widths for each side can be specified or the same width can be applied to all sides, affecting how prominent the border appears.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 3
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

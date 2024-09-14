@@ -1,0 +1,26 @@
+{
+  "title": "column-count",
+  "description": "The `column-count` CSS property specifies the number of columns an element's content should be divided into.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that specifies the number of columns an element's content should be divided into. It’s part of the multi-column layout module, allowing to create newspaper-like layouts by splitting content into multiple vertical columns.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 50,
+        "chrome_android": 50,
+        "edge": 12,
+        "firefox": 52,
+        "firefox_android": 52,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 3,
+        "day": 7
+      }
+    }
+  }
+}

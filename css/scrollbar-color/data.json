@@ -1,0 +1,22 @@
+{
+  "title": "scrollbar-color",
+  "description": "The `scrollbar-color` CSS property sets the color of scrollbar track and thumb.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that customizes the color of the scrollbar in an element. It allows to set the colors for both the scrollbar track and thumb, enabling more consistent design and better integration with the overall color scheme of the page.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 121,
+        "chrome_android": 121,
+        "edge": 121,
+        "firefox": 64,
+        "firefox_android": 64,
+        "safari": null,
+        "safari_ios": null
+      },
+      "latest_release_date": "Limited availability"
+    }
+  }
+}

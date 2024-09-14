@@ -1,0 +1,26 @@
+{
+  "title": "round()",
+  "description": "The `round()` CSS math function returns the value of a number rounded to the nearest integer.",
+  "categories": [
+    "function"
+  ],
+  "content": "The math function used with the `calc()` function to round a number to the nearest whole number. It’s useful for ensuring that calculated values, such as lengths or sizes, are rounded to the nearest integer, which can help avoid fractional pixel values that might cause rendering issues.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 125,
+        "chrome_android": 125,
+        "edge": 125,
+        "firefox": 118,
+        "firefox_android": 118,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2024,
+        "month": 5,
+        "day": 17
+      }
+    }
+  }
+}

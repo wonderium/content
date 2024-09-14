@@ -1,0 +1,26 @@
+{
+  "title": "lch()",
+  "description": "The `lch()` CSS function specifies a color using the LCH color space, which describes colors based on lightness, chroma and hue.", 
+  "categories": [
+    "function"
+  ],
+  "content": "The color function that defines colors using the LCH (Lightness, Chroma, Hue) color space. It’s a perceptually uniform color model, meaning that changes in the LCH values produce consistent changes in color perception, making it ideal for accessible and consistent color design.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 111,
+        "chrome_android": 111,
+        "edge": 111,
+        "firefox": 113,
+        "firefox_android": 113,
+        "safari": 15,
+        "safari_ios": 15
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 5,
+        "day": 9
+      }
+    }
+  }
+}

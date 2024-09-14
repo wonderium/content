@@ -1,0 +1,26 @@
+{
+  "title": "attr()",
+  "description": "The `attr()` CSS function used to retrieve the value of an attribute from an HTML element and use it in CSS styling, such as for content or dimensions.",
+  "categories": [
+    "function"
+  ],
+  "content": "The function used to retrieve and display the value of an HTML attribute, often in combination with pseudo-elements. It allows dynamic insertion of attribute values, such as `data-*` or `title`, directly into the content or styles.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 2,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

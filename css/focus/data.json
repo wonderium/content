@@ -1,0 +1,26 @@
+{
+  "title": ":focus",
+  "description": "The `:focus` CSS pseudo-class applies when an element is currently focused by the user, typically through keyboard navigation.",
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that targets an element when it receives focus, such as when a user clicks on an input field or navigates to it using the keyboard. It’s used to style elements to indicate that they are active or ready for interaction, often changing their appearance to help users identify the focused element.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

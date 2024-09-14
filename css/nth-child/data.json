@@ -1,0 +1,26 @@
+{
+  "title": ":nth-child(n)",
+  "description": "The `:nth-child(n)` CSS pseudo-class selects elements based on their position in a parent element’s child list.",
+  "categories": [
+    "pseudo-class"
+  ],
+  "content": "The pseudo-class that selects elements based on their position in a parent element’s child list, using a formula 'n'. It allows to style elements based on their order, such as every third element ('3n') or the second element ('2n'), using various expressions like 'odd', 'even' or specific numbers.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 3.1,
+        "safari_ios": 2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}
