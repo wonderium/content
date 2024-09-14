@@ -1,0 +1,26 @@
+{
+  "title": "Worker",
+  "description": "The `Worker` JS browser API object allows running scripts in background threads, enabling complex operations without blocking the main thread.",
+  "categories": [
+    "object"
+  ],
+  "content": "The browser API object that allows for running scripts in background threads. Web Workers enable concurrent execution of code without blocking the main thread, useful for performing intensive computations or background tasks.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 4,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 5
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

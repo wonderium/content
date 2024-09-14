@@ -1,0 +1,26 @@
+{
+  "title": "Promise",
+  "description": "The `Promise` JS object represents the eventual completion or failure of an asynchronous operation and its resulting value, providing methods to handle results asynchronously.",
+  "categories": [
+    "object"
+  ],
+  "content": "The object that represents the eventual completion or failure of an asynchronous operation and its resulting value. Promises are used for handling asynchronous operations in a more manageable way, avoiding the 'callback hell' problem.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 32,
+        "chrome_android": 32,
+        "edge": 12,
+        "firefox": 29,
+        "firefox_android": 29,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

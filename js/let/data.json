@@ -1,0 +1,27 @@
+{
+  "title": "let",
+  "description": "The `let` JS syntax keyword is used to declare variables with block scope.",
+  "categories": [
+    "syntax",
+    "keyword"
+  ],
+  "content": "The keyword used to declare variables with block scope, meaning the variable is only accessible within the block in which it’s defined. Unlike `var`, variables declared with `let` cannot be re-declared in the same scope.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 49,
+        "chrome_android": 49,
+        "edge": 14,
+        "firefox": 44,
+        "firefox_android": 44,
+        "safari": 10,
+        "safari_ios": 10
+      },
+      "latest_release_date": {
+        "year": 2016,
+        "month": 9,
+        "day": 20
+      }
+    }
+  }
+}

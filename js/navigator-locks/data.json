@@ -1,0 +1,27 @@
+{
+  "title": "navigator.locks",
+  "description": "The `navigator.locks` JS browser API property provides access to the Lock Manager API, which allows for the creation and management of locks to control access to resources.",
+  "categories": [
+    "property",
+    "object"
+  ],
+  "content": "The browser API property for coordinating access to resources by different scripts or tabs. It provides a way to request, hold and release locks, ensuring that only one part of the application can access a shared resource at a time.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 69,
+        "chrome_android": 69,
+        "edge": 79,
+        "firefox": 96,
+        "firefox_android": 96,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2022,
+        "month": 3,
+        "day": 14
+      }
+    }
+  }
+}

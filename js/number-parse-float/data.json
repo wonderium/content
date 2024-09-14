@@ -1,0 +1,26 @@
+{
+  "title": "Number.parseFloat()",
+  "description": "The `Number.parseFloat()` static JS method parses a string argument and returns a floating point number.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that parses a string and returns a floating-point number. If the string cannot be converted to a number, it returns `NaN`. This method is equivalent to the global `parseFloat()` function.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 34,
+        "chrome_android": 34,
+        "edge": 12,
+        "firefox": 25,
+        "firefox_android": 25,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

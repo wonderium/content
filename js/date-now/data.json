@@ -1,0 +1,26 @@
+{
+  "title": "Date.now()",
+  "description": "The `Date.now()` static JS method returns the current timestamp in milliseconds since January 1, 1970, 00:00:00 UTC.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns the current time as the number of milliseconds since January 1, 1970, 00:00:00 UTC (the Unix Epoch). It provides a timestamp representing the current moment in time.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 4
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": ".forEach()",
+  "description": "The `.forEach()` JS method executes a provided function once for each value in the `Set` object, in insertion order.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that executes a provided function once for each element in the `Set` object. It allows iterating over the values in the `Set` and performing operations on them.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 38,
+        "chrome_android": 38,
+        "edge": 12,
+        "firefox": 25,
+        "firefox_android": 25,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

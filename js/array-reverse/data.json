@@ -1,0 +1,26 @@
+{
+  "title": ".reverse()",
+  "description": "The `.reverse()` JS method reverses the elements of an array in place and returns the array.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that reverses the order of all elements in an array. The first element becomes the last and the last becomes the first, modifying the original array.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

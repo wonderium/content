@@ -1,0 +1,9 @@
+{
+  "title": "Shallow Copy",
+  "description": "The Shallow Copy in JS is a process of creating a copy of an object where only the top-level properties are duplicated, while nested objects still reference the same memory locations as the original.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The process of creating a copy of an object where only the top-level properties are duplicated. If the original object contains nested objects, the references to those nested objects are shared between the original and the copy. This means that changes to the nested objects in the copy will also affect the original.",
+  "extensions": {}
+}

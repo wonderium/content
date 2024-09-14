@@ -1,0 +1,26 @@
+{
+  "title": ".findLast()",
+  "description": "The `.findLast()` JS method returns the last element in the array that satisfies the provided testing function. Otherwise, it returns `undefined`.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that returns the last element in an array that meets a specific condition defined by a function. If no element matches, it returns `undefined`, searching from the end of the array.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 97,
+        "chrome_android": 97,
+        "edge": 97,
+        "firefox": 104,
+        "firefox_android": 104,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2022,
+        "month": 8,
+        "day": 23
+      }
+    }
+  }
+}

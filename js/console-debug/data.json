@@ -1,0 +1,26 @@
+{
+  "title": "console.debug()",
+  "description": "The `console.debug()` static JS browser API method outputs a message to the console with a debug log level.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static browser API method that logs a message to the console with a debug level, often used for debugging purposes. In some environments, these messages may not be displayed unless debug logging is enabled.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 2,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 5,
+        "firefox_android": 5,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

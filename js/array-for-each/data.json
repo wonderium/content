@@ -1,0 +1,26 @@
+{
+  "title": ".forEach()",
+  "description": "The `.forEach()` JS method executes a provided function once for each array element.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that executes a provided function once for each element in an array. It’s often used to perform actions on each item, but doesn’t return a new array.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1.5,
+        "firefox_android": 4,
+        "safari": 3,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": ".charAt()",
+  "description": "The `.charAt()` JS method returns the character at the specified index.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that returns the character at a specified index in a string. It’s used to access individual characters based on their position within the string.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

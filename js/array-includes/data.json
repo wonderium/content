@@ -1,0 +1,26 @@
+{
+  "title": ".includes()",
+  "description": "The `.includes()` JS method determines whether an array includes a certain value among its entries, returning `true` or `false` as appropriate.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that checks if an array contains a specific value. It returns `true` if the value is found and `false` if it isn’t.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 47,
+        "chrome_android": 47,
+        "edge": 14,
+        "firefox": 43,
+        "firefox_android": 43,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2016,
+        "month": 8,
+        "day": 2
+      }
+    }
+  }
+}

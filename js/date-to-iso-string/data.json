@@ -1,0 +1,26 @@
+{
+  "title": ".toISOString()",
+  "description": "The `.toISOString()` JS method returns a string in simplified extended ISO 8601 format from a `Date` object, representing the date and time in UTC.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that returns a string representing the date and time in ISO 8601 format: '2024-08-19T12:34:56.789Z'. It provides a standardized way to represent dates and times in UTC, without considering the local time zone.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 3,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": ".toString()",
+  "description": "The `.toString()` JS method returns a string representing the array and its elements, separated by commas.", 
+  "categories": [
+    "method"
+  ],
+  "content": "The method that converts an array into a single string, where each element is separated by a comma. This string representation of the array is useful for displaying or storing the array as text.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

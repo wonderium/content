@@ -1,0 +1,26 @@
+{
+  "title": "navigator.languages",
+  "description": "The `navigator.languages` JS browser API property returns an array of strings representing the user's preferred languages.",
+  "categories": [
+    "property"
+  ],
+  "content": "The browser API property that returns an array of the user's preferred languages, listed in order of preference. This array can help developers determine the best language to present content in when supporting multiple languages.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 37,
+        "chrome_android": 37,
+        "edge": 16,
+        "firefox": 32,
+        "firefox_android": 32,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 10,
+        "day": 17
+      }
+    }
+  }
+}

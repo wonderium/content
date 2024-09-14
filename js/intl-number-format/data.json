@@ -1,0 +1,26 @@
+{
+  "title": "Intl.NumberFormat",
+  "description": "The `Intl.NumberFormat` JS object formats numbers according to locale-specific rules, including options for decimal separators, grouping and currency formatting.",
+  "categories": [
+    "object"
+  ],
+  "content": "The object that formats numbers according to locale-specific conventions, such as currency, percentages and decimal points. It helps ensure numbers are presented in a way that is familiar to the user.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 24,
+        "chrome_android": 25,
+        "edge": 12,
+        "firefox": 29,
+        "firefox_android": 56,
+        "safari": 10,
+        "safari_ios": 10
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 9,
+        "day": 28
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Math.sign()",
+  "description": "The `Math.sign()` static JS method returns the sign of a given number, indicating whether the number is positive, negative or zero.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns the sign of a given number, indicating whether it’s positive, negative or zero. For example, `Math.sign(-5)` returns -1.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 38,
+        "chrome_android": 38,
+        "edge": 12,
+        "firefox": 25,
+        "firefox_android": 25,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

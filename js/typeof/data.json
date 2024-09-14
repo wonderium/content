@@ -1,0 +1,26 @@
+{
+  "title": "typeof",
+  "description": "The `typeof` JS syntax operator is used to determine the type of a given operand.",
+  "categories": [
+    "syntax", "operator"
+  ],
+  "content": "The operator used to determine the type of a given variable or value. It returns a string representing the type, such as 'string', 'number', 'object' or 'undefined'.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

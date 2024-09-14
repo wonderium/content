@@ -1,0 +1,9 @@
+{
+  "title": "Execution Order",
+  "description": "The Execution Order is the sequence in which JavaScript code is executed, following the order of statements while also accounting for asynchronous operations and their callbacks.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The sequence in which code, including statements and expressions, is executed in a JavaScript program. It generally follows a top-to-bottom approach, considering asynchronous operations and the event loop.",
+  "extensions": {}
+}

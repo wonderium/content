@@ -1,0 +1,26 @@
+{
+  "title": "MutationObserver",
+  "description": "The `MutationObserver` JS browser API object provides the ability to watch for changes being made to the DOM tree.",
+  "categories": [
+    "object"
+  ],
+  "content": "The browser API object that allows observing changes to the DOM tree. It provides a way to react to changes in the structure or attributes of elements, such as when elements are added, removed or modified.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 26,
+        "chrome_android": 26,
+        "edge": 12,
+        "firefox": 14,
+        "firefox_android": 14,
+        "safari": 7,
+        "safari_ios": 7
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

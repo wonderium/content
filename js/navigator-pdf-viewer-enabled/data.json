@@ -1,0 +1,26 @@
+{
+  "title": "navigator.pdfViewerEnabled",
+  "description": "The `navigator.pdfViewerEnabled` JS browser API property indicates whether the browser has a built-in PDF viewer enabled.",
+  "categories": [
+    "property"
+  ],
+  "content": "The browser API property that returns `true` if the browser has a built-in PDF viewer enabled, allowing the user to view PDF files directly in the browser.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 94,
+        "chrome_android": 94,
+        "edge": 94,
+        "firefox": 99,
+        "firefox_android": 99,
+        "safari": 16.4,
+        "safari_ios": 16.4
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 3,
+        "day": 27
+      }
+    }
+  }
+}

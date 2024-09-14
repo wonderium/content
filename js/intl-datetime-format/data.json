@@ -1,0 +1,26 @@
+{
+  "title": "Intl.DateTimeFormat",
+  "description": "The `Intl.DateTimeFormat` JS object is used for language-sensitive date and time formatting, providing options for customizing how dates and times are displayed.",
+  "categories": [
+    "object"
+  ],
+  "content": "The object that formats dates and times according to locale-specific conventions. It provides options to format date and time in various styles, such as 'short', 'medium' or 'long'.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 24,
+        "chrome_android": 25,
+        "edge": 12,
+        "firefox": 29,
+        "firefox_android": 56,
+        "safari": 10,
+        "safari_ios": 10
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 9,
+        "day": 28
+      }
+    }
+  }
+}

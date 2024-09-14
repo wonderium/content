@@ -1,0 +1,26 @@
+{
+  "title": "String",
+  "description": "The `String` JS wrapper object allows to work with sequences of characters and provides various methods for string manipulation.",
+  "categories": [
+    "object"
+  ],
+  "content": "The wrapper object that allows primitive string values to temporarily behave like objects and access methods, such as searching, replacing and formatting text. It also provides static methods for string manipulation.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

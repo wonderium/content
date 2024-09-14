@@ -1,0 +1,26 @@
+{
+  "title": "Number.isFinite()",
+  "description": "The `Number.isFinite()` static JS method determines whether the provided value is a finite number.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that checks if a value is a finite number. It returns `true` if the value is a finite number and `false` if the value is `Infinity`, `-Infinity` or `NaN`.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 19,
+        "chrome_android": 25,
+        "edge": 12,
+        "firefox": 16,
+        "firefox_android": 16,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

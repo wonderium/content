@@ -1,0 +1,27 @@
+{
+  "title": "new",
+  "description": "The `new` JS syntax keyword is used to create an instance of an object from a constructor function or class.",
+  "categories": [
+    "syntax",
+    "keyword"
+  ],
+  "content": "The keyword used to create instances of objects. It calls a constructor function to build a new object, setting up its properties and prototype chain.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

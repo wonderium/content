@@ -1,0 +1,27 @@
+{
+  "title": "navigator.userActivation",
+  "description": "The `navigator.userActivation` JS browser API property provides information about the current user activation state, which is used to detect if the user has interacted with the web page.",
+  "categories": [
+    "property",
+    "object"
+  ],
+  "content": "The browser API property that tracks whether the user has interacted with the page, such as by clicking or typing, which can be important for determining if certain actions are allowed, like playing media automatically.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 72,
+        "chrome_android": 72,
+        "edge": 79,
+        "firefox": 120,
+        "firefox_android": 120,
+        "safari": 16.4,
+        "safari_ios": 16.4
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 11,
+        "day": 21
+      }
+    }
+  }
+}

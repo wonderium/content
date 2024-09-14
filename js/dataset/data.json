@@ -1,0 +1,26 @@
+{
+  "title": ".dataset",
+  "description": "The `.dataset` JS browser API property provides access to all the custom data attributes (`data-*`) set on the element.",
+  "categories": [
+    "property", "object"
+  ],
+  "content": "The browser API property of an HTML element that provides access to all custom data attributes (`data-*`) set on the element. It allows for easy retrieval and manipulation of data attributes in the DOM.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 7,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 6,
+        "firefox_android": 6,
+        "safari": 5.1,
+        "safari_ios": 5
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

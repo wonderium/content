@@ -1,0 +1,26 @@
+{
+  "title": ".clear()",
+  "description": "The `.clear()` JS method removes all key-value pairs from the `Map` object, leaving it empty.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that removes all key-value pairs from a `Map` object. After calling this method, the map is empty and its size is 0.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 38,
+        "chrome_android": 38,
+        "edge": 12,
+        "firefox": 19,
+        "firefox_android": 19,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

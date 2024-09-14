@@ -1,0 +1,26 @@
+{
+  "title": "console.table()",
+  "description": "The `console.table()` static JS browser API method displays tabular data as a table in the console.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static browser API method that displays data in a table format within the console. It’s useful for visualizing arrays or objects in a structured way.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 27,
+        "chrome_android": 27,
+        "edge": 13,
+        "firefox": 34,
+        "firefox_android": 34,
+        "safari": 7,
+        "safari_ios": 7
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 11,
+        "day": 12
+      }
+    }
+  }
+}

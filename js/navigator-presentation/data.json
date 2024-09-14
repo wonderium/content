@@ -1,0 +1,23 @@
+{
+  "title": "navigator.presentation",
+  "description": "The `navigator.presentation` JS browser API property provides access to the Presentation API, which allows for controlling and displaying web content on external displays.",
+  "categories": [
+    "property",
+    "object"
+  ],
+  "content": "The browser API property that enables web applications to present content on secondary displays, such as projectors or smart TVs. It’s useful for scenarios like presentations or sharing media on larger screens.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 47,
+        "chrome_android": 47,
+        "edge": 79,
+        "firefox": null,
+        "firefox_android": null,
+        "safari": null,
+        "safari_ios": null
+      },
+      "latest_release_date": "Limited availability"
+    }
+  }
+}

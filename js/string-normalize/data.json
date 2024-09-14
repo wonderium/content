@@ -1,0 +1,26 @@
+{
+  "title": ".normalize()",
+  "description": "The `.normalize()` JS method returns the Unicode Normalization Form of the string.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that converts the string to a specified Unicode Normalization Form, such as NFC (Normalization Form C), NFD (Normalization Form D), NFKC (Normalization Form KC) or NFKD (Normalization Form KD). This ensures that the string is represented in a consistent and standardized way.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 34,
+        "chrome_android": 34,
+        "edge": 12,
+        "firefox": 31,
+        "firefox_android": 31,
+        "safari": 10,
+        "safari_ios": 10
+      },
+      "latest_release_date": {
+        "year": 2016,
+        "month": 9,
+        "day": 20
+      }
+    }
+  }
+}

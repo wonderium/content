@@ -1,0 +1,26 @@
+{
+  "title": "URIError",
+  "description": "The `URIError` JS object represents an error that occurs when there is a problem with encoding or decoding a URI, such as using `decodeURI()` incorrectly.",
+  "categories": [
+    "object"
+  ],
+  "content": "The object that represents an error when there is a problem with encoding or decoding a URI. This can occur with functions that handle URIs or URI components, such as `decodeURI()`, `encodeURI()`, `decodeURIComponent()` or `encodeURIComponent()`, when provided with invalid input. It’s used to manage issues related to improper URI handling.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "console.timeLog()",
+  "description": "The `console.timeLog()` static JS browser API method logs the current value of a timer that was started with `console.time()`.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static browser API method that logs the current value of a timer that was previously started by calling `console.time()` without stopping the timer. It allows to check the elapsed time at various points in the code.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 71,
+        "chrome_android": 71,
+        "edge": 79,
+        "firefox": 62,
+        "firefox_android": 62,
+        "safari": 13,
+        "safari_ios": 13
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

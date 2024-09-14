@@ -1,0 +1,9 @@
+{
+  "title": "Data Types",
+  "description": "The Data Types in JS is the classification of values into types, such as numbers, strings and objects, determining how they can be used and manipulated in code.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The classification of values in JavaScript that determines how they are stored and manipulated. Data types include the seven primitive types: `string`, `number`, `boolean`, `undefined`, `null`, `symbol` and `bigint`, as well as the non-primitive `object`. Each type represents a different kind of value, affecting how operations and comparisons are performed.",
+  "extensions": {}
+}

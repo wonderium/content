@@ -1,0 +1,26 @@
+{
+  "title": "Object.groupBy()",
+  "description": "The `Object.groupBy()` static JS method groups the elements of an array into an object, based on the result of applying a provided function to each element.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that groups the elements of an array into an object based on the result of a function applied to each element. This method is handy for organizing data into categories.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 117,
+        "chrome_android": 117,
+        "edge": 117,
+        "firefox": 119,
+        "firefox_android": 119,
+        "safari": 17.4,
+        "safari_ios": 17.4
+      },
+      "latest_release_date": {
+        "year": 2024,
+        "month": 3,
+        "day": 5
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Number.EPSILON",
+  "description": "The `Number.EPSILON` JS constant defines the smallest interval between two representable numbers.",
+  "categories": [
+    "constant"
+  ],
+  "content": "The constant that represents the difference between 1 and the smallest floating-point number greater than 1. It’s used to handle precision issues in floating-point arithmetic.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 34,
+        "chrome_android": 34,
+        "edge": 12,
+        "firefox": 25,
+        "firefox_android": 25,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

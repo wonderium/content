@@ -1,0 +1,26 @@
+{
+  "title": "Object.getPrototypeOf()",
+  "description": "The `Object.getPrototypeOf()` static JS method returns the prototype of the specified object.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns the prototype, which is the value of the internal `[[Prototype]]` property, of the specified object. It’s commonly used to check or change the inheritance of an object.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 5,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 5,
+        "safari_ios": 5
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

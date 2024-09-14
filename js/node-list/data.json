@@ -1,0 +1,26 @@
+{
+  "title": "NodeList",
+  "description": "The `NodeList` JS browser API object represents a collection of nodes, such as those returned by methods like `.querySelectorAll()`, which can be either live or static, allowing iteration over the nodes.",
+  "categories": [
+    "object"
+  ],
+  "content": "The browser API object that represents a collection of DOM nodes returned by methods like `.querySelectorAll()`. Unlike arrays, NodeLists are array-like objects, meaning they can be accessed by index but may not have all array methods.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

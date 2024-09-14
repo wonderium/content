@@ -1,0 +1,26 @@
+{
+  "title": ".toJSON()",
+  "description": "The `.toJSON()` JS method returns a string representation of the date in JSON format, suitable for serialization.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that returns a JSON representation of the `Date` object. It provides the date and time in ISO 8601 format for use in JSON data.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 3,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

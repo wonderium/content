@@ -1,0 +1,26 @@
+{
+  "title": "navigator.userAgent",
+  "description": "The `navigator.userAgent` JS browser API property returns the user agent string for the current browser, which provides information about the browser and operating system.",
+  "categories": [
+    "property"
+  ],
+  "content": "The browser API property that provides information about the user's browser, operating system and device. It’s often used for detecting the browser type and version to apply browser-specific customizations or fixes.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

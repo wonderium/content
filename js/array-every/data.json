@@ -1,0 +1,26 @@
+{
+  "title": ".every()",
+  "description": "The `.every()` JS method tests whether all elements in the array pass the test implemented by the provided function.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that tests whether all elements in an array meet a specific condition defined by a function. It returns `true` if every element passes the test and `false` if even one fails.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1.5,
+        "firefox_android": 4,
+        "safari": 3,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

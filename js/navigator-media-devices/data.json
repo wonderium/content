@@ -1,0 +1,27 @@
+{
+  "title": "navigator.mediaDevices",
+  "description": "The `navigator.mediaDevices` JS browser API property provides access to the Media Devices API, which allows for the discovery and interaction with media input devices like cameras and microphones.",
+  "categories": [
+    "property",
+    "object"
+  ],
+  "content": "The browser API property that provides access to media input devices like cameras, microphones and screen sharing. It’s often used to capture media streams for video calls, recording and more.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 47,
+        "chrome_android": 47,
+        "edge": 12,
+        "firefox": 36,
+        "firefox_android": 36,
+        "safari": 11,
+        "safari_ios": 11
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 9,
+        "day": 19
+      }
+    }
+  }
+}

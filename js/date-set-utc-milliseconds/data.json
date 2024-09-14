@@ -1,0 +1,26 @@
+{
+  "title": ".setUTCMilliseconds()",
+  "description": "The `.setUTCMilliseconds()` JS method sets the milliseconds for a specified date according to UTC.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that sets the milliseconds for a specified date according to UTC (Universal Coordinated Time). The value must be between 0 and 999 and it also allows updating the seconds.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Event",
+  "description": "The `Event` JS browser API object represents any action or occurrence, like user interactions or browser events, that can be detected and responded to by the program.",
+  "categories": [
+    "object"
+  ],
+  "content": "The browser API object that represents an action or occurrence, such as user interactions or browser events, which can be detected and handled in the code. It includes details about the event, such as the type and target element.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 15,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 11,
+        "firefox_android": 14,
+        "safari": 6,
+        "safari_ios": 6
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

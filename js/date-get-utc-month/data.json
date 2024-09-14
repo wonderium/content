@@ -1,0 +1,26 @@
+{
+  "title": ".getUTCMonth()",
+  "description": "The `.getUTCMonth()` JS method returns the month of a specified date according to UTC, as a number between 0 (January) and 11 (December).",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that returns the month for a specified date according to UTC (Universal Coordinated Time), where 0 represents January and 11 represents December. It extracts this value to represent the month in the context of a year in UTC.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

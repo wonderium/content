@@ -1,0 +1,26 @@
+{
+  "title": ".has()",
+  "description": "The `.has()` JS method returns a boolean indicating whether the `Map` object contains a specified key.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that checks if a specific key exists in a `Map` object. It returns `true` if the key is found or `false` otherwise.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 38,
+        "chrome_android": 38,
+        "edge": 12,
+        "firefox": 13,
+        "firefox_android": 14,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

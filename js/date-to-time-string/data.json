@@ -1,0 +1,26 @@
+{
+  "title": ".toTimeString()",
+  "description": "The `.toTimeString()` JS method returns a string representing the time portion of the `Date` object, including the time zone information.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that returns a string representing the time portion of a `Date` object, formatted according to the local timezone. It provides the time in a format that includes the local timezone's offset from UTC.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": ".push()",
+  "description": "The `.push()` JS method adds one or more elements to the end of an array and returns the new length of the array.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that adds one or more elements to the end of an array. It returns the new length of the array after the elements have been added.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

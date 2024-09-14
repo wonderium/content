@@ -1,0 +1,26 @@
+{
+  "title": "Number.MAX_VALUE",
+  "description": "The `Number.MAX_VALUE` JS constant defines the largest positive finite number that can be represented in JavaScript.",
+  "categories": [
+    "constant"
+  ],
+  "content": "The constant that defines the largest positive number and can be represented in JavaScript, approximately 1.7976931348623157e+308. Numbers larger than this are represented as `Infinity`.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

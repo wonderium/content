@@ -1,0 +1,27 @@
+{
+  "title": "navigator.storage",
+  "description": "The `navigator.storage` JS browser API property provides access to the StorageManager interface, which allows for estimating available storage space and persisting storage for the web application.",
+  "categories": [
+    "property",
+    "object"
+  ],
+  "content": "The browser API property that provides information about the storage capabilities of the browser, such as whether the storage is persistent or how much space is available. It also includes methods to manage and estimate storage usage.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 55,
+        "chrome_android": 55,
+        "edge": 79,
+        "firefox": 57,
+        "firefox_android": 57,
+        "safari": 15.2,
+        "safari_ios": 15.2
+      },
+      "latest_release_date": {
+        "year": 2021,
+        "month": 12,
+        "day": 13
+      }
+    }
+  }
+}

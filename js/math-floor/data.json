@@ -1,0 +1,26 @@
+{
+  "title": "Math.floor()",
+  "description": "The `Math.floor()` static JS method always rounds down and returns the largest integer less than or equal to a given number.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that always rounds down and returns the largest integer less than or equal to a given number.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

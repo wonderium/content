@@ -1,0 +1,26 @@
+{
+  "title": "Math.hypot()",
+  "description": "The `Math.hypot()` static JS method returns the square root of the sum of squares of its arguments.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns the square root of the sum of squares of its arguments. It’s useful for calculating the Euclidean distance, for example, `Math.hypot(3, 4)` returns 5, which is the length of the hypotenuse in a right triangle.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 38,
+        "chrome_android": 38,
+        "edge": 12,
+        "firefox": 27,
+        "firefox_android": 27,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": ".toSpliced()",
+  "description": "The `.toSpliced()` JS method returns a shallow copy of an array with elements removed, replaced or added, starting at a specific index and continuing for a given number of elements, without modifying the original array.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that returns a new array by removing, replacing or adding elements based on the original. It starts at a specified position and can remove a certain number of elements while optionally replacing them with new elements. The original array remains unchanged.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 110,
+        "chrome_android": 110,
+        "edge": 110,
+        "firefox": 115,
+        "firefox_android": 115,
+        "safari": 16,
+        "safari_ios": 16
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 7,
+        "day": 4
+      }
+    }
+  }
+}

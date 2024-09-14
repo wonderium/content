@@ -1,0 +1,26 @@
+{
+  "title": "Intl.supportedValuesOf()",
+  "description": "The `Intl.supportedValuesOf()` static JS method returns an array of supported values for a given option.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns an array of supported values for a specific option in an `Intl` object. It helps identify which values are available for i18n (internationalization) options such as locales or formats.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 99,
+        "chrome_android": 99,
+        "edge": 99,
+        "firefox": 93,
+        "firefox_android": 93,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2022,
+        "month": 3,
+        "day": 14
+      }
+    }
+  }
+}

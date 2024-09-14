@@ -1,0 +1,26 @@
+{
+  "title": "console.countReset()",
+  "description": "The `console.countReset()` static JS browser API method resets the count for a specific label used in `console.count()`.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static browser API method that resets the count for a particular label used in `console.count()`. It sets the counter back to zero for accurate tracking from that point onward.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 68,
+        "chrome_android": 68,
+        "edge": 79,
+        "firefox": 62,
+        "firefox_android": 62,
+        "safari": 13,
+        "safari_ios": 13
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

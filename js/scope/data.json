@@ -1,0 +1,9 @@
+{
+  "title": "Scope",
+  "description": "The Scope in JS is the context in which variables and functions are accessible.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The context in which variables and functions are accessible. JavaScript has global scope, function scope and block scope, introduced with `let` and `const`. Scope determines where a variable can be read or written in the code, whether globally, locally or within a specific block.",
+  "extensions": {}
+}

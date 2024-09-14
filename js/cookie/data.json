@@ -1,0 +1,26 @@
+{
+  "title": "cookie",
+  "description": "The `cookie` JS browser API property of the document object provides a way to read and write cookies associated with the web page's domain.",
+  "categories": [
+    "property"
+  ],
+  "content": "The browser API property that provides access to cookies associated with the web page's domain. Cookies are small pieces of data stored on the user's browser by a website, used to remember information, such as login sessions, user preferences or tracking data across different pages or visits.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

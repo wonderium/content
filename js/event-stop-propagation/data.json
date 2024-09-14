@@ -1,0 +1,26 @@
+{
+  "title": ".stopPropagation()",
+  "description": "The `.stopPropagation()` JS browser API method of an `Event` object stops the event from propagating further through the DOM tree.",
+  "categories": [
+    "method"
+  ],
+  "content": "The browser API method that prevents the event from continuing to bubble up the DOM tree. It stops the event from reaching other elements that have event listeners for the same event type.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

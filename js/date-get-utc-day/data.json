@@ -1,0 +1,26 @@
+{
+  "title": ".getUTCDay()",
+  "description": "The `.getUTCDay()` JS method returns the day of the week for a specified date according to UTC, as a number between 0 (Sunday) and 6 (Saturday).",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that returns the day of the week for a specified date according to UTC (Universal Coordinated Time), where 0 represents Sunday and 6 represents Saturday.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

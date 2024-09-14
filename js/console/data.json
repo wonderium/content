@@ -1,0 +1,26 @@
+{
+  "title": "console",
+  "description": "The `console` JS browser API object provides access to the browser's debugging console, allowing for logging and interaction with JavaScript code.",
+  "categories": [
+    "object"
+  ],
+  "content": "The browser API object that provides access to the browser's debugging console. It allows developers to log information, display errors and perform debugging tasks.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 4,
+        "firefox_android": 4,
+        "safari": 3,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

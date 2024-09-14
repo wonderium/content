@@ -1,0 +1,9 @@
+{
+  "title": "Event Loop",
+  "description": "The Event Loop JS mechanism manages the execution of both synchronous and asynchronous code.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The mechanism that handles the execution of synchronous and asynchronous code, events and messages in JavaScript. It ensures that tasks are processed in the correct order, keeping the application responsive.",
+  "extensions": {}
+}

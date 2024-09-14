@@ -1,0 +1,9 @@
+{
+  "title": "bigint",
+  "description": "The `bigint` JS data type represents whole numbers of arbitrary precision, used for large integers.",
+  "categories": [
+    "data type"
+  ],
+  "content": "The primitive data type that represents very large integers, beyond the safe limit of the regular `number` type. Big integers allow for precise arithmetic with extremely large numbers.",
+  "extensions": {}
+}

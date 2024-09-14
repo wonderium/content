@@ -1,0 +1,26 @@
+{
+  "title": "Promise.all()",
+  "description": "The `Promise.all()` static JS method takes an iterable of `Promise` objects and returns a single `Promise` object that resolves with an array of results when all the promises in the iterable have resolved.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that takes an iterable of promises and, once all of them have resolved, returns a single `Promise` object that resolves to an array of their results. If any promise in the iterable rejects, the returned `Promise` object immediately rejects with the reason from the first rejection.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 32,
+        "chrome_android": 32,
+        "edge": 12,
+        "firefox": 29,
+        "firefox_android": 29,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

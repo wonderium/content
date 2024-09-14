@@ -1,0 +1,26 @@
+{
+  "title": "Intl.Collator",
+  "description": "The `Intl.Collator` JS object is used for language-sensitive string comparison, allowing for sorting and matching of strings according to locale-specific rules.",
+  "categories": [
+    "object"
+  ],
+  "content": "The object that allows string comparison according to locale-specific rules, such as sorting and searching. It can be customized to handle case sensitivity, numeric sorting and more.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 24,
+        "chrome_android": 25,
+        "edge": 12,
+        "firefox": 29,
+        "firefox_android": 56,
+        "safari": 10,
+        "safari_ios": 10
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 9,
+        "day": 28
+      }
+    }
+  }
+}

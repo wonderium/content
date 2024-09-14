@@ -1,0 +1,9 @@
+{
+  "title": "Loop",
+  "description": "The Loop in JS is a control structure used to run a block of code multiple times while a condition is `true`.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The control structure that executes a block of code repeatedly as long as a specified condition is `true`. Common loop types include `for`, `while` and `do...while`.",
+  "extensions": {}
+}

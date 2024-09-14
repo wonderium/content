@@ -1,0 +1,26 @@
+{
+  "title": ".scrollTo()",
+  "description": "The `.scrollTo()` JS browser API method scrolls the document or element to the specified coordinates.",
+  "categories": [
+    "method"
+  ],
+  "content": "The browser API method that scrolls the document or an element to a specific position. It can be used for navigating to different parts of a page programmatically.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 61,
+        "chrome_android": 61,
+        "edge": 79,
+        "firefox": 36,
+        "firefox_android": 36,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

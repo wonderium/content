@@ -1,0 +1,26 @@
+{
+  "title": "clearTimeout()",
+  "description": "The `clearTimeout()` JS browser API method cancels a timeout previously established by `setTimeout()`.",
+  "categories": [
+    "method"
+  ],
+  "content": "The browser API method that cancels a delayed action set by `setTimeout()`. It stops the specified timeout from running.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Microtasks",
+  "description": "The Microtasks in JS are high-priority asynchronous tasks in the event loop that are executed after the current execution stack and before the next macrotask.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The high-priority asynchronous tasks in the JavaScript event loop that are executed after the current execution stack and before the next macrotask, following the completion of any synchronous code. Examples include `Promise` callbacks and `MutationObserver` callbacks.",
+  "extensions": {}
+}

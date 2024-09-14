@@ -1,0 +1,26 @@
+{
+  "title": "navigator.maxTouchPoints",
+  "description": "The `navigator.maxTouchPoints` JS browser API property returns the maximum number of simultaneous touch points supported by the device.",
+  "categories": [
+    "property"
+  ],
+  "content": "The browser API property that returns the maximum number of simultaneous touch points supported by the user's device. It helps developers design touch-based interactions that are optimized for the capabilities of the user's device.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 35,
+        "chrome_android": 35,
+        "edge": 12,
+        "firefox": 59,
+        "firefox_android": 79,
+        "safari": 13,
+        "safari_ios": 13
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 7,
+        "day": 28
+      }
+    }
+  }
+}

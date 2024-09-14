@@ -1,0 +1,26 @@
+{
+  "title": "Object.assign()",
+  "description": "The `Object.assign()` static JS method used to copy the values of all enumerable own properties from one or more source objects to a target object.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method used to copy the values of all enumerable own properties from one or more source objects to a target object. It’s useful for merging objects or cloning objects.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 45,
+        "chrome_android": 45,
+        "edge": 12,
+        "firefox": 34,
+        "firefox_android": 34,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

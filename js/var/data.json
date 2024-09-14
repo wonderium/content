@@ -1,0 +1,27 @@
+{
+  "title": "var",
+  "description": "The `var` JS syntax keyword is used to declare a variable that is function-scoped or globally-scoped, depending on where it's used and is hoisted to the top of its scope.",
+  "categories": [
+    "syntax",
+    "keyword"
+  ],
+  "content": "The keyword used to declare variables with function scope or global scope, depending on where it's used. Unlike `let` and `const`, which offer block scope, `var` allows redeclaration within the same function or global scope and can lead to unexpected behavior due to its function-wide hoisting.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "prompt()",
+  "description": "The `prompt()` JS browser API method displays a dialog with an optional message prompting the user to input some text.",
+  "categories": [
+    "method"
+  ],
+  "content": "The browser API method that displays a dialog box prompting the user for input. It returns the input value as a string or `null` if the user cancels.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

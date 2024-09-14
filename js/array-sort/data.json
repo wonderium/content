@@ -1,0 +1,26 @@
+{
+  "title": ".sort()",
+  "description": "The `.sort()` JS method sorts the elements of an array in place and returns the array.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that sorts the elements of an array in place, arranging them in ascending or descending order based on a function or their natural order. The sorting is done according to the Unicode code points of the elements by default.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

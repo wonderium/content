@@ -1,0 +1,26 @@
+{
+  "title": "Math.atan2()",
+  "description": "The `Math.atan2()` static JS method returns the arc tangent of the quotient of its arguments, in radians.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns the arctangent of the quotient of its arguments. It takes two arguments representing the coordinates of a point and returns the angle in radians from the x-axis to the point.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

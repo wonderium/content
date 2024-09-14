@@ -1,0 +1,26 @@
+{
+  "title": "Object.create()",
+  "description": "The `Object.create()` static JS method creates a new object with a specified prototype object and properties.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that creates a new object with the specified prototype object and properties. This allows to set up inheritance without using classes or constructors.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 5,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 4,
+        "firefox_android": 4,
+        "safari": 5,
+        "safari_ios": 5
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

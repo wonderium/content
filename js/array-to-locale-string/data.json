@@ -1,0 +1,26 @@
+{
+  "title": ".toLocaleString()",
+  "description": "The `.toLocaleString()` JS method returns a string representing the elements of the array.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that converts each element in an array to a string using locale-specific formatting, returning a single string representing the whole array, with elements separated by commas. It’s often used to format dates or numbers according to a specific language or region.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Number.isInteger()",
+  "description": "The `Number.isInteger()` static JS method determines whether the provided value is an integer.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that checks if a value is an integer. It returns `true` if the value is an integer and `false` if it’s a floating-point number or not a number at all.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 34,
+        "chrome_android": 34,
+        "edge": 12,
+        "firefox": 16,
+        "firefox_android": 16,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Intl.ListFormat",
+  "description": "The `Intl.ListFormat` JS object formats lists of items according to locale-specific conventions, handling how items are separated and joined in lists.",
+  "categories": [
+    "object"
+  ],
+  "content": "The object that formats lists of values according to locale-specific rules. It supports different styles, such as 'long', 'short' or 'narrow' to generate readable lists.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 72,
+        "chrome_android": 72,
+        "edge": 79,
+        "firefox": 78,
+        "firefox_android": 79,
+        "safari": 14.1,
+        "safari_ios": 14.5
+      },
+      "latest_release_date": {
+        "year": 2021,
+        "month": 4,
+        "day": 26
+      }
+    }
+  }
+}

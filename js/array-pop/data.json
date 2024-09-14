@@ -1,0 +1,26 @@
+{
+  "title": ".pop()",
+  "description": "The `.pop()` JS method removes the last element from an array and returns that element.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that removes the last element from an array and returns it. This changes the length of the array by one.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

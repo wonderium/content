@@ -1,0 +1,26 @@
+{
+  "title": ".composed",
+  "description": "The `.composed` JS browser API property of an `Event` object indicates whether an event will trigger listeners outside of a shadow root.",
+  "categories": [
+    "property"
+  ],
+  "content": "The browser API property that indicates whether the event will cross the boundary of the Shadow DOM. If `true`, the event can bubble into and out of Shadow DOM boundaries.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 53,
+        "chrome_android": 53,
+        "edge": 79,
+        "firefox": 52,
+        "firefox_android": 52,
+        "safari": 10,
+        "safari_ios": 10
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

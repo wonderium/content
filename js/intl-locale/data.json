@@ -1,0 +1,26 @@
+{
+  "title": " and",
+  "description": "The `Intl.Locale` JS object represents a locale and provides methods for working with locale-specific data and information.",
+  "categories": [
+    "object"
+  ],
+  "content": "The object that represents a locale, including language, script and region, while providing methods for working with locale-specific data. it's used to manage and interpret locale information for i18n (internationalization).",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 74,
+        "chrome_android": 74,
+        "edge": 79,
+        "firefox": 75,
+        "firefox_android": 79,
+        "safari": 14,
+        "safari_ios": 14
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 9,
+        "day": 16
+      }
+    }
+  }
+}

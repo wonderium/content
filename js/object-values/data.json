@@ -1,0 +1,26 @@
+{
+  "title": "Object.values()",
+  "description": "The `Object.values()` static JS method returns an array of a given object's own enumerable property values.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns an array of a given object's own enumerable property values, in the same order as provided by a `for...in` loop. This is often used to extract values for iteration or manipulation.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 54,
+        "chrome_android": 54,
+        "edge": 14,
+        "firefox": 47,
+        "firefox_android": 47,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 3,
+        "day": 27
+      }
+    }
+  }
+}

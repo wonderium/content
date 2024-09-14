@@ -1,0 +1,26 @@
+{
+  "title": "location",
+  "description": "The `location` JS browser API object represents the location (URL) of the object it’s linked to, allowing for URL manipulation and navigation.",
+  "categories": [
+    "object"
+  ],
+  "content": "The browser API object that contains information about the current URL and allows navigation to new URLs. It includes properties like `.href`, `.hostname` and methods like `.assign()` and `.reload()`.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

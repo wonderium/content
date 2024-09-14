@@ -1,0 +1,9 @@
+{
+  "title": "Macrotasks",
+  "description": "The Macrotasks in JS are low-priority asynchronous tasks in the event loop that are executed after the current execution stack and microtask queue are cleared.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The low-priority asynchronous tasks in the JavaScript event loop that are executed after the current execution stack and microtask queue are cleared, following the completion of any synchronous code. Examples include I/O (input/output) operations, `setTimeout()` and `requestAnimationFrame()` callbacks.",
+  "extensions": {}
+}

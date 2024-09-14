@@ -1,0 +1,26 @@
+{
+  "title": ".bubbles",
+  "description": "The `.bubbles` JS browser API property of an `Event` object indicates whether an event propagates upward through the DOM or not.",
+  "categories": [
+    "property"
+  ],
+  "content": "The browser API property that indicates whether the event bubbles up through the DOM tree or not. If `true`, the event propagates from the target element to the root.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1.5,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

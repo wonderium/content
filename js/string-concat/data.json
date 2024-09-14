@@ -1,0 +1,26 @@
+{
+  "title": ".concat()",
+  "description": "The `.concat()` JS method combines the text of two or more strings and returns a new string.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that combines two or more strings into a single string. It doesn’t modify the original strings but returns a new string with the combined content.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

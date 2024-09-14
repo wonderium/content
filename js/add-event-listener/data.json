@@ -1,0 +1,26 @@
+{
+  "title": ".addEventListener()",
+  "description": "The `.addEventListener()` JS browser API method registers an event handler to a specified event type on the target element.",
+  "categories": [
+    "method"
+  ],
+  "content": "The browser API method used to attach a function to a specific event on an element, such as 'click', 'hover' or 'keydown'. This allows the function to run whenever the specified event occurs on that element.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

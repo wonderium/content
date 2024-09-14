@@ -1,0 +1,27 @@
+{
+  "title": "switch",
+  "description": "The `switch` JS syntax statement executes one of many blocks of code based on the value of an expression.",
+  "categories": [
+    "syntax",
+    "statement"
+  ],
+  "content": "The statement that evaluates an expression and executes code blocks based on matching case values. It’s used as an alternative to multiple `if...else` statements for better readability and organization.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

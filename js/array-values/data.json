@@ -1,0 +1,26 @@
+{
+  "title": ".values()",
+  "description": "The `.values()` JS method returns a new `Iterator` object that contains the values of each element in the array.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that returns a new `Iterator` object containing the values of each element in an array. It allows to loop over the values directly, without accessing their indexes.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 66,
+        "chrome_android": 66,
+        "edge": 14,
+        "firefox": 60,
+        "firefox_android": 60,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2018,
+        "month": 5,
+        "day": 9
+      }
+    }
+  }
+}

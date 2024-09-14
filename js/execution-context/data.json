@@ -1,0 +1,9 @@
+{
+  "title": "Execution Context",
+  "description": "The Execution Context is the environment in which JavaScript code is executed, including the global context, function contexts and the `this` binding, which determine the scope and execution of code.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The environment in which JavaScript code is evaluated and executed. It includes variables, objects and functions that are accessible at a specific point in the code. There are three main types of execution contexts: global context, function context and `eval` context.",
+  "extensions": {}
+}

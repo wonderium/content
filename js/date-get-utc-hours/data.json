@@ -1,0 +1,26 @@
+{
+  "title": ".getUTCHours()",
+  "description": "The `.getUTCHours()` JS method returns the hour of a specified date according to UTC.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that returns the hour of a specified date according to UTC (Universal Coordinated Time), as a number between 0 and 23. This value represents the UTC hour of the day in a 24-hour format.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

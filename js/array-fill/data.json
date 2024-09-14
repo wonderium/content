@@ -1,0 +1,26 @@
+{
+  "title": ".fill()",
+  "description": "The `.fill()` JS method replaces elements in an array with a static value from a start index to an end index (not included), modifying the original array.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that fills all or part of an array with a static value from the start index to the end index (not included). It modifies the array in place without adding or removing elements",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 45,
+        "chrome_android": 45,
+        "edge": 12,
+        "firefox": 31,
+        "firefox_android": 31,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 1
+      }
+    }
+  }
+}

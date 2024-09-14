@@ -1,0 +1,26 @@
+{
+  "title": ".timeStamp",
+  "description": "The `.timeStamp` JS browser API property of an `Event` object returns the time at which the event was created.",
+  "categories": [
+    "property"
+  ],
+  "content": "The browser API property that returns the time at which the event was created. It’s represented as the number of milliseconds since January 1, 1970, 00:00:00 UTC (the Unix Epoch).",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1.5,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

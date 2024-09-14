@@ -1,0 +1,26 @@
+{
+  "title": "Number.isNaN()",
+  "description": "The `Number.isNaN()` static JS method determines whether the provided value is `NaN` (Not-a-Number).",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that checks if a value is `NaN` (Not-a-Number). It returns `true` if the value is `NaN` and `false` otherwise",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 25,
+        "chrome_android": 25,
+        "edge": 12,
+        "firefox": 15,
+        "firefox_android": 15,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

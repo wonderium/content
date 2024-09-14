@@ -1,0 +1,26 @@
+{
+  "title": "console.info()",
+  "description": "The `console.info()` static JS browser API method outputs an informational message to the console.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static browser API method that logs an informational message to the console. It’s often used to display general information that doesn’t need special emphasis.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 4,
+        "firefox_android": 4,
+        "safari": 3,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

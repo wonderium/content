@@ -1,0 +1,26 @@
+{
+  "title": ".isSupersetOf()",
+  "description": "The `.isSupersetOf()` JS method checks whether the current `Set` object contains all elements of the `Set` object provided as an argument.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that determines whether the `Set` object on which it's called contains all elements of the `Set` object passed as an argument, returning `true` if it does and `false` otherwise.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 122,
+        "chrome_android": 122,
+        "edge": 122,
+        "firefox": 127,
+        "firefox_android": 127,
+        "safari": 17,
+        "safari_ios": 17
+      },
+      "latest_release_date": {
+        "year": 2024,
+        "month": 6,
+        "day": 11
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": ".with()",
+  "description": "The `.with()` JS method returns a new array with a specified element replaced at a given index, leaving the original array unchanged.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that creates a new array by copying the original array and replacing one element at a specified index with a new value. It doesn’t modify the original array and helps to update arrays immutably.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 110,
+        "chrome_android": 110,
+        "edge": 110,
+        "firefox": 115,
+        "firefox_android": 115,
+        "safari": 16,
+        "safari_ios": 16
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 7,
+        "day": 4
+      }
+    }
+  }
+}

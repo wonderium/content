@@ -1,0 +1,26 @@
+{
+  "title": ".size",
+  "description": "The `.size` JS property returns the number of elements in the `Set` object.",
+  "categories": [
+    "property"
+  ],
+  "content": "The property that returns the number of unique elements contained in the `Set` object. It’s a read-only property that reflects the current number of elements.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 38,
+        "chrome_android": 38,
+        "edge": 12,
+        "firefox": 19,
+        "firefox_android": 19,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "title": "navigator.clipboard",
+  "description": "The `navigator.clipboard` JS browser API property provides access to the clipboard, allowing reading and writing of text and other data.",
+  "categories": [
+    "property",
+    "object"
+  ],
+  "content": "The browser API property for reading and writing to the clipboard. It allows web applications to copy, cut or paste text and other data to the user's clipboard with their permission.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 66,
+        "chrome_android": 66,
+        "edge": 79,
+        "firefox": 63,
+        "firefox_android": 63,
+        "safari": 13.1,
+        "safari_ios": 13.4
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 3,
+        "day": 24
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Object.is()",
+  "description": "The `Object.is()` static JS method determines whether two values are the same value.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that determines whether two values are the same value. It’s similar to the strict equality operator (===), but with special handling for `NaN`, -0 and +0.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 19,
+        "chrome_android": 25,
+        "edge": 12,
+        "firefox": 22,
+        "firefox_android": 22,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

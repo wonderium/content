@@ -1,0 +1,26 @@
+{
+  "title": "Math.clz32()",
+  "description": "The `Math.clz32()` static JS method returns the number of leading zeroes in the 32-bit binary representation of a given number.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns the number of leading zero bits in the 32-bit binary representation of a given number. It’s useful for binary manipulation and bitwise operations.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 38,
+        "chrome_android": 38,
+        "edge": 12,
+        "firefox": 31,
+        "firefox_android": 31,
+        "safari": 7,
+        "safari_ios": 7
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

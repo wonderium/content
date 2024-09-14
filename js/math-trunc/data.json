@@ -1,0 +1,26 @@
+{
+  "title": "Math.trunc()",
+  "description": "The `Math.trunc()` static JS method returns the integer part of a given number by removing any fractional digits.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns the integer part of a given number by removing any fractional digits. For example, `Math.trunc(4.9)` returns 4.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 38,
+        "chrome_android": 38,
+        "edge": 12,
+        "firefox": 25,
+        "firefox_android": 25,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

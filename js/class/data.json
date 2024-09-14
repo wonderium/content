@@ -1,0 +1,27 @@
+{
+  "title": "class",
+  "description": "The `class` JS syntax keyword is a blueprint for creating objects with shared properties and methods.",
+  "categories": [
+    "syntax",
+    "keyword"
+  ],
+  "content": "The keyword for defining a blueprint for creating objects in JavaScript. It encapsulates properties and methods into a single construct, facilitating the creation of multiple objects with the same structure and behavior.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 49,
+        "chrome_android": 49,
+        "edge": 13,
+        "firefox": 45,
+        "firefox_android": 45,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 3,
+        "day": 27
+      }
+    }
+  }
+}

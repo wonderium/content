@@ -1,0 +1,26 @@
+{
+  "title": ".includes()",
+  "description": "The `.includes()` JS method determines whether a string contains the characters of a specified substring.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that checks if a string contains a specified substring. It returns `true` if the substring is found within the string and `false` otherwise.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 41,
+        "chrome_android": 41,
+        "edge": 12,
+        "firefox": 40,
+        "firefox_android": 40,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

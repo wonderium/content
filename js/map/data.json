@@ -1,0 +1,26 @@
+{
+  "title": "Map",
+  "description": "The `Map` JS object is a collection of key-value pairs where both keys and values can be of any data type.",
+  "categories": [
+    "object"
+  ],
+  "content": "The object that holds collection of key-value pairs where both keys and values can be of any type, including objects and functions. It maintains the order of insertion and allows efficient retrieval, addition and deletion of elements. Keys remain in memory until explicitly removed.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 38,
+        "chrome_android": 38,
+        "edge": 12,
+        "firefox": 13,
+        "firefox_android": 14,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

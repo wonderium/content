@@ -1,0 +1,26 @@
+{
+  "title": "Math.log2()",
+  "description": "The `Math.log2()` static JS method returns the base-2 logarithm of a given number.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns the base-2 logarithm of a given number. For example, `Math.log2(8)` returns 3, as 2 to the power of 3 is 8.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 38,
+        "chrome_android": 38,
+        "edge": 12,
+        "firefox": 25,
+        "firefox_android": 25,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

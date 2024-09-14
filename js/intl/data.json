@@ -1,0 +1,26 @@
+{
+  "title": "Intl",
+  "description": "The `Intl` JS object provides a namespace for i18n (internationalization) features, allowing for locale-sensitive operations like date and number formatting.",
+  "categories": [
+    "object"
+  ],
+  "content": "The object that provides several namespaces and functions for language-sensitive operations, such as number and date formatting. It’s used for i18n (internationalization) and localization of JavaScript applications.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 24,
+        "chrome_android": 25,
+        "edge": 12,
+        "firefox": 29,
+        "firefox_android": 56,
+        "safari": 10,
+        "safari_ios": 10
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 9,
+        "day": 28
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Event Model",
+  "description": "The Event Model JS system is responsible for handling events and interactions on a web page.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The system that defines how events are handled and propagated through the DOM. It includes event capturing, targeting and bubbling, which determine the sequence in which event handlers are executed.",
+  "extensions": {}
+}
