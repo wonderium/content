@@ -1,0 +1,26 @@
+{
+  "title": ".padEnd()",
+  "description": "The `.padEnd()` JS method pads the current string with a specified substring until it reaches the given length.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that pads the end of a string with a specified substring, repeated if needed, until the string reaches the given length. This is useful for aligning text or creating fixed-width outputs.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 57,
+        "chrome_android": 57,
+        "edge": 15,
+        "firefox": 48,
+        "firefox_android": 48,
+        "safari": 10,
+        "safari_ios": 10
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 4,
+        "day": 5
+      }
+    }
+  }
+}

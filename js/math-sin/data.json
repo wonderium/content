@@ -1,0 +1,26 @@
+{
+  "title": "Math.sin()",
+  "description": "The `Math.sin()` static JS method returns the sine of a given number in radians.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns the sine of a given number in radians. The result is a value between -1 and 1. For example, `Math.sin(Math.PI / 2)` returns 1.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

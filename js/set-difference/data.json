@@ -1,0 +1,26 @@
+{
+  "title": ".difference()",
+  "description": "The `.difference()` JS method returns a new `Set` object containing elements that are in the current `Set` object but not in the `Set` object provided as an argument.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that identifies elements present in the `Set` object on which it's called, but not in the `Set` object passed as an argument, returning a new `Set` object with these unique elements.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 122,
+        "chrome_android": 122,
+        "edge": 122,
+        "firefox": 127,
+        "firefox_android": 127,
+        "safari": 17,
+        "safari_ios": 17
+      },
+      "latest_release_date": {
+        "year": 2024,
+        "month": 6,
+        "day": 11
+      }
+    }
+  }
+}

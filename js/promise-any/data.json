@@ -1,0 +1,26 @@
+{
+  "title": "Promise.any()",
+  "description": "The `Promise.any()` static JS method takes an iterable of `Promise` objects and as soon as one of the promises in the iterable fulfills, returns a single `Promise` object that resolves with the value from that promise.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that takes an iterable of `Promise` objects and as soon as one of the promises in the iterable fulfills, returns a single `Promise` object that resolves with the value from that promise. If no promises in the iterable fulfill, meaning that all are rejected, then the returned promise is rejected with an `AggregateError`.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 85,
+        "chrome_android": 85,
+        "edge": 85,
+        "firefox": 79,
+        "firefox_android": 79,
+        "safari": 14,
+        "safari_ios": 14
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 9,
+        "day": 16
+      }
+    }
+  }
+}

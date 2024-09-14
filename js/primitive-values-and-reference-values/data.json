@@ -1,0 +1,9 @@
+{
+  "title": "Primitive Values and Reference Values",
+  "description": "The Primitive Values, such as numbers, strings, are immutable and passed by value, while the Reference Values, such as objects and arrays, are mutable and passed by reference.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The primitive values are immutable and include types, such as `number`, `string`, `boolean`, `null`, `undefined`, `symbol` and `bigint`. The reference values, on the other hand, are objects, arrays and functions. Unlike primitives, reference values are mutable and compared by reference, not by value.",
+  "extensions": {}
+}

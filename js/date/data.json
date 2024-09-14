@@ -1,0 +1,26 @@
+{
+  "title": "Date",
+  "description": "The `Date` JS object represents a specific point in time and offers methods to manipulate dates and times.",
+  "categories": [
+    "object"
+  ],
+  "content": "The object used to work with dates and times. It allows creation, manipulation and formatting of dates and times in various ways.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

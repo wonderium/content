@@ -1,0 +1,27 @@
+{
+  "title": "async / await",
+  "description": "The `async / await` JS syntax keywords are used to work with asynchronous operations.",
+  "categories": [
+    "syntax",
+    "keyword"
+  ],
+  "content": "The keywords used to handle asynchronous code in JavaScript, making it easier to work with promises. The `async` keyword is used to define functions that return a `Promise` object and `await` pauses the execution of the function in which it's used until the promise is resolved or rejected, allowing for more readable and structured code, while other code continues executing.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 55,
+        "chrome_android": 55,
+        "edge": 15,
+        "firefox": 52,
+        "firefox_android": 52,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 4,
+        "day": 5
+      }
+    }
+  }
+}

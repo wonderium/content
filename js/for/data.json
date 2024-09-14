@@ -1,0 +1,27 @@
+{
+  "title": "for",
+  "description": "The `for` JS syntax statement is a loop structure that repeatedly executes a block of code a specified number of times.",
+  "categories": [
+    "syntax",
+    "statement"
+  ],
+  "content": "The statement used as a loop structure that repeats a block of code a specified number of times. It includes an initialization, a condition and an iteration expression, which control the loop's execution.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

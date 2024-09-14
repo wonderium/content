@@ -1,0 +1,26 @@
+{
+  "title": ".reduceRight()",
+  "description": "The `.reduceRight()` JS method executes a reducer function on each element of the array, from right to left, resulting in a single output value.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that is similar to `.reduce()`, but processes the array elements from right to left. It accumulates a single value by applying a function to each element in reverse order.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 3,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

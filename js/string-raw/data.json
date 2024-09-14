@@ -1,0 +1,26 @@
+{
+  "title": "String.raw()",
+  "description": "The `String.raw()` static JS method returns a raw string from a template string, where escape sequences are processed.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns a raw string from template literals. It provides access to the raw content of a template literal, including any escape sequences.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 41,
+        "chrome_android": 41,
+        "edge": 12,
+        "firefox": 34,
+        "firefox_android": 34,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

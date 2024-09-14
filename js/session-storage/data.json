@@ -1,0 +1,26 @@
+{
+  "title": "sessionStorage",
+  "description": "The `sessionStorage` JS browser API object provides access to the session storage mechanism, which allows for storing key-value pairs in a web browser that are cleared when the page session ends.",
+  "categories": [
+    "object"
+  ],
+  "content": "The browser API object that allows storing key-value pairs in the browser for the duration of the page session. Data stored in `sessionStorage` is available while the page is open in the current tab or window and persists through page reloads, but is cleared when the tab or window is closed.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 4,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 2,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

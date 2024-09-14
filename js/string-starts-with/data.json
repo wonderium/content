@@ -1,0 +1,26 @@
+{
+  "title": ".startsWith()",
+  "description": "The `.startsWith()` JS method determines whether a string begins with the characters of a specified substring.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that checks if a string begins with a specified substring. It returns `true` if the string starts with the given substring and `false` otherwise.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 41,
+        "chrome_android": 36,
+        "edge": 12,
+        "firefox": 17,
+        "firefox_android": 17,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

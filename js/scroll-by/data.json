@@ -1,0 +1,26 @@
+{
+  "title": ".scrollBy()",
+  "description": "The `.scrollBy()` JS browser API method scrolls the document or element by the specified number of pixels.",
+  "categories": [
+    "method"
+  ],
+  "content": "The browser API method that scrolls the document or an element by a specified amount in pixels relative to its current scroll position. It’s useful for smoothly moving content up, down, left or right.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 61,
+        "chrome_android": 61,
+        "edge": 79,
+        "firefox": 36,
+        "firefox_android": 36,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Object.getOwnPropertyDescriptors()",
+  "description": "The `Object.getOwnPropertyDescriptors()` static JS method returns an object containing all own property descriptors of an object.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns an object containing all own property descriptors of the given object. This is useful for obtaining detailed information about each property, including its value and whether it's writable, enumerable or configurable.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 54,
+        "chrome_android": 54,
+        "edge": 15,
+        "firefox": 50,
+        "firefox_android": 50,
+        "safari": 10,
+        "safari_ios": 10
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 4,
+        "day": 5
+      }
+    }
+  }
+}

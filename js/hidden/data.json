@@ -1,0 +1,26 @@
+{
+  "title": ".hidden",
+  "description": "The `.hidden` JS browser API property of an HTML element represents whether the element is hidden from view.",
+  "categories": [
+    "property"
+  ],
+  "content": "The browser API property of an HTML element that indicates whether the element is hidden or visible. When set to `true`, the element is not rendered and doesn’t occupy any space on the page.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 6,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 4,
+        "firefox_android": 4,
+        "safari": 5.1,
+        "safari_ios": 5
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

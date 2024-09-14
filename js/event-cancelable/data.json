@@ -1,0 +1,26 @@
+{
+  "title": ".cancelable",
+  "description": "The `.cancelable` JS browser API property of an `Event` object indicates whether the event can be canceled, preventing the default action.",
+  "categories": [
+    "property"
+  ],
+  "content": "The browser API property that indicates whether the event's default action can be prevented. If `true`, calling `event.preventDefault()` will stop the default behavior.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1.5,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

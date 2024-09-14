@@ -1,0 +1,26 @@
+{
+  "title": "console.time()",
+  "description": "The `console.time()` static JS browser API method starts a timer to track how long an operation takes.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static browser API method that starts a timer with a specified label, allowing to measure how long an operation takes. It’s often used for performance testing.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 2,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 10,
+        "firefox_android": 10,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

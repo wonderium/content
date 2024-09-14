@@ -1,0 +1,26 @@
+{
+  "title": "Promise.reject()",
+  "description": "The `Promise.reject()` static JS method returns a `Promise` object that is rejected with the given reason.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns a `Promise` object that is rejected with a given reason. This is typically used to return a rejected `Promise` object in a chain of promises or for testing purposes.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 32,
+        "chrome_android": 32,
+        "edge": 12,
+        "firefox": 29,
+        "firefox_android": 29,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

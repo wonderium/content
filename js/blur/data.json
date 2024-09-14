@@ -1,0 +1,26 @@
+{
+  "title": ".blur()",
+  "description": "The `.blur()` JS browser API method keyboard removes focus from the specified element.",
+  "categories": [
+    "method"
+  ],
+  "content": "The browser API method that removes focus from an element, like an input field. It’s often used to indicate that the user has finished interacting with the element.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1.5,
+        "firefox_android": 4,
+        "safari": 3,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

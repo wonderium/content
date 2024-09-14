@@ -1,0 +1,26 @@
+{
+  "title": "Element",
+  "description": "The `Element` JS browser API object represents an HTML or XML Element in the document, providing methods and properties to manipulate the element's content, attributes and style.",
+  "categories": [
+    "object"
+  ],
+  "content": "The browser API object that represents a single element in an HTML or XML document. It provides methods and properties to manipulate the element's content, attributes and styling.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

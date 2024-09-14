@@ -1,0 +1,27 @@
+{
+  "title": "try...catch...finally",
+  "description": "The `try...catch...finally` JS syntax statement executes code in the `try` block, handles exceptions in the `catch` block if any occur and executes the `finally` block regardless of whether an exception was thrown.",
+  "categories": [
+    "syntax",
+    "statement"
+  ],
+  "content": "The statement used for handling exceptions. The `try` block contains code that may throw an error. The `catch` block executes if an error occurs, allowing to handle the error. The `finally` block contains code that runs after the `try` and `catch` blocks, regardless of whether an error was thrown or not.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

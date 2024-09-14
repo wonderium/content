@@ -1,0 +1,26 @@
+{
+  "title": ".setFullYear()",
+  "description": "The `.setFullYear()` JS method sets the full year for a specified date according to local time.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that sets the full year (including century) for a specified date according to local time. It allows updating the year, optionally specifying the month and day.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "title": "import / export",
+  "description": "The `import / export` JS syntax keywords are used to import and export modules.",
+  "categories": [
+    "syntax",
+    "keyword"
+  ],
+  "content": "The keywords used in JavaScript for importing and exporting functions, objects or entire modules between files. The `import` keyword is used to bring code from another module into the current module, while `export` is used to make code available to other modules.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 61,
+        "chrome_android": 61,
+        "edge": 16,
+        "firefox": 60,
+        "firefox_android": 60,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2018,
+        "month": 5,
+        "day": 9
+      }
+    }
+  }
+}

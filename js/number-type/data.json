@@ -1,0 +1,9 @@
+{
+  "title": "number",
+  "description": "The `number` JS data type represents both integer and floating-point numbers used for arithmetic operations.",
+  "categories": [
+    "data type"
+  ],
+  "content": "The primitive data type that represents both integer and floating-point numbers. JavaScript doesn’t have separate types for integers and floating-point numbers.",
+  "extensions": {}
+}

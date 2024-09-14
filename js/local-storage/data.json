@@ -1,0 +1,26 @@
+{
+  "title": "localStorage",
+  "description": "The `localStorage` JS browser API object provides access to the local storage mechanism, which allows for storing key-value pairs in a web browser with no expiration time.",
+  "categories": [
+    "object"
+  ],
+  "content": "The browser API object that provides a way to store key-value pairs in a web browser with no expiration time. It allows data to persist even after the browser is closed and reopened.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 4,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

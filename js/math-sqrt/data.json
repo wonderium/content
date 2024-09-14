@@ -1,0 +1,26 @@
+{
+  "title": "Math.sqrt()",
+  "description": "The `Math.sqrt()` static JS method returns the square root of a given number.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns the square root of a given number. For example, `Math.sqrt(9)` returns 3, as 3 squared is 9.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

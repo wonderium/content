@@ -1,0 +1,26 @@
+{
+  "title": ".setSeconds()",
+  "description": "The `.setSeconds()` JS method sets the seconds for a specified date according to local time.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that sets the seconds for a specified date according to local time. The value must be between 0 and 59 and it also allows updating the minutes and milliseconds.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

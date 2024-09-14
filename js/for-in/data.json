@@ -1,0 +1,27 @@
+{
+  "title": "for...in",
+  "description": "The `for...in` JS syntax statement is a loop that iterates over the enumerable properties of an object, executing a block of code for each property name.",
+  "categories": [
+    "syntax",
+    "statement"
+  ],
+  "content": "The statement used as a loop structure that iterates over the enumerable properties of an object, executing a block of code for each property name (key) one at a time.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

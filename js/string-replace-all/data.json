@@ -1,0 +1,26 @@
+{
+  "title": ".replaceAll()",
+  "description": "The `.replaceAll()` JS method returns a new string with all matches of a pattern replaced by a specified replacement string.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that replaces all occurrences of a substring or matches of a regular expression with a specified replacement string. It’s similar to `.replace()`, but doesn’t require the global `g` flag in the regular expression.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 85,
+        "chrome_android": 85,
+        "edge": 85,
+        "firefox": 77,
+        "firefox_android": 79,
+        "safari": 13.1,
+        "safari_ios": 13.4
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 8,
+        "day": 27
+      }
+    }
+  }
+}

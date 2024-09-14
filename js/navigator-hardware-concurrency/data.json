@@ -1,0 +1,26 @@
+{
+  "title": "navigator.hardwareConcurrency",
+  "description": "The `navigator.hardwareConcurrency` JS browser API property returns the number of logical processors available to run threads on the user's computer.",
+  "categories": [
+    "property"
+  ],
+  "content": "The browser API property that returns the number of logical processors available on the user's device. This can be useful for optimizing performance, especially in multi-threaded or parallel processing tasks.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 37,
+        "chrome_android": 37,
+        "edge": 15,
+        "firefox": 48,
+        "firefox_android": 48,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 4,
+        "day": 5
+      }
+    }
+  }
+}

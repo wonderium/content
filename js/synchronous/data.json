@@ -1,0 +1,9 @@
+{
+  "title": "Synchronous",
+  "description": "The Synchronous in JS allows tasks to execute sequentially in the main program flow, where each task must complete before the next one begins, blocking other code from running during the execution.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The programming concept where tasks are executed one after another, in a sequential order. Each task must be completed before the next one starts, which means the program waits for each operation to finish before moving on. This can lead to delays if a task takes a long time, as the program will be blocked until the current task is completed.",
+  "extensions": {}
+}

@@ -1,0 +1,26 @@
+{
+  "title": ".toString()",
+  "description": "The `.toString()` JS method returns a string representing the object.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that returns a string representing the object. By default, it returns '[object Type]', where 'Type' indicates the object's type, such as 'Object', 'Date', 'Number' or 'BigInt'. This method can be overridden to provide more meaningful output for custom objects.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

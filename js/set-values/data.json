@@ -1,0 +1,26 @@
+{
+  "title": ".values()",
+  "description": "The `.values()` JS method returns a new `Iterator` object that contains the values for each element in the `Set` object.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that returns a new `Iterator` object containing the values of a `Set`. It allows iteration over the elements in the `Set` and is useful for accessing the elements.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 38,
+        "chrome_android": 38,
+        "edge": 12,
+        "firefox": 24,
+        "firefox_android": 24,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

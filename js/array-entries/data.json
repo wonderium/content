@@ -1,0 +1,26 @@
+{
+  "title": ".entries()",
+  "description": "The `.entries()` JS method returns a new `Iterator` object that contains the key-value pairs for each element in the array.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that returns a new `Iterator` object containing key-value pairs for each array element. The key is the index of the element and the value is the element itself, allowing for easy iteration over both.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 38,
+        "chrome_android": 38,
+        "edge": 12,
+        "firefox": 28,
+        "firefox_android": 28,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

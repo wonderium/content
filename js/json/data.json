@@ -1,0 +1,26 @@
+{
+  "title": "JSON",
+  "description": "The `JSON` JS object provides functionality for working with JSON data, enabling the conversion between JavaScript objects and JSON-encoded strings.",
+  "categories": [
+    "object"
+  ],
+  "content": "The object used for parsing and stringifying JSON (JavaScript Object Notation), a lightweight data interchange format commonly used for transmitting data over the network. It includes methods like `.parse()` and `.stringify()` for converting between JSON and JavaScript objects.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 3,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 4
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

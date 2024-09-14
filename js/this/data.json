@@ -1,0 +1,26 @@
+{
+  "title": "this",
+  "description": "The `this` JS keyword represents the context in which a function is executed, providing access to the object or scope that is invoking the function.",
+  "categories": [
+    "keyword"
+  ],
+  "content": "The keyword that represents the current context or object from which a method or function was called. The value of `this` depends on the invocation context, which can be the global object, an object method, a constructor function or other contexts, allowing access to the object’s properties and methods.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

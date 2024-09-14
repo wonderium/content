@@ -1,0 +1,26 @@
+{
+  "title": "Intl.getCanonicalLocales()",
+  "description": "The `Intl.getCanonicalLocales()` static JS method returns an array containing the canonical form of the locale list.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns an array of canonicalized locale identifiers. It standardizes locale strings, ensuring consistency across different operations that rely on locale information.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 54,
+        "chrome_android": 54,
+        "edge": 16,
+        "firefox": 48,
+        "firefox_android": 56,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 10,
+        "day": 17
+      }
+    }
+  }
+}

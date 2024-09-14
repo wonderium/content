@@ -1,0 +1,26 @@
+{
+  "title": "WeakMap",
+  "description": "The `WeakMap` JS object is a collection of key-value pairs where keys are objects and values can be any data type, with keys being weakly held to support garbage collection.",
+  "categories": [
+    "object"
+  ],
+  "content": "The object that holds a collection of key-value pairs where keys are objects and values can be any value. The keys are weakly held, meaning if there are no other references to a key object, it can be garbage collected. This avoids memory leaks.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 36,
+        "chrome_android": 36,
+        "edge": 12,
+        "firefox": 6,
+        "firefox_android": 6,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

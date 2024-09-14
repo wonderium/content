@@ -1,0 +1,26 @@
+{
+  "title": ".getUTCMinutes()",
+  "description": "The `.getUTCMinutes()` JS method returns the minutes of a specified date according to UTC.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that returns the minutes portion of a specified date according to UTC (Universal Coordinated Time), as a number between 0 and 59. This value represents the UTC minutes past the hour.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": ".at()",
+  "description": "The `.at()` JS method returns the character at the specified index, allowing for negative integers as well.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that returns the element at a specified index in a string. It supports negative integers, allowing access from the end of the string.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 92,
+        "chrome_android": 92,
+        "edge": 92,
+        "firefox": 90,
+        "firefox_android": 90,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2022,
+        "month": 3,
+        "day": 14
+      }
+    }
+  }
+}

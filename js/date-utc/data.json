@@ -1,0 +1,26 @@
+{
+  "title": "Date.UTC()",
+  "description": "The `Date.UTC()` static JS method returns the number of milliseconds between a specified date and January 1, 1970, 00:00:00 UTC.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns the number of milliseconds since January 1, 1970, 00:00:00 UTC (the Unix Epoch) for a specified date and time in UTC format. It allows creating a timestamp from individual date and time components.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

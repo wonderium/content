@@ -1,0 +1,9 @@
+{
+  "title": "symbol",
+  "description": "The `symbol` JS data type represents a unique and immutable identifier used primarily as object property keys.",
+  "categories": [
+    "data type"
+  ],
+  "content": "The primitive data type that represents a unique and immutable value used primarily as property keys in objects. Symbols are useful for creating unique identifiers that avoid name collisions.",
+  "extensions": {}
+}

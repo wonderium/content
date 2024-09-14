@@ -1,0 +1,26 @@
+{
+  "title": ".removeProperty()",
+  "description": "The `.removeProperty()` JS browser API method removes a specified property from a CSS style declaration object.",
+  "categories": [
+    "method"
+  ],
+  "content": "The browser API method used to remove a specified CSS property from a style declaration object. It’s commonly used to dynamically change or reset styles applied to elements.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

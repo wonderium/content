@@ -1,0 +1,26 @@
+{
+  "title": "Object",
+  "description": "The `Object` JS object provides a set of methods for working with objects, such as creating and defining properties.",
+  "categories": [
+    "object"
+  ],
+  "content": "The object that serves as the base for all other objects in JavaScript. It provides instance methods for inspecting and interacting with object properties, such as checking property ownership and conversion to string. It also includes static methods for creating, modifying and querying objects.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

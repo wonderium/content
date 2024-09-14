@@ -1,0 +1,26 @@
+{
+  "title": ".toDateString()",
+  "description": "The `.toDateString()` JS method returns the date portion of a specified `Date` object as a human-readable string in the format: 'Day Month Date Year'.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that returns a string representing the date portion of a specified `Date` object in a human-readable format, such as 'Mon Aug 19 2024.'",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

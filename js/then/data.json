@@ -1,0 +1,26 @@
+{
+  "title": ".then()",
+  "description": "The `.then()` JS method adds fulfillment handlers to the `Promise` object and can optionally include rejection handlers.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method used with promises to specify what to do when a promise resolves successfully. It takes a callback function that handles the resolved value of the promise and can optionally take a second callback function to handle rejection, though `.catch()` is commonly used for this purpose. It returns a new `Promise` object for chaining further actions.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 32,
+        "chrome_android": 32,
+        "edge": 12,
+        "firefox": 29,
+        "firefox_android": 29,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

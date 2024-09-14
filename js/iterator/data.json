@@ -1,0 +1,9 @@
+{
+  "title": "Iterator",
+  "description": "The `Iterator` JS object provides a mechanism for iterating over a sequence of values, allowing traversal through elements using the `next()` method.",
+  "categories": [
+    "object"
+  ],
+  "content": "The object that provides a standardized way to access elements of a collection one at a time. It implements the `next()` method, which returns the next value and an indication of whether the iteration is complete. `Iterator` is used in loops, such as `for...of`, to work with different types of collections.",
+  "extensions": {}
+}

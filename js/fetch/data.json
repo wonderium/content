@@ -1,0 +1,26 @@
+{
+  "title": "fetch()",
+  "description": "The `fetch()` JS browser API method initiates a network request and returns a `Promise` object that resolves to the response of the request.",
+  "categories": [
+    "method"
+  ],
+  "content": "The browser API method used to make network requests to retrieve resources like HTML, JSON or images. It returns a `Promise` object that resolves to the `Response` object representing the result of the request.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 42,
+        "chrome_android": 42,
+        "edge": 14,
+        "firefox": 39,
+        "firefox_android": 39,
+        "safari": 10.1,
+        "safari_ios": 10.3
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 3,
+        "day": 27
+      }
+    }
+  }
+}

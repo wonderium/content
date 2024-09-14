@@ -1,0 +1,26 @@
+{
+  "title": "requestAnimationFrame()",
+  "description": "The `requestAnimationFrame()` JS browser API method schedules a function to be called before the next repaint, typically used for animations.",
+  "categories": [
+    "method"
+  ],
+  "content": "The browser API method that schedules a function to be called before the next repaint, ensuring smooth animations by syncing with the browser’s refresh rate. it's commonly used to update the position of elements in animations or games.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 24,
+        "chrome_android": 25,
+        "edge": 12,
+        "firefox": 23,
+        "firefox_android": 23,
+        "safari": 7,
+        "safari_ios": 7
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

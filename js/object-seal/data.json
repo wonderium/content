@@ -1,0 +1,26 @@
+{
+  "title": "Object.seal()",
+  "description": "The `Object.seal()` static JS method seals an object, preventing new properties from being added to it and marking all existing properties as non-configurable.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that seals an object, preventing new properties from being added and marking all existing properties as non-configurable. However, the values of existing properties can still be modified.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 6,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 4,
+        "firefox_android": 4,
+        "safari": 5.1,
+        "safari_ios": 5
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

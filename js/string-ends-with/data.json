@@ -1,0 +1,26 @@
+{
+  "title": ".endsWith()",
+  "description": "The `.endsWith()` JS method determines whether a string ends a specified substring.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that checks if a string ends with a specified substring. It returns `true` if the string ends with the given substring and `false` otherwise.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 41,
+        "chrome_android": 36,
+        "edge": 12,
+        "firefox": 17,
+        "firefox_android": 17,
+        "safari": 9,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 9,
+        "day": 30
+      }
+    }
+  }
+}

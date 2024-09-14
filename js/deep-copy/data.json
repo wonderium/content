@@ -1,0 +1,9 @@
+{
+  "title": "Deep Copy",
+  "description": "The Deep Copy in JS is a process of creating a new object that duplicates an existing object, including all nested objects, without affecting the original.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The process of creating a new object that is a complete copy of an existing object, including all nested objects. It ensures that changes to the new object don't affect the original object.",
+  "extensions": {}
+}

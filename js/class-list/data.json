@@ -1,0 +1,26 @@
+{
+  "title": ".classList",
+  "description": "The `.classList` JS browser API property of an HTML element returns a live `DOMTokenList` collection of the class attributes of the element.",
+  "categories": [
+    "property", "object"
+  ],
+  "content": "The browser API property of an HTML element that returns a live `DOMTokenList` collection of the element's CSS classes. It provides methods to add, remove or toggle classes on the element.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 22,
+        "chrome_android": 25,
+        "edge": 16,
+        "firefox": 3.6,
+        "firefox_android": 4,
+        "safari": 7,
+        "safari_ios": 7
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 10,
+        "day": 17
+      }
+    }
+  }
+}

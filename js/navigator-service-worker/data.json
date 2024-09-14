@@ -1,0 +1,27 @@
+{
+  "title": "navigator.serviceWorker",
+  "description": "The `navigator.serviceWorker` JS browser API property provides access to the Service Worker API, which allows for the registration and control of service workers for background tasks.",
+  "categories": [
+    "property",
+    "object"
+  ],
+  "content": "The browser API property that provides access to Service Workers, which are background scripts that enable features like offline caching, push notifications and background synchronization. They help improve the performance and capabilities of web applications.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 40,
+        "chrome_android": 40,
+        "edge": 17,
+        "firefox": 44,
+        "firefox_android": 44,
+        "safari": 11.1,
+        "safari_ios": 11.3
+      },
+      "latest_release_date": {
+        "year": 2018,
+        "month": 4,
+        "day": 30
+      }
+    }
+  }
+}

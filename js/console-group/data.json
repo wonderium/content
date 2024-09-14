@@ -1,0 +1,26 @@
+{
+  "title": "console.group()",
+  "description": "The `console.group()` static JS browser API method creates a new inline group in the console.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static browser API method that creates a new group in the console, allowing related messages to be grouped together. It helps organize console output, especially when dealing with complex or nested operations.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 2,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 9,
+        "firefox_android": 9,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

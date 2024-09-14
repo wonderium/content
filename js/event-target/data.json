@@ -1,0 +1,26 @@
+{
+  "title": ".target",
+  "description": "The `.target` JS browser API property of an `Event` object references the element that triggered the event.",
+  "categories": [
+    "property"
+  ],
+  "content": "The browser API property that indicates the element that triggered the event. It represents the original element where the event occurred, which might differ from the element that has the event handler for this event.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

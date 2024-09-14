@@ -1,0 +1,26 @@
+{
+  "title": ".isWellFormed()",
+  "description": "The `.isWellFormed()` JS method returns whether the string is well-formed Unicode.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that checks if a string is well-formed with respect to Unicode characters. It returns `true` if the string consists of valid Unicode characters and `false` otherwise. This method helps ensure that the string doesn't contain any unpaired surrogate halves.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 111,
+        "chrome_android": 111,
+        "edge": 111,
+        "firefox": 119,
+        "firefox_android": 119,
+        "safari": 16.4,
+        "safari_ios": 16.4
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 10,
+        "day": 24
+      }
+    }
+  }
+}

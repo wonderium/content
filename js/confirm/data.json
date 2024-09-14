@@ -1,0 +1,26 @@
+{
+  "title": "confirm()",
+  "description": "The `confirm()` JS browser API method displays a dialog with a specified message, along with 'OK' and 'Cancel' buttons.",
+  "categories": [
+    "method"
+  ],
+  "content": "The browser API method that displays a dialog box with a specified message, along with 'OK' and 'Cancel' buttons. It returns `true` if 'OK' is pressed and `false` if 'Cancel' is pressed.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

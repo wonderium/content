@@ -1,0 +1,27 @@
+{
+  "title": "function",
+  "description": "The `function` JS syntax keyword defines a block of code designed to perform a particular task, which can be executed when called.",
+  "categories": [
+    "syntax",
+    "keyword"
+  ],
+  "content": "The keyword used to define a function, which is a reusable block of code designed to perform a specific task. it's a reserved word in the syntax that indicates the start of a function declaration or expression.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

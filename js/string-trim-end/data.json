@@ -1,0 +1,26 @@
+{
+  "title": ".trimEnd()",
+  "description": "The `.trimEnd()` JS method trims whitespace from the end of a string.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that removes whitespace from the end of a string. It’s useful for cleaning up trailing spaces in text data.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 66,
+        "chrome_android": 66,
+        "edge": 79,
+        "firefox": 61,
+        "firefox_android": 61,
+        "safari": 12,
+        "safari_ios": 12
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

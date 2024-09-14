@@ -1,0 +1,26 @@
+{
+  "title": "console.count()",
+  "description": "The `console.count()` static JS browser API method logs the number of times it has been called with a specific label.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static browser API method that logs the number of times it has been called with a particular label. It helps track how often a piece of code is executed.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 2,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 30,
+        "firefox_android": 30,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

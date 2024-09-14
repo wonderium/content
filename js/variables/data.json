@@ -1,0 +1,9 @@
+{
+  "title": "Variables",
+  "description": "The Variables in JS are named storage locations that hold data values, enabling reference and manipulation of these values throughout the code.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The named storage locations that hold data. They can store values such as numbers, strings or objects, which are accessed by their assigned names. Variables are declared using `var`, `let` or `const`, each with specific rules for scope and reassignment.",
+  "extensions": {}
+}

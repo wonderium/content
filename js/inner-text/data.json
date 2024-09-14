@@ -1,0 +1,26 @@
+{
+  "title": ".innerText",
+  "description": "The `.innerText` JS browser API property of an HTML element represents the rendered text content of a node and its descendants.",
+  "categories": [
+    "property"
+  ],
+  "content": "The browser API property of an HTML element that represents the visible text content inside the element. Unlike `.textContent`, it respects the CSS styles and doesn’t include hidden elements.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 45,
+        "firefox_android": 45,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2016,
+        "month": 3,
+        "day": 8
+      }
+    }
+  }
+}

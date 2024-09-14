@@ -1,0 +1,26 @@
+{
+  "title": ".keys()",
+  "description": "The `.keys()` JS method returns a new `Iterator` object containing the keys of the `Map` object.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that returns a new `Iterator` object containing the keys of the `Map` object, in the order they were added. This allows iteration over just the keys of the map.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 38,
+        "chrome_android": 38,
+        "edge": 12,
+        "firefox": 20,
+        "firefox_android": 20,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

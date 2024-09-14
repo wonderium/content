@@ -1,0 +1,26 @@
+{
+  "title": "Math.SQRT1_2",
+  "description": "The `Math.SQRT1_2` JS property returns the square root of 1/2, approximately 0.707.",
+  "categories": [
+    "constant"
+  ],
+  "content": "The property that returns the square root of 1/2, approximately 0.70711. It’s used in mathematical calculations involving roots.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

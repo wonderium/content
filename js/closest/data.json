@@ -1,0 +1,26 @@
+{
+  "title": ".closest()",
+  "description": "The `.closest()` JS browser API method returns the closest ancestor of the current element that matches the specified CSS selector.",
+  "categories": [
+    "method"
+  ],
+  "content": "The browser API method that traverses the DOM to find the nearest ancestor of the current element that matches a given selector. It’s often used to find parent elements based on specific criteria.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 41,
+        "chrome_android": 41,
+        "edge": 15,
+        "firefox": 35,
+        "firefox_android": 35,
+        "safari": 6,
+        "safari_ios": 9
+      },
+      "latest_release_date": {
+        "year": 2017,
+        "month": 4,
+        "day": 5
+      }
+    }
+  }
+}

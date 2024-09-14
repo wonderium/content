@@ -1,0 +1,22 @@
+{
+  "title": "navigator.deviceMemory",
+  "description": "The `navigator.deviceMemory` JS browser API property returns the approximate amount of device memory in gigabytes.",
+  "categories": [
+    "property"
+  ],
+  "content": "The browser API property that indicates the amount of RAM available on the user's device, measured in gigabytes. This information can help web developers optimize their applications for devices with different memory capacities.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 63,
+        "chrome_android": 63,
+        "edge": 79,
+        "firefox": null,
+        "firefox_android": null,
+        "safari": null,
+        "safari_ios": null
+      },
+      "latest_release_date": "Limited availability"
+    }
+  }
+}

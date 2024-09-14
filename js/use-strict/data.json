@@ -1,0 +1,9 @@
+{
+  "title": "'use strict'",
+  "description": "The `use strict` JS directive used to enable special restricted mode that helps to catch common coding mistakes and prevents the use of unsafe features.",
+  "categories": [
+    "directive"
+  ],
+  "content": "The directive that enforces stricter parsing and error handling. It helps catch common coding errors and prevents the use of certain unsafe features. It can be applied globally or within individual functions. Introduced in ECMAScript 5 to improve code quality and enforce a safer coding environment by disallowing certain problematic language features.",
+  "extensions": {}
+}

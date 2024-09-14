@@ -1,0 +1,26 @@
+{
+  "title": ".catch()",
+  "description": "The `.catch()` method adds a rejection handler to the promise and returns a new `Promise` object that resolves to the callback's return value if called or the original fulfillment value if the promise was not rejected.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method used with promises to catch errors that occur during asynchronous operations. It allows defining what should happen if the promise is rejected, making it easier to handle mistakes or issues in the code.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 32,
+        "chrome_android": 32,
+        "edge": 12,
+        "firefox": 29,
+        "firefox_android": 29,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

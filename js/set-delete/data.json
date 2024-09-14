@@ -1,0 +1,26 @@
+{
+  "title": ".delete()",
+  "description": "The `.delete()` JS method removes a specified element from the `Set` object, returning `true` if the element was found and removed, otherwise returns `false`.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that removes a specific element from a `Set` object. If the element exists, it will be removed and the method will return `true`. If the element doesn’t exist, it will return `false`.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 38,
+        "chrome_android": 38,
+        "edge": 12,
+        "firefox": 13,
+        "firefox_android": 14,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

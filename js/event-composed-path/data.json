@@ -1,0 +1,26 @@
+{
+  "title": ".composedPath()",
+  "description": "The `.composedPath()` JS browser API method of an `Event` object returns the event’s path, including nodes in shadow DOM trees.",
+  "categories": [
+    "method"
+  ],
+  "content": "The browser API method that returns an array of objects representing the path the event takes as it bubbles up through the DOM. It includes the event's target and all ancestor elements up to the root.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 53,
+        "chrome_android": 53,
+        "edge": 79,
+        "firefox": 59,
+        "firefox_android": 59,
+        "safari": 10,
+        "safari_ios": 10
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

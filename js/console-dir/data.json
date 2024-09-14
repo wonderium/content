@@ -1,0 +1,26 @@
+{
+  "title": "console.dir()",
+  "description": "The `console.dir()` static JS browser API method displays an interactive listing of the properties of a specified JavaScript object.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static browser API method that displays an interactive list of the properties of a JavaScript object. It’s useful for exploring the structure of objects in detail.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 2,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 8,
+        "firefox_android": 8,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": ".flat()",
+  "description": "The `.flat()` JS method creates a new array with all sub-array elements concatenated into it recursively up to the specified depth.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that creates a new array with all sub-array elements concatenated into it recursively up to a specified depth. It simplifies the array structure by merging nested arrays into a single level.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 69,
+        "chrome_android": 69,
+        "edge": 79,
+        "firefox": 62,
+        "firefox_android": 62,
+        "safari": 12,
+        "safari_ios": 12
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}

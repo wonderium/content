@@ -1,0 +1,26 @@
+{
+  "title": "print()",
+  "description": "The `print()` JS browser API method opens the print dialog to print the current document.",
+  "categories": [
+    "method"
+  ],
+  "content": "The browser API method that opens the print dialog to print the current document. It’s often used in web browsers to print the contents of the page.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 114,
+        "safari": 1.1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 6,
+        "day": 6
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": ".concat()",
+  "description": "The `.concat()` JS method returns a new array containing the elements of the original array followed by the elements of the arrays and/or values provided as arguments.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that merges two or more arrays or values into a new array, leaving the original arrays unchanged. It’s commonly used to combine lists of data.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

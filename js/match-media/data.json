@@ -1,0 +1,26 @@
+{
+  "title": "matchMedia()",
+  "description": "The `matchMedia()` JS browser API method provides a mechanism for testing media queries to determine if they match the current state of the device and browser.",
+  "categories": [
+    "method"
+  ],
+  "content": "The browser API method that evaluates a media query and returns a `MediaQueryList` object, which can be used to determine if the document matches the query. It’s often used for responsive design to apply styles based on screen size.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 9,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 6,
+        "firefox_android": 6,
+        "safari": 5.1,
+        "safari_ios": 5
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

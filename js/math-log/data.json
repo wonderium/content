@@ -1,0 +1,26 @@
+{
+  "title": "Math.log()",
+  "description": "The `Math.log()` static JS method returns the natural logarithm of a given number, with the base being `e` (Euler's number), approximately 2.718.",
+  "categories": [
+    "method" 
+  ],
+  "content": "The static method that calculates the natural logarithm of a given number, where `e` (Euler's number), approximately 2.718, is the base. For example, `Math.log(Math.E)` returns 1, as `e` to the power of 1 is `e`.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

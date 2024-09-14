@@ -1,0 +1,26 @@
+{
+  "title": "queueMicrotask()",
+  "description": "The `queueMicrotask()` JS browser API method schedules a microtask to be executed at the end of the current execution.",
+  "categories": [
+    "method"
+  ],
+  "content": "The browser API method that schedules a microtask to be executed after the currently executing script has completed and before the next task or re-render occurs. This is useful for ensuring that code runs asynchronously but still as soon as possible.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 71,
+        "chrome_android": 71,
+        "edge": 79,
+        "firefox": 69,
+        "firefox_android": 79,
+        "safari": 12.1,
+        "safari_ios": 12.2
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 7,
+        "day": 28
+      }
+    }
+  }
+}

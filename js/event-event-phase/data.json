@@ -1,0 +1,26 @@
+{
+  "title": ".eventPhase",
+  "description": "The `.eventPhase` JS browser API property of an `Event` object indicates which phase of the event flow is currently being evaluated.",
+  "categories": [
+    "property"
+  ],
+  "content": "The browser API property that indicates the current phase of event propagation, returning an integer. Possible phases include no processing, capturing phase, target phase and bubbling phase.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1.5,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

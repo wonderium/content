@@ -1,0 +1,26 @@
+{
+  "title": "console.log()",
+  "description": "The `console.log()` static JS browser API method outputs a message to the console.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static browser API method that prints a message to the console. It’s the most common way to output text or variables for debugging and informational purposes.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 4,
+        "firefox_android": 4,
+        "safari": 3,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

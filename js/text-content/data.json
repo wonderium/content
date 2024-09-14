@@ -1,0 +1,26 @@
+{
+  "title": ".textContent",
+  "description": "The `.textContent` JS browser API property represents the text content of a node and all its descendants.",
+  "categories": [
+    "property"
+  ],
+  "content": "The browser API property that gets or sets the text content of an HTML element. It returns the plain text inside the element and its child elements, excluding any HTML tags.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 3,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

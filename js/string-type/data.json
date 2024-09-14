@@ -1,0 +1,9 @@
+{
+  "title": "string",
+  "description": "The `string` JS data type represents a sequence of characters used to work with text.",
+  "categories": [
+    "data type"
+  ],
+  "content": "The primitive data type that represents textual data. Strings are sequences of characters enclosed in single quotes, double quotes or backticks. They can include letters, numbers and symbols. Strings are immutable, meaning once created, their content cannot be changed, but new strings can be created through various methods and operations.",
+  "extensions": {}
+}

@@ -1,0 +1,26 @@
+{
+  "title": ".clear()",
+  "description": "The `.clear()` JS method removes all elements from the `Set` object, leaving it empty.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that removes all elements from a `Set` object, leaving it with a size of zero.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 38,
+        "chrome_android": 38,
+        "edge": 12,
+        "firefox": 19,
+        "firefox_android": 19,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

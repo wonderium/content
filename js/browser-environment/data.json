@@ -1,0 +1,9 @@
+{
+  "title": "Browser Environment",
+  "description": "The Browser Environment is a context where JavaScript code runs within a web browser, providing access to web-specific APIs and functionalities.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The environment in which JavaScript code runs inside a web browser. This includes the web page’s content, the browser’s APIs and the DOM (Document Object Model), which allows JavaScript to interact with the web page.",
+  "extensions": {}
+}

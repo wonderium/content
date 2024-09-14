@@ -1,0 +1,26 @@
+{
+  "title": "Math.abs()",
+  "description": "The `Math.abs()` static JS method returns the absolute value of a given number.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns the absolute value of a given number, which is the number without its sign.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "console.trace()",
+  "description": "The `console.trace()` static JS browser API method outputs a stack trace to the console.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static browser API method that outputs a stack trace to the console, showing the path the code took to reach a certain point. It’s useful for debugging and understanding the flow of execution.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 2,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 6,
+        "firefox_android": 6,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Object.hasOwn()",
+  "description": "The `Object.hasOwn()` static JS method returns a boolean indicating whether the object has the specified property as its own property.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns a boolean indicating whether the object has the specified property as its own, rather than inheriting it. It’s similar to `.hasOwnProperty()` but is safer to use because it’s not affected by shadowed properties.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 93,
+        "chrome_android": 93,
+        "edge": 93,
+        "firefox": 92,
+        "firefox_android": 92,
+        "safari": 15.4,
+        "safari_ios": 15.4
+      },
+      "latest_release_date": {
+        "year": 2022,
+        "month": 3,
+        "day": 14
+      }
+    }
+  }
+}

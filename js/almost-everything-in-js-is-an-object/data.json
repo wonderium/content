@@ -1,0 +1,9 @@
+{
+  "title": "Almost Everything in JS is an Object",
+  "description": "In JavaScript, many entities are objects, including arrays, functions and even `null`.",
+  "categories": [
+    "concept"
+  ],
+  "content": "In JavaScript, most entities like arrays, functions and even `null`, are treated as objects. This means they can store data as properties and perform actions using methods.",
+  "extensions": {}
+}

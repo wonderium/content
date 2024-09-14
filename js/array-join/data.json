@@ -1,0 +1,26 @@
+{
+  "title": ".join()",
+  "description": "The `.join()` JS method joins all elements of an array into a string, separated by a specified delimiter.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that joins all elements of an array into a single string, with each element separated by a specified delimiter. It’s often used to create readable strings from arrays.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 1,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

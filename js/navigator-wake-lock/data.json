@@ -1,0 +1,27 @@
+{
+  "title": "navigator.wakeLock",
+  "description": "The `navigator.wakeLock` JS browser API property provides access to the Wake Lock API, which allows web applications to request that the device stays awake.",
+  "categories": [
+    "property",
+    "object"
+  ],
+  "content": "The browser API property that allows web applications to prevent the device from going to sleep or dimming the screen. This is useful for scenarios like reading, watching videos or playing games where the screen should remain active.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 84,
+        "chrome_android": 84,
+        "edge": 84,
+        "firefox": 126,
+        "firefox_android": 126,
+        "safari": 16.4,
+        "safari_ios": 16.4
+      },
+      "latest_release_date": {
+        "year": 2024,
+        "month": 5,
+        "day": 14
+      }
+    }
+  }
+}

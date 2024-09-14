@@ -1,0 +1,26 @@
+{
+  "title": "document",
+  "description": "The `document` JS browser API object serves as the root of the HTML document, providing methods and properties for interacting with the content.",
+  "categories": [
+    "object"
+  ],
+  "content": "The browser API object that represents the web page loaded in the browser. It provides methods and properties to interact with and manipulate the content of the page, such as modifying the HTML structure, managing styles, handling events and accessing information about the document.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 60,
+        "chrome_android": 60,
+        "edge": 17,
+        "firefox": 20,
+        "firefox_android": 20,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2018,
+        "month": 4,
+        "day": 30
+      }
+    }
+  }
+}

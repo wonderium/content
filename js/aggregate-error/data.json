@@ -1,0 +1,26 @@
+{
+  "title": "AggregateError",
+  "description": "The `AggregateError` JS object represents an error that occurs when multiple errors are collected together, providing a way to handle multiple errors in a single operation.",
+  "categories": [
+    "object"
+  ],
+  "content": "The error object that groups multiple errors together into a single error. This is often used when several operations fail at the same time, helping to manage multiple errors more effectively.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 85,
+        "chrome_android": 85,
+        "edge": 85,
+        "firefox": 79,
+        "firefox_android": 79,
+        "safari": 14,
+        "safari_ios": 14
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 9,
+        "day": 16
+      }
+    }
+  }
+}

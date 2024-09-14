@@ -1,0 +1,26 @@
+{
+  "title": "Proxy",
+  "description": "The `Proxy` JS object wraps another object and intercepts operations, such as reading and writing properties.",
+  "categories": [
+    "object"
+  ],
+  "content": "The object that wraps another object or function and allows to define custom behavior for fundamental operations, such as property lookup, assignment, enumeration, function invocation. Proxies are useful for creating dynamic behavior and metaprogramming.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 49,
+        "chrome_android": 49,
+        "edge": 12,
+        "firefox": 18,
+        "firefox_android": 18,
+        "safari": 10,
+        "safari_ios": 10
+      },
+      "latest_release_date": {
+        "year": 2016,
+        "month": 9,
+        "day": 20
+      }
+    }
+  }
+}

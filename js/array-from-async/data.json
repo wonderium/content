@@ -1,0 +1,26 @@
+{
+  "title": "Array.fromAsync()",
+  "description": "The `Array.fromAsync()` static JS method creates a new array from an asynchronous `Iterable` object.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that creates a new array from an asynchronous `Iterable` or a promise-like object. It allows to work with asynchronous data sources and convert them into arrays.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 121,
+        "chrome_android": 121,
+        "edge": 121,
+        "firefox": 115,
+        "firefox_android": 115,
+        "safari": 16.4,
+        "safari_ios": 16.4
+      },
+      "latest_release_date": {
+        "year": 2024,
+        "month": 1,
+        "day": 25
+      }
+    }
+  }
+}

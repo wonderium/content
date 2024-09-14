@@ -1,0 +1,26 @@
+{
+  "title": ".toSorted()",
+  "description": "The `.toSorted()` JS method returns a new array with the elements sorted in a specific order, without modifying the original array.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that returns a new array with the elements sorted according to the provided comparison function, without changing the original array. Unlike `.sort()`, this method doesn’t modify the original array.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 110,
+        "chrome_android": 110,
+        "edge": 110,
+        "firefox": 115,
+        "firefox_android": 115,
+        "safari": 16,
+        "safari_ios": 16
+      },
+      "latest_release_date": {
+        "year": 2023,
+        "month": 7,
+        "day": 4
+      }
+    }
+  }
+}

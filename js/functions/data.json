@@ -1,0 +1,9 @@
+{
+  "title": "Functions",
+  "description": "The Functions in JS are blocks of reusable code designed to perform specific tasks, which can be invoked with arguments and return values.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The reusable blocks of code that perform specific tasks. They can accept inputs (parameters), execute a sequence of statements and return outputs (results). Functions help organize code, make it modular and avoid repetition by allowing the same code to be used in multiple places.",
+  "extensions": {}
+}

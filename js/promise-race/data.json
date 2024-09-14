@@ -1,0 +1,26 @@
+{
+  "title": "Promise.race()",
+  "description": "The `Promise.race()` static JS method takes an iterable of `Promise` objects and as soon as one of the promises in the iterable fulfills or rejects, returns a single `Promise` object that resolves or rejects with the same value or reason.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that returns a `Promise` object that resolves or rejects as soon as one of the promises in the iterable resolves or rejects, with the value or reason from that promise. This is useful for handling the first result in a set of concurrent operations.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 32,
+        "chrome_android": 32,
+        "edge": 12,
+        "firefox": 29,
+        "firefox_android": 29,
+        "safari": 8,
+        "safari_ios": 8
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": ".some()",
+  "description": "The `.some()` JS method tests whether at least one element in the array passes the test implemented by the provided function, returning `true` or `false`.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that checks if at least one element in an array passes the test implemented by the provided function. It returns `true` if any element passes the test and `false` if none do.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1.5,
+        "firefox_android": 4,
+        "safari": 3,
+        "safari_ios": 1
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

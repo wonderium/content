@@ -1,0 +1,26 @@
+{
+  "title": "Intl.RelativeTimeFormat",
+  "description": "The `Intl.RelativeTimeFormat` JS object formats relative time phrases, such as '2 days ago' or 'in 3 months', according to locale-specific conventions.",
+  "categories": [
+    "object"
+  ],
+  "content": "The object that formats relative time phrases, such as '2 days ago' or 'in 3 weeks', according to locale-specific conventions. It’s useful for displaying time in a human-friendly format.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 71,
+        "chrome_android": 71,
+        "edge": 79,
+        "firefox": 65,
+        "firefox_android": 65,
+        "safari": 14,
+        "safari_ios": 14
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 9,
+        "day": 16
+      }
+    }
+  }
+}

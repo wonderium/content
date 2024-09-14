@@ -1,0 +1,26 @@
+{
+  "title": "console.dirxml()",
+  "description": "The `console.dirxml()` static JS browser API method displays an HTML or XML Element representation of the specified object.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static browser API method that prints an HTML or XML Element representation of a specified object to the console if possible or the JavaScript Object view if it’s not. It’s often used to display the DOM structure of an element in a readable format.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 2,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 39,
+        "firefox_android": 39,
+        "safari": 4,
+        "safari_ios": 3.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

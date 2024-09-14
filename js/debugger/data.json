@@ -1,0 +1,26 @@
+{
+  "title": "debugger",
+  "description": "The `debugger` JS syntax statement is used to pause code execution and launch debugging tools, allowing developers to inspect and troubleshoot code behavior.",
+  "categories": [
+    "syntax", "statement"
+  ],
+  "content": "The statement that triggers the debugging process, acting as a breakpoint in the code. It pauses execution and allows developers to inspect the current state and diagnose issues.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 5,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 1,
+        "firefox_android": 4,
+        "safari": 5,
+        "safari_ios": 4.2
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}
