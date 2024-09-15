@@ -5,7 +5,7 @@
     "syntax",
     "keyword"
   ],
-  "content": "The keywords used to handle asynchronous code in JavaScript, making it easier to work with promises. The `async` keyword is used to define functions that return a `Promise` object and `await` pauses the execution of the function in which it's used until the promise is resolved or rejected, allowing for more readable and structured code, while other code continues executing.",
+  "content": "The keywords used to handle asynchronous code in JavaScript, making it easier to work with promises. The `async` is used to define functions that return a `Promise` object and `await` pauses the execution of code within the function until the promise is resolved or rejected, allowing for more structured code, while other code continues executing.",
   "extensions": {
     "compatibility": {
       "browsers": {

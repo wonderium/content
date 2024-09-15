@@ -4,7 +4,7 @@
   "categories": [
     "object"
   ],
-  "content": "The browser API object that allows web pages to make HTTP requests to servers and handle the responses. This method of communication supports asynchronous data transfer, meaning it doesn't block the user interface while waiting for the server's reply. This is crucial for creating interactive web applications that can update parts of a page dynamically based on server responses.",
+  "content": "The browser API object that allows web pages to make HTTP requests and handle responses. This method supports asynchronous data transfer, meaning it doesn't block the user interface while waiting for the server's reply. It's crucial for creating interactive web applications that can update parts of a page dynamically based on server responses.",
   "extensions": {
     "compatibility": {
       "browsers": {
