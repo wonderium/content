@@ -1,5 +1,5 @@
 {
-  "title": "Pseudo-сlass",
+  "title": "Pseudo-class",
   "description": "The Pseudo-class in CSS is a type of selector that specifies a special state of the selected elements, such as `:hover` or `:nth-child(n)`.",
   "categories": [
     "concept",
