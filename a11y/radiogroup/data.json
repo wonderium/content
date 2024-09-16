@@ -1,0 +1,9 @@
+{
+  "title": "radiogroup",
+  "description": "The `radiogroup` ARIA role is used for a group of related radio buttons that allow users to select only one option from a set.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to group together a set of radio buttons where only one option can be selected. It helps users navigate and understand the selection constraints within the group.",
+  "extensions": {}
+}

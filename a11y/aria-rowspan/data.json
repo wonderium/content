@@ -1,0 +1,9 @@
+{
+  "title": "[aria-rowspan]",
+  "description": "The `aria-rowspan` ARIA attribute defines the number of rows a cell or item spans in a table.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that defines the number of rows a cell in a table or grid should span. It helps assistive technologies understand how cells span across multiple rows in the layout.",
+  "extensions": {}
+}

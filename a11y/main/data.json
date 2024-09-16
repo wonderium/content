@@ -1,0 +1,9 @@
+{
+  "title": "main",
+  "description": "The `main` ARIA role defines the main content area of the page, excluding headers, footers and sidebars.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to identify the primary content area of a webpage. It helps screen readers and assistive technologies focus on the main content, improving navigation and ensuring users can access important information easily.",
+  "extensions": {}
+}

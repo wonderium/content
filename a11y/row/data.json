@@ -1,0 +1,9 @@
+{
+  "title": "row",
+  "description": "The `row` ARIA role is used for an individual row within a table.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent a single row within a table or grid structure. It helps users understand the organization of content and navigate through tabular data.",
+  "extensions": {}
+}

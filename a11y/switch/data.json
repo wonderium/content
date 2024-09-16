@@ -1,0 +1,9 @@
+{
+  "title": "switch",
+  "description": "The `switch` ARIA role is used for elements that represent a toggle switch.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent a toggleable control that can switch between two states, such as on/off. It helps users interact with binary options in a clear and accessible way.",
+  "extensions": {}
+}

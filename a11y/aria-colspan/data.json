@@ -1,0 +1,9 @@
+{
+  "title": "[aria-colspan]",
+  "description": "The `aria-colspan` ARIA attribute defines the number of columns a cell or item spans in a table.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that specifies the number of columns a cell in a table or grid should span. It helps assistive technologies understand how cells span across multiple columns in a table layout.",
+  "extensions": {}
+}

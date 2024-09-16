@@ -1,0 +1,9 @@
+{
+  "title": "[aria-autocomplete]",
+  "description": "The `aria-autocomplete` ARIA attribute indicates whether an element provides automatic completion suggestions as the user types.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that defines how user input should be completed or suggested in an input field. It indicates whether autocomplete suggestions are provided and how they should be presented.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "[aria-placeholder]",
+  "description": "The `aria-placeholder` ARIA attribute provides a placeholder text for elements like input fields.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that provides a placeholder text for an `<input>` or a similar control. It helps users understand what type of content is expected in the field when no user input has been provided.",
+  "extensions": {}
+}

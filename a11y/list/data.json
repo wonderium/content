@@ -1,0 +1,9 @@
+{
+  "title": "list",
+  "description": "The `list` ARIA role represents a collection of items that are related to each other.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent a collection of items, typically in a sequential or unordered format. It helps users understand that the items within the list are related and should be read or navigated as a group.",
+  "extensions": {}
+}

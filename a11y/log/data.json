@@ -1,0 +1,9 @@
+{
+  "title": "log",
+  "description": "The `log` ARIA role is used for a live region that contains updates or messages about ongoing processes.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to indicate a region of content that is updated dynamically with important messages or notifications. It helps users and assistive technologies stay informed about changes or updates.",
+  "extensions": {}
+}

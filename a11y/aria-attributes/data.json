@@ -1,0 +1,9 @@
+{
+  "title": "ARIA Attributes",
+  "description": "The ARIA Attributes are additional attributes used in HTML to provide extra information to assistive technologies.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The special attributes defined by the ARIA specification that provide additional information about the roles, states and properties of elements. They help enhance accessibility by making dynamic content and interactive elements understandable to assistive technologies.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "region",
+  "description": "The `region` ARIA role is used to define a significant section of content within a page.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to identify a section of the page that provides a distinct type of content or functionality. It helps users locate and navigate to different sections of the page efficiently.",
+  "extensions": {}
+}

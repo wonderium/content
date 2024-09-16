@@ -1,0 +1,9 @@
+{
+  "title": "[aria-setsize]",
+  "description": "The `aria-setsize` ARIA attribute defines the total number of items in a set.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that specifies the total number of items in a set, such as a list or menu. It helps users understand the size of the set and the number of items it contains.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "rowheader",
+  "description": "The `rowheader` ARIA role is used for a cell in a table that represents the header or label for a row.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to identify a header cell that labels the content of a row in a table or grid. It helps users understand the context of each row by providing a descriptive label.",
+  "extensions": {}
+}

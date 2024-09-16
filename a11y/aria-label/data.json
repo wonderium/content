@@ -1,0 +1,9 @@
+{
+  "title": "[aria-label]",
+  "description": "The `aria-label` ARIA attribute provides a string that labels an element for accessibility tools.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that provides a label for an element when there is no visible text. It helps screen readers and other assistive technologies understand the purpose of the element by providing a descriptive name.",
+  "extensions": {}
+}

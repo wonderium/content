@@ -1,0 +1,9 @@
+{
+  "title": "[aria-rowindextext]",
+  "description": "The `aria-rowindextext` ARIA attribute provides a text alternative for the row index of a cell or item in a table.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that provides a textual description of the row index for users who rely on Braille displays. It helps braille users understand the row's position within the table or grid.",
+  "extensions": {}
+}

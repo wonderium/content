@@ -1,0 +1,9 @@
+{
+  "title": "Narrator",
+  "description": "Narrator is a built-in screen reader in Windows that provides speech output for users with visual impairments.",
+  "categories": [
+    "technology"
+  ],
+  "content": "The screen reader built into Windows that provides spoken feedback for users who are blind or have low vision. It reads text, describes elements and helps users navigate and interact with content.",
+  "extensions": {}
+}

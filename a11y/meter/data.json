@@ -1,0 +1,9 @@
+{
+  "title": "meter",
+  "description": "The `meter` ARIA role is used for a graphical representation of a measurement within a specified range.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent a measurement within a given range, such as progress or performance. It helps users understand quantitative values and their progress towards a goal.",
+  "extensions": {}
+}

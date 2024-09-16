@@ -1,0 +1,9 @@
+{
+  "title": "[aria-flowto]",
+  "description": "The `aria-flowto` ARIA attribute defines the logical order of content flow for users of assistive technologies.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that defines the order in which focus should move to other elements. It helps users navigate through content in a logical sequence, especially when dealing with complex layouts or interactions.",
+  "extensions": {}
+}

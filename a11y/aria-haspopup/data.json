@@ -1,0 +1,9 @@
+{
+  "title": "[aria-haspopup]",
+  "description": "The `aria-haspopup` ARIA attribute indicates that an element has a pop-up menu or dialog.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that indicates whether an element has a popup or menu that will appear when interacted with. It helps users understand that an additional menu or dialog will be displayed.",
+  "extensions": {}
+}

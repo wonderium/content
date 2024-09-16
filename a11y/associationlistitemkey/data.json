@@ -1,0 +1,9 @@
+{
+  "title": "associationlistitemkey",
+  "description": "The `associationlistitemkey` ARIA role represents an item in an association list that serves as a key or identifier for the associated value.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to label the key part of a key-value pair, often found in definition lists. It helps screen readers understand the connection between the key and its associated value, improving navigation and comprehension for users.",
+  "extensions": {}
+}

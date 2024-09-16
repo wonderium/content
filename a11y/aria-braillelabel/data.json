@@ -1,0 +1,9 @@
+{
+  "title": "[aria-braillelabel]",
+  "description": "The `aria-braillelabel` ARIA attribute provides a Braille label for an element, improving accessibility for users of Braille displays.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that provides a label specifically for Braille displays. It allows braille users to receive information about an element that is not available in the visual label.",
+  "extensions": {}
+}

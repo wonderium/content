@@ -1,0 +1,9 @@
+{
+  "title": "treeitem",
+  "description": "The `treeitem` ARIA role is used for an individual item within a tree or treegrid.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent an individual item within a tree structure. It helps users navigate through hierarchical content by identifying specific items that can be expanded or collapsed.",
+  "extensions": {}
+}

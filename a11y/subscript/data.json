@@ -1,0 +1,9 @@
+{
+  "title": "subscript",
+  "description": "The `subscript` ARIA role is used for text that is displayed below the baseline.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent text that is displayed slightly below the normal line of text, often used for footnotes or chemical formulas. It helps users understand that the text has a specific meaning or context.",
+  "extensions": {}
+}

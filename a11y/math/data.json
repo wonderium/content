@@ -1,0 +1,9 @@
+{
+  "title": "math",
+  "description": "The `math` ARIA role is used for content that includes mathematical expressions or equations.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent mathematical expressions or content. It helps assistive technologies interpret and present mathematical information accurately to users.",
+  "extensions": {}
+}

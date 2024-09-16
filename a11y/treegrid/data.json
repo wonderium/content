@@ -1,0 +1,9 @@
+{
+  "title": "treegrid",
+  "description": "The `treegrid` ARIA role is used for a table or grid that supports hierarchical data.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent a grid-like structure that also includes hierarchical relationships between rows, combining features of a tree and a table. It helps users navigate and understand complex, structured data.",
+  "extensions": {}
+}

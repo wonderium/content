@@ -1,0 +1,9 @@
+{
+  "title": "[aria-colindextext]",
+  "description": "The `aria-colindextext` ARIA attribute provides a text alternative for the column index of a cell or item in a table.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that provides a textual description of the column index for users who rely on Braille displays. It helps to convey the position of a column in a more understandable format for braille users.",
+  "extensions": {}
+}

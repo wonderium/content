@@ -1,0 +1,9 @@
+{
+  "title": "[aria-colindex]",
+  "description": "The `aria-colindex` ARIA attribute specifies the column index of a cell or item within a grid or table.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that specifies the position of a cell or column within a table or grid, relative to the number of columns. It helps identify the cell’s location in the column structure.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "[aria-valuenow]",
+  "description": "The `aria-valuenow` ARIA attribute specifies the current value of a range-based element, such as a slider.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that specifies the current value of a range control. It helps users know the present value within the defined range, such as the position of a slider.",
+  "extensions": {}
+}

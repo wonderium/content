@@ -1,0 +1,9 @@
+{
+  "title": "Language of the Website and Content",
+  "description": "The Language of the Website and Content rule ensures that the language used throughout the site is properly defined and accessible to all users, including those who rely on assistive technologies for language support.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The rule or recommendation that indicates the primary language used for displaying text on a webpage helps assistive technologies accurately read and interpret the content, making it easier for users to understand the information.",
+  "extensions": {}
+}

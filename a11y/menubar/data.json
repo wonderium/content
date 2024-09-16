@@ -1,0 +1,9 @@
+{
+  "title": "menubar",
+  "description": "The `menubar` ARIA role is used for a menu containing a list of menu items, usually presented in a horizontal or vertical bar.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role that represents a container for a set of menu items, often used for navigation or actions within an application. It helps users identify a group of related menu options.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "note",
+  "description": "The `note` ARIA role is used for content that provides additional information or comments that are relevant to the main content.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent supplementary content or additional information related to the main content. It helps users understand that the information is relevant but secondary to the primary content.",
+  "extensions": {}
+}

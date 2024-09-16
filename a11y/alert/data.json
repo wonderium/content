@@ -1,0 +1,9 @@
+{
+  "title": "alert",
+  "description": "The `alert` ARIA role is used for content that represents an important message that is typically displayed to the user.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role that indicates an element contains important, time-sensitive information. Assistive technologies will announce this content to users immediately, making sure they are aware of critical updates.",
+  "extensions": {}
+}

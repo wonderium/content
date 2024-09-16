@@ -1,0 +1,9 @@
+{
+  "title": "[aria-checked]",
+  "description": "The `aria-checked` ARIA attribute indicates the current state of a checkbox or toggle button.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that indicates the current state of a checkbox or a similar control. It can have values, such as 'true', 'false' or 'mixed' to show whether the control is checked, unchecked or in a mixed state.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "emphasis",
+  "description": "The `emphasis` ARIA role is used to indicate that text should be emphasized, usually to convey importance or stress.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to indicate that content has been given emphasis or is highlighted in some way. It helps users understand that the content is important or noteworthy.",
+  "extensions": {}
+}

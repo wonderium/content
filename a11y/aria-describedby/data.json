@@ -1,0 +1,9 @@
+{
+  "title": "[aria-describedby]",
+  "description": "The `aria-describedby` ARIA attribute references one or more elements that provide additional descriptive information about an element.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that specifies the IDs of elements that provide additional descriptive information about the current element. It helps assistive technologies convey more context or details about the element.",
+  "extensions": {}
+}

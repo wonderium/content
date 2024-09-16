@@ -1,0 +1,9 @@
+{
+  "title": "blockquote",
+  "description": "The `blockquote` ARIA role is used for a section that is a quotation from another source.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to indicate a section of content that is a quotation from another source. It helps assistive technologies convey that the content is a quotation and provides context for users about the origin of the quoted material.",
+  "extensions": {}
+}

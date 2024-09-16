@@ -1,0 +1,9 @@
+{
+  "title": "[aria-orientation]",
+  "description": "The `aria-orientation` ARIA attribute specifies whether a control is oriented horizontally or vertically.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that defines the orientation of a UI element, such as 'horizontal' or 'vertical'. It helps users understand the layout and direction of interactive elements.",
+  "extensions": {}
+}

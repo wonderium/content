@@ -1,0 +1,9 @@
+{
+  "title": "[aria-selected]",
+  "description": "The `aria-selected` ARIA attribute indicates the current selection state of an item in a list or menu.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that indicates whether an item, such as a list or menu item, is currently selected. It helps users understand the selection status of interactive elements.",
+  "extensions": {}
+}

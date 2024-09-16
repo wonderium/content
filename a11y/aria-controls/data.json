@@ -1,0 +1,9 @@
+{
+  "title": "[aria-controls]",
+  "description": "The `aria-controls` ARIA attribute specifies the elements that are controlled by the current element.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that indicates the IDs of elements that are controlled or affected by the current element. It helps users understand which elements are linked or interacted with by the component.",
+  "extensions": {}
+}

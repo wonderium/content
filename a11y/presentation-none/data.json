@@ -1,0 +1,9 @@
+{
+  "title": "presentation, none",
+  "description": "The `presentation` or `none` ARIA roles indicate that an element should be presented purely for visual purposes and not be exposed to assistive technologies.",
+  "categories": [
+    "role"
+  ],
+  "content": "The roles used to indicate that an element is purely decorative and should be ignored by assistive technologies. They help focus on meaningful content by removing non-essential elements from accessibility evaluations.",
+  "extensions": {}
+}

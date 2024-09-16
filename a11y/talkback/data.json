@@ -1,0 +1,9 @@
+{
+  "title": "TalkBack",
+  "description": "TalkBack is an Android screen reader that provides spoken feedback to assist visually impaired users.",
+  "categories": [
+    "technology"
+  ],
+  "content": "The screen reader built into Android devices that provides spoken feedback for users who are blind or have low vision. It helps users navigate and interact with digital content by reading text and describing elements.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Live Region",
+  "description": "The Live Region is a part of a webpage where updates or changes are automatically announced to screen readers and other assistive technologies, ensuring users are informed of dynamic content changes promptly without manual navigation.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The part of a webpage where updates are automatically announced to screen readers and other assistive technologies. This helps users with disabilities receive timely notifications about changes, like form errors or successful actions, without manual navigation. The goal is to keep users informed of updates efficiently.",
+  "extensions": {}
+}

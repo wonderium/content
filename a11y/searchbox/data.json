@@ -1,0 +1,9 @@
+{
+  "title": "searchbox",
+  "description": "The `searchbox` ARIA role is used for elements that represent a search input field.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent an input field where users can enter search queries. It helps users understand that the field is intended for searching and supports text input for queries.",
+  "extensions": {}
+}

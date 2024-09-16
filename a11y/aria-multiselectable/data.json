@@ -1,0 +1,9 @@
+{
+  "title": "[aria-multiselectable]",
+  "description": "The `aria-multiselectable` ARIA attribute indicates whether multiple items in a list can be selected at once.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that specifies whether multiple items in a list or menu can be selected at once. It helps users know if they can select more than one option or item in the control.",
+  "extensions": {}
+}

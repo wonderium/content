@@ -1,0 +1,9 @@
+{
+  "title": "contentinfo",
+  "description": "The `contentinfo` ARIA role represents content that provides information about the page or site as a whole.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used for content that provides information about the page, such as the footer or contact details. It helps users find important details about the site and its purpose, often including copyright and legal information.",
+  "extensions": {}
+}

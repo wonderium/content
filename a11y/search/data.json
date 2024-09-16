@@ -1,0 +1,9 @@
+{
+  "title": "search",
+  "description": "The `search` ARIA role defines an area of the page where users can perform search operations.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to identify a section of the page dedicated to search functionality. It helps users quickly locate and access the search feature to find specific content.",
+  "extensions": {}
+}

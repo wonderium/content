@@ -1,0 +1,9 @@
+{
+  "title": "[aria-rowindex]",
+  "description": "The `aria-rowindex` ARIA attribute specifies the row index of a cell or item within a grid or table.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that indicates the position of a row within a table or grid relative to the total number of rows. It helps users understand the row's location in the overall structure.",
+  "extensions": {}
+}

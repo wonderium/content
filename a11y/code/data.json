@@ -1,0 +1,9 @@
+{
+  "title": "code",
+  "description": "The `code` ARIA role is used for a fragment of computer code.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role that indicates a piece of code or programming text. It helps users and assistive technologies understand that the content represents code, which might affect how it’s rendered or read.",
+  "extensions": {}
+}

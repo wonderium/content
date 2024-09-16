@@ -1,0 +1,9 @@
+{
+  "title": "AOM",
+  "description": "The AOM (Accessible Object Model) is a W3C specification aimed at providing a unified model for accessibility information on web pages.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The Accessible Object Model specification that provides a way to interact with and manipulate the accessibility tree directly through JavaScript. It allows developers to create and manage accessible interfaces more effectively.",
+  "extensions": {}
+}

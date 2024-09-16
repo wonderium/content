@@ -1,0 +1,9 @@
+{
+  "title": "listbox",
+  "description": "The `listbox` ARIA role is used for a container of selectable items from which the user can select one or more options.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role that represents a widget that allows users to select one or more items from a list of options. It provides a way to present and manage multiple selectable items within a list.",
+  "extensions": {}
+}

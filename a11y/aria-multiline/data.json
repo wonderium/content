@@ -1,0 +1,9 @@
+{
+  "title": "[aria-multiline]",
+  "description": "The `aria-multiline` ARIA attribute indicates whether an element supports multiple lines of text input.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that indicates whether a text input field allows multiple lines of text. It helps users understand if they can enter and edit longer text entries, as opposed to a single-line input.",
+  "extensions": {}
+}

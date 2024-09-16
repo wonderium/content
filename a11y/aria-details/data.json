@@ -1,0 +1,9 @@
+{
+  "title": "[aria-details]",
+  "description": "The `aria-details` ARIA attribute specifies an element that provides detailed information about another element.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that points to an element providing detailed information about the current element. It helps users access more in-depth content related to the element.",
+  "extensions": {}
+}

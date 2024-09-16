@@ -1,0 +1,9 @@
+{
+  "title": "link",
+  "description": "The `link` ARIA role is used for an element that represents a hyperlink, which allows users to navigate to another resource or page.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent a clickable element that navigates to another page or resource. It helps users understand that the element provides a navigation action to another location.",
+  "extensions": {}
+}

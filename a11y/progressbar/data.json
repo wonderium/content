@@ -1,0 +1,9 @@
+{
+  "title": "progressbar",
+  "description": "The `progressbar` ARIA role is used for elements that indicate the progress of a task or process.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent a visual indicator of progress toward a goal or completion. It helps users understand the current status of a process, such as loading or completion progress.",
+  "extensions": {}
+}

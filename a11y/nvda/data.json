@@ -1,0 +1,9 @@
+{
+  "title": "NVDA",
+  "description": "NVDA (NonVisual Desktop Access) is a free and open-source screen reader for Windows.",
+  "categories": [
+    "technology"
+  ],
+  "content": "The screen reader for Windows that provides speech output for users who are blind or have low vision. It helps users access and interact with digital content by converting text and other elements into speech.",
+  "extensions": {}
+}

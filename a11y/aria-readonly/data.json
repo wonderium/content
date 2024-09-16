@@ -1,0 +1,9 @@
+{
+  "title": "[aria-readonly]",
+  "description": "The `aria-readonly` ARIA attribute indicates that the value of an element is read-only and cannot be modified by the user.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that specifies whether an element is read-only and cannot be edited by the user. It helps users understand that the content or field is not interactive or modifiable.",
+  "extensions": {}
+}

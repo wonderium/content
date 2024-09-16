@@ -1,0 +1,9 @@
+{
+  "title": "Accessible Names and Descriptions",
+  "description": "The Accessible Names and Descriptions provide clear identification and explanations for elements on a webpage, ensuring they are understandable and usable for all users.",
+  "categories": [
+    "concept"
+  ],
+  "content": "Labels and descriptions provided for UI elements and content to ensure they are understandable and usable by people using assistive technologies. This includes ARIA attributes that convey the purpose and function of elements.",
+  "extensions": {}
+}

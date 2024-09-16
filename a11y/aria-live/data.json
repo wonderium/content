@@ -1,0 +1,9 @@
+{
+  "title": "[aria-live]",
+  "description": "The `aria-live` ARIA attribute indicates how updates to an element's content should be announced by assistive technologies.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that indicates how updates to an element should be announced by assistive technologies. It helps users stay informed about changes to dynamic content, such as notifications or live updates.",
+  "extensions": {}
+}

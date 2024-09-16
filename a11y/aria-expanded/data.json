@@ -1,0 +1,9 @@
+{
+  "title": "[aria-expanded]",
+  "description": "The `aria-expanded` ARIA attribute indicates whether an element is expanded or collapsed.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that indicates whether a collapsible element is expanded or collapsed. It helps users understand the current state of interactive elements, such as menus or accordions.",
+  "extensions": {}
+}

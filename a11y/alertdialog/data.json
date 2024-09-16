@@ -1,0 +1,9 @@
+{
+  "title": "alertdialog",
+  "description": "The `alertdialog` ARIA role is used for a type of dialog that provides an important message or alert to the user.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role that represents a type of modal dialog used for displaying important alerts or messages that require user interaction. It typically includes a title and a description and is designed to be focused and accessible.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "ARIA",
+  "description": "The ARIA (Accessible Rich Internet Applications) is a specification that defines a way to make web content and web applications more accessible to people with disabilities.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The Accessible Rich Internet Applications specification developed by W3C that defines a set of attributes to enhance web accessibility. It provides additional information about roles and states of elements to improve usability for users with disabilities. The main rule is to use ARIA only when native HTML elements don't provide the necessary accessibility.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "[aria-brailleroledescription]",
+  "description": "The `aria-brailleroledescription` ARIA attribute provides a Braille description of the role of an element.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that provides a description of the role of an element specifically for braille users. It helps to convey the purpose of an element in a format suitable for Braille displays.",
+  "extensions": {}
+}

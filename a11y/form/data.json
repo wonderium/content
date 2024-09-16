@@ -1,0 +1,9 @@
+{
+  "title": "form",
+  "description": "The `form` ARIA role is used to define an interactive form where users can input data.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role that represents a form or a group of form controls used for user input and submission. It helps assistive technologies understand and navigate the form fields and their associated labels.",
+  "extensions": {}
+}

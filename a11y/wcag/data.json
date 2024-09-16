@@ -1,0 +1,9 @@
+{
+  "title": "WCAG",
+  "description": "The WCAG (Web Content Accessibility Guidelines) are a set of guidelines developed to ensure that web content is accessible to people with disabilities.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The Web Content Accessibility Guidelines that provide a set of recommendations for making web content more accessible to people with disabilities. It helps developers create content that is usable by a wider range of people, including those with visual, auditory and cognitive impairments.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Abstract ARIA Roles",
+  "description": "The Abstract ARIA Roles are general categories that represent groups of roles with similar characteristics.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The roles defined in the ARIA specification that provide a conceptual framework for how elements should be used, but are not meant to be directly implemented. They help guide the design of more specific, concrete ARIA roles.",
+  "extensions": {}
+}

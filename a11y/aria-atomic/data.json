@@ -1,0 +1,9 @@
+{
+  "title": "[aria-atomic]",
+  "description": "The `aria-atomic` ARIA attribute specifies whether assistive technologies should present updates to an element as a whole or in parts.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that indicates whether the assistive technology should treat updates to an element as a whole or in parts. When set to 'true', it tells screen readers to present the entire content as a single unit.",
+  "extensions": {}
+}

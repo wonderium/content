@@ -1,0 +1,9 @@
+{
+  "title": "paragraph",
+  "description": "The `paragraph` ARIA role is used for a block of text that forms a distinct section within a document.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent a block of text that forms a distinct section of content. It helps assistive technologies understand and separate blocks of text for better readability.",
+  "extensions": {}
+}

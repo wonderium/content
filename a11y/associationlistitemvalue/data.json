@@ -1,0 +1,9 @@
+{
+  "title": "associationlistitemvalue",
+  "description": "The `associationlistitemvalue` ARIA role represents an item in an association list that serves as a value or detail associated with a key.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to label the value part in a key-value pair, typically found in definition lists. It helps screen readers understand the relationship between the key and its value, enhancing the clarity and navigation of the content for users.",
+  "extensions": {}
+}

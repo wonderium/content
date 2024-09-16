@@ -1,0 +1,9 @@
+{
+  "title": "spinbutton",
+  "description": "The `spinbutton` ARIA role is used for elements that allow users to increment or decrement a value by spinning up or down.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent a control that allows users to adjust a numeric value incrementally, typically by clicking up or down arrows. It helps users select or adjust values within a defined range.",
+  "extensions": {}
+}

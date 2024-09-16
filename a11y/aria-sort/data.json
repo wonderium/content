@@ -1,0 +1,9 @@
+{
+  "title": "[aria-sort]",
+  "description": "The `aria-sort` ARIA attribute indicates the sort order of items within a table or list.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that indicates the current sorting order of a column in a table or grid. It helps users understand how the data is sorted and whether it’s sorted in ascending or descending order.",
+  "extensions": {}
+}

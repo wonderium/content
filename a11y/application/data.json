@@ -1,0 +1,9 @@
+{
+  "title": "application",
+  "description": "The `application` ARIA role is used to define an area of a web page that serves as a standalone application.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role that indicates an element is a web application, which may have its own interaction model separate from the rest of the page. This role helps assistive technologies understand the context and behavior of the element.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "article",
+  "description": "The `article` ARIA role represents a self-contained piece of content that can be distributed independently.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to mark a section of content that forms an independent part of a webpage, like a blog post or news story. It helps screen readers understand the content's purpose and structure, making it easier for people to navigate and find relevant information.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Accessibility Levels",
+  "description": "The Accessibility Levels describe different degrees of accessibility compliance and guidelines for creating inclusive content.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The different levels of accessibility compliance that a web application or website can achieve. These levels include basic accessibility features (Level A), more comprehensive accessibility features (Level AA) and the highest standard of accessibility (Level AAA).",
+  "extensions": {}
+}

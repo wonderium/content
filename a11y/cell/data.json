@@ -1,0 +1,10 @@
+{
+  "title": "cell",
+  "description": "The `cell` ARIA role is used for an individual unit within a table, grid or other tabular structures.",
+
+  "categories": [
+    "role"
+  ],
+  "content": "The role that represents a single cell in a table or grid, which can contain data or information. It helps assistive technologies interpret and navigate tabular data by defining the role of each cell within a row and column structure.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "scrollbar",
+  "description": "The `scrollbar` ARIA role is used for elements that provide a way to scroll through content.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent a component that allows users to scroll through content that is too large to fit within a visible area. It helps users navigate content by providing control for moving up, down or sideways.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "navigation",
+  "description": "The `navigation` ARIA role is used for grouping a set of navigation links.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to identify a section of a page that contains navigation links or menus. It helps users quickly locate and access different parts of the site or application.",
+  "extensions": {}
+}

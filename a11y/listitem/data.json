@@ -1,0 +1,9 @@
+{
+  "title": "listitem",
+  "description": "The `listitem` ARIA role represents an item within a list.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to identify an individual item within a list. It helps assistive technologies understand that the element is part of a list and provides context for navigating the list items.",
+  "extensions": {}
+}

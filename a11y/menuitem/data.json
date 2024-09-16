@@ -1,0 +1,9 @@
+{
+  "title": "menuitem",
+  "description": "The `menuitem` ARIA role is used for an individual option within a menu.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role that represents an item within a menu. It helps users understand that the element is part of a list of options that can be selected.",
+  "extensions": {}
+}

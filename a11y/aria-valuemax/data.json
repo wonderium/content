@@ -1,0 +1,9 @@
+{
+  "title": "[aria-valuemax]",
+  "description": "The `aria-valuemax` ARIA attribute defines the maximum value of a range-based element, such as a slider.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that defines the maximum value allowed for a range control, such as a slider. It helps users understand the upper limit of the range and the valid values they can select.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "menuitemradio",
+  "description": "The `menuitemradio` ARIA role is used for a radio button within a menu.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role that represents a menu item within a group of items where only one option can be selected at a time, similar to a radio button. It helps users understand the selection constraints within the group.",
+  "extensions": {}
+}
