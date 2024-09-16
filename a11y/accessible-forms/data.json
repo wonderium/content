@@ -1,0 +1,9 @@
+{
+  "title": "Accessible Forms",
+  "description": "The Accessible Forms are designed to ensure that all users, including those with disabilities, can effectively interact with web forms.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The forms that designed with features that make them usable for people with disabilities. This includes proper labeling of form fields, clear instructions, error messages and the ability to navigate and interact with forms using assistive technologies.",
+  "extensions": {}
+}

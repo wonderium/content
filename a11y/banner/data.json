@@ -1,0 +1,9 @@
+{
+  "title": "banner",
+  "description": "The `banner` ARIA role represents introductory content or navigational aids at the top of a page.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used for content that acts as a banner or header for a webpage or section. It usually contains site navigation or introductory information, helping users quickly find important areas of the site.",
+  "extensions": {}
+}

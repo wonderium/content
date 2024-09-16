@@ -1,0 +1,9 @@
+{
+  "title": "separator",
+  "description": "The `separator` ARIA role is used for elements that visually or functionally separate content into distinct sections.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent a visual or functional divider between elements or sections. It helps users understand the separation of content or controls for better organization and navigation.",
+  "extensions": {}
+}

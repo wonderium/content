@@ -1,0 +1,9 @@
+{
+  "title": "[aria-activedescendant]",
+  "description": "The `aria-activedescendant` ARIA attribute identifies the currently active descendant of a composite widget.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that specifies the ID of the currently active descendant element within a composite widget. It helps assistive technologies know which element within a group is currently focused or selected.",
+  "extensions": {}
+}

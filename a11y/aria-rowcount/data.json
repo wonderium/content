@@ -1,0 +1,9 @@
+{
+  "title": "[aria-rowcount]",
+  "description": "The `aria-rowcount` ARIA attribute defines the total number of rows in a grid or table.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that specifies the total number of rows in a table, grid or treegrid. It helps assistive technologies understand the structure and number of rows within a tabular or grid layout.",
+  "extensions": {}
+}

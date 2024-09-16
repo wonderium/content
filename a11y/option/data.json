@@ -1,0 +1,9 @@
+{
+  "title": "option",
+  "description": "The `option` ARIA role is used for an item within a listbox, combobox or other selection container.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent an individual item within a selectable list or menu. It helps users identify choices available within a larger set of options.",
+  "extensions": {}
+}

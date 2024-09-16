@@ -1,0 +1,9 @@
+{
+  "title": "mark",
+  "description": "The `mark` ARIA role is used for content that has been highlighted or marked for reference.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to indicate content that has been highlighted or marked for emphasis. It helps users understand that the content is relevant or noteworthy.",
+  "extensions": {}
+}

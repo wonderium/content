@@ -1,0 +1,9 @@
+{
+  "title": "grid",
+  "description": "The `grid` ARIA role is used for a two-dimensional structure of cells arranged in rows and columns.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to define a structure of rows and columns, similar to a table but with more flexible interactions. It helps assistive technologies navigate and interact with grid-based layouts or data structures.",
+  "extensions": {}
+}

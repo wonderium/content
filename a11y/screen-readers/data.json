@@ -1,0 +1,9 @@
+{
+  "title": "Screen Readers",
+  "description": "The Screen Readers are assistive technologies that convert digital text into synthesized speech or Braille.",
+  "categories": [
+    "concept", "technology"
+  ],
+  "content": "The technology that converts text and other elements on a screen into spoken words or braille, enabling users who are blind or have low vision to access and interact with digital content.",
+  "extensions": {}
+}

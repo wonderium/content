@@ -1,0 +1,9 @@
+{
+  "title": "[aria-pressed]",
+  "description": "The `aria-pressed` ARIA attribute specifies the state of a toggle button, indicating whether it’s pressed or not.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that indicates whether a toggle button or similar control is currently pressed or in a selected state. It helps users understand the current status of the control, such as on or off.",
+  "extensions": {}
+}

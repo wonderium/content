@@ -1,0 +1,9 @@
+{
+  "title": "[aria-errormessage]",
+  "description": "The `aria-errormessage` ARIA attribute points to an element that provides an error message for the current element.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that references the ID of an element that contains an error message related to the current element. It helps users understand and address validation errors or issues.",
+  "extensions": {}
+}

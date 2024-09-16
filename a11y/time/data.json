@@ -1,0 +1,9 @@
+{
+  "title": "time",
+  "description": "The `time` ARIA role is used for representing a specific time or date.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent a specific time or a time-related value within the content. It helps users understand that the content refers to a temporal value, such as a date or duration.",
+  "extensions": {}
+}

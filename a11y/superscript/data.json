@@ -1,0 +1,9 @@
+{
+  "title": "superscript",
+  "description": "The `superscript` ARIA role is used for text that is displayed above the baseline.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent text that is displayed slightly above the normal line of text, often used for exponents or other special notations. It helps users understand that the text has a specific meaning or context.",
+  "extensions": {}
+}

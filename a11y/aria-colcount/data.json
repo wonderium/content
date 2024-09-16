@@ -1,0 +1,9 @@
+{
+  "title": "[aria-colcount]",
+  "description": "The `aria-colcount` ARIA attribute defines the total number of columns in a grid or table.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that defines the total number of columns in a table, grid or treegrid. It helps assistive technologies understand the structure of the table or grid.",
+  "extensions": {}
+}

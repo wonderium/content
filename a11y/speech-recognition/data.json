@@ -1,0 +1,9 @@
+{
+  "title": "Speech Recognition",
+  "description": "The Speech Recognition technology allows users to control devices and input text using voice commands.",
+  "categories": [
+    "concept", "technology"
+  ],
+  "content": "The technology that converts spoken words into text or commands, allowing users to interact with digital content and applications through voice input. It helps users with disabilities or those who prefer voice commands.",
+  "extensions": {}
+}

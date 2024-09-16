@@ -1,0 +1,9 @@
+{
+  "title": "insertion",
+  "description": "The `insertion` ARIA role is used for content that has been added to a document.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to indicate content that has been added or inserted into the document. It helps users understand that the information is new and has been recently added.",
+  "extensions": {}
+}

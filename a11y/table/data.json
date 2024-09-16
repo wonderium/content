@@ -1,0 +1,9 @@
+{
+  "title": "table",
+  "description": "The `table` ARIA role is used for a container that organizes data into rows and columns.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent a structure that organizes data into rows and columns. It helps users navigate and understand the relationships between data points within a grid-like format.",
+  "extensions": {}
+}

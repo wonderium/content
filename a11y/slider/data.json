@@ -1,0 +1,9 @@
+{
+  "title": "slider",
+  "description": "The `slider` ARIA role is used for elements that allow users to adjust a value by sliding a handle along a track.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent a control that allows users to select a value from a range by sliding a handle. It helps users adjust settings or input values within a specified range.",
+  "extensions": {}
+}

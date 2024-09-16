@@ -1,0 +1,9 @@
+{
+  "title": "[aria-invalid]",
+  "description": "The `aria-invalid` ARIA attribute specifies that an element's value is invalid or doesn’t meet the required criteria.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that indicates whether the current element's value is invalid. It helps users identify form fields with errors or incorrect inputs, providing a way to address validation issues.",
+  "extensions": {}
+}

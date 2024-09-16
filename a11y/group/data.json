@@ -1,0 +1,9 @@
+{
+  "title": "group",
+  "description": "The `group` ARIA role is used to define a collection of related elements within a document.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to define a set of related elements that are grouped together. It helps users understand that the elements within the group are related and should be considered collectively.",
+  "extensions": {}
+}

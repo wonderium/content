@@ -1,0 +1,9 @@
+{
+  "title": "comment",
+  "description": "The `comment` ARIA role is used for content that provides a comment or annotation related to other content.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to indicate a piece of content that represents a user comment or feedback. It helps assistive technologies understand that the content is a comment, providing context for user interactions or content reviews.",
+  "extensions": {}
+}

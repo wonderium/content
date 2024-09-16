@@ -1,0 +1,9 @@
+{
+  "title": "complementary",
+  "description": "The `complementary` ARIA role represents content that enhances or complements the main content.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to identify content that supports or enhances the main content but is not essential to its understanding. It often includes additional information, like sidebars or related content, helping users find supplementary details easily.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "rowgroup",
+  "description": "The `rowgroup` ARIA role is used for a group of rows within a table.",
+  "categories": [
+    "role" 
+  ],
+  "content": "The role used to group together multiple rows within a table or grid. It helps users understand the structure and relationship of rows within the larger table or grid layout.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "deletion",
+  "description": "The `deletion` ARIA role is used for content that has been removed from a document.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to indicate content that has been removed from the document. It helps users understand that the information is no longer current or relevant.",
+  "extensions": {}
+}

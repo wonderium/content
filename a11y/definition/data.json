@@ -1,0 +1,9 @@
+{
+  "title": "definition",
+  "description": "The `definition` ARIA role is used for the explanation or meaning of a term or concept.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to identify content that provides a definition or explanation of a term. It helps users understand the meaning or details of terms or concepts within the content.",
+  "extensions": {}
+}

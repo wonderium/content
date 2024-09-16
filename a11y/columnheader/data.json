@@ -1,0 +1,9 @@
+{
+  "title": "columnheader",
+  "description": "The `columnheader` ARIA role is used for a cell in a table that represents the header or label for a column.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent the header of a column in a table or grid. It helps users identify the labels or titles for columns, facilitating navigation and understanding of tabular data.",
+  "extensions": {}
+}

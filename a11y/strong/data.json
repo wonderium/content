@@ -1,0 +1,9 @@
+{
+  "title": "strong",
+  "description": "The `strong` ARIA role is used to indicate that text should be emphasized strongly.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to indicate that text is emphasized or highlighted with strong importance. It helps users understand that the content is significant or needs to be given special attention.",
+  "extensions": {}
+}

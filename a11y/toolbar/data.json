@@ -1,0 +1,9 @@
+{
+  "title": "toolbar",
+  "description": "The `toolbar` ARIA role represents a collection of controls that perform actions.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent a group of controls that are typically related to performing actions or tasks. It helps users quickly access and use tools or functions in an organized way.",
+  "extensions": {}
+}

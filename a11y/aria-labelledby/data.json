@@ -1,0 +1,9 @@
+{
+  "title": "[aria-labelledby]",
+  "description": "The `aria-labelledby` ARIA attribute associates an element with one or more elements that label it.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that specifies the IDs of elements that provide the label for the current element. It helps users understand the purpose of the element by associating it with descriptive text.",
+  "extensions": {}
+}

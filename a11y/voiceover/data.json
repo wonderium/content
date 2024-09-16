@@ -1,0 +1,9 @@
+{
+  "title": "VoiceOver",
+  "description": "VoiceOver is a built-in screen reader for Apple's macOS and iOS devices that provides spoken feedback and Braille output for visually impaired users.",
+  "categories": [
+    "technology"
+  ],
+  "content": "The screen reader built into Apple's macOS and iOS devices that provides spoken feedback for users who are blind or have low vision. It helps users navigate and interact with digital content by reading text and describing elements.",
+  "extensions": {}
+}

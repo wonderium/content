@@ -1,0 +1,9 @@
+{
+  "title": "timer",
+  "description": "The `timer` ARIA role is used for an element that represents a time-based update or countdown.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent a component that tracks and displays elapsed time, often with a countdown or stopwatch functionality. It helps users keep track of time-related events or processes.",
+  "extensions": {}
+}

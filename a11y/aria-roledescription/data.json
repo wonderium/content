@@ -1,0 +1,9 @@
+{
+  "title": "[aria-roledescription]",
+  "description": "The `aria-roledescription` ARIA attribute provides a human-readable description of the role of an element.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that provides a descriptive name for the `role` of an element, offering additional context beyond the default role name. It helps users understand the specific purpose or function of the element in a more detailed way.",
+  "extensions": {}
+}

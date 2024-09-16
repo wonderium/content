@@ -1,0 +1,9 @@
+{
+  "title": "radio",
+  "description": "The `radio` ARIA role is used for an individual radio button within a radiogroup.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent a single selectable option (radio button) within a group of mutually exclusive options. It helps users understand that only one option can be selected at a time in the group.",
+  "extensions": {}
+}

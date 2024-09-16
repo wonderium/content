@@ -1,0 +1,9 @@
+{
+  "title": "textbox",
+  "description": "The `textbox` ARIA role is used for elements that allow users to input text.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent an input field where users can enter and edit text. It helps users identify areas for text input, such as forms or search bars.",
+  "extensions": {}
+}

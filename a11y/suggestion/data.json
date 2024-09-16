@@ -1,0 +1,9 @@
+{
+  "title": "suggestion",
+  "description": "The `suggestion` ARIA role is used for providing alternative recommendations or options.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent a suggestion provided by an application, typically in the context of autocompletion or predictive text. It helps users by offering options that can be selected to complete a task more efficiently.",
+  "extensions": {}
+}

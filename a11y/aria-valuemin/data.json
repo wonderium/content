@@ -1,0 +1,9 @@
+{
+  "title": "[aria-valuemin]",
+  "description": "The `aria-valuemin` ARIA attribute defines the minimum value of a range-based element, such as a slider.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that defines the minimum value allowed for a range control, such as a slider. It helps users understand the lower limit of the range and the valid values they can select.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "image",
+  "description": "The `image` ARIA role is used for an element that represents an image or graphic, providing assistive technologies with context about its visual content.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent a visual image within the content. It helps assistive technologies understand that the content is an image and may provide additional context or alternative text.",
+  "extensions": {}
+}

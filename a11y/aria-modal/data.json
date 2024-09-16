@@ -1,0 +1,9 @@
+{
+  "title": "[aria-modal]",
+  "description": "The `aria-modal` ARIA attribute indicates whether an element is a modal dialog.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that specifies whether an element is a modal dialog or overlay that captures focus and interaction. When set to 'true', it indicates that the dialog is a modal and must be addressed before interacting with other content.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "[aria-busy]",
+  "description": "The `aria-busy` ARIA attribute indicates whether an element is currently being updated or is in a busy state.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that indicates whether an element and its descendants are busy with an ongoing operation. When set to 'true', it signals that the element is being updated or processed.",
+  "extensions": {}
+}

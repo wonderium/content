@@ -1,0 +1,9 @@
+{
+  "title": "[aria-current]",
+  "description": "The `aria-current` ARIA attribute indicates the current item within a set, such as the current page in a navigation menu or the current step in a process.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that indicates the current item within a set of related elements. It helps users identify which item is active or current, such as in navigation menus or progress indicators.",
+  "extensions": {}
+}

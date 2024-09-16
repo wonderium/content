@@ -1,0 +1,9 @@
+{
+  "title": "[aria-hidden]",
+  "description": "The `aria-hidden` ARIA attribute indicates whether an element is visible to accessibility tools.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that hides an element from assistive technologies, such as screen readers. When set to 'true', it makes the element and its children inaccessible to users relying on assistive tools.",
+  "extensions": {}
+}

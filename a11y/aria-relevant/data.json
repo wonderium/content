@@ -1,0 +1,9 @@
+{
+  "title": "[aria-relevant]",
+  "description": "The `aria-relevant` ARIA attribute indicates the types of changes to an element's content that should be announced by assistive technologies.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that defines which types of changes to an element should be announced by assistive technologies. It helps users stay informed about relevant updates, such as additions, removals or changes in the content.",
+  "extensions": {}
+}

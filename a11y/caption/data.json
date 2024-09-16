@@ -1,0 +1,9 @@
+{
+  "title": "caption",
+  "description": "The `caption` ARIA role is used for a textual description or title that accompanies table or other content.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to provide a short description or title for a table or other content, often displayed as a header. It helps users understand the context or purpose of the content that follows.",
+  "extensions": {}
+}

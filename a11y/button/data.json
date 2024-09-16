@@ -1,0 +1,9 @@
+{
+  "title": "button",
+  "description": "The `button` ARIA role is used for elements that represent a clickable button.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role that represents a clickable element used to perform an action or trigger an event. It helps assistive technologies identify interactive elements that can be activated by users.",
+  "extensions": {}
+}

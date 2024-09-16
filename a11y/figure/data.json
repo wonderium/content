@@ -1,0 +1,9 @@
+{
+  "title": "figure",
+  "description": "The `figure` ARIA role is used for a container that holds content such as an image, diagram or illustration along with its caption.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent a piece of content that is a standalone figure, such as an image, diagram or chart, which often includes a caption or description. It helps users understand the context and relevance of the figure.",
+  "extensions": {}
+}

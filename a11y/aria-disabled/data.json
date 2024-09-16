@@ -1,0 +1,9 @@
+{
+  "title": "[aria-disabled]",
+  "description": "The `aria-disabled` ARIA attribute indicates that an element is disabled and not interactive.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that indicates whether an element is disabled and not interactive. When set to 'true', it informs users that the element is not available for interaction.",
+  "extensions": {}
+}

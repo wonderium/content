@@ -1,0 +1,9 @@
+{
+  "title": "tooltip",
+  "description": "The `tooltip` ARIA role is used for a small, contextual popup that provides additional information about an element when the user hovers over or focuses on it.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent a brief, informative message that appears when a user hovers over or focuses on an element. It helps users understand the purpose or context of an element without cluttering the interface.",
+  "extensions": {}
+}

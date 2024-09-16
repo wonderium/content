@@ -1,0 +1,9 @@
+{
+  "title": "tablist",
+  "description": "The `tablist` ARIA role is used for a container of tabs, which allows users to navigate between different sections or views by selecting tabs.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent a container for a set of tabs, managing the interaction and focus between the tabs and their associated panels. It helps users move between different sections or views within an interface.",
+  "extensions": {}
+}

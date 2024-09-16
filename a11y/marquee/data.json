@@ -1,0 +1,9 @@
+{
+  "title": "marquee",
+  "description": "The `marquee` ARIA role is used to indicate a scrolling or moving content region.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to indicate content that moves or scrolls across the screen. It helps assistive technologies understand that the content is dynamic and provides information that changes or updates visually.",
+  "extensions": {}
+}

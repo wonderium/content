@@ -1,0 +1,9 @@
+{
+  "title": "[aria-valuetext]",
+  "description": "The `aria-valuetext` ARIA attribute provides a human-readable text alternative for the value of an element.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that provides a human-readable text description of the current value of a range control. It helps users understand the value in a more meaningful way, beyond just a numerical value.",
+  "extensions": {}
+}

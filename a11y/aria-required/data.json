@@ -1,0 +1,9 @@
+{
+  "title": "[aria-required]",
+  "description": "The `aria-required` ARIA attribute indicates that user input is required before form submission.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that indicates whether a form field or input is required for form submission. When set to 'true', it informs users that the field must be filled out before the form can be submitted.",
+  "extensions": {}
+}

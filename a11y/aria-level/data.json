@@ -1,0 +1,9 @@
+{
+  "title": "[aria-level]",
+  "description": "The `aria-level` ARIA attribute defines the hierarchical level of an element within a structure.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that defines the hierarchical level of an element within a structure, such as headings in a document. It helps users understand the importance and nesting of elements within a content hierarchy.",
+  "extensions": {}
+}

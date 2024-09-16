@@ -1,0 +1,9 @@
+{
+  "title": "gridcell",
+  "description": "The `gridcell` ARIA role is used for an individual cell within a grid.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role that represents a single cell within a grid structure. It helps users navigate and interact with individual cells in a grid layout, providing context within the overall grid.",
+  "extensions": {}
+}

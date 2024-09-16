@@ -1,0 +1,9 @@
+{
+  "title": "status",
+  "description": "The `status` ARIA role is used to indicate that the content of the element is updated dynamically and the user should be informed of changes.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to indicate a region of content that provides status updates or important messages. It helps users receive real-time information about changes or notifications.",
+  "extensions": {}
+}

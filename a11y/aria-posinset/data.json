@@ -1,0 +1,9 @@
+{
+  "title": "[aria-posinset]",
+  "description": "The `aria-posinset` ARIA attribute specifies the position of an item within a set.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that indicates the position of an item within a set or list. It helps users understand the item's location relative to other items in the set, such as its position in a list.",
+  "extensions": {}
+}

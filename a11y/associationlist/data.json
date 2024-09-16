@@ -1,0 +1,9 @@
+{
+  "title": "associationlist",
+  "description": "The `associationlist` ARIA role represents a list of items that are associated with a particular context or element.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to group items that have a relationship, like terms and their definitions. It helps screen readers and other assistive technologies understand that the items are connected in a specific way, improving navigation and comprehension for users with disabilities.",
+  "extensions": {}
+}

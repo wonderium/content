@@ -1,0 +1,9 @@
+{
+  "title": "menu",
+  "description": "The `menu` ARIA role is used for a list of options or commands that can be selected by the user.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role that represents a list of actions or options that users can select from. It helps users understand that the elements within the menu are interactive and related to navigation or actions.",
+  "extensions": {}
+}

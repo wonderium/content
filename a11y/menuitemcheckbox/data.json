@@ -1,0 +1,9 @@
+{
+  "title": "menuitemcheckbox",
+  "description": "The `menuitemcheckbox` ARIA role is used for a checkbox within a menu.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role that represents a menu item that can be toggled on or off, similar to a checkbox. It helps users understand that the item has a selectable state that can be changed.",
+  "extensions": {}
+}

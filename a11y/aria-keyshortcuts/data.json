@@ -1,0 +1,9 @@
+{
+  "title": "[aria-keyshortcuts]",
+  "description": "The `aria-keyshortcuts` ARIA attribute defines a keyboard shortcut to activate or focus an element.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that provides information about the keyboard shortcuts associated with an element. It helps users understand the key combinations that can be used to interact with or activate the element.",
+  "extensions": {}
+}

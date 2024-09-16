@@ -1,0 +1,9 @@
+{
+  "title": "tab",
+  "description": "The `tab` ARIA role is used for individual items within a tablist that represent selectable options or sections.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent a selectable item within a group of tabs, where each tab controls the visibility of an associated panel. It helps users navigate between different sections or views in an organized way.",
+  "extensions": {}
+}

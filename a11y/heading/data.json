@@ -1,0 +1,9 @@
+{
+  "title": "heading",
+  "description": "The `heading` ARIA role is used to represent a heading or title for a section of content.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role that represents a heading or title for a section of content. It helps users identify and navigate through different sections of content by indicating the purpose or topic of each section.",
+  "extensions": {}
+}

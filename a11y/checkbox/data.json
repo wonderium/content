@@ -1,0 +1,9 @@
+{
+  "title": "checkbox",
+  "description": "The `checkbox` ARIA role is used for elements that represent a selectable checkbox.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role that represents a selectable option that can be checked or unchecked. It helps users understand the state of the control and allows for multiple selections in a group.",
+  "extensions": {}
+}

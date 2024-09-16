@@ -1,0 +1,9 @@
+{
+  "title": "[aria-description]",
+  "description": "The `aria-description` ARIA attribute offers a textual description of an element for assistive technologies.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that provides a description for an element. This description is used by assistive technologies to offer more context or details about the element’s purpose.",
+  "extensions": {}
+}

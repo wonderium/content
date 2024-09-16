@@ -1,0 +1,9 @@
+{
+  "title": "[aria-owns]",
+  "description": "The `aria-owns` ARIA attribute specifies the relationship between an element and its owned elements.",
+  "categories": [
+    "attribute"
+  ],
+  "content": "The attribute that specifies the IDs of elements that are owned or controlled by the current element. It helps assistive technologies understand the relationship between elements and their hierarchical structure.",
+  "extensions": {}
+}

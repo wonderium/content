@@ -1,0 +1,9 @@
+{
+  "title": "dialog",
+  "description": "The `dialog` ARIA role is used for a pop-up or modal window that requires user interaction.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role that represents a dialog box or modal window used for user interactions. It helps assistive technologies identify the dialog and manage focus and interaction within it.",
+  "extensions": {}
+}

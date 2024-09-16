@@ -1,0 +1,9 @@
+{
+  "title": "tree",
+  "description": "The `tree` ARIA role is used for a hierarchical structure of items that can be expanded or collapsed.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent a hierarchical structure of items, where each item can have one or more child items. It helps users navigate and interact with nested lists or categories.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Eye Tracking Systems",
+  "description": "The Eye Tracking Systems monitor and analyze eye movements to enable users to interact with digital content.",
+  "categories": [
+    "technology"
+  ],
+  "content": "The systems that track and interpret eye movements to control computer interfaces, providing accessibility for users with limited mobility. They help users interact with digital content by focusing on elements with their gaze. This technology enables more intuitive and inclusive navigation.",
+  "extensions": {}
+}

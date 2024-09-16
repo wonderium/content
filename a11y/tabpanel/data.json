@@ -1,0 +1,9 @@
+{
+  "title": "tabpanel",
+  "description": "The `tabpanel` ARIA role is used for a container that holds the content for a specific tab in a tablist.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent the content associated with a specific tab in a tabbed interface. It helps users access and interact with the content that is controlled by the selected tab.",
+  "extensions": {}
+}

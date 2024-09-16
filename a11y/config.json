@@ -5,6 +5,218 @@
 			"description": "The specifications or rules that ensure a website or application can be used by people with disabilities, as well as all other users."
 		},
 		"color": "#FB37FB",
-		"topics": []
+		"topics": [
+			{
+				"name": "Basics",
+				"units": [
+					"aom",
+					"accessible-names-and-descriptions",
+					"language-of-the-website-and-content",
+					"accessible-forms",
+					"accessible-media",
+					"accessibility-levels",
+					"wcag",
+					"live-region",
+					"screen-readers",
+					"speech-recognition",
+					"aria",
+					"aria-roles",
+					"aria-attributes",
+					"abstract-aria-roles"
+				]
+			},
+			{
+				"name": "Screen readers",
+				"units": [
+					"jaws", 
+					"nvda", 
+					"voiceover", 
+					"talkback", 
+					"narrator"
+				]
+			},
+			{
+				"name": "Various Assistive Technologies",
+				"units": [
+					"voice-input-devices",
+					"keyboards-with-additional-features",
+					"motion-based-input-devices",
+					"magnification-devices-and-software",
+					"eye-tracking-systems",
+					"braille-displays"
+				]
+			},
+			{
+				"name": "Global ARIA Attributes",
+				"units": [
+					"aria-hidden",
+					"aria-label",
+					"aria-braillelabel",
+					"aria-labelledby",
+					"aria-describedby",
+					"aria-description",
+					"aria-details",
+					"aria-roledescription",
+					"aria-brailleroledescription",
+					"aria-keyshortcuts",
+					"aria-live",
+					"aria-atomic",
+					"aria-relevant",
+					"aria-busy",
+					"aria-owns",
+					"aria-current",
+					"aria-controls",
+					"aria-flowto"
+				]
+			},
+			{
+				"name": "Widget Attributes",
+				"units": [
+					"aria-level",
+					"aria-placeholder",
+					"aria-required",
+					"aria-invalid",
+					"aria-errormessage",
+					"aria-checked",
+					"aria-pressed",
+					"aria-selected",
+					"aria-disabled",
+					"aria-readonly",
+					"aria-multiselectable",
+					"aria-multiline",
+					"aria-autocomplete",
+					"aria-expanded",
+					"aria-haspopup",
+					"aria-modal",
+					"aria-orientation",
+					"aria-sort",
+					"aria-setsize",
+					"aria-posinset",
+					"aria-valuetext",
+					"aria-valuenow",
+					"aria-valuemax",
+					"aria-valuemin"
+				]
+			},
+			{
+				"name": "Relationship Attributes",
+				"units": [
+					"aria-activedescendant",
+					"aria-rowindex",
+					"aria-colindex",
+					"aria-rowindextext",
+					"aria-colindextext",
+					"aria-rowcount",
+					"aria-colcount",
+					"aria-rowspan",
+					"aria-colspan"
+				]
+			},
+			{
+				"name": "Dynamic Content",
+				"units": [
+					"status", 
+					"log", 
+					"alert", 
+					"marquee", 
+					"timer"
+				]
+			},
+			{
+				"name": "Basic control elements",
+				"units": [
+					"button",
+					"switch",
+					"checkbox",
+					"textbox",
+					"searchbox",
+					"slider",
+					"spinbutton",
+					"progressbar",
+					"scrollbar",
+					"tablist",
+					"tab",
+					"tabpanel",
+					"listbox",
+					"combobox",
+					"option",
+					"radiogroup",
+					"radio",
+					"treegrid",
+					"tree",
+					"treeitem",
+					"menubar",
+					"menu",
+					"menuitem",
+					"menuitemradio",
+					"menuitemcheckbox",
+					"grid",
+					"gridcell",
+					"separator",
+					"tooltip",
+					"dialog",
+					"alertdialog"
+				]
+			},
+			{
+				"name": "Formats & Сontent",
+				"units": [
+					"link",
+					"img",
+					"image",
+					"figure",
+					"caption",
+					"table",
+					"columnheader",
+					"rowheader",
+					"rowgroup",
+					"row",
+					"cell",
+					"blockquote",
+					"heading",
+					"paragraph",
+					"note",
+					"time",
+					"math",
+					"meter",
+					"code",
+					"suggestion",
+					"comment",
+					"mark",
+					"term",
+					"definition",
+					"strong",
+					"emphasis",
+					"insertion",
+					"deletion",
+					"subscript",
+					"superscript"
+				]
+			},
+			{
+				"name": "Structural Elements",
+				"units": [
+					"application",
+					"toolbar",
+					"banner",
+					"navigation",
+					"main",
+					"complementary",
+					"region",
+					"form",
+					"search",
+					"contentinfo",
+					"group",
+					"article",
+					"presentation-none",
+					"generic",
+					"list",
+					"listitem",
+					"associationlist",
+					"associationlistitemkey",
+					"associationlistitemvalue"
+				]
+			}
+		]
 	}
 }

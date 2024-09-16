@@ -1,0 +1,9 @@
+{
+  "title": "term",
+  "description": "The `term` ARIA role is used for a word or phrase that is being defined or explained.",
+  "categories": [
+    "role"
+  ],
+  "content": "The role used to represent a word or phrase that is defined or explained in detail within the content. It helps users identify and understand important concepts or terminology within the text.",
+  "extensions": {}
+}
