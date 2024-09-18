@@ -1,0 +1,27 @@
+{
+    "title": "return",
+    "description": "The `return` JS syntax keyword is used to exit a function and specify the value to be returned to the caller.",
+    "categories": [
+      "syntax", 
+      "keyword"
+    ],
+    "content": "The keyword used in functions to end the function's execution and specify the value to be returned. This value is sent back to the place where the function was called. If no value is provided, the function returns `undefined` by default.",
+    "extensions": {
+      "compatibility": {
+        "browsers": {
+          "chrome": 1,
+          "chrome_android": 18,
+          "edge": 12,
+          "firefox": 1,
+          "firefox_android": 4,
+          "safari": 1,
+          "safari_ios": 1
+        },
+        "latest_release_date": {
+          "year": 2015,
+          "month": 7,
+          "day": 29
+        }
+      }
+    }
+  }

@@ -66,6 +66,7 @@
 					"try-catch-finally",
 					"function",
 					"arrow-function",
+					"return",
 					"class",
 					"new",
 					"import-export",
