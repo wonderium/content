@@ -535,6 +535,14 @@
 					"calc",
 					"clamp"
 				]
+			},
+			{
+				"name": "Vendor Prefixes",
+				"units": [
+					"webkit-vendor-prefix",
+					"moz-vendor-prefix",
+					"ms-vendor-prefix"
+				]
 			}
 		]
 	}

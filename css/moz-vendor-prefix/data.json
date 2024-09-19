@@ -1,0 +1,26 @@
+{
+  "title": "-moz-",
+  "description": "The `-moz-` CSS vendor prefix is used for experimental properties and features specific to Mozilla Firefox browser. It ensures compatibility and correct rendering of CSS styles in older versions of Firefox.",
+  "categories": [
+    "property"
+  ],
+  "content": "The vendor prefix used in Mozilla Firefox to enable experimental CSS features and properties. The prefix supports various properties, such as `transition` and `transform`, ensuring that styles are rendered accurately in older versions of the Firefox browser.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": null,
+        "chrome_android": null,
+        "edge": null,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": null,
+        "safari_ios": null
+      },
+      "latest_release_date": {
+        "year": 2011,
+        "month": 3,
+        "day": 29
+      }
+    }
+  }
+}
