@@ -7,16 +7,16 @@ Please follow the format for the pull request title:
 
 - If more than one field is updated
 -- in one card:         Rewrites the card: `$levelId/$unitId`
--- in several card:     Rewrites cards: `$levelId/$unitId`, `$levelId/$unitId`, ...
+-- in several cards:    Rewrites cards: `$levelId/$unitId`, `$levelId/$unitId`, ...
 
 -->
-Closes # <!-- Aadd the issue number the task resolves or delete this line if there is no issue -->
+Closes # <!-- Add the issue number the task resolves or delete this line if there is no issue -->
+
+### Notes <!-- Add note or delete this line -->
 
 ### Card Updates
 - **$levelId/$unitId**
   - $action (past tense) the `key` field / section $description.
-- **html/element** <!-- Real life template -->
-  - Edited the `content` field to remove non-standard characters.
 <!-- Add more items here if needed -->
 
 <!-- 

@@ -5,7 +5,9 @@ Please follow the format for the pull request title:
 - If more than one card is created (one level):      Creates cards in `$levelName` level
 - If more than one card is created (several levels): Creates cards in `$levelName`, `$levelName`, ... levels
 -->
-Closes # <!-- Aadd the issue number the task resolves or delete this line if there is no issue -->
+Closes # <!-- Add the issue number the task resolves or delete this line if there is no issue -->
+
+### Notes <!-- Add note or delete this line -->
 
 ### Cards list
 - **$levelId/$unitId**
