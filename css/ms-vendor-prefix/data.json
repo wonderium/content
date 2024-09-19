@@ -1,0 +1,26 @@
+{
+  "title": "-ms-",
+  "description": "The `-ms-` CSS vendor prefix is used for experimental properties and features specific to Microsoft browsers, such as Internet Explorer and early versions of Edge. It ensures compatibility and correct rendering of CSS styles in older versions of these browsers.",
+  "categories": [
+    "property"
+  ],
+  "content": "The vendor prefix used in Microsoft browsers to enable experimental CSS features and properties. The prefix supports various properties, such as `transition` and `transform`, ensuring that styles are rendered accurately in older versions of Internet Explorer and Edge browsers.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": null,
+        "chrome_android": null,
+        "edge": 12,
+        "firefox": null,
+        "firefox_android": null,
+        "safari": null,
+        "safari_ios": null
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

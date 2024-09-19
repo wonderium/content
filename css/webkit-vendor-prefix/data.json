@@ -1,0 +1,26 @@
+{
+  "title": "-webkit-",
+  "description": "The `-webkit-` CSS vendor prefix is used for experimental properties and features specific to WebKit-based browsers like Chrome and Safari. It ensures compatibility and correct rendering of CSS styles in older versions of browsers.",
+  "categories": [
+    "property"
+  ],
+  "content": "The vendor prefix used in WebKit-based browsers to enable experimental CSS features and properties. The prefix supports various properties, such as `transition` or `transform`, ensuring that styles are rendered accurately in older versions of Safari and Chrome browsers.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 1,
+        "chrome_android": 18,
+        "edge": 79,
+        "firefox": null,
+        "firefox_android": null,
+        "safari": 3,
+        "safari_ios": 3
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}
