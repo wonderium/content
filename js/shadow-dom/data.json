@@ -1,0 +1,26 @@
+{
+  "title": "Shadow DOM",
+  "description": "The Shadow DOM is a JS browser API feature that allows developers to create encapsulated DOM trees for web components, isolating styles and markup.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The powerful feature in web development that enables the creation of encapsulated DOM trees, allowing developers to build reusable web components. By isolating styles and markup within the shadow tree, it prevents conflicts with the main document's styles, ensuring consistent rendering. This approach enhances modularity and maintainability in web applications.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 53,
+        "chrome_android": 53,
+        "edge": 79,
+        "firefox": 63,
+        "firefox_android": 63,
+        "safari": 10,
+        "safari_ios": 10
+      },
+      "latest_release_date": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+      }
+    }
+  }
+}
