@@ -428,7 +428,10 @@
 			{
 				"name": "Browser Environment",
 				"units": [
-					"window"
+					"dom",
+					"shadow-dom",
+					"window",
+					"document"
 				]
 			},
 			{
@@ -542,7 +545,6 @@
 					"element",
 					"html-collection",
 					"node-list",
-					"document",
 					"add-event-listener",
 					"remove-event-listener",
 					"remove-property",
