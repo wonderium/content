@@ -1,0 +1,9 @@
+{
+  "title": "Skip Link",
+  "description": "The Skip Link accessible element helps users quickly navigate to the main content, bypassing repetitive elements like headers and menus.",
+  "categories": [
+    "concept"
+  ],
+    "content": "The special accessible element that allows users navigating via keyboard or assistive technologies to bypass sections like navigation bars or headers and jump directly to the main content. It should be the first focusable element in the flow and remain hidden from sighted users. This feature creates a more efficient experience by reducing navigation frustration.",
+  "extensions": {}
+}

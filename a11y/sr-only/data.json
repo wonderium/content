@@ -1,0 +1,9 @@
+{
+  "title": "sr-only",
+  "description": "The `sr-only` accessible practice in CSS is used to hide content visually while keeping it available for screen readers, enhancing accessibility.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The accessible practice in CSS that makes content hidden from sighted users while ensuring it remains available to screen readers. This technique is beneficial for providing additional context or instructions that may not be relevant for visual users but are important for those using assistive technologies. By utilizing this class, websites improve accessibility and simplify the developer experience, making it easier to implement inclusive design practices.",
+  "extensions": {}
+}

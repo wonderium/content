@@ -216,6 +216,13 @@
 					"associationlistitemkey",
 					"associationlistitemvalue"
 				]
+			},
+			{
+				"name": "Accessible Elements",
+				"units": [
+					"skip-link",
+					"sr-only"
+				]
 			}
 		]
 	}
