@@ -2,7 +2,7 @@
   "title": "HEX Color",
   "description": "The HEX Color format in CSS specifies colors using using a '#' symbol followed by six hexadecimal digits.",
   "categories": [
-    "keyword"
+    "syntax"
   ],
   "content": "The way to define colors using a '#' symbol followed by six hexadecimal digits that represent the red, green and blue (RGB) of the color. It’s a common and precise method for setting colors, often used in web.",
   "extensions": {
