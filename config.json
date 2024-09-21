@@ -1,24 +1,27 @@
 {
-    "data": [
-        {
+    "data": {
+        "sections": [
+            {
             "id": "s-1",
             "name": "Basics",
             "levels": ["html", "css", "js"]
-        },
-        {
-            "id": "s-2",
-            "name": "Advanced",
-            "levels": ["a11y", "ts"]
-        },
-        {
-            "id": "s-3",
-            "name": "Specialization",
-            "levels": ["react"]
-        },
-        {
-            "id": "s-4",
-            "name": "Landscape",
-            "levels": ["web", "engineering", "algorithms", "work"]
-        }
-    ]
+            },
+            {
+                "id": "s-2",
+                "name": "Advanced",
+                "levels": ["a11y", "ts"]
+            },
+            {
+                "id": "s-3",
+                "name": "Specialization",
+                "levels": ["react"]
+            },
+            {
+                "id": "s-4",
+                "name": "Landscape",
+                "levels": ["web", "engineering", "algorithms", "work"]
+            }
+        ],
+        "levelsInSchemaMarkup": ["html", "css", "js", "a11y"]
+    }
 }

@@ -2,7 +2,8 @@
 	"data": {
 		"meta": {
 			"title": "Engineering",
-			"description": "The process of creating software using programming languages. It involves developing algorithms, writing and debugging code to solve tasks and automate processes."
+			"description": "The process of creating software using programming languages. It involves developing algorithms, writing and debugging code to solve tasks and automate processes.",
+			"unitsInSchemaMarkup": []
 		},
 		"color": "#00F9C3",
 		"topics": []

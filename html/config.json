@@ -2,7 +2,14 @@
 	"data": {
 		"meta": {
 			"title": "HTML",
-			"description": "The markup language used to structure a web page and its content. It helps browsers understand the order and meaning of elements to display them correctly."
+			"description": "The markup language used to structure a web page and its content. It helps browsers understand the order and meaning of elements to display them correctly.",
+			"unitsInSchemaMarkup": [
+				"document-flow", 
+				"div",
+				"block-formatting-context",
+				"contenteditable",
+				"body"
+			]
 		},
 		"color": "#F06529",
 		"topics": [

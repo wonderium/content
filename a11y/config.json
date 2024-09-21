@@ -2,7 +2,14 @@
 	"data": {
 		"meta": {
 			"title": "Accessibility",
-			"description": "The specifications or rules that ensure a website or application can be used by people with disabilities, as well as all other users."
+			"description": "The specifications or rules that ensure a website or application can be used by people with disabilities, as well as all other users.",
+			"unitsInSchemaMarkup": [
+				"aom",
+				"aria-roles",
+				"voiceover",
+				"voice-input-devices",
+				"skip-link"
+			]
 		},
 		"color": "#FB37FB",
 		"topics": [

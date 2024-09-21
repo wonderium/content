@@ -2,7 +2,8 @@
 	"data": {
 		"meta": {
 			"title": "Web Platform",
-			"description": "The set of technologies and standards used to create and run web applications and websites. It includes specific tools that enable functionality across different browsers and devices."
+			"description": "The set of technologies and standards used to create and run web applications and websites. It includes specific tools that enable functionality across different browsers and devices.",
+			"unitsInSchemaMarkup": []
 		},
 		"color": "#8CFF1A",
 		"topics": []
