@@ -2,7 +2,14 @@
 	"data": {
 		"meta": {
 			"title": "CSS",
-			"description": "The style sheet language used to describe the presentation of a document written in HTML or XML, including the layout, colors and fonts."
+			"description": "The style sheet language used to describe the presentation of a document written in HTML or XML, including the layout, colors and fonts.",
+			"unitsInSchemaMarkup": [
+				"cascade-principle",
+				"specificity",
+				"pseudo-element",
+				"animations",
+				"counters-concept"
+			]
 		},
 		"color": "#2965F1",
 		"topics": [

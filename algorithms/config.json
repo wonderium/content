@@ -2,7 +2,8 @@
 	"data": {
 		"meta": {
 			"title": "Algorithms",
-			"description": "The sequence of steps or instructions designed to solve a specific problem or perform a certain operation."
+			"description": "The sequence of steps or instructions designed to solve a specific problem or perform a certain operation.",
+			"unitsInSchemaMarkup": []
 		},
 		"color": "#FC4B41",
 		"topics": []

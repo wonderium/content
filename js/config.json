@@ -2,7 +2,14 @@
 	"data": {
 		"meta": {
 			"title": "JavaScript",
-			"description": "The programming language used to create dynamic and interactive content on websites. It allows developers to implement complex features like animations, form validation and real-time updates."
+			"description": "The programming language used to create dynamic and interactive content on websites. It allows developers to implement complex features like animations, form validation and real-time updates.",
+			"unitsInSchemaMarkup": [
+				"execution-order", 
+				"variables",
+				"event-loop",
+				"browser-environment",
+				"microtasks"
+			]
 		},
 		"color": "#F0DB4F",
 		"topics": [
