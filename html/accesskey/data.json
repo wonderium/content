@@ -5,7 +5,7 @@
   "categories": [
     "attribute"
   ],
-  "content": "The attribute that assigns a keyboard shortcut to an element. This allows users to quickly navigate to the element by pressing the specified key or key combination, enhancing accessibility and usability.",
+  "content": "The attribute that assigns a keyboard shortcut to an element. It allows users to quickly navigate to the element by pressing the specified key or key combination, enhancing accessibility and usability.",
   "extensions": {
     "compatibility": {
       "browsers": {
