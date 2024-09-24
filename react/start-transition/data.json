@@ -1,0 +1,9 @@
+{
+  "title": "startTransition()",
+  "description": "The `startTransition()` API allows to mark updates as non-urgent, helping to manage concurrent rendering.",
+  "categories": [
+    "API"
+  ],
+  "content": "The function that allows React to manage transitions between different states in the UI without blocking user interactions. It helps to keep the interface responsive by handling state updates in a non-blocking manner.",
+  "extensions": {}
+}

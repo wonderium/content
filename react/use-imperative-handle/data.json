@@ -1,0 +1,9 @@
+{
+  "title": "useImperativeHandle()",
+  "description": "The `useImperativeHandle()` hook customizes the instance value that is exposed when using `ref` with `forwardRef()`.",
+  "categories": [
+    "hook"
+  ],
+  "content": "The hook that allows a component to customize the instance value that is exposed when using `ref`. It helps control what is accessible through the ref, providing a way to expose specific methods or properties.",
+  "extensions": {}
+}

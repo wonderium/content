@@ -1,0 +1,9 @@
+{
+  "title": "Component Lifecycle",
+  "description": "The Component Lifecycle in React is the series of phases a component goes through from creation to unmounting.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The sequence of events that happen to a component from the moment it’s created until it’s removed. Understanding this helps in controlling when and how a component updates, fetches data or cleans up resources.",
+  "extensions": {}
+}

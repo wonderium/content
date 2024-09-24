@@ -1,0 +1,9 @@
+{
+  "title": "useId()",
+  "description": "The `useId()` hook generates unique IDs that are consistent across server and client renders.",
+  "categories": [
+    "hook"
+  ],
+  "content": "The hook that generates a unique ID for a component, useful for accessibility and linking form elements. It ensures that each component gets a stable, unique ID that doesn’t change between renders.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "useDebugValue()",
+  "description": "The `useDebugValue()` hook is used to display a label for custom hooks in React DevTools.",
+  "categories": [
+    "hook"
+  ],
+  "content": "The hook that allows to display custom debug information for a custom hook in React DevTools. It helps with debugging by providing additional context about the state or value managed by the hook.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "renderToPipeableStream()",
+  "description": "The `renderToPipeableStream()` API provides a way to render React components to a stream that can be piped to an HTTP response or other streams.",
+  "categories": [
+    "API"
+  ],
+  "content": "The function that generates a readable stream of HTML for server-side rendering, allowing data to be sent to the client as it’s generated. This method helps improve performance by streaming content progressively.",
+  "extensions": {}
+}

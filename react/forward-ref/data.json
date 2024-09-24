@@ -1,0 +1,9 @@
+{
+  "title": "forwardRef()",
+  "description": "The `forwardRef()` API is used to forward refs from parent components to a child component.",
+  "categories": [
+    "API"
+  ],
+  "content": "The function that passes a reference (ref) from a parent component to a child component. It’s helpful when the parent needs to directly interact with a specific element inside the child, like focusing an input box.",
+  "extensions": {}
+}

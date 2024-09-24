@@ -1,0 +1,9 @@
+{
+  "title": "Props Drilling",
+  "description": "The Props Drilling is the process of passing data through multiple levels of nested components via props.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The process of passing data from a parent component to a deeply nested child component through multiple layers of components. This can make managing data and updates more complex as the component hierarchy grows.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "useSyncExternalStore()",
+  "description": "The `useSyncExternalStore()` hook allows React to subscribe to an external store and read its current state synchronously.",
+  "categories": [
+    "hook"
+  ],
+  "content": "The hook that allows a component to subscribe to an external store and synchronize its state with the store’s changes. It helps integrate with external state management solutions by ensuring the component stays updated with the latest data.",
+  "extensions": {}
+}

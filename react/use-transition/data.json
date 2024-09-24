@@ -1,0 +1,9 @@
+{
+  "title": "useTransition()",
+  "description": "The `useTransition()` hook is used to manage concurrent rendering and handle state transitions more smoothly.",
+  "categories": [
+    "hook"
+  ],
+  "content": "The hook that helps manage the UI during state transitions, allowing updates to be deferred while keeping the app responsive. It’s useful for handling large state changes or async updates without blocking user interactions.",
+  "extensions": {}
+}

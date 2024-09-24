@@ -1,0 +1,9 @@
+{
+  "title": "JSX",
+  "description": "The JSX is a syntax extension for JavaScript that allows writing HTML elements and components in a JavaScript file.",
+  "categories": [
+    "syntax"
+  ],
+  "content": "The syntax that resembles HTML, used within JavaScript to define what the UI should look like. It simplifies writing and visualizing React components and is converted into JavaScript calls to create the elements.",
+  "extensions": {}
+}

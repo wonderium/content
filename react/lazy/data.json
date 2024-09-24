@@ -1,0 +1,9 @@
+{
+  "title": "lazy()",
+  "description": "The `lazy()` API allows to dynamically import components and render them only when they are needed.",
+  "categories": [
+    "API"
+  ],
+  "content": "The function that allows components to be loaded only when they are needed, instead of including them in the initial bundle. This improves the app’s performance by reducing the amount of code that needs to be loaded upfront.",
+  "extensions": {}
+}

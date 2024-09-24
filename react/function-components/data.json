@@ -1,0 +1,9 @@
+{
+  "title": "Function Components",
+  "description": "The Function Components are a type of React component defined as a JavaScript function.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The simpler way to create components using JavaScript functions. These components take in data (props) and return the UI elements to display and with hooks, they can also manage state and lifecycle events.",
+  "extensions": {}
+}

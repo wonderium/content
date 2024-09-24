@@ -1,0 +1,9 @@
+{
+  "title": "<Profiler>",
+  "description": "The `<Profiler>` component is used to measure the performance of React components.",
+  "categories": [
+    "component"
+  ],
+  "content": "The component used to measure and analyze the performance of React components. It provides insights into how long components take to render and helps identify performance bottlenecks.",
+  "extensions": {}
+}

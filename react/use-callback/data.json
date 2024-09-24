@@ -1,0 +1,9 @@
+{
+  "title": "useCallback()",
+  "description": "The `useCallback()` hook returns a memoized version of the callback function that only changes if one of the dependencies has changed.",
+  "categories": [
+    "hook"
+  ],
+  "content": "The hook that returns a memoized version of a callback function that only changes if one of the dependencies changes. It helps prevent unnecessary re-renders by ensuring that the function reference remains stable.",
+  "extensions": {}
+}

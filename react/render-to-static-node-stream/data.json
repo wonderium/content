@@ -1,0 +1,9 @@
+{
+  "title": "renderToStaticNodeStream()",
+  "description": "The `renderToStaticNodeStream()` API renders React components to a Node.js stream of static HTML, which excludes React-specific attributes and enables streaming of static content.",
+  "categories": [
+    "API"
+  ],
+  "content": "The function that generates a readable stream of HTML for server-side rendering. This method outputs static HTML without additional React-specific attributes, which can be useful for optimizing performance.",
+  "extensions": {}
+}
