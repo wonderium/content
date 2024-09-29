@@ -5,6 +5,6 @@
     "concept",
     "syntax"
   ],
-  "content": "The piece of information added to an HTML element to define its properties or behavior. Attributes are written within the opening tag of an element and can control aspects like appearance, behavior and interaction, such as `href`, `class` or `id`.",
+  "content": "The piece of information added to an HTML element to define its properties or behavior. They are written within the opening tag of an element and can control aspects like appearance, behavior and interaction, such as `href`, `class` or `id`.",
   "extensions": {}
 }

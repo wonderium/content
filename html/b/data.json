@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that makes text bold to draw attention. Unlike `<strong>`, which indicates strong importance, `<b>` is typically used for stylistic purposes without implying extra importance.",
+  "content": "The element that makes text bold to draw attention. Unlike `<strong>`, which indicates strong importance, this tag is typically used for stylistic purposes without implying extra importance.",
   "extensions": {
     "compatibility": {
       "browsers": {
