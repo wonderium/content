@@ -1,5 +1,5 @@
 {
-  "title": " and",
+  "title": "Intl.Locale",
   "description": "The `Intl.Locale` JS object represents a locale and provides methods for working with locale-specific data and information.",
   "categories": [
     "object"
