@@ -3,9 +3,114 @@
 		"meta": {
 			"title": "React",
 			"description": "The JavaScript library for building user interfaces. It enables developers to create reusable components and manage the state of dynamic content efficiently.",
-			"unitsInSchemaMarkup": []
+			"unitsInSchemaMarkup": [
+				"virtual-dom",
+				"server-components",
+				"dependencies",
+				"component-lifecycle",
+				"use-layout-effect"
+			]
 		},
 		"color": "#61DAFB",
-		"topics": []
+		"topics": [
+			{
+				"name": "Basics",
+				"units": [
+					"react",
+					"react-dom",
+					"virtual-dom",
+					"function-components",
+					"class-components",
+					"client-components",
+					"server-components",
+					"server-actions",
+					"jsx",
+					"states",
+					"effects",
+					"hooks",
+					"hocs",
+					"context",
+					"props-drilling",
+					"state-managers",
+					"dependencies",
+					"rendering",
+					"keys",
+					"component-lifecycle",
+					"references",
+					"versioning"
+				]
+			},
+			{
+				"name": "Hooks",
+				"units": [
+					"use-state",
+					"use-reducer",
+					"use-ref",
+					"use-imperative-handle",
+					"use-effect",
+					"use-layout-effect",
+					"use-memo",
+					"use-callback",
+					"use-context",
+					"use-id",
+					"use-deferred-value",
+					"use-transition",
+					"use-debug-value",
+					"use-insertion-effect",
+					"use-sync-external-store"
+				]
+			},
+			{
+				"name": "Components",
+				"units": [
+					"fragment", 
+					"profiler", 
+					"strict-mode", 
+					"suspense"
+				]
+			},
+			{
+				"name": "APIs",
+				"units": [
+					"act",
+					"create-context",
+					"forward-ref",
+					"lazy",
+					"memo",
+					"start-transition"
+				]
+			},
+			{
+				"name": "APIs [React DOM]",
+				"units": [
+					"create-portal", 
+					"flush-sync"
+				]
+			},
+			{
+				"name": "Client APIs [React DOM]",
+				"units": [
+					"create-root", 
+					"hydrate-root"
+				]
+			},
+			{
+				"name": "Server APIs [React DOM]",
+				"units": [
+					"render-to-pipeable-stream",
+					"render-to-readable-stream",
+					"render-to-static-markup",
+					"render-to-static-node-stream",
+					"render-to-string"
+				]
+			},
+			{
+				"name": "Directives",
+				"units": [
+					"use-client", 
+					"use-server"
+				]
+			}
+		]
 	}
 }

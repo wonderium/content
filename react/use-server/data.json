@@ -1,0 +1,9 @@
+{
+  "title": "'use server'",
+  "description": "The `use server` directive is used to indicate that a component should be rendered on the server side.",
+  "categories": [
+    "directive"
+  ],
+  "content": "The directive used in client-side rendering contexts to specify that a component should be rendered on the server side. It helps manage components that need server-side rendering for better performance or SEO.",
+  "extensions": {}
+}

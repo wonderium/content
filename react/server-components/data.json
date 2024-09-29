@@ -1,0 +1,9 @@
+{
+  "title": "Server Components",
+  "description": "The Server Components are React components that are rendered on the server-side.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The components that are rendered on the server rather than the client. They can be used to fetch data and generate HTML before sending it to the client, improving initial load performance and SEO.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "useLayoutEffect()",
+  "description": "The `useLayoutEffect()` hook works similarly to `useEffect()`, but it fires synchronously after all DOM mutations.",
+  "categories": [
+    "hook"
+  ],
+  "content": "The hook that runs synchronously after all DOM mutations but before the browser has painted. It’s useful for reading layout information or making measurements before the user sees the changes, preventing visual inconsistencies.",
+  "extensions": {}
+}

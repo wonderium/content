@@ -1,0 +1,9 @@
+{
+  "title": "flushSync()",
+  "description": "The `flushSync()` API forces React to flush pending updates synchronously.",
+  "categories": [
+    "API"
+  ],
+  "content": "The function that forces React to apply updates immediately, instead of waiting for its usual batch update process. It's useful for ensuring that certain changes are reflected on the screen immediately, without any delay.",
+  "extensions": {}
+}

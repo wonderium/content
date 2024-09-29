@@ -1,0 +1,9 @@
+{
+  "title": "Class Components",
+  "description": "The class components are a type of React component defined using ES6 classes.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The way to create parts of the app using JavaScript classes. They can hold their own data (called state) and have special methods that control what happens at different times, like when they first appear or when they’re removed.",
+  "extensions": {}
+}

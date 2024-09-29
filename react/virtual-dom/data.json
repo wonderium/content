@@ -1,0 +1,9 @@
+{
+  "title": "Virtual DOM",
+  "description": "The Virtual DOM is a lightweight copy of the actual DOM used by React to optimize updates and rendering.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The lightweight representation of the actual DOM that React uses to efficiently update and render components. Changes are first applied to this representation and then reconciled with the real DOM, minimizing costly DOM manipulations.",
+  "extensions": {}
+}

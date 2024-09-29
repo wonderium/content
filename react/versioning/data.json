@@ -1,0 +1,9 @@
+{
+  "title": "Versioning",
+  "description": "The Versioning in React follows specific rules, with major releases introducing breaking changes, minor updates adding features and patch releases focusing on bug fixes.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The specific versioning rules that React follows for its library. Major releases can introduce breaking changes, while minor updates add features without breaking existing code. Patch releases focus on bug fixes. More details can be found in the official React versioning policy.",
+  "extensions": {}
+}

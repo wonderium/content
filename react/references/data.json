@@ -1,0 +1,9 @@
+{
+  "title": "References",
+  "description": "The References (refs) are a way to access DOM nodes or React elements directly.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The special objects used to access and interact with DOM elements directly. They allow components to focus, measure or perform actions on specific elements in the component tree.",
+  "extensions": {}
+}

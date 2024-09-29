@@ -1,0 +1,9 @@
+{
+  "title": "Server Actions",
+  "description": "The Server Actions are operations that are performed on the server side, often in response to client requests.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The functions that run on the server side to handle data operations or perform tasks before sending the response to the client. They are used to fetch data or execute logic on the server in server-side rendered applications.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "<Suspense>",
+  "description": "The `<Suspense>` component is used to handle loading states in components that are dynamically imported or rely on asynchronous operations.",
+  "categories": [
+    "component"
+  ],
+  "content": "The component that delays rendering part of the component tree until some condition is met, such as data loading or code splitting. It helps manage asynchronous operations and loading states.",
+  "extensions": {}
+}

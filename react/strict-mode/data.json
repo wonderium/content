@@ -1,0 +1,9 @@
+{
+  "title": "<StrictMode>",
+  "description": "The `<StrictMode>` component is a wrapper that activates additional checks and warnings for its descendants.",
+  "categories": [
+    "component"
+  ],
+  "content": "The component that helps identify potential problems in an application by activating additional checks and warnings during development. It doesn’t affect the production build but aids in finding issues early.",
+  "extensions": {}
+}

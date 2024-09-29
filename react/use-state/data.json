@@ -1,0 +1,9 @@
+{
+  "title": "useState()",
+  "description": "The `useState()` hook is used to add state variables to function components.",
+  "categories": [
+    "hook"
+  ],
+  "content": "The hook that allows a component to manage state variables. It provides a way to declare state within function components and update it, causing the component to re-render with the new state.",
+  "extensions": {}
+}

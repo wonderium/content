@@ -1,0 +1,9 @@
+{
+  "title": "'use client'",
+  "description": "The `use client` directive is used to specify that a component should be rendered on the client side.",
+  "categories": [
+    "directive"
+  ],
+  "content": "The directive used in server-side rendering contexts to specify that a component should be rendered on the client side only. It helps manage components that rely on browser-specific features.",
+  "extensions": {}
+}

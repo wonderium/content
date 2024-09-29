@@ -1,0 +1,9 @@
+{
+  "title": "useDeferredValue()",
+  "description": "The `useDeferredValue()` hook allows to defer re-rendering of a component until the browser is free.",
+  "categories": [
+    "hook"
+  ],
+  "content": "The hook that defers updating a value until the browser is idle. It helps to manage updates that don’t need to be immediate, improving performance by reducing rendering delays.",
+  "extensions": {}
+}

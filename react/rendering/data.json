@@ -1,0 +1,9 @@
+{
+  "title": "Rendering",
+  "description": "The Rendering in React is the process of converting React components into a DOM representation.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The process of generating and displaying the UI from React components. It involves transforming component structures into HTML or other outputs, then updating the view when data changes. This process can be triggered by state or props changes within components.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Dependencies",
+  "description": "The Dependencies are values or variables that a component relies on to work correctly.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The values or variables that a component relies on to function correctly. They are used in hooks like useEffect, useMemo and useCallback to determine when to re-run a function or recompute a value, based on changes to those values.",
+  "extensions": {}
+}

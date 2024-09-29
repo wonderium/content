@@ -1,0 +1,9 @@
+{
+  "title": "useMemo()",
+  "description": "The `useMemo()` hook returns a memoized value that only changes if one of the dependencies has changed.",
+  "categories": [
+    "hook"
+  ],
+  "content": "The hook that returns a memoized value, recomputing it only if one of the dependencies changes. It helps optimize performance by avoiding expensive calculations on every render if the inputs remain the same.",
+  "extensions": {}
+}
