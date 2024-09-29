@@ -107,8 +107,8 @@
 			{
 				"name": "Directives",
 				"units": [
-					"use client", 
-					"use server"
+					"use-client", 
+					"use-server"
 				]
 			}
 		]
