@@ -1,0 +1,9 @@
+{
+  "title": "renderToReadableStream()",
+  "description": "The `renderToReadableStream()` API renders React components to a readable stream, enabling streaming of server-side rendered content.",
+  "categories": [
+    "API"
+  ],
+  "content": "The function that creates a readable stream of HTML content for server-side rendering. It streams the rendered content to the client, improving loading times and interactivity.",
+  "extensions": {}
+}

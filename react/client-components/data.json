@@ -1,0 +1,9 @@
+{
+  "title": "Client Components",
+  "description": "The Client Components are React components that run entirely on the client-side.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The pieces of the app that run directly in the user's browser. They handle tasks like showing content, processing user input and updating the screen based on user actions or data changes.",
+  "extensions": {}
+}

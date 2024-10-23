@@ -1,0 +1,9 @@
+{
+  "title": "useContext()",
+  "description": "The `useContext()` hook allows to access the value of a context directly without needing to wrap components in `<Context.Consumer>`.",
+  "categories": [
+    "hook"
+  ],
+  "content": "The hook that allows a component to access the context value provided by a parent component. It simplifies the process of consuming context data without needing to pass props manually through each level of the component tree.",
+  "extensions": {}
+}

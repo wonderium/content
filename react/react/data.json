@@ -1,0 +1,9 @@
+{
+  "title": "React",
+  "description": "React is a JavaScript library for building UI.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The JavaScript library for building UI, allowing developers to create reusable components that manage their own state. It efficiently updates and renders components in response to data changes.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Hooks",
+  "description": "The Hooks are functions that enable the use of state and other React features in function components.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The special functions that enable the use of React features like state management and lifecycle events in function components. They help organize component logic in a reusable and efficient way.",
+  "extensions": {}
+}

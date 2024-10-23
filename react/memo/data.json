@@ -1,0 +1,9 @@
+{
+  "title": "memo()",
+  "description": "The `memo()` API is used to optimize functional components by memoizing them.",
+  "categories": [
+    "API"
+  ],
+  "content": "The function that optimizes performance by preventing unnecessary re-renders of a component. It only re-renders the component if its props have changed, helping to reduce rendering time and improve efficiency.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "useEffect()",
+  "description": "The `useEffect()` hook performs side effects in function components, such as data fetching or subscriptions.",
+  "categories": [
+    "hook"
+  ],
+  "content": "The hook that performs side effects in function components, such as data fetching, subscriptions or manually changing the DOM. It runs after the component renders and can be configured to run based on dependencies.",
+  "extensions": {}
+}

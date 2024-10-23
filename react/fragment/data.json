@@ -1,0 +1,9 @@
+{
+  "title": "<Fragment> / <>",
+  "description": "The `<Fragment>` component allows to group multiple elements without adding extra nodes to the DOM.",
+  "categories": [
+    "component"
+  ],
+  "content": "The component that groups multiple elements together without adding an extra wrapper element to the DOM. Useful for returning multiple elements from a component without altering the HTML structure. Also useful when a key is needed for a component during iteration with map.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Effects",
+  "description": "The Effects are operations that interact with external systems or perform side effects, such as fetching data or subscribing to events.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The any actions that React components perform after rendering, like interacting with the browser, fetching data or updating the DOM. They help manage tasks that need to happen in response to changes in the app and are typically managed using hooks like useEffect, but can also include other side-effects in the component lifecycle.",
+  "extensions": {}
+}

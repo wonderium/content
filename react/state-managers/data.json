@@ -1,0 +1,9 @@
+{
+  "title": "State Managers",
+  "description": "The State Managers are libraries or tools used to manage state in React applications.",
+  "categories": [
+    "concept"
+  ],
+  "content": "Tools or libraries that help manage an application's state, especially in complex UI. They centralize the state, making it easier to share data across different parts of the application. Popular solutions like Redux, MobX and Zustand provide mechanisms to handle state updates consistently.",
+  "extensions": {}
+}

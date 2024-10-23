@@ -1,0 +1,9 @@
+{
+  "title": "Context",
+  "description": "The Context provides a way to pass data through the component tree without having to pass props manually at every level.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The feature that allows different components in the app to share data directly, without needing to pass it through multiple levels. It’s useful for managing things like themes or user information that many parts of the app need access to.",
+  "extensions": {}
+}

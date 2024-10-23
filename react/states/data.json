@@ -1,0 +1,9 @@
+{
+  "title": "States",
+  "description": "The States are variables that are used to hold and manage data within components.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The variables that hold and manage data within a component, determining what is displayed and how the component behaves. They can be updated based on user interactions or other events and they control the rendering of components.",
+  "extensions": {}
+}

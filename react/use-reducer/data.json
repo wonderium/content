@@ -1,0 +1,9 @@
+{
+  "title": "useReducer()",
+  "description": "The `useReducer()` hook is an alternative to `useState()` for managing more complex state logic.",
+  "categories": [
+    "hook"
+  ],
+  "content": "The hook that manages state using a reducer function. It’s useful for handling complex state logic and updates in a more predictable way by dispatching actions.",
+  "extensions": {}
+}

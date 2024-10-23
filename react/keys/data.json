@@ -1,0 +1,9 @@
+{
+  "title": "Keys",
+  "description": "The Keys are unique identifiers used by React to keep track of elements in a list.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The unique identifiers assigned to elements in a list to help React manage and optimize updates. They ensure that each element can be efficiently updated, added or removed during rendering.",
+  "extensions": {}
+}

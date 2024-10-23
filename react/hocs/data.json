@@ -1,0 +1,9 @@
+{
+  "title": "HOCs",
+  "description": "The HOCs (Higher-Order Component) are advanced techniques in React for reusing component logic.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The functions that take a component and return a new component with added features or behaviors. Useful for reusing logic across multiple components without directly modifying them.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "createRoot()",
+  "description": "The `createRoot()` API is used to create a root for rendering React components in a new or existing DOM node.",
+  "categories": [
+    "API"
+  ],
+  "content": "The function that is used to start a React app in a specific part of the web page. It prepares the page to manage the React components efficiently, making sure everything updates smoothly as the app changes.",
+  "extensions": {}
+}

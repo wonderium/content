@@ -1,0 +1,9 @@
+{
+  "title": "renderToString()",
+  "description": "The `renderToString()` API renders a React component to a string of HTML.",
+  "categories": [
+    "API"
+  ],
+  "content": "The function that renders a React component to a static HTML string for server-side rendering. This method generates a complete HTML string that can be sent to the client, useful for initial page loads and SEO.",
+  "extensions": {}
+}

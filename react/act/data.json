@@ -1,0 +1,9 @@
+{
+  "title": "act()",
+  "description": "The `act()` API is used in testing to ensure that all updates related to a component are processed before assertions are made.",
+  "categories": [
+    "API"
+  ],
+  "content": "The function that helps test how the app responds to changes, such as user interactions or data updates. It ensures that all necessary updates are applied before the final result is checked, guaranteeing accurate tests.",
+  "extensions": {}
+}
