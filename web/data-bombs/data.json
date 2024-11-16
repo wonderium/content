@@ -1,0 +1,9 @@
+{
+  "title": "Data Bombs",
+  "description": "The Data Bombs are malicious files or code snippets that trigger harmful actions, such as data corruption or system failure, when executed.",
+  "categories": [
+    "cyberattack"
+  ],
+  "content": "The malicious software or files that, when executed, cause severe damage to systems, including corrupting data, disrupting operations or triggering other destructive behaviors.",
+  "extensions": {}
+}

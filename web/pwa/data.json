@@ -1,0 +1,9 @@
+{
+  "title": "PWA",
+  "description": "The PWA (Progressive Web App) is a type of web application designed to work offline and behave like a native mobile app, offering features like push notifications and home screen installation.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The web application built with modern web technologies to provide a user experience similar to native apps, with offline access, push notifications and home screen installation options.",
+  "extensions": {}
+}

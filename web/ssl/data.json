@@ -1,0 +1,9 @@
+{
+  "title": "SSL",
+  "description": "The SSL (Secure Sockets Layer) is a protocol that encrypts data sent between a browser and a server, providing secure communication over the internet.",
+  "categories": [
+    "protocol"
+  ],
+  "content": "The security protocol that encrypts data between a server and a browser, ensuring privacy and data integrity for internet communications. This protocol has been deprecated and replaced by TLS (which is more secure) due to vulnerabilities discovered over time.",
+  "extensions": {}
+}

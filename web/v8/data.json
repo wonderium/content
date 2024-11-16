@@ -1,0 +1,9 @@
+{
+  "title": "V8",
+  "description": "V8 is a high-performance JavaScript engine developed by Google, used in Chrome and Node.js.",
+  "categories": [
+    "browser engine"
+  ],
+  "content": "The high-performance JavaScript engine created by Google. Executes JavaScript code quickly and efficiently, primarily used in Chrome and Node.js environments.",
+  "extensions": {}
+}

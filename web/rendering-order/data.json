@@ -1,0 +1,9 @@
+{
+  "title": "Rendering Order",
+  "description": "The Rendering Order is the sequence in which a browser processes and displays web elements from code to screen.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The sequence in which a browser processes and displays web content. Defines the order for parsing, layout and painting to ensure accurate visual representation.",
+  "extensions": {}
+}

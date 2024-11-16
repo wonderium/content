@@ -1,0 +1,10 @@
+{
+  "title": "GraphQL",
+  "description": "The GraphQL is a query language and runtime for APIs, allowing clients to request exactly the data they need and nothing more, improving flexibility and efficiency.",
+  "categories": [
+    "technology",
+    "protocol"
+  ],
+  "content": "The query language for APIs that allows clients to specify exactly what data they need, reducing over-fetching and under-fetching of data and enabling more efficient communication between clients and servers.",
+  "extensions": {}
+}

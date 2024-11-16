@@ -1,0 +1,9 @@
+{
+  "title": "MITM",
+  "description": "The MITM (Man-in-the-Middle) attack is a security breach where an attacker intercepts and possibly alters communication between two parties without their knowledge.",
+  "categories": [
+    "cyberattack"
+  ],
+  "content": "The type of attack where an attacker secretly intercepts and manipulates communication between two parties, often to steal data or inject malicious content.",
+  "extensions": {}
+}

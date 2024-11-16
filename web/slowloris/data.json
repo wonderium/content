@@ -1,0 +1,9 @@
+{
+  "title": "Slowloris",
+  "description": "The Slowloris is a denial of service attack that keeps many connections to the target web server open and holds them open as long as possible, preventing it from handling legitimate requests.",
+  "categories": [
+    "cyberattack"
+  ],
+  "content": "The attack that keeps connections open by sending partial HTTP requests, which exhausts the server's connection pool and prevents it from processing legitimate requests.",
+  "extensions": {}
+}

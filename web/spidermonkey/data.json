@@ -1,0 +1,9 @@
+{
+  "title": "SpiderMonkey",
+  "description": "SpiderMonkey is Mozilla JavaScript engine used in Firefox for executing JavaScript code on web pages.",
+  "categories": [
+    "browser engine"
+  ],
+  "content": "The Mozilla JavaScript engine that powers JavaScript execution in the Firefox browser. Optimizes code interpretation and runtime performance on web pages.",
+  "extensions": {}
+}

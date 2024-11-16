@@ -1,0 +1,9 @@
+{
+  "title": "Web Server",
+  "description": "The Web Server is a software that handles requests from clients, serving web pages or resources over the internet by processing HTTP or HTTPS requests.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The software that listens for incoming HTTP or HTTPS requests and serves content, such as web pages, images and files, in response. It acts as the foundation for hosting websites and web applications.",
+  "extensions": {}
+}

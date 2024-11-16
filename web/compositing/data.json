@@ -1,0 +1,9 @@
+{
+  "title": "Compositing",
+  "description": "The Compositing is the process where layers of visual elements are combined to form the final image on the screen.",
+  "categories": [
+    "process"
+  ],
+  "content": "The process of combining different visual layers into a single image for display. Optimizes complex rendering tasks by layering components for efficiency.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Paint",
+  "description": "The Paint is the browser phase where visual elements are drawn onto the screen according to the layout and render tree.",
+  "categories": [
+    "process"
+  ],
+  "content": "The phase where the browser draws visual elements on the screen. Uses data from the layout phase and render tree to render pixels for visible components.",
+  "extensions": {}
+}

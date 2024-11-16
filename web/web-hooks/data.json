@@ -1,0 +1,9 @@
+{
+  "title": "Web Hooks",
+  "description": "The Web Hooks are HTTP callbacks that allow one system to send real-time data to another system by triggering an action when a specific event occurs.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The HTTP callbacks that trigger actions in another system when specific events occur, allowing for real-time data transfer between systems without continuous polling.",
+  "extensions": {}
+}

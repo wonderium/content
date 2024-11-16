@@ -6,7 +6,168 @@
 			"unitsInSchemaMarkup": []
 		},
 		"color": "#8CFF1A",
-		"topics": []
+		"topics": [
+			{
+				"name": "Basics",
+				"units": [
+					"internet",
+					"internet-provider",
+					"router",
+					"web-application",
+					"domain-name",
+					"hosting",
+					"dns",
+					"ssl",
+					"tls",
+					"seo"
+				]
+			},
+			{
+				"name": "Browsers",
+				"units": [
+					"browser",
+					"search-engine",
+					"browser-engine",
+					"v8",
+					"spidermonkey",
+					"webkit"
+				]
+			},
+			{
+				"name": "Browser Rendering",
+				"units": [
+					"parsing-in-browser",
+					"rendering-order",
+					"dom",
+					"cssom",
+					"render-tree",
+					"layout",
+					"paint",
+					"compositing",
+					"reflow",
+					"repaint"
+				]
+			},
+			{
+				"name": "Network",
+				"units": [
+					"url",
+					"network-protocol",
+					"network-device",
+					"ip-address",
+					"mac-address",
+					"proxy",
+					"vpn",
+					"cdn"
+				]
+			},
+			{
+				"name": "Communication Protocols",
+				"units": [
+					"http",
+					"https",
+					"tcp",
+					"udp",
+					"rpc",
+					"imap",
+					"pop3",
+					"smtp",
+					"xmpp",
+					"soap",
+					"ftp"
+				]
+			},
+			{
+				"name": "HTTP Basics",
+				"units": [
+					"http-header",
+					"http-method",
+					"http-response-codes"
+				]
+			},
+			{
+				"name": "HTTP Methods",
+				"units": [
+					"post",
+					"get",
+					"put",
+					"patch",
+					"delete",
+					"options",
+					"head",
+					"trace",
+					"connect"
+				]
+			},
+			{
+				"name": "HTTP Status Codes",
+				"units": [
+					"1xx",
+					"2xx",
+					"3xx",
+					"4xx",
+					"5xx"
+				]
+			},
+			{
+				"name": "Security",
+				"units": [
+					"cors",
+					"csrf",
+					"clickjacking",
+					"sql-injection",
+					"xss-stored",
+					"xss-reflected",
+					"key-logger",
+					"ddos",
+					"slowloris",
+					"data-bombs",
+					"mitm"
+				]
+			},
+			{
+				"name": "Web Application",
+				"units": [
+					"spa",
+					"mpa",
+					"pwa",
+					"ssr",
+					"csr",
+					"ssg",
+					"isr",
+					"manifest-json"
+				]
+			},
+			{
+				"name": "Web Server",
+				"units": [
+					"web-server",
+					"apache",
+					"nginx"
+				]
+			},
+			{
+				"name": "Search Engine Optimization",
+				"units": [
+					"crawler",
+					"robots-txt",
+					"sitemap-xml",
+					"schema-markup",
+					"opengraph"
+				]
+			},
+			{
+				"name": "Transfer Data",
+				"units": [
+					"rest",
+					"graphql",
+					"websocket",
+					"event-sourcing",
+					"long-polling",
+					"web-hooks"
+				]
+			}
+		]
 	}
 }
 

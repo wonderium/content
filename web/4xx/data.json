@@ -1,0 +1,9 @@
+{
+  "title": "4xx",
+  "description": "The 4xx HTTP status codes indicate that there was an error on the client's side, such as a bad request or unauthorized access.",
+  "categories": [
+    "response code"
+  ],
+  "content": "The group of HTTP status codes that indicate problems with the client's request. Common examples include 400 for Bad Request, 401 for Unauthorized and 404 for Not Found.",
+  "extensions": {}
+}

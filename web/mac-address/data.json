@@ -1,0 +1,9 @@
+{
+  "title": "MAC Address",
+  "description": "The MAC Address is a unique hardware identifier assigned to a network interface card (NIC) for communication on a local network.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The unique identifier assigned to a network interface card (NIC). It's used for communication within local networks and helps to distinguish devices from each other.",
+  "extensions": {}
+}

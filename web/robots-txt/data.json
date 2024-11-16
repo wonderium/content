@@ -1,0 +1,9 @@
+{
+  "title": "robots.txt",
+  "description": "The `robots.txt` is a text file placed on a website to instruct web crawlers which pages they are allowed or disallowed to crawl and index.",
+  "categories": [
+    "file"
+  ],
+  "content": "The text file used by websites to communicate with web crawlers. It specifies which pages or sections of the site should or should not be crawled or indexed by search engines.",
+  "extensions": {}
+}

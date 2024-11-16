@@ -1,0 +1,9 @@
+{
+  "title": "IMAP",
+  "description": "The IMAP (Internet Message Access Protocol) is a protocol used to retrieve and manage email messages stored on a mail server.",
+  "categories": [
+    "protocol"
+  ],
+  "content": "The protocol for accessing and managing emails stored on a mail server. Allows users to view and organize emails from multiple devices without downloading them.",
+  "extensions": {}
+}

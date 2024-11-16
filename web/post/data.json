@@ -1,0 +1,9 @@
+{
+  "title": "POST",
+  "description": "The `POST` method is used to send data to a server to create or update a resource.",
+  "categories": [
+    "request method"
+  ],
+  "content": "The request method used to send data to a server. Commonly used to create or update resources on the server, such as submitting a form or uploading a file.",
+  "extensions": {}
+}

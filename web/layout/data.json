@@ -1,0 +1,9 @@
+{
+  "title": "Layout",
+  "description": "The Layout is the browser process that determines the exact position and size of elements on a web page.",
+  "categories": [
+    "process"
+  ],
+  "content": "The browser process that calculates the position and dimensions of each element on a web page. Ensures elements are arranged according to the design specified by HTML and CSS.",
+  "extensions": {}
+}

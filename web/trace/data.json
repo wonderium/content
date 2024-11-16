@@ -1,0 +1,9 @@
+{
+  "title": "TRACE",
+  "description": "The `TRACE` method is used to echo the received request to help with diagnostic or debugging purposes.",
+  "categories": [
+    "request method"
+  ],
+  "content": "The request method used to trace the path a request takes from client to server. Returns the exact request received by the server, helpful for debugging.",
+  "extensions": {}
+}

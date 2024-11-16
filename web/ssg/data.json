@@ -1,0 +1,9 @@
+{
+  "title": "SSG",
+  "description": "The SSG (Static Site Generation) is a method where web pages are pre-built into static HTML files at build time, providing fast page load speeds and improved SEO.",
+  "categories": [
+    "technique"
+  ],
+  "content": "The web development technique where content is generated as static HTML files during the build process, which are served directly to users for fast performance and better SEO.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "CONNECT",
+  "description": "The `CONNECT` method is used to establish a tunnel to a remote server, often used for HTTPS connections through a proxy.",
+  "categories": [
+    "request method"
+  ],
+  "content": "The request method used to create a tunnel for secure communication, commonly used with proxies to establish a secure HTTPS connection through them.",
+  "extensions": {}
+}

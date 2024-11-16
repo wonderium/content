@@ -1,0 +1,9 @@
+{
+  "title": "Hosting",
+  "description": "The Hosting is a service that provides the storage and resources needed to make a website accessible on the internet.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The service that provides storage and resources for making a website available online. Enables applications to be stored on servers and accessed by users on the internet.",
+  "extensions": {}
+}

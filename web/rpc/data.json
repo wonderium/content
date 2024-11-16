@@ -1,0 +1,9 @@
+{
+  "title": "RPC",
+  "description": "The RPC (Remote Procedure Call) is a protocol that allows a program to request a service from a program located on another device in a network.",
+  "categories": [
+    "protocol"
+  ],
+  "content": "The protocol that enables programs to call functions on remote computers as if they were local. Facilitates communication between different systems over a network.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "SQL Injection",
+  "description": "The SQL Injection is a code injection technique where an attacker inserts malicious SQL queries into input fields, allowing unauthorized access to a database.",
+  "categories": [
+    "cyberattack"
+  ],
+  "content": "The attack that involves injecting malicious SQL code into a website's input fields. This can lead to unauthorized access to and manipulation of, the database.",
+  "extensions": {}
+}

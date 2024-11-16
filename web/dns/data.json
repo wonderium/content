@@ -1,0 +1,9 @@
+{
+  "title": "DNS",
+  "description": "The DNS (Domain Name System) enables the translation of domain names into IP addresses to facilitate internet browsing.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The system that converts human-readable domain names into IP addresses, allowing browsers to load internet resources. Essential for navigating websites without needing direct IP access.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Browser",
+  "description": "The Browser is a software application for accessing and displaying web pages and online content on the internet.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The software application used to access, retrieve and display content from the internet. Interprets HTML, CSS and JavaScript to render websites for user interaction.",
+  "extensions": {}
+}

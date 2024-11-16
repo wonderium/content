@@ -1,0 +1,9 @@
+{
+  "title": "DDoS",
+  "description": "The DDoS (Distributed Denial of Service) is an attack where multiple systems flood a server or network with traffic to overload and disrupt its services.",
+  "categories": [
+    "cyberattack"
+  ],
+  "content": "The attack where multiple systems generate massive amounts of traffic to overwhelm and disrupt the targeted server or network, making it unavailable to legitimate users.",
+  "extensions": {}
+}

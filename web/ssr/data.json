@@ -1,0 +1,9 @@
+{
+  "title": "SSR",
+  "description": "The SSR (Server-Side Rendering) is a method where the HTML of a webpage is generated on the server rather than in the browser, improving page load time and SEO performance.",
+  "categories": [
+    "technique"
+  ],
+  "content": "The web development technique where the content of a webpage is rendered on the server and sent to the browser as a fully constructed HTML page, improving load speed and search engine optimization.",
+  "extensions": {}
+}

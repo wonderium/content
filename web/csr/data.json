@@ -1,0 +1,9 @@
+{
+  "title": "CSR",
+  "description": "The CSR (Client-Side Rendering) is a method where the browser handles rendering the content of a webpage using JavaScript, after receiving a bare-bones HTML file from the server.",
+  "categories": [
+    "technique"
+  ],
+  "content": "The web development technique where the browser executes JavaScript to build and render content dynamically, resulting in a fast, interactive experience once the page is loaded. It allows seamless updates without full page reloads, though the first load may be slower due to the need to download and execute JavaScript.",
+  "extensions": {}
+}

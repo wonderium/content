@@ -1,0 +1,9 @@
+{
+  "title": "HTTP Header",
+  "description": "The HTTP Header is a part of an HTTP request or response that contains metadata about the message being sent or received.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The metadata sent with HTTP requests and responses. It includes information like content type, authorization details and caching policies, influencing how the server or client processes the data.",
+  "extensions": {}
+}

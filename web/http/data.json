@@ -1,0 +1,9 @@
+{
+  "title": "HTTP",
+  "description": "The HTTP (Hypertext Transfer Protocol) is a protocol used for transferring web pages and other resources over the internet.",
+  "categories": [
+    "protocol"
+  ],
+  "content": "The protocol used to transfer data between a client (usually a browser) and a server. It's the foundation of data communication for the World Wide Web.",
+  "extensions": {}
+}

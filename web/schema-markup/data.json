@@ -1,0 +1,9 @@
+{
+  "title": "Schema Markup",
+  "description": "The Schema Markup is a type of structured data that helps search engines understand the context of the content on a webpage, improving search visibility and rich results.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The form of structured data added to web pages to provide search engines with detailed information about the content. It helps enhance search results with rich snippets.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "OPTIONS",
+  "description": "The `OPTIONS` method is used to request information about the communication options available for a resource.",
+  "categories": [
+    "request method"
+  ],
+  "content": "The request method used to retrieve the allowed communication methods for a resource. Commonly used to check supported methods like `GET` or `POST`.",
+  "extensions": {}
+}

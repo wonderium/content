@@ -1,0 +1,9 @@
+{
+  "title": "1xx",
+  "description": "The 1xx HTTP status codes are informational responses indicating that the request has been received and is being processed.",
+  "categories": [
+    "response code"
+  ],
+  "content": "The group of HTTP status codes used to indicate that the server has received the request and is in the process of handling it. These codes are often used for provisional responses.",
+  "extensions": {}
+}

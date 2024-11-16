@@ -1,0 +1,9 @@
+{
+  "title": "SPA",
+  "description": "The SPA (Single-Page Application) is a web application or website that interacts with the user by dynamically rewriting the current page, rather than loading new pages from the server.",
+  "categories": [
+    "architecture"
+  ],
+  "content": "The web application that loads a single HTML page and updates the content dynamically as the user interacts with the app, providing a more seamless user experience.",
+  "extensions": {}
+}

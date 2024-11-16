@@ -1,0 +1,9 @@
+{
+  "title": "HEAD",
+  "description": "The `HEAD` method is similar to `GET`, but it only requests the headers of a resource, without the body.",
+  "categories": [
+    "request method"
+  ],
+  "content": "The request method used to retrieve the headers of a resource, similar to `GET`, but without receiving the actual content. Useful for checking metadata.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Repaint",
+  "description": "The Repaint is a browser process that updates the appearance of elements without changing their layout positions.",
+  "categories": [
+    "process"
+  ],
+  "content": "The browser process that redraws elements when their appearance changes but not their layout. Less intensive than reflow as it doesn't alter element positioning.",
+  "extensions": {}
+}

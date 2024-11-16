@@ -1,0 +1,9 @@
+{
+  "title": "MPA",
+  "description": "The MPA (Multi-Page Application) is a web application or website that loads multiple pages from the server and reloads the page every time the user navigates to a different page.",
+  "categories": [
+    "architecture"
+  ],
+  "content": "The web application consisting of multiple pages where each navigation request loads a new page from the server, causing the entire page to reload with every user interaction.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "XMPP",
+  "description": "The XMPP (Extensible Messaging and Presence Protocol) is a protocol used for real-time communication, including instant messaging and presence information.",
+  "categories": [
+    "protocol"
+  ],
+  "content": "The communication protocol designed for real-time messaging and presence information. Enables chat services, instant messaging and voice/video communication.",
+  "extensions": {}
+}

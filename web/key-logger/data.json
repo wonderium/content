@@ -1,0 +1,9 @@
+{
+  "title": "Key Logger",
+  "description": "The Key Logger is a type of malicious software that records keystrokes made by the user, potentially stealing sensitive information like passwords and credit card numbers.",
+  "categories": [
+    "cyberattack"
+  ],
+  "content": "The malicious software that tracks and records the keystrokes of a user. It can capture sensitive information, such as passwords or personal data, without the user's knowledge.",
+  "extensions": {}
+}

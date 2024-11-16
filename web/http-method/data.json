@@ -1,0 +1,9 @@
+{
+  "title": "HTTP Method",
+  "description": "The HTTP Method is a request action used in HTTP to define the operation a client wants to perform on a resource.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The action type specified in an HTTP request to define the operation on the resource. Common methods include `GET`, `POST`, `PUT` and `DELETE` for interacting with web resources.",
+  "extensions": {}
+}

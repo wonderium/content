@@ -1,0 +1,9 @@
+{
+  "title": "Network Protocol",
+  "description": "The Network Protocol is a set of rules that define how data is transmitted and received over a network.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The system of rules that govern the exchange of data between devices on a network. Ensures proper communication between devices by following predefined standards.",
+  "extensions": {}
+}

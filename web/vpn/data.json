@@ -1,0 +1,9 @@
+{
+  "title": "VPN",
+  "description": "The VPN (Virtual Private Network) is a service that creates a secure, encrypted connection over the internet to protect users' data and privacy.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The service that establishes a secure and encrypted connection over the internet. Protects users' data privacy and secures communication between devices.",
+  "extensions": {}
+}
