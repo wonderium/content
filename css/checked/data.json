@@ -4,7 +4,7 @@
   "categories": [
     "pseudo-class"
   ],
-  "content": "The pseudo-class that applies styles to elements like checkboxes or radio buttons when they are selected. It’s used to create visual feedback, such as highlighting or changing the appearance of checked form controls.",
+  "content": "The pseudo-class that applies styles to elements like checkboxes or radio buttons when they are selected. It's used to create visual feedback, such as highlighting or changing the appearance of checked form controls.",
   "extensions": {
     "compatibility": {
       "browsers": {

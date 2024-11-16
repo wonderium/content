@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The browser API property that returns the user's preferred language as a string, usually represented in BCP 47 language tag format, such as 'en-US'. It’s useful for localizing content based on the user's language preferences.",
+  "content": "The browser API property that returns the user's preferred language as a string, usually represented in BCP 47 language tag format, such as 'en-US'. It's useful for localizing content based on the user's language preferences.",
   "extensions": {
     "compatibility": {
       "browsers": {

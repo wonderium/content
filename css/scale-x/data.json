@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The function that scales an element horizontally by a specified factor along the X-axis. This transformation stretches or compresses the element’s width while keeping its height unchanged, allowing for specific adjustments to the horizontal dimension.",
+  "content": "The function that scales an element horizontally by a specified factor along the X-axis. This transformation stretches or compresses the element's width while keeping its height unchanged, allowing for specific adjustments to the horizontal dimension.",
   "extensions": {
     "compatibility": {
       "browsers": {

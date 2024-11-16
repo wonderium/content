@@ -1,6 +1,6 @@
 {
   "title": "<Fragment> / <>",
-  "description": "The `<Fragment>` component allows to group multiple elements without adding extra nodes to the DOM.",
+  "description": "The `<Fragment>` component allows grouping multiple elements without adding extra nodes to the DOM.",
   "categories": [
     "component"
   ],

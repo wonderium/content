@@ -4,7 +4,7 @@
   "categories": [
     "syntax"
   ],
-  "content": "The way to define colors using a '#' symbol followed by six hexadecimal digits that represent the red, green and blue (RGB) of the color. It’s a common and precise method for setting colors, often used in web.",
+  "content": "The way to define colors using a '#' symbol followed by six hexadecimal digits that represent the red, green and blue (RGB) of the color. It's a common and precise method for setting colors, often used in web.",
   "extensions": {
     "compatibility": {
       "browsers": {

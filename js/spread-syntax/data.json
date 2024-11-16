@@ -5,7 +5,7 @@
     "syntax",
     "operator"
   ],
-  "content": "The operator, denoted by three dots (`...`), that is used to expand or spread elements from an array or object into individual elements. It’s often used for copying arrays or objects, combining them or passing multiple arguments to functions.",
+  "content": "The operator, denoted by three dots (`...`), that is used to expand or spread elements from an array or object into individual elements. It's often used for copying arrays or objects, combining them or passing multiple arguments to functions.",
   "extensions": {
     "compatibility": {
       "browsers": {

@@ -4,7 +4,7 @@
   "categories": [
     "pseudo-class"
   ],
-  "content": "The pseudo-class that allows to select an element based on its children or descendants. It acts like a parent selector, allowing styles to be applied to an element if it contains another element that matches the criteria within `:has()`.",
+  "content": "The pseudo-class that allows selecting an element based on its children or descendants. It acts like a parent selector, allowing styles to be applied to an element if it contains another element that matches the criteria within `:has()`.",
   "extensions": {
     "compatibility": {
       "browsers": {

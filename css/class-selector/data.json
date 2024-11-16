@@ -4,7 +4,7 @@
   "categories": [
     "selector"
   ],
-  "content": "The selector that targets elements based on their `class` attribute. It’s one of the most common selectors and is written with a '.' symbol, followed by the class name, allowing to apply styles to multiple elements with the same name.",
+  "content": "The selector that targets elements based on their `class` attribute. It's one of the most common selectors and is written with a '.' symbol, followed by the class name, enabling to apply styles to multiple elements with the same name.",
   "extensions": {
     "compatibility": {
       "browsers": {

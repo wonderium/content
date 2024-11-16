@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static browser API method that logs a message to the console only if a specified condition is `false`. It’s useful for testing assumptions in the code.",
+  "content": "The static browser API method that logs a message to the console only if a specified condition is `false`. It's useful for testing assumptions in the code.",
   "extensions": {
     "compatibility": {
       "browsers": {

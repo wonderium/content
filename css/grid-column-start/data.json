@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that defines the starting point for a grid item within the columns of a grid layout. It marks where the item begins on the grid, allowing to place it at a specific column line or span multiple columns.",
+  "content": "The property that defines the starting point for a grid item within the columns of a grid layout. It marks where the item begins on the grid, enabling to place it at a specific column line or span multiple columns.",
   "extensions": {
     "compatibility": {
       "browsers": {

@@ -5,7 +5,7 @@
     "syntax",
     "statement"
   ],
-  "content": "The statement used for handling exceptions. The `try` block contains code that may throw an error. The `catch` block executes if an error occurs, allowing to handle the error. The `finally` block contains code that runs after the `try` and `catch` blocks, regardless of whether an error was thrown or not.",
+  "content": "The statement used for handling exceptions. The `try` block contains code that may throw an error. The `catch` block executes if an error occurs, enabling to handle the error. The `finally` block contains code that runs after the `try` and `catch` blocks, regardless of whether an error was thrown or not.",
   "extensions": {
     "compatibility": {
       "browsers": {

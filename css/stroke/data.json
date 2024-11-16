@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property used in SVG to define the color, width and other characteristics of the outline or border of a shape, text or path. It’s essential for controlling the appearance of lines and edges in vector graphics, allowing to adjust the thickness and style of strokes.",
+  "content": "The property used in SVG to define the color, width and other characteristics of the outline or border of a shape, text or path. It's essential for controlling the appearance of lines and edges in vector graphics, enabling to adjust the thickness and style of strokes.",
   "extensions": {
     "compatibility": {
       "browsers": {

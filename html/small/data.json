@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that represents side comments or fine print, often displaying text in a smaller font size. It’s used to provide additional context or disclaimers without drawing too much attention.",
+  "content": "The element that represents side comments or fine print, often displaying text in a smaller font size. It's used to provide additional context or disclaimers without drawing too much attention.",
   "extensions": {
     "compatibility": {
       "browsers": {

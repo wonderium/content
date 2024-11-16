@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that specifies the time to wait before starting a transition effect. It’s useful for creating delays before animations or transitions begin, enhancing the timing and coordination of visual changes.",
+  "content": "The property that specifies the time to wait before starting a transition effect. It's useful for creating delays before animations or transitions begin, enhancing the timing and coordination of visual changes.",
   "extensions": {
     "compatibility": {
       "browsers": {

@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The math function used with the `calc()` function to raise a number to a specified power. It’s useful for performing complex calculations within stylesheets.",
+  "content": "The math function used with the `calc()` function to raise a number to a specified power. It's useful for performing complex calculations within stylesheets.",
   "extensions": {
     "compatibility": {
       "browsers": {

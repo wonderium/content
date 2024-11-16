@@ -4,7 +4,7 @@
   "categories": [
     "pseudo-element"
   ],
-  "content": "The pseudo-element that targets the marker box of list items, such as bullets or numbers. It allows to style these markers separately from the list item’s content, including changing their size, color or font.",
+  "content": "The pseudo-element that targets the marker box of list items, such as bullets or numbers. It allows styling these markers separately from the list item's content, including changing their size, color or font.",
   "extensions": {
     "compatibility": {
       "browsers": {

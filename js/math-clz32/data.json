@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static method that returns the number of leading zero bits in the 32-bit binary representation of a given number. It’s useful for binary manipulation and bitwise operations.",
+  "content": "The static method that returns the number of leading zero bits in the 32-bit binary representation of a given number. It's useful for binary manipulation and bitwise operations.",
   "extensions": {
     "compatibility": {
       "browsers": {

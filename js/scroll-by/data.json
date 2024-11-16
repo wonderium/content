@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The browser API method that scrolls the document or an element by a specified amount in pixels relative to its current scroll position. It’s useful for smoothly moving content up, down, left or right.",
+  "content": "The browser API method that scrolls the document or an element by a specified amount in pixels relative to its current scroll position. It's useful for smoothly moving content up, down, left or right.",
   "extensions": {
     "compatibility": {
       "browsers": {

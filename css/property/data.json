@@ -4,7 +4,7 @@
   "categories": [
     "directive"
   ],
-  "content": "The directive that allows to define custom properties (variables) with specific rules, such as setting the initial value, syntax and inheritance behavior. It provides more control over custom properties, ensuring they behave consistently and predictably.",
+  "content": "The directive that allows defining custom properties (variables) with specific rules, such as setting the initial value, syntax and inheritance behavior. It provides more control over custom properties, ensuring they behave consistently and predictably.",
   "extensions": {
     "compatibility": {
       "browsers": {

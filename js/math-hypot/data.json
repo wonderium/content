@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static method that returns the square root of the sum of squares of its arguments. It’s useful for calculating the Euclidean distance, for example, `Math.hypot(3, 4)` returns 5, which is the length of the hypotenuse in a right triangle.",
+  "content": "The static method that returns the square root of the sum of squares of its arguments. It's useful for calculating the Euclidean distance, for example, `Math.hypot(3, 4)` returns 5, which is the length of the hypotenuse in a right triangle.",
   "extensions": {
     "compatibility": {
       "browsers": {

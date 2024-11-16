@@ -4,7 +4,7 @@
   "categories": [
     "directive"
   ],
-  "content": "The directive used to apply styles based on the size of an element’s container, not the viewport. It helps create responsive designs that adapt to different container sizes, providing more flexibility in layout adjustments.",
+  "content": "The directive used to apply styles based on the size of an element's container, not the viewport. It helps create responsive designs that adapt to different container sizes, providing more flexibility in layout adjustments.",
   "extensions": {
     "compatibility": {
       "browsers": {

@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that defines the quotation marks used in text when the `<q>` element is used. It allows to specify the opening and closing quotation marks for different languages or styles, ensuring the correct symbols are displayed when quoting text.",
+  "content": "The property that defines the quotation marks used in text when the `<q>` element is used. It allows specifying the opening and closing quotation marks for different languages or styles, ensuring the correct symbols are displayed when quoting text.",
   "extensions": {
     "compatibility": {
       "browsers": {

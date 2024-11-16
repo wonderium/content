@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static method that returns a string created from one or more UTF-16 code units. It’s useful for converting numeric codes into their corresponding characters.",
+  "content": "The static method that returns a string created from one or more UTF-16 code units. It's useful for converting numeric codes into their corresponding characters.",
   "extensions": {
     "compatibility": {
       "browsers": {

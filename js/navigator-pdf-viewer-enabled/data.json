@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The browser API property that returns `true` if the browser has a built-in PDF viewer enabled, allowing the user to view PDF files directly in the browser.",
+  "content": "The browser API property that returns `true` if the browser has a built-in PDF viewer enabled, allowing the user to view `.pdf` files directly in the browser.",
   "extensions": {
     "compatibility": {
       "browsers": {

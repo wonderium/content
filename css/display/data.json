@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that determines how an element is displayed in the document. Options include 'block', 'inline', 'flex', 'grid' and 'none', which control the element’s layout behavior, visibility and interaction with other elements.",
+  "content": "The property that determines how an element is displayed in the document. Options include 'block', 'inline', 'flex', 'grid' and 'none', which control the element's layout behavior, visibility and interaction with other elements.",
   "extensions": {
     "compatibility": {
       "browsers": {

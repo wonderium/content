@@ -1,6 +1,6 @@
 {
   "title": "startTransition()",
-  "description": "The `startTransition()` API allows to mark updates as non-urgent, helping to manage concurrent rendering.",
+  "description": "The `startTransition()` API allows marking updates as non-urgent, helping to manage concurrent rendering.",
   "categories": [
     "API"
   ],

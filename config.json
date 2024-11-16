@@ -19,7 +19,7 @@
             {
                 "id": "s-4",
                 "name": "Landscape",
-                "levels": ["web", "engineering", "algorithms", "work"]
+                "levels": ["web", "engineering", "algorithms", "processes"]
             }
         ],
         "levelsInSchemaMarkup": ["html", "css", "js", "a11y"]

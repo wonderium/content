@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The function that creates a gradient by blending colors along a straight line. It’s commonly used for backgrounds, where the direction and color stops can be defined to create smooth transitions between colors, adding depth and dimension to the designs.",
+  "content": "The function that creates a gradient by blending colors along a straight line. It's commonly used for backgrounds, where the direction and color stops can be defined to create smooth transitions between colors, adding depth and dimension to the designs.",
   "extensions": {
     "compatibility": {
       "browsers": {

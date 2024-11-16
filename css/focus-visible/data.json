@@ -1,6 +1,6 @@
 {
   "title": ":focus-visible",
-  "description": "The `:focus-visible` CSS pseudo-class applies when an element receives focus and it’s done in a way that is evident to the user.",
+  "description": "The `:focus-visible` CSS pseudo-class applies when an element receives focus and it's done in a way that is evident to the user.",
   "categories": [
     "pseudo-class"
   ],

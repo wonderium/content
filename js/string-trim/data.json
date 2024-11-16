@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The method that removes whitespace from the beginning and end of a string. It’s useful for cleaning up user input or text data.",
+  "content": "The method that removes whitespace from the beginning and end of a string. It's useful for cleaning up user input or text data.",
   "extensions": {
     "compatibility": {
       "browsers": {

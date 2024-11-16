@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The method that merges two or more arrays or values into a new array, leaving the original arrays unchanged. It’s commonly used to combine lists of data.",
+  "content": "The method that merges two or more arrays or values into a new array, leaving the original arrays unchanged. It's commonly used to combine lists of data.",
   "extensions": {
     "compatibility": {
       "browsers": {

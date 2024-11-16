@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that is used within a `<table>` to define the properties of a single column. It’s placed inside a `<colgroup>` element and can specify attributes like `width`, `alignment` or styling that apply to all cells in that column.",
+  "content": "The element that is used within a `<table>` to define the properties of a single column. It's placed inside a `<colgroup>` element and can specify attributes like `width`, `alignment` or styling that apply to all cells in that column.",
   "extensions": {
     "compatibility": {
       "browsers": {

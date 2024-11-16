@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static method that creates a new array from an asynchronous `Iterable` or a promise-like object. It allows to work with asynchronous data sources and convert them into arrays.",
+  "content": "The static method that creates a new array from an asynchronous `Iterable` or a promise-like object. It allows working with asynchronous data sources and convert them into arrays.",
   "extensions": {
     "compatibility": {
       "browsers": {

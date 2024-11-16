@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The method that returns a new array with the elements sorted according to the provided comparison function, without changing the original array. Unlike `.sort()`, this method doesn’t modify the original array.",
+  "content": "The method that returns a new array with the elements sorted according to the provided comparison function, without changing the original array. Unlike `.sort()`, this method doesn't modify the original array.",
   "extensions": {
     "compatibility": {
       "browsers": {

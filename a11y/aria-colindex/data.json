@@ -4,6 +4,6 @@
   "categories": [
     "attribute"
   ],
-  "content": "The attribute that specifies the position of a cell or column within a table or grid, relative to the number of columns. It helps identify the cell’s location in the column structure.",
+  "content": "The attribute that specifies the position of a cell or column within a table or grid, relative to the number of columns. It helps identify the cell's location in the column structure.",
   "extensions": {}
 }

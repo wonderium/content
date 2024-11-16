@@ -4,6 +4,6 @@
   "categories": [
     "API"
   ],
-  "content": "The function that attaches React components to existing server-rendered HTML, making the page interactive by connecting React’s logic to the pre-rendered content. This improves performance during the first page load.",
+  "content": "The function that attaches React components to existing server-rendered HTML, making the page interactive by connecting React's logic to the pre-rendered content. This improves performance during the first page load.",
   "extensions": {}
 }

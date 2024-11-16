@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static browser API method that starts a timer with a specified label, allowing to measure how long an operation takes. It’s often used for performance testing.",
+  "content": "The static browser API method that starts a timer with a specified label, enabling to measure how long an operation takes. It's often used for performance testing.",
   "extensions": {
     "compatibility": {
       "browsers": {

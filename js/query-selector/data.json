@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The browser API method that returns the first element within the document that matches a specified CSS selector. It’s useful for selecting elements from the DOM based on their CSS selectors.",
+  "content": "The browser API method that returns the first element within the document that matches a specified CSS selector. It's useful for selecting elements from the DOM based on their CSS selectors.",
   "extensions": {
     "compatibility": {
       "browsers": {

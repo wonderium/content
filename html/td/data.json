@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that represents a cell in a table that contains data. It’s used within `<tr>` to display content like text, images or other elements in a tabular format.",
+  "content": "The element that represents a cell in a table that contains data. It's used within `<tr>` to display content like text, images or other elements in a tabular format.",
   "extensions": {
     "compatibility": {
       "browsers": {

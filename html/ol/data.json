@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that creates an ordered list of items, where each item is preceded by a number or letter. It’s used when the sequence or ranking of list items is important.",
+  "content": "The element that creates an ordered list of items, where each item is preceded by a number or letter. It's used when the sequence or ranking of list items is important.",
   "extensions": {
     "compatibility": {
       "browsers": {

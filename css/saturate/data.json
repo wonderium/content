@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The function used as a value for the `filter` property to adjust the saturation of an element’s colors. Increasing saturation makes colors more vivid, while decreasing it can make them appear more muted or grayscale, allowing to modify the intensity of colors directly within the styles",
+  "content": "The function used as a value for the `filter` property to adjust the saturation of an element's colors. Increasing saturation makes colors more vivid, while decreasing it can make them appear more muted or grayscale, enabling to modify the intensity of colors directly within the styles",
   "extensions": {
     "compatibility": {
       "browsers": {

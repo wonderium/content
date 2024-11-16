@@ -4,6 +4,6 @@
   "categories": [
     "data type"
   ],
-  "content": "The primitive data type that represents both integer and floating-point numbers. JavaScript doesn’t have separate types for integers and floating-point numbers.",
+  "content": "The primitive data type that represents both integer and floating-point numbers. JavaScript doesn't have separate types for integers and floating-point numbers.",
   "extensions": {}
 }

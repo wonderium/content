@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The math function used with the `calc()` function to calculate the modulus (remainder) of a division operation. It’s useful for creating repeating patterns or layouts that need to adjust based on the modulus of certain values.",
+  "content": "The math function used with the `calc()` function to calculate the modulus (remainder) of a division operation. It's useful for creating repeating patterns or layouts that need to adjust based on the modulus of certain values.",
   "extensions": {
     "compatibility": {
       "browsers": {

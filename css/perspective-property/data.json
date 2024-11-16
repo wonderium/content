@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that defines the distance between the viewer and the z=0 plane, affecting the depth of 3D transformed elements. It doesn’t overwrite the `transform` property, as it adjusts the perspective without altering other transform functions. This property helps create realistic 3D effects by controlling the depth of elements.",
+  "content": "The property that defines the distance between the viewer and the z=0 plane, affecting the depth of 3D transformed elements. It doesn't overwrite the `transform` property, as it adjusts the perspective without altering other transform functions. This property helps create realistic 3D effects by controlling the depth of elements.",
   "extensions": {
     "compatibility": {
       "browsers": {

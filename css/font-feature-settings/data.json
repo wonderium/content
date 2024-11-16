@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that provides low-level control over OpenType font features, such as ligatures, small caps or stylistic alternates. It allows to fine-tune how text is displayed by enabling or disabling specific font features, often enhancing typographic quality.",
+  "content": "The property that provides low-level control over OpenType font features, such as ligatures, small caps or stylistic alternates. It allows fine-tuning how text is displayed by enabling or disabling specific font features, which often enhances typographic quality.",
   "extensions": {
     "compatibility": {
       "browsers": {

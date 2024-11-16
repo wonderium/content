@@ -1,10 +1,10 @@
 {
   "title": "Object.isFrozen()",
-  "description": "The `Object.isFrozen()` static JS method determines if an object is frozen, meaning whether it’s immutable.",
+  "description": "The `Object.isFrozen()` static JS method determines if an object is frozen, meaning whether it's immutable.",
   "categories": [
     "method"
   ],
-  "content": "The static method that determines if an object is frozen, meaning whether it’s immutable. A frozen object cannot have new properties added to it and existing properties cannot be removed or changed.",
+  "content": "The static method that determines if an object is frozen, meaning whether it's immutable. A frozen object cannot have new properties added to it and existing properties cannot be removed or changed.",
   "extensions": {
     "compatibility": {
       "browsers": {

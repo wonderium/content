@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The shorthand property that specifies the starting and ending points of a grid item across the columns in a grid layout. It combines `grid-column-start` and `grid-column-end` properties into one declaration, allowing to control how many columns an item spans.",
+  "content": "The shorthand property that specifies the starting and ending points of a grid item across the columns in a grid layout. It combines `grid-column-start` and `grid-column-end` properties into one declaration, enabling to control how many columns an item spans.",
   "extensions": {
     "compatibility": {
       "browsers": {

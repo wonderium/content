@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that controls whether the browser can simulate bold or italic styles if they aren’t available in the specified font. It can prevent the browser from artificially synthesizing these styles, ensuring text appears only as intended by the font design.",
+  "content": "The property that controls whether the browser can simulate bold or italic styles if they aren't available in the specified font. It can prevent the browser from artificially synthesizing these styles, ensuring text appears only as intended by the font design.",
   "extensions": {
     "compatibility": {
       "browsers": {

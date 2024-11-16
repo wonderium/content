@@ -4,7 +4,7 @@
   "categories": [
     "object"
   ],
-  "content": "The object that represents an error when there is a problem with encoding or decoding a URI. This can occur with functions that handle URIs or URI components, such as `decodeURI()`, `encodeURI()`, `decodeURIComponent()` or `encodeURIComponent()`, when provided with invalid input. It’s used to manage issues related to improper URI handling.",
+  "content": "The object that represents an error when there is a problem with encoding or decoding a URI. This can occur with functions that handle URIs or URI components, such as `decodeURI()`, `encodeURI()`, `decodeURIComponent()` or `encodeURIComponent()`, when provided with invalid input. It's used to manage issues related to improper URI handling.",
   "extensions": {
     "compatibility": {
       "browsers": {

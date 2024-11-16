@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that displays preformatted text, preserving spaces, line breaks and indentation as written in the HTML. It’s often used to display code snippets or text that requires a specific format.",
+  "content": "The element that displays preformatted text, preserving spaces, line breaks and indentation as written in the HTML. It's often used to display code snippets or text that requires a specific format.",
   "extensions": {
     "compatibility": {
       "browsers": {

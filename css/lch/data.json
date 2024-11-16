@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The color function that defines colors using the LCH (Lightness, Chroma, Hue) color space. It’s a perceptually uniform color model, meaning that changes in the LCH values produce consistent changes in color perception, making it ideal for accessible and consistent color design.",
+  "content": "The color function that defines colors using the LCH (Lightness, Chroma, Hue) color space. It's a perceptually uniform color model, meaning that changes in the LCH values produce consistent changes in color perception, making it ideal for accessible and consistent color design.",
   "extensions": {
     "compatibility": {
       "browsers": {

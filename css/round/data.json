@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The math function used with the `calc()` function to round a number to the nearest whole number. It’s useful for ensuring that calculated values, such as lengths or sizes, are rounded to the nearest integer, which can help avoid fractional pixel values that might cause rendering issues.",
+  "content": "The math function used with the `calc()` function to round a number to the nearest whole number. It's useful for ensuring that calculated values, such as lengths or sizes, are rounded to the nearest integer, which can help avoid fractional pixel values that might cause rendering issues.",
   "extensions": {
     "compatibility": {
       "browsers": {

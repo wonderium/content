@@ -4,7 +4,7 @@
   "categories": [
     "object"
   ],
-  "content": "The object that provides localized names for languages, regions and other data types. It’s useful for displaying human-readable names based on the user's locale.",
+  "content": "The object that provides localized names for languages, regions and other data types. It's useful for displaying human-readable names based on the user's locale.",
   "extensions": {
     "compatibility": {
       "browsers": {

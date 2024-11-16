@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that initializes or resets the value of a counter to a specific number. It’s commonly used to start numbering from a certain point, allowing to control how counters are displayed in a sequence.",
+  "content": "The property that initializes or resets the value of a counter to a specific number. It's commonly used to start numbering from a certain point, enabling to control how counters are displayed in a sequence.",
   "extensions": {
     "compatibility": {
       "browsers": {

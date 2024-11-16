@@ -4,7 +4,7 @@
   "categories": [
     "object"
   ],
-  "content": "The object that holds a weak reference to another object, allowing it to be garbage collected if no other strong references to it exist. It’s useful for creating caches or implementing memory management strategies.",
+  "content": "The object that holds a weak reference to another object, allowing it to be garbage collected if no other strong references to it exist. It's useful for creating caches or implementing memory management strategies.",
   "extensions": {
     "compatibility": {
       "browsers": {

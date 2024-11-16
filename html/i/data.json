@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that typically renders text in italics. It’s often used to indicate a change in tone or to represent a different voice, such as a term in another language, a title or a technical term.",
+  "content": "The element that typically renders text in italics. It's often used to indicate a change in tone or to represent a different voice, such as a term in another language, a title or a technical term.",
   "extensions": {
     "compatibility": {
       "browsers": {

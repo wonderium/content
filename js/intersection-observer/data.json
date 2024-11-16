@@ -1,6 +1,6 @@
 {
   "title": "IntersectionObserver",
-  "description": "The `IntersectionObserver` JS browser API object allows to monitor the visibility of an element relative to its ancestor or viewport, enabling efficient detection of when elements enter or leave the viewport.",
+  "description": "The `IntersectionObserver` JS browser API object allows monitoring an element's visibility relative to its ancestor or viewport, enabling efficient detection of when elements enter or leave the viewport.",
   "categories": [
     "object"
   ],

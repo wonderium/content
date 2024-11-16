@@ -1,6 +1,6 @@
 {
   "title": "navigator",
-  "description": "The `navigator` JS browser API object provides information about the user's browser and operating system and allows to interact with browser features and capabilities.",
+  "description": "The `navigator` JS browser API object provides information about the user's browser and operating system and allows interacting with browser features and capabilities.",
   "categories": [
     "object"
   ],

@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static browser API method that displays an interactive list of the properties of a JavaScript object. It’s useful for exploring the structure of objects in detail.",
+  "content": "The static browser API method that displays an interactive list of the properties of a JavaScript object. It's useful for exploring the structure of objects in detail.",
   "extensions": {
     "compatibility": {
       "browsers": {

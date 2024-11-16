@@ -4,7 +4,7 @@
   "categories": [
     "pseudo-class"
   ],
-  "content": "The pseudo-class that styles an element that is the target of a URL fragment identifier. This is often used to highlight or bring attention to a specific section of a page when it’s linked to directly, like when clicking a link that jumps to a certain part of the document.",
+  "content": "The pseudo-class that styles an element that is the target of a URL fragment identifier. This is often used to highlight or bring attention to a specific section of a page when it's linked to directly, like when clicking a link that jumps to a certain part of the document.",
   "extensions": {
     "compatibility": {
       "browsers": {

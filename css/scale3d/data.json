@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The function that scales an element along the X, Y and Z axes simultaneously. This allows for complex 3D scaling transformations, adjusting the element’s size in three dimensions to create more dynamic visual effects.",
+  "content": "The function that scales an element along the X, Y and Z axes simultaneously. This allows for complex 3D scaling transformations, adjusting the element's size in three dimensions to create more dynamic visual effects.",
   "extensions": {
     "compatibility": {
       "browsers": {

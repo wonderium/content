@@ -4,6 +4,6 @@
   "categories": [
     "data type"
   ],
-  "content": "The primitive data type that represents two values: `true` or `false`. It’s used for logical operations, like checking conditions in `if` statements.",
+  "content": "The primitive data type that represents two values: `true` or `false`. It's used for logical operations, like checking conditions in `if` statements.",
   "extensions": {}
 }

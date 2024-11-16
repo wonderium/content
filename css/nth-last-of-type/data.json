@@ -4,7 +4,7 @@
   "categories": [
     "pseudo-class"
   ],
-  "content": "The pseudo-class that selects elements of a specific type based on their position among siblings of the same type. It’s useful for targeting specific elements in a sequence, counting backwards from the last element of that type.",
+  "content": "The pseudo-class that selects elements of a specific type based on their position among siblings of the same type. It's useful for targeting specific elements in a sequence, counting backwards from the last element of that type.",
   "extensions": {
     "compatibility": {
       "browsers": {

@@ -4,7 +4,7 @@
   "categories": [
     "pseudo-class"
   ],
-  "content": "The pseudo-class that applies styles to an element if it or any of its descendants have focus. It’s useful for styling parent elements when a child element inside them, like a form field, is focused, allowing for better visual context and interaction feedback.",
+  "content": "The pseudo-class that applies styles to an element if it or any of its descendants have focus. It's useful for styling parent elements when a child element inside them, like a form field, is focused, allowing for better visual context and interaction feedback.",
   "extensions": {
     "compatibility": {
       "browsers": {

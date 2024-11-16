@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static browser API method that outputs a stack trace to the console, showing the path the code took to reach a certain point. It’s useful for debugging and understanding the flow of execution.",
+  "content": "The static browser API method that outputs a stack trace to the console, showing the path the code took to reach a certain point. It's useful for debugging and understanding the flow of execution.",
   "extensions": {
     "compatibility": {
       "browsers": {

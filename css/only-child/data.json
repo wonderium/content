@@ -4,7 +4,7 @@
   "categories": [
     "pseudo-class"
   ],
-  "content": "The pseudo-class that selects an element that is the only child of its parent. It targets elements that have no siblings, allowing to style such elements uniquely when they are the sole child of their container.",
+  "content": "The pseudo-class that selects an element that is the only child of its parent. It targets elements that have no siblings, enabling to style such elements uniquely when they are the sole child of their container.",
   "extensions": {
     "compatibility": {
       "browsers": {

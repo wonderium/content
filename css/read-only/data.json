@@ -4,7 +4,7 @@
   "categories": [
     "pseudo-class"
   ],
-  "content": "The pseudo-class that selects form elements that cannot be edited by the user. It’s applied to fields that are set to `readonly`, ensuring these fields are styled differently from those that can be modified.",
+  "content": "The pseudo-class that selects form elements that cannot be edited by the user. It's applied to fields that are set to `readonly`, ensuring these fields are styled differently from those that can be modified.",
   "extensions": {
     "compatibility": {
       "browsers": {

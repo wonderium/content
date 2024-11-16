@@ -4,7 +4,7 @@
   "categories": [
     "directive"
   ],
-  "content": "The directive that allows to define custom names for font feature values, making them easier to use with the `font-feature-settings` property. This helps create more readable and maintainable code when working with complex font features.",
+  "content": "The directive that allows defining custom names for font feature values, making them easier to use with the `font-feature-settings` property. This helps create more readable and maintainable code when working with complex font features.",
   "extensions": {
     "compatibility": {
       "browsers": {

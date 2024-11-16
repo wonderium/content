@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static method that returns a pseudo-random floating-point number between 0 (inclusive) and 1 (exclusive). It’s often used for generating random values.",
+  "content": "The static method that returns a pseudo-random floating-point number between 0 (inclusive) and 1 (exclusive). It's often used for generating random values.",
   "extensions": {
     "compatibility": {
       "browsers": {

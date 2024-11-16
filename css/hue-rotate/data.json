@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The function used as a value for the `filter` property to rotate the hues of an element’s colors around the color wheel. The value is given in degrees and it changes the overall color scheme by shifting the hues, useful for creating dynamic color effects.",
+  "content": "The function used as a value for the `filter` property to rotate the hues of an element's colors around the color wheel. The value is given in degrees and it changes the overall color scheme by shifting the hues, useful for creating dynamic color effects.",
   "extensions": {
     "compatibility": {
       "browsers": {

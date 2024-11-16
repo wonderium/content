@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The math function that returns the largest value from a list of comma-separated expressions. It’s useful for setting properties that need to adapt to varying conditions, such as responsive designs where an element's size or position adjusts based on the maximum of multiple values.",
+  "content": "The math function that returns the largest value from a list of comma-separated expressions. It's useful for setting properties that need to adapt to varying conditions, such as responsive designs where an element's size or position adjusts based on the maximum of multiple values.",
   "extensions": {
     "compatibility": {
       "browsers": {

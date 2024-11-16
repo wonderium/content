@@ -1,10 +1,10 @@
 {
   "title": "Object.isSealed()",
-  "description": "The `Object.isSealed()` static JS method determines if an object is sealed, meaning whether it’s non-extensible and its properties are non-configurable.",
+  "description": "The `Object.isSealed()` static JS method determines if an object is sealed, meaning whether it's non-extensible and its properties are non-configurable.",
   "categories": [
     "method"
   ],
-  "content": "The static method that determines if an object is sealed, meaning whether it’s non-extensible and its properties are non-configurable. A sealed object cannot have new properties added to it and existing properties cannot be removed, although existing properties can still be modified.",
+  "content": "The static method that determines if an object is sealed, meaning whether it's non-extensible and its properties are non-configurable. A sealed object cannot have new properties added to it and existing properties cannot be removed, although existing properties can still be modified.",
   "extensions": {
     "compatibility": {
       "browsers": {

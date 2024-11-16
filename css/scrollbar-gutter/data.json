@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that reserves space for the scrollbar, ensuring the layout doesn’t shift when a scrollbar appears. It can be used to create a consistent design experience, even when content overflows and requires scrolling.",
+  "content": "The property that reserves space for the scrollbar, ensuring the layout doesn't shift when a scrollbar appears. It can be used to create a consistent design experience, even when content overflows and requires scrolling.",
   "extensions": {
     "compatibility": {
       "browsers": {

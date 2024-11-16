@@ -4,6 +4,6 @@
   "categories": [
     "hook"
   ],
-  "content": "The hook that runs synchronously after DOM mutations but before the browser has painted. It’s useful for injecting styles or making changes that need to be applied immediately to avoid visual glitches.",
+  "content": "The hook that runs synchronously after DOM mutations but before the browser has painted. It's useful for injecting styles or making changes that need to be applied immediately to avoid visual glitches.",
   "extensions": {}
 }

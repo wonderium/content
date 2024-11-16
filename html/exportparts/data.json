@@ -4,7 +4,7 @@
   "categories": [
     "attribute"
   ],
-  "content": "The attribute that allows specific parts of a web component's shadow DOM to be exposed to the outside world. It’s used to make internal elements styleable or accessible from outside the component, enhancing reusability and customization.",
+  "content": "The attribute that allows specific parts of a web component's shadow DOM to be exposed to the outside world. It's used to make internal elements styleable or accessible from outside the component, enhancing reusability and customization.",
   "extensions": {
     "compatibility": {
       "browsers": {

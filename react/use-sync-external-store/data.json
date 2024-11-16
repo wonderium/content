@@ -4,6 +4,6 @@
   "categories": [
     "hook"
   ],
-  "content": "The hook that allows a component to subscribe to an external store and synchronize its state with the store’s changes. It helps integrate with external state management solutions by ensuring the component stays updated with the latest data.",
+  "content": "The hook that allows a component to subscribe to an external store and synchronize its state with the store's changes. It helps integrate with external state management solutions by ensuring the component stays updated with the latest data.",
   "extensions": {}
 }

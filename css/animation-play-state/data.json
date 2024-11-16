@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that controls whether the animation is running or paused. It’s useful for interactive elements where users control the animation.",
+  "content": "The property that controls whether the animation is running or paused. It's useful for interactive elements where users control the animation.",
   "extensions": {
     "compatibility": {
       "browsers": {

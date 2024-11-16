@@ -4,7 +4,7 @@
   "categories": [
     "directive"
   ],
-  "content": "The directive used in print stylesheets to define specific styles for pages when printing a document. It allows to control the size, margins orientation and other properties of printed pages, ensuring the document prints as intended.",
+  "content": "The directive used in print stylesheets to define specific styles for pages when printing a document. It allows controlling the size, margins orientation and other properties of printed pages, ensuring the document prints as intended.",
   "extensions": {
     "compatibility": {
       "browsers": {

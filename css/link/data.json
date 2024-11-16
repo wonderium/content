@@ -4,7 +4,7 @@
   "categories": [
     "pseudo-class"
   ],
-  "content": "The pseudo-class that targets links (usually `<a>` elements) that have not yet been visited. It allows to style these links differently from visited links, often used to set the initial color or underline style of hyperlinks before they are clicked.",
+  "content": "The pseudo-class that targets links (usually `<a>` elements) that have not yet been visited. It allows styling these links differently from visited links, often used to set the initial color or underline style of hyperlinks before they are clicked.",
   "extensions": {
     "compatibility": {
       "browsers": {

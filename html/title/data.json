@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that defines the title of the document, which appears in the browser's title bar or tab. It’s important for SEO and user navigation as it describes the content of the page.",
+  "content": "The element that defines the title of the document, which appears in the browser's title bar or tab. It's important for SEO and user navigation as it describes the content of the page.",
   "extensions": {
     "compatibility": {
       "browsers": {

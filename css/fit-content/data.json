@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The function that adjusts the size of an element to fit its content within a specified maximum or minimum size. It’s often used with grid or flexbox layouts to make elements expand or contract based on the content they contain, balancing flexibility and control.",
+  "content": "The function that adjusts the size of an element to fit its content within a specified maximum or minimum size. It's often used with grid or flexbox layouts to make elements expand or contract based on the content they contain, balancing flexibility and control.",
   "extensions": {
     "compatibility": {
       "browsers": {

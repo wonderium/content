@@ -4,6 +4,6 @@
   "categories": [
     "hook"
   ],
-  "content": "The hook that allows to display custom debug information for a custom hook in React DevTools. It helps with debugging by providing additional context about the state or value managed by the hook.",
+  "content": "The hook that allows displaying custom debug information for a custom hook in React DevTools. It helps with debugging by providing additional context about the state or value managed by the hook.",
   "extensions": {}
 }

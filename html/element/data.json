@@ -1,9 +1,9 @@
 {
   "title": "Element",
-  "description": "The Element in HTML is a complete block of markup with an opening tag, closing tag, and content, like `<p>Hello, World!</p>`.",
+  "description": "The Element in HTML is a complete block of markup with an opening tag, closing tag and content, like `<p>Hello, World!</p>`.",
   "categories": [
     "concept"
   ],
-  "content": "The complete block of markup that consisting of an opening tag, closing tag, and the content between them. It can include text, other elements, or both. For example, `<p>Hello, World!</p>` is a paragraph element where `<p>` and `</p>` are tags, and 'Hello, World!' is the content of the element.",
+  "content": "The complete block of markup that consisting of an opening tag, closing tag and the content between them. It can include text, other elements or both. For example, `<p>Hello, World!</p>` is a paragraph element where `<p>` and `</p>` are tags and 'Hello, World!' is the content of the element.",
   "extensions": {}
 }

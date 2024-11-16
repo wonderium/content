@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static browser API method that displays data in a table format within the console. It’s useful for visualizing arrays or objects in a structured way.",
+  "content": "The static browser API method that displays data in a table format within the console. It's useful for visualizing arrays or objects in a structured way.",
   "extensions": {
     "compatibility": {
       "browsers": {

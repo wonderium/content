@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The method that replaces all occurrences of a substring or matches of a regular expression with a specified replacement string. It’s similar to `.replace()`, but doesn’t require the global `g` flag in the regular expression.",
+  "content": "The method that replaces all occurrences of a substring or matches of a regular expression with a specified replacement string. It's similar to `.replace()`, but doesn't require the global `g` flag in the regular expression.",
   "extensions": {
     "compatibility": {
       "browsers": {

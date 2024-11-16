@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The math function that clamps a value between a defined minimum, preferred and maximum value. It’s useful for setting responsive sizes, like font sizes or widths, that adapt within a range based on the available space.",
+  "content": "The math function that clamps a value between a defined minimum, preferred and maximum value. It's useful for setting responsive sizes, like font sizes or widths, that adapt within a range based on the available space.",
   "extensions": {
     "compatibility": {
       "browsers": {

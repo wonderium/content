@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that defines the position of an element’s content within its container when `object-fit` property is used. It sets the alignment of the content, such as 'center', 'top', 'left' or specific coordinates (using pixels, percentages or other units), controlling how the content is positioned relative to its container.",
+  "content": "The property that defines the position of an element's content within its container when `object-fit` property is used. It sets the alignment of the content, such as 'center', 'top', 'left' or specific coordinates (using pixels, percentages or other units), controlling how the content is positioned relative to its container.",
   "extensions": {
     "compatibility": {
       "browsers": {

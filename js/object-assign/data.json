@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static method used to copy the values of all enumerable own properties from one or more source objects to a target object. It’s useful for merging objects or cloning objects.",
+  "content": "The static method used to copy the values of all enumerable own properties from one or more source objects to a target object. It's useful for merging objects or cloning objects.",
   "extensions": {
     "compatibility": {
       "browsers": {

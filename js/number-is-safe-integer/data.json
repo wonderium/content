@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static method that checks if a value is a safe integer, meaning it’s an integer that can be exactly represented by JavaScript without rounding errors. Safe integers range from -(2^53 - 1) to 2^53 - 1.",
+  "content": "The static method that checks if a value is a safe integer, meaning it's an integer that can be exactly represented by JavaScript without rounding errors. Safe integers range from -(2^53 - 1) to 2^53 - 1.",
   "extensions": {
     "compatibility": {
       "browsers": {

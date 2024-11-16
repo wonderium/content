@@ -5,7 +5,7 @@
     "property",
     "object"
   ],
-  "content": "The browser API property that provides access to media input devices like cameras, microphones and screen sharing. It’s often used to capture media streams for video calls, recording and more.",
+  "content": "The browser API property that provides access to media input devices like cameras, microphones and screen sharing. It's often used to capture media streams for video calls, recording and more.",
   "extensions": {
     "compatibility": {
       "browsers": {

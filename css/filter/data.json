@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that applies graphical effects like blur, brightness, contrast or drop shadow to an element. It allows to modify the appearance of images, backgrounds and text, adding visual effects without needing to edit the original content.",
+  "content": "The property that applies graphical effects like blur, brightness, contrast or drop shadow to an element. It allows modifying the appearance of images, backgrounds and text, adding visual effects without needing to edit the original content.",
   "extensions": {
     "compatibility": {
       "browsers": {

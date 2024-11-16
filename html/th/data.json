@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that defines a header cell in a table. It’s used to label columns or rows and is usually displayed in bold and centered text.",
+  "content": "The element that defines a header cell in a table. It's used to label columns or rows and is usually displayed in bold and centered text.",
   "extensions": {
     "compatibility": {
       "browsers": {

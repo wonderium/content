@@ -4,7 +4,7 @@
   "categories": [
     "concept"
   ],
-  "content": "The units that represent the proportion of a reference value, usually relative to the parent element’s size. Percentages are commonly used for widths or heights, enabling responsive designs that adapt to different screen sizes.",
+  "content": "The units that represent the proportion of a reference value, usually relative to the parent element's size. Percentages are commonly used for widths or heights, enabling responsive designs that adapt to different screen sizes.",
   "extensions": {
     "compatibility": {
       "browsers": {

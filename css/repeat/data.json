@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The function used in grid layouts to repeat a pattern of columns or rows. It simplifies the grid definition by allowing to specify how many times a certain pattern should repeat, making it easier to create complex, responsive layouts.",
+  "content": "The function used in grid layouts to repeat a pattern of columns or rows. It simplifies the grid definition by enabling to specify how many times a certain pattern should repeat, making it easier to create complex, responsive layouts.",
   "extensions": {
     "compatibility": {
       "browsers": {

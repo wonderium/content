@@ -4,6 +4,6 @@
   "categories": [
     "hook"
   ],
-  "content": "The hook that provides a way to access and interact with DOM elements or store mutable values that persist across renders. It’s commonly used for accessing elements directly or keeping a reference to a value that doesn’t trigger re-renders.",
+  "content": "The hook that provides a way to access and interact with DOM elements or store mutable values that persist across renders. It's commonly used for accessing elements directly or keeping a reference to a value that doesn't trigger re-renders.",
   "extensions": {}
 }

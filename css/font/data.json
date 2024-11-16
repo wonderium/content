@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The shorthand property that allows to set several font-related properties in one declaration, including `font-style`, `font-variant`, `font-weight`, `font-size`, `line-height` and `font-family. It’s a quick way to define all aspects of text appearance in a single line of code.",
+  "content": "The shorthand property that allows setting several font-related properties in one declaration, including `font-style`, `font-variant`, `font-weight`, `font-size`, `line-height` and `font-family. It's a quick way to define all aspects of text appearance in a single line of code.",
   "extensions": {
     "compatibility": {
       "browsers": {

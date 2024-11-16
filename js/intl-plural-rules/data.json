@@ -4,7 +4,7 @@
   "categories": [
     "object"
   ],
-  "content": "The object that provides rules for pluralizing words according to locale-specific grammar. It’s used to determine the correct plural form of a word based on a given number.",
+  "content": "The object that provides rules for pluralizing words according to locale-specific grammar. It's used to determine the correct plural form of a word based on a given number.",
   "extensions": {
     "compatibility": {
       "browsers": {

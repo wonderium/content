@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The function that creates a gradient that radiates outward from a central point. It blends colors in a circular or elliptical pattern, often used for backgrounds, allowing to create smooth transitions between colors in various shapes and directions.",
+  "content": "The function that creates a gradient that radiates outward from a central point. It blends colors in a circular or elliptical pattern, often used for backgrounds, enabling to create smooth transitions between colors in various shapes and directions.",
   "extensions": {
     "compatibility": {
       "browsers": {

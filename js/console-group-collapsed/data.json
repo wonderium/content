@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static browser API method that is similar to `console.group()`, but the group starts collapsed by default. It allows to open the group manually to see the contained messages.",
+  "content": "The static browser API method that is similar to `console.group()`, but the group starts collapsed by default. It allows opening the group manually to see the contained messages.",
   "extensions": {
     "compatibility": {
       "browsers": {

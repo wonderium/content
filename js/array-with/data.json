@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The method that creates a new array by copying the original array and replacing one element at a specified index with a new value. It doesn’t modify the original array and helps to update arrays immutably.",
+  "content": "The method that creates a new array by copying the original array and replacing one element at a specified index with a new value. It doesn't modify the original array and helps to update arrays immutably.",
   "extensions": {
     "compatibility": {
       "browsers": {

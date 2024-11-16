@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The method that formats a number as a string, keeping a specified number of digits after the decimal point. It’s useful for rounding numbers to a fixed number of decimal places.",
+  "content": "The method that formats a number as a string, keeping a specified number of digits after the decimal point. It's useful for rounding numbers to a fixed number of decimal places.",
   "extensions": {
     "compatibility": {
       "browsers": {

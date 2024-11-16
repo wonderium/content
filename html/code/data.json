@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that is used to display a fragment of computer code or other text that should be presented in a monospaced font. It’s often used within technical documentation, tutorials or any context where code needs to be highlighted or shown differently from regular text.",
+  "content": "The element that is used to display a fragment of computer code or other text that should be presented in a monospaced font. It's often used within technical documentation, tutorials or any context where code needs to be highlighted or shown differently from regular text.",
   "extensions": {
     "compatibility": {
       "browsers": {

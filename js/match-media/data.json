@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The browser API method that evaluates a media query and returns a `MediaQueryList` object, which can be used to determine if the document matches the query. It’s often used for responsive design to apply styles based on screen size.",
+  "content": "The browser API method that evaluates a media query and returns a `MediaQueryList` object, which can be used to determine if the document matches the query. It's often used for responsive design to apply styles based on screen size.",
   "extensions": {
     "compatibility": {
       "browsers": {

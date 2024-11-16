@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static method that returns the sign of a given number, indicating whether it’s positive, negative or zero. For example, `Math.sign(-5)` returns -1.",
+  "content": "The static method that returns the sign of a given number, indicating whether it's positive, negative or zero. For example, `Math.sign(-5)` returns -1.",
   "extensions": {
     "compatibility": {
       "browsers": {

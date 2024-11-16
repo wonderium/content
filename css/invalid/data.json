@@ -4,7 +4,7 @@
   "categories": [
     "pseudo-class"
   ],
-  "content": "The pseudo-class that applies styles to form elements when their value doesn’t match the required format or constraints, like an incorrect email address or an empty required field. It helps indicate to users that their input needs correction.",
+  "content": "The pseudo-class that applies styles to form elements when their value doesn't match the required format or constraints, like an incorrect email address or an empty required field. It helps indicate to users that their input needs correction.",
   "extensions": {
     "compatibility": {
       "browsers": {

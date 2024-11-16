@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property used in grid, flexbox and multi-column layouts to set the space between items. It simplifies spacing by allowing to define consistent gaps without adding margins to individual items, creating a cleaner and more efficient layout.",
+  "content": "The property used in grid, flexbox and multi-column layouts to set the space between items. It simplifies spacing by enabling to define consistent gaps without adding margins to individual items, creating a cleaner and more efficient layout.",
   "extensions": {
     "compatibility": {
       "browsers": {

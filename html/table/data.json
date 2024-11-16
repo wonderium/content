@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that is used to create a table for organizing data into rows and columns. It’s often used for displaying tabular data like schedules, price lists or comparisons.",
+  "content": "The element that is used to create a table for organizing data into rows and columns. It's often used for displaying tabular data like schedules, price lists or comparisons.",
   "extensions": {
     "compatibility": {
       "browsers": {

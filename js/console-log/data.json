@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static browser API method that prints a message to the console. It’s the most common way to output text or variables for debugging and informational purposes.",
+  "content": "The static browser API method that prints a message to the console. It's the most common way to output text or variables for debugging and informational purposes.",
   "extensions": {
     "compatibility": {
       "browsers": {

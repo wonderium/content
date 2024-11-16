@@ -4,7 +4,7 @@
   "categories": [
     "pseudo-element"
   ],
-  "content": "The pseudo-element that represents the backdrop behind a modal or fullscreen element. It allows to style the background that appears behind the content, often used to create dimming or blurring effects.",
+  "content": "The pseudo-element that represents the backdrop behind a modal or fullscreen element. It allows styling the background that appears behind the content, often used to create dimming or blurring effects.",
   "extensions": {
     "compatibility": {
       "browsers": {

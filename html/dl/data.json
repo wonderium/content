@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that represents a description list, which pairs terms and descriptions. It’s used to create lists of items where each term (`<dt>`) is followed by its corresponding description (`<dd>`), often for glossaries or FAQs.",
+  "content": "The element that represents a description list, which pairs terms and descriptions. It's used to create lists of items where each term (`<dt>`) is followed by its corresponding description (`<dd>`), often for glossaries or FAQs.",
   "extensions": {
     "compatibility": {
       "browsers": {

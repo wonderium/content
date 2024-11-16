@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The browser API method used to set the value of a specified CSS property on a `CSSStyleDeclaration` object for a particular element. It’s used to manipulate styles directly from JavaScript.",
+  "content": "The browser API method used to set the value of a specified CSS property on a `CSSStyleDeclaration` object for a particular element. It's used to manipulate styles directly from JavaScript.",
   "extensions": {
     "compatibility": {
       "browsers": {

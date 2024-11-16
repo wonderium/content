@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that causes an element to be positioned to the left or right of its container, allowing text and inline elements to wrap around it. It’s often used to create simple layouts, like wrapping text around an image, but is less common in modern layouts due to flexbox and grid.",
+  "content": "The property that causes an element to be positioned to the left or right of its container, allowing text and inline elements to wrap around it. It's often used to create simple layouts, like wrapping text around an image, but is less common in modern layouts due to flexbox and grid.",
   "extensions": {
     "compatibility": {
       "browsers": {

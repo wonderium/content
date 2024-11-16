@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The shape function used as a value for the `clip-path` property to create a circular clipping region. It defines the radius and position of the circle, allowing to clip content into a round shape, often used for images or decorative elements.",
+  "content": "The shape function used as a value for the `clip-path` property to create a circular clipping region. It defines the radius and position of the circle, enabling to clip content into a round shape, often used for images or decorative elements.",
   "extensions": {
     "compatibility": {
       "browsers": {

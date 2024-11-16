@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static method that returns a `Promise` object that is resolved with a given value. If the value is a promise, that promise is returned; if it’s a thenable object, it will be converted to a promise; otherwise, it will be wrapped in a promise.",
+  "content": "The static method that returns a `Promise` object that is resolved with a given value. If the value is a promise, that promise is returned; if it's a thenable object, it will be converted to a promise; otherwise, it will be wrapped in a promise.",
   "extensions": {
     "compatibility": {
       "browsers": {

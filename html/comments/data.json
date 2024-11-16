@@ -4,6 +4,6 @@
   "categories": [
     "syntax"
   ],
-  "content": "The way to add notes or explanations within the HTML code that are not visible on the webpage. These notes are enclosed in < !-- and -- >, with the content placed in between. They are often used to explain the code, disable parts temporarily, or leave reminders for developers.",
+  "content": "The way to add notes or explanations within the HTML code that are not visible on the webpage. These notes are enclosed in < !-- and -- >, with the content placed in between. They are often used to explain the code, disable parts temporarily or leave reminders for developers.",
   "extensions": {}
 }

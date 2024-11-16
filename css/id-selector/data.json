@@ -4,7 +4,7 @@
   "categories": [
     "selector"
   ],
-  "content": "The selector used to style a specific element with a unique identifier. It’s written with a '#' symbol, followed by the element's ID. Since IDs should be unique within a page, this selector targets exactly one element, making it highly specific.",
+  "content": "The selector used to style a specific element with a unique identifier. It's written with a '#' symbol, followed by the element's ID. Since IDs should be unique within a page, this selector targets exactly one element, making it highly specific.",
   "extensions": {
     "compatibility": {
       "browsers": {

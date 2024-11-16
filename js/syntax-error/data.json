@@ -4,7 +4,7 @@
   "categories": [
     "object"
   ],
-  "content": "The object that represents an error due to incorrect syntax in the code. This occurs when the code doesn’t follow the proper language rules, such as missing parentheses or brackets. It’s used to identify and fix mistakes in code structure.",
+  "content": "The object that represents an error due to incorrect syntax in the code. This occurs when the code doesn't follow the proper language rules, such as missing parentheses or brackets. It's used to identify and fix mistakes in code structure.",
   "extensions": {
     "compatibility": {
       "browsers": {

@@ -5,7 +5,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that provides metadata about the HTML document, such as character set, viewport settings or author information. It’s placed within the `<head>` section and is crucial for optimizing a webpage for search engines and browsers.",
+  "content": "The element that provides metadata about the HTML document, such as character set, viewport settings or author information. It's placed within the `<head>` section and is crucial for optimizing a webpage for search engines and browsers.",
   "extensions": {
     "compatibility": {
       "browsers": {

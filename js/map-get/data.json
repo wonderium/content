@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The method that returns the value associated with a specified key in a `Map` object. If the key doesn’t exist, it returns `undefined`.",
+  "content": "The method that returns the value associated with a specified key in a `Map` object. If the key doesn't exist, it returns `undefined`.",
   "extensions": {
     "compatibility": {
       "browsers": {

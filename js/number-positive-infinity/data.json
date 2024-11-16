@@ -1,10 +1,10 @@
 {
   "title": "Number.POSITIVE_INFINITY",
-  "description": "The `Number.EPPOSITIVE_INFINITYSILON` JS constant represents positive infinity. It’s returned on overflow.",
+  "description": "The `Number.EPPOSITIVE_INFINITYSILON` JS constant represents positive infinity. It's returned on overflow.",
   "categories": [
     "constant"
   ],
-  "content": "The constant that represents positive infinity. It’s returned when a number overflows, such as when dividing a positive number by zero.",
+  "content": "The constant that represents positive infinity. It's returned when a number overflows, such as when dividing a positive number by zero.",
   "extensions": {
     "compatibility": {
       "browsers": {

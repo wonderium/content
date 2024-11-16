@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The method that converts each element in an array to a string using locale-specific formatting, returning a single string representing the whole array, with elements separated by commas. It’s often used to format dates or numbers according to a specific language or region.",
+  "content": "The method that converts each element in an array to a string using locale-specific formatting, returning a single string representing the whole array, with elements separated by commas. It's often used to format dates or numbers according to a specific language or region.",
   "extensions": {
     "compatibility": {
       "browsers": {

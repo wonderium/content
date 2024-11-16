@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The method that converts all characters in a string to uppercase. It’s useful for normalizing text for case-insensitive comparisons.",
+  "content": "The method that converts all characters in a string to uppercase. It's useful for normalizing text for case-insensitive comparisons.",
   "extensions": {
     "compatibility": {
       "browsers": {

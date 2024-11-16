@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The shorthand property that allows to set multiple background properties in one line, including `background-color`, `background-image`, `background-position`, `background-size` and more. It’s a useful tool for creating complex and layered backgrounds on elements.",
+  "content": "The shorthand property that allows setting multiple background properties in one line, including `background-color`, `background-image`, `background-position`, `background-size` and more. It's a useful tool for creating complex and layered backgrounds on elements.",
   "extensions": {
     "compatibility": {
       "browsers": {

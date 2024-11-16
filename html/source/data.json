@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that is used within `<picture>`, `<audio>` or `<video>` elements to specify multiple media sources. It allows the browser to choose the best available source based on the user’s device or preferences.",
+  "content": "The element that is used within `<picture>`, `<audio>` or `<video>` elements to specify multiple media sources. It allows the browser to choose the best available source based on the user's device or preferences.",
   "extensions": {
     "compatibility": {
       "browsers": {

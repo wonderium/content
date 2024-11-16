@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that allows an element to span across multiple columns in a multi-column layout. It’s often used for headings or large images that need to stretch across the entire width of the layout, overriding the column structure.",
+  "content": "The property that allows an element to span across multiple columns in a multi-column layout. It's often used for headings or large images that need to stretch across the entire width of the layout, overriding the column structure.",
   "extensions": {
     "compatibility": {
       "browsers": {

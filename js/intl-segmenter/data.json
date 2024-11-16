@@ -4,7 +4,7 @@
   "categories": [
     "object"
   ],
-  "content": "The object that segments text according to language-specific rules, such as dividing sentences into words or characters. It’s used for text processing tasks like word wrapping, counting or highlighting.",
+  "content": "The object that segments text according to language-specific rules, such as dividing sentences into words or characters. It's used for text processing tasks like word wrapping, counting or highlighting.",
   "extensions": {
     "compatibility": {
       "browsers": {

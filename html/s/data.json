@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that represents text that is no longer accurate or relevant, often displayed with a strikethrough. It’s used to indicate that the content has been removed or replaced by more up-to-date information.",
+  "content": "The element that represents text that is no longer accurate or relevant, often displayed with a strikethrough. It's used to indicate that the content has been removed or replaced by more up-to-date information.",
   "extensions": {
     "compatibility": {
       "browsers": {

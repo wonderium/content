@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that sets the space between the outline and the edge of the element’s border box. It controls how far the outline is drawn from the element.",
+  "content": "The property that sets the space between the outline and the edge of the element's border box. It controls how far the outline is drawn from the element.",
   "extensions": {
     "compatibility": {
       "browsers": {

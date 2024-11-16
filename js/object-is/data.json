@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static method that determines whether two values are the same value. It’s similar to the strict equality operator (===), but with special handling for `NaN`, -0 and +0.",
+  "content": "The static method that determines whether two values are the same value. It's similar to the strict equality operator (===), but with special handling for `NaN`, -0 and +0.",
   "extensions": {
     "compatibility": {
       "browsers": {

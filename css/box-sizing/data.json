@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that defines how the width and height of an element are calculated. When set to 'border-box', it includes padding and border within the element’s specified width and height, making it easier to manage layout dimensions.",
+  "content": "The property that defines how the width and height of an element are calculated. When set to 'border-box', it includes padding and border within the element's specified width and height, making it easier to manage layout dimensions.",
   "extensions": {
     "compatibility": {
       "browsers": {

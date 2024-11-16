@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that controls whether the back face of an element is visible when it’s rotated in 3D space. This is useful for hiding or showing the back side of elements during complex animations or transformations.",
+  "content": "The property that controls whether the back face of an element is visible when it's rotated in 3D space. This is useful for hiding or showing the back side of elements during complex animations or transformations.",
   "extensions": {
     "compatibility": {
       "browsers": {

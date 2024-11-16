@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The method that joins all elements of an array into a single string, with each element separated by a specified delimiter. It’s often used to create readable strings from arrays.",
+  "content": "The method that joins all elements of an array into a single string, with each element separated by a specified delimiter. It's often used to create readable strings from arrays.",
   "extensions": {
     "compatibility": {
       "browsers": {

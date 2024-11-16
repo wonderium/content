@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static method that returns the natural logarithm of 1 plus a given number. It’s useful for calculating logarithms of values close to zero with more precision, for example, `Math.log1p(0.1)`.",
+  "content": "The static method that returns the natural logarithm of 1 plus a given number. It's useful for calculating logarithms of values close to zero with more precision, for example, `Math.log1p(0.1)`.",
   "extensions": {
     "compatibility": {
       "browsers": {

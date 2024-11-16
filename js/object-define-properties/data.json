@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static method that defines new or modifies existing properties directly on an object, returning the object. It allows to define multiple properties at once, including their descriptors like configurable, enumerable, writable and value.",
+  "content": "The static method that defines new or modifies existing properties directly on an object, returning the object. It allows defining multiple properties at once, including their descriptors like configurable, enumerable, writable and value.",
   "extensions": {
     "compatibility": {
       "browsers": {

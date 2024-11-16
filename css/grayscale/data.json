@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The function used as a value for the `filter` property to convert an element’s colors to shades of gray. The value can range from '0' (no effect) to '1' (full grayscale), which is useful for creating monochromatic effects or toning down the colors in an image or element.",
+  "content": "The function used as a value for the `filter` property to convert an element's colors to shades of gray. The value can range from '0' (no effect) to '1' (full grayscale), which is useful for creating monochromatic effects or toning down the colors in an image or element.",
   "extensions": {
     "compatibility": {
       "browsers": {

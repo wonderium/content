@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that displays text as superscript, positioning it higher than the normal text line. It’s often used for footnotes, ordinal indicators and mathematical exponents.",
+  "content": "The element that displays text as superscript, positioning it higher than the normal text line. It's often used for footnotes, ordinal indicators and mathematical exponents.",
   "extensions": {
     "compatibility": {
       "browsers": {

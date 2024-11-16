@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The method that creates a new array by applying a function to each element of the original array. It’s useful for transforming each item in a list.",
+  "content": "The method that creates a new array by applying a function to each element of the original array. It's useful for transforming each item in a list.",
   "extensions": {
     "compatibility": {
       "browsers": {

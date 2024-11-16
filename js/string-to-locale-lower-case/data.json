@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The method that converts all characters in a string to lowercase, according to the rules of the specified locale. It’s useful for locale-sensitive case conversion.",
+  "content": "The method that converts all characters in a string to lowercase, according to the rules of the specified locale. It's useful for locale-sensitive case conversion.",
   "extensions": {
     "compatibility": {
       "browsers": {

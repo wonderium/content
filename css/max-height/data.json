@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that sets the maximum height of an element. It prevents the element from growing taller than the specified value, ensuring that its content doesn’t overflow beyond this limit, which helps to control the layout and appearance.",
+  "content": "The property that sets the maximum height of an element. It prevents the element from growing taller than the specified value, ensuring that its content doesn't overflow beyond this limit, which helps to control the layout and appearance.",
   "extensions": {
     "compatibility": {
       "browsers": {

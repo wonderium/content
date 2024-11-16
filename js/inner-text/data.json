@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The browser API property of an HTML element that represents the visible text content inside the element. Unlike `.textContent`, it respects the CSS styles and doesn’t include hidden elements.",
+  "content": "The browser API property of an HTML element that represents the visible text content inside the element. Unlike `.textContent`, it respects the CSS styles and doesn't include hidden elements.",
   "extensions": {
     "compatibility": {
       "browsers": {

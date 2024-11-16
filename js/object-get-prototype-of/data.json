@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static method that returns the prototype, which is the value of the internal `[[Prototype]]` property, of the specified object. It’s commonly used to check or change the inheritance of an object.",
+  "content": "The static method that returns the prototype, which is the value of the internal `[[Prototype]]` property, of the specified object. It's commonly used to check or change the inheritance of an object.",
   "extensions": {
     "compatibility": {
       "browsers": {

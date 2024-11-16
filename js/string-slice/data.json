@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The method that extracts a section of a string from the start index to the end index (not included) and returns it as a new string. It doesn’t modify the original string.",
+  "content": "The method that extracts a section of a string from the start index to the end index (not included) and returns it as a new string. It doesn't modify the original string.",
   "extensions": {
     "compatibility": {
       "browsers": {

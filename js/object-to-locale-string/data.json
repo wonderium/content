@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The method that returns a string representing the object, formatted according to the locale and formatting options provided. It’s commonly used for converting numbers, dates and other objects into a locale-sensitive string and is designed to be overridden by derived objects to handle specific locale requirements.",
+  "content": "The method that returns a string representing the object, formatted according to the locale and formatting options provided. It's commonly used for converting numbers, dates and other objects into a locale-sensitive string and is designed to be overridden by derived objects to handle specific locale requirements.",
   "extensions": {
     "compatibility": {
       "browsers": {

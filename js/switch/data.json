@@ -5,7 +5,7 @@
     "syntax",
     "statement"
   ],
-  "content": "The statement that evaluates an expression and executes code blocks based on matching case values. It’s used as an alternative to multiple `if...else` statements for better readability and organization.",
+  "content": "The statement that evaluates an expression and executes code blocks based on matching case values. It's used as an alternative to multiple `if...else` statements for better readability and organization.",
   "extensions": {
     "compatibility": {
       "browsers": {

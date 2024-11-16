@@ -1,6 +1,6 @@
 {
   "title": "String",
-  "description": "The `String` JS wrapper object allows to work with sequences of characters and provides various methods for string manipulation.",
+  "description": "The `String` JS wrapper object allows working with sequences of characters and provides various methods for string manipulation.",
   "categories": [
     "object"
   ],

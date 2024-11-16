@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that allows to use an image as the border of an element instead of a solid color or gradient. The image is sliced into sections and applied to the border, creating a unique and custom border design.",
+  "content": "The property that allows using an image as the border of an element instead of a solid color or gradient. The image is sliced into sections and applied to the border, creating a unique and custom border design.",
   "extensions": {
     "compatibility": {
       "browsers": {

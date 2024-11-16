@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that defines a rectangular clipping region for absolutely positioned elements. It’s often used with the `position` property set to 'absolute' to hide parts of an element by specifying which area of the element should be visible.",
+  "content": "The property that defines a rectangular clipping region for absolutely positioned elements. It's often used with the `position` property set to 'absolute' to hide parts of an element by specifying which area of the element should be visible.",
   "extensions": {
     "compatibility": {
       "browsers": {

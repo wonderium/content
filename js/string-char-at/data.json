@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The method that returns the character at a specified index in a string. It’s used to access individual characters based on their position within the string.",
+  "content": "The method that returns the character at a specified index in a string. It's used to access individual characters based on their position within the string.",
   "extensions": {
     "compatibility": {
       "browsers": {

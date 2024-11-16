@@ -1,6 +1,6 @@
 {
   "title": "<colgroup>",
-  "description": "The `<colgroup>` HTML element groups one or more `<col>` elements within a table, allowing to apply styles or attributes to entire columns.",
+  "description": "The `<colgroup>` HTML element groups one or more `<col>` elements within a table, enabling to apply styles or attributes to entire columns.",
   "categories": [
     "tag"
   ],

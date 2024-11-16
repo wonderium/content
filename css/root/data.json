@@ -4,7 +4,7 @@
   "categories": [
     "pseudo-class"
   ],
-  "content": "The pseudo-class that targets the highest-level parent of the document, typically the `<html>` element. It’s often used to define global CSS variables that can be accessed throughout the entire stylesheet, making it easier to manage consistent design values.",
+  "content": "The pseudo-class that targets the highest-level parent of the document, typically the `<html>` element. It's often used to define global CSS variables that can be accessed throughout the entire stylesheet, making it easier to manage consistent design values.",
   "extensions": {
     "compatibility": {
       "browsers": {

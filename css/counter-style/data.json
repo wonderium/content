@@ -4,7 +4,7 @@
   "categories": [
     "directive"
   ],
-  "content": "The directive that defines custom counter styles, such as the appearance of list item markers. It allows to create unique bullet points, numbers or symbols for ordered and unordered lists, enhancing list presentation.",
+  "content": "The directive that defines custom counter styles, such as the appearance of list item markers. It allows creating unique bullet points, numbers or symbols for ordered and unordered lists, enhancing list presentation.",
   "extensions": {
     "compatibility": {
       "browsers": {

@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that represents self-contained content, such as an image with an optional caption, code snippet or diagram. It’s used to group media and its associated text, allowing for more flexible placement and styling.",
+  "content": "The element that represents self-contained content, such as an image with an optional caption, code snippet or diagram. It's used to group media and its associated text, allowing for more flexible placement and styling.",
   "extensions": {
     "compatibility": {
       "browsers": {

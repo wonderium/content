@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that sets the color of the text input cursor (caret). It’s useful for customizing the appearance of form fields, especially when matching the cursor color to the overall theme or design.",
+  "content": "The property that sets the color of the text input cursor (caret). It's useful for customizing the appearance of form fields, especially when matching the cursor color to the overall theme or design.",
   "extensions": {
     "compatibility": {
       "browsers": {

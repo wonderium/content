@@ -4,7 +4,7 @@
   "categories": [
     "object"
   ],
-  "content": "The object that formats relative time phrases, such as '2 days ago' or 'in 3 weeks', according to locale-specific conventions. It’s useful for displaying time in a human-friendly format.",
+  "content": "The object that formats relative time phrases, such as '2 days ago' or 'in 3 weeks', according to locale-specific conventions. It's useful for displaying time in a human-friendly format.",
   "extensions": {
     "compatibility": {
       "browsers": {

@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that is used to represent sample output from a program or computing device. It’s typically displayed in a monospaced font, which differs it from regular text.",
+  "content": "The element that is used to represent sample output from a program or computing device. It's typically displayed in a monospaced font, which differs it from regular text.",
   "extensions": {
     "compatibility": {
       "browsers": {

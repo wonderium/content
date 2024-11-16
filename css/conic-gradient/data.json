@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The function that creates a gradient that radiates from the center of a circle, resembling a pie chart. It allows to create complex, circular color transitions that can be used for backgrounds, charts or decorative elements.",
+  "content": "The function that creates a gradient that radiates from the center of a circle, resembling a pie chart. It allows creating complex, circular color transitions that can be used for backgrounds, charts or decorative elements.",
   "extensions": {
     "compatibility": {
       "browsers": {

@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static method that returns `e` (Euler's number), approximately 2.718, raised to the power of a given number minus one. It’s useful for computing values close to zero more accurately than `Math.exp(x) - 1`.",
+  "content": "The static method that returns `e` (Euler's number), approximately 2.718, raised to the power of a given number minus one. It's useful for computing values close to zero more accurately than `Math.exp(x) - 1`.",
   "extensions": {
     "compatibility": {
       "browsers": {

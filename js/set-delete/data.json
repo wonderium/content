@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The method that removes a specific element from a `Set` object. If the element exists, it will be removed and the method will return `true`. If the element doesn’t exist, it will return `false`.",
+  "content": "The method that removes a specific element from a `Set` object. If the element exists, it will be removed and the method will return `true`. If the element doesn't exist, it will return `false`.",
   "extensions": {
     "compatibility": {
       "browsers": {

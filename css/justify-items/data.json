@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that aligns grid items along the inline axis within their grid cells. It affects how each item is positioned inside its cell, allowing to control whether they are centered, stretched or aligned to one side.",
+  "content": "The property that aligns grid items along the inline axis within their grid cells. It affects how each item is positioned inside its cell, enabling to control whether they are centered, stretched or aligned to one side.",
   "extensions": {
     "compatibility": {
       "browsers": {

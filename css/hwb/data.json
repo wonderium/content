@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The function that defines colors using the HWB (Hue, Whiteness, Blackness) model. It’s similar to HSL, but instead of saturation and lightness, it uses whiteness and blackness to adjust the color, making it easy to mix shades and tones.",
+  "content": "The function that defines colors using the HWB (Hue, Whiteness, Blackness) model. It's similar to HSL, but instead of saturation and lightness, it uses whiteness and blackness to adjust the color, making it easy to mix shades and tones.",
   "extensions": {
     "compatibility": {
       "browsers": {

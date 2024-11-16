@@ -1,9 +1,9 @@
 {
   "title": "createContext()",
-  "description": "The `createContext()` API creates a context object that allows to pass data through the component tree without having to pass props down manually at every level.",
+  "description": "The `createContext()` API creates a context object that allows passing data through the component tree without having to pass props down manually at every level.",
   "categories": [
     "API"
   ],
-  "content": "The function that sets up a new context object, which is used to store and share data across different components. It’s the first step in creating a system where components can easily access shared information.",
+  "content": "The function that sets up a new context object, which is used to store and share data across different components. It's the first step in creating a system where components can easily access shared information.",
   "extensions": {}
 }

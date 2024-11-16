@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The shape function used as a value for the `clip-path` property to create an elliptical clipping region. It defines the size and position of the ellipse, allowing to clip content into an oval or circular shape.",
+  "content": "The shape function used as a value for the `clip-path` property to create an elliptical clipping region. It defines the size and position of the ellipse, enabling to clip content into an oval or circular shape.",
   "extensions": {
     "compatibility": {
       "browsers": {

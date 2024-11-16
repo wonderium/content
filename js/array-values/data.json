@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The method that returns a new `Iterator` object containing the values of each element in an array. It allows to loop over the values directly, without accessing their indexes.",
+  "content": "The method that returns a new `Iterator` object containing the values of each element in an array. It allows looping over the values directly, without accessing their indexes.",
   "extensions": {
     "compatibility": {
       "browsers": {

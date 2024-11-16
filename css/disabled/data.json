@@ -4,7 +4,7 @@
   "categories": [
     "pseudo-class"
   ],
-  "content": "The pseudo-class that targets form elements that are disabled, preventing user interaction. It’s commonly used to style input fields, buttons or other controls that are temporarily or permanently inactive, often graying them out or reducing their opacity.",
+  "content": "The pseudo-class that targets form elements that are disabled, preventing user interaction. It's commonly used to style input fields, buttons or other controls that are temporarily or permanently inactive, often graying them out or reducing their opacity.",
   "extensions": {
     "compatibility": {
       "browsers": {

@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The function that adjusts the color output based on the user’s preferred color scheme, either light or dark mode. It allows to define a color that changes dynamically depending on whether the system or browser is set to a light or dark theme, improving accessibility and user experience.",
+  "content": "The function that adjusts the color output based on the user's preferred color scheme, either light or dark mode. It allows defining a color that changes dynamically depending on whether the system or browser is set to a light or dark theme, improving accessibility and user experience.",
   "extensions": {
     "compatibility": {
       "browsers": {

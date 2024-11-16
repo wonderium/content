@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The shorthand property that sets the style of lists by combining `list-style-type`, `list-style-position` and `list-style-image` properties into one declaration. It allows to specify how list items are marked, including their type (like bullets or numbers), position and image.",
+  "content": "The shorthand property that sets the style of lists by combining `list-style-type`, `list-style-position` and `list-style-image` properties into one declaration. It allows specifying how list items are marked, including their type (like bullets or numbers), position and image.",
   "extensions": {
     "compatibility": {
       "browsers": {

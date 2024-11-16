@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that represents the completion progress of a task, such as file upload or download. It’s typically rendered as a progress bar, showing how much of the task has been completed.",
+  "content": "The element that represents the completion progress of a task, such as file upload or download. It's typically rendered as a progress bar, showing how much of the task has been completed.",
   "extensions": {
     "compatibility": {
       "browsers": {

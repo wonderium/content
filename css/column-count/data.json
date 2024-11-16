@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that specifies the number of columns an element's content should be divided into. It’s part of the multi-column layout module, allowing to create newspaper-like layouts by splitting content into multiple vertical columns.",
+  "content": "The property that specifies the number of columns an element's content should be divided into. It's part of the multi-column layout module, enabling to create newspaper-like layouts by splitting content into multiple vertical columns.",
   "extensions": {
     "compatibility": {
       "browsers": {

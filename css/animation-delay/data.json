@@ -1,6 +1,6 @@
 {
   "title": "animation-delay",
-  "description": "The `animation-delay` CSS property specifies the delay before an animation starts, allowing control over when the animation begins after it’s applied to an element.",
+  "description": "The `animation-delay` CSS property specifies the delay before an animation starts, allowing control over when the animation begins after it's applied to an element.",
   "categories": [
     "property"
   ],

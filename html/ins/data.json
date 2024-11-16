@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that represents content that has been added to a document. It’s typically rendered with an underline and can be used in combination with `<del>` to show changes made to a document.",
+  "content": "The element that represents content that has been added to a document. It's typically rendered with an underline and can be used in combination with `<del>` to show changes made to a document.",
   "extensions": {
     "compatibility": {
       "browsers": {
