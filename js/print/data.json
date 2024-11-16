@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The browser API method that opens the print dialog to print the current document. It’s often used in web browsers to print the contents of the page.",
+  "content": "The browser API method that opens the print dialog to print the current document. It's often used in web browsers to print the contents of the page.",
   "extensions": {
     "compatibility": {
       "browsers": {

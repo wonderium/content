@@ -4,6 +4,6 @@
   "categories": [
     "hook"
   ],
-  "content": "The hook that helps manage the UI during state transitions, allowing updates to be deferred while keeping the app responsive. It’s useful for handling large state changes or async updates without blocking user interactions.",
+  "content": "The hook that helps manage the UI during state transitions, allowing updates to be deferred while keeping the app responsive. It's useful for handling large state changes or async updates without blocking user interactions.",
   "extensions": {}
 }

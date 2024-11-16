@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The math function that returns the cosine of an angle in radians. It’s commonly used to calculate the horizontal component of a point on a circle or to model wave-like patterns.",
+  "content": "The math function that returns the cosine of an angle in radians. It's commonly used to calculate the horizontal component of a point on a circle or to model wave-like patterns.",
   "extensions": {
     "compatibility": {
       "browsers": {

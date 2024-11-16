@@ -1,10 +1,10 @@
 {
   "title": "rotate",
-  "description": "The `rotate` CSS property allows to rotate an element around a fixed point.",
+  "description": "The `rotate` CSS property allows rotating an element around a fixed point.",
   "categories": [
     "property"
   ],
-  "content": "The property that applies a 2D or 3D rotation to an element around a fixed point. It doesn’t overwrite the `transform` property, as it directly sets the rotation without affecting other transform functions. This property is useful for rotating elements to achieve various visual effects.",
+  "content": "The property that applies a 2D or 3D rotation to an element around a fixed point. It doesn't overwrite the `transform` property, as it directly sets the rotation without affecting other transform functions. This property is useful for rotating elements to achieve various visual effects.",
   "extensions": {
     "compatibility": {
       "browsers": {

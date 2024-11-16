@@ -4,6 +4,6 @@
   "categories": [
     "attribute"
   ],
-  "content": "The attribute that provides a unique identifier for a Microdata item. It’s used within a structured data context to specify the URL that represents the item, enabling better integration with search engines and web applications.",
+  "content": "The attribute that provides a unique identifier for a Microdata item. It's used within a structured data context to specify the URL that represents the item, enabling better integration with search engines and web applications.",
   "extensions": {}
 }

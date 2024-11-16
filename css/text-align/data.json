@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that sets the horizontal alignment of text within an element. It can be aligned to the left, right, center or justified, controlling how text flows in relation to the container’s edges, making it crucial for creating visually balanced typography.",
+  "content": "The property that sets the horizontal alignment of text within an element. It can be aligned to the left, right, center or justified, controlling how text flows in relation to the container's edges, making it crucial for creating visually balanced typography.",
   "extensions": {
     "compatibility": {
       "browsers": {

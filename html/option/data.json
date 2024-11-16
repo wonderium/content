@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that represents an individual option within a `<select>` dropdown menu. It’s used to define choices available to the user, where they can select one or more options.",
+  "content": "The element that represents an individual option within a `<select>` dropdown menu. It's used to define choices available to the user, where they can select one or more options.",
   "extensions": {
     "compatibility": {
       "browsers": {

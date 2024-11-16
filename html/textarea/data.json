@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that creates a multi-line text input field, allowing users to enter longer pieces of text. It’s commonly used in forms where large amounts of input are required, like comments or feedback sections.",
+  "content": "The element that creates a multi-line text input field, allowing users to enter longer pieces of text. It's commonly used in forms where large amounts of input are required, like comments or feedback sections.",
   "extensions": {
     "compatibility": {
       "browsers": {

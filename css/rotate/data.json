@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The function that applies a rotation transformation to an element around its center point. The rotation angle can be specified in degrees, radians or other units, allowing to spin or tilt elements in 2D space.",
+  "content": "The function that applies a rotation transformation to an element around its center point. The rotation angle can be specified in degrees, radians or other units, enabling to spin or tilt elements in 2D space.",
   "extensions": {
     "compatibility": {
       "browsers": {

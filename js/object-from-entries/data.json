@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static method that transforms a list of key-value pairs into an object. It’s the inverse of `Object.entries()` and is useful for converting arrays back into objects.",
+  "content": "The static method that transforms a list of key-value pairs into an object. It's the inverse of `Object.entries()` and is useful for converting arrays back into objects.",
   "extensions": {
     "compatibility": {
       "browsers": {

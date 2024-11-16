@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The math function that returns the smallest value from a list of comma-separated expressions. It’s useful for responsive design, allowing to set properties based on the minimum value of several options, such as adjusting an element’s size or position based on the smallest measurement available.",
+  "content": "The math function that returns the smallest value from a list of comma-separated expressions. It's useful for responsive design, enabling to set properties based on the minimum value of several options, such as adjusting an element's size or position based on the smallest measurement available.",
   "extensions": {
     "compatibility": {
       "browsers": {

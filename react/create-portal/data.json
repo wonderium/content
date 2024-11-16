@@ -1,9 +1,9 @@
 {
   "title": "createPortal()",
-  "description": "The `createPortal()` API allows to render children into a DOM node that exists outside the hierarchy of the parent component.",
+  "description": "The `createPortal()` API allows rendering children into a DOM node that exists outside the hierarchy of the parent component.",
   "categories": [
     "API"
   ],
-  "content": "The function that allows to render a part of the app outside its normal position in the DOM tree. It's useful for elements like modals or tooltips, where the element needs to appear on top of everything else but still be managed by the same React component.",
+  "content": "The function that allows rendering a part of the app outside its normal position in the DOM tree. It's useful for elements like modals or tooltips, where the element needs to appear on top of everything else but still be managed by the same React component.",
   "extensions": {}
 }

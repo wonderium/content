@@ -4,7 +4,7 @@
   "categories": [
     "directive"
   ],
-  "content": "The directive that allows to apply styles only if a browser supports a particular CSS feature. This helps create fallback styles or alternative designs for browsers that don't support newer CSS properties, ensuring better compatibility and user experience.",
+  "content": "The directive that allows applying styles only if a browser supports a particular CSS feature. This helps create fallback styles or alternative designs for browsers that don't support newer CSS properties, ensuring better compatibility and user experience.",
   "extensions": {
     "compatibility": {
       "browsers": {

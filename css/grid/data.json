@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The shorthand property that creates a layout structure with rows and columns. It allows arranging elements in a flexible organized way. Using this property, elements can be placed precisely within the grid areas. It’s helpful for designing complex web layouts.",
+  "content": "The shorthand property that creates a layout structure with rows and columns. It allows arranging elements in a flexible organized way. Using this property, elements can be placed precisely within the grid areas. It's helpful for designing complex web layouts.",
   "extensions": {
     "compatibility": {
       "browsers": {

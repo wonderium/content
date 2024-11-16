@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that provides a drawing surface for rendering graphics, including shapes, images and animations, using JavaScript. It’s a powerful tool for creating dynamic and interactive visual content on web pages.",
+  "content": "The element that provides a drawing surface for rendering graphics, including shapes, images and animations, using JavaScript. It's a powerful tool for creating dynamic and interactive visual content on web pages.",
   "extensions": {
     "compatibility": {
       "browsers": {

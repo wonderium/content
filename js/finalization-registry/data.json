@@ -4,7 +4,7 @@
   "categories": [
     "object"
   ],
-  "content": "The object that helps manage the cleanup of resources when objects are garbage collected. It allows to register a callback function to be called when a specific object is no longer reachable.",
+  "content": "The object that helps manage the cleanup of resources when objects are garbage collected. It allows registering a callback function to be called when a specific object is no longer reachable.",
   "extensions": {
     "compatibility": {
       "browsers": {

@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that is used to represent content that is indirectly related to the main content, such as sidebars, pull quotes or related links. It’s typically positioned to the side of the main content and serves as supplementary information.",
+  "content": "The element that is used to represent content that is indirectly related to the main content, such as sidebars, pull quotes or related links. It's typically positioned to the side of the main content and serves as supplementary information.",
   "extensions": {
     "compatibility": {
       "browsers": {

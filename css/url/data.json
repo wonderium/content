@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The function used to include external resources, such as images or fonts, in the styles. It specifies the location of the resource, allowing to set properties like `background-image` or `font-face` with paths to external files.",
+  "content": "The function used to include external resources, such as images or fonts, in the styles. It specifies the location of the resource, enabling to set properties like `background-image` or `font-face` with paths to external files.",
   "extensions": {
     "compatibility": {
       "browsers": {

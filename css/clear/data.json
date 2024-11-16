@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property used to control the behavior of floating elements. It ensures that elements don’t wrap around floated elements by moving the element below the floating elements, often used to manage layout and text flow.",
+  "content": "The property used to control the behavior of floating elements. It ensures that elements don't wrap around floated elements by moving the element below the floating elements, often used to manage layout and text flow.",
   "extensions": {
     "compatibility": {
       "browsers": {

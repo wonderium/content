@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The function that blends two colors together based on a specified ratio, creating a new color that is a mix of the two. It’s useful for generating gradients, adjusting colors dynamically or creating themes with blended hues.",
+  "content": "The function that blends two colors together based on a specified ratio, creating a new color that is a mix of the two. It's useful for generating gradients, adjusting colors dynamically or creating themes with blended hues.",
   "extensions": {
     "compatibility": {
       "browsers": {

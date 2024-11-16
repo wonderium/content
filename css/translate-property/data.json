@@ -1,10 +1,10 @@
 {
   "title": "translate",
-  "description": "The `translate` CSS property allows to move an element from its current position to a new position along the X and Y axes.",
+  "description": "The `translate` CSS property allows moving an element from its current position to a new position along the X and Y axes.",
   "categories": [
     "property"
   ],
-  "content": "The property that moves an element from its original position along the X and Y axes. It doesn’t overwrite the `transform` property, as it shifts the element’s position without altering other transform functions. This property is useful for repositioning elements horizontally or vertically.",
+  "content": "The property that moves an element from its original position along the X and Y axes. It doesn't overwrite the `transform` property, as it shifts the element's position without altering other transform functions. This property is useful for repositioning elements horizontally or vertically.",
   "extensions": {
     "compatibility": {
       "browsers": {

@@ -1,10 +1,10 @@
 {
   "title": ".valueOf()",
-  "description": "The `.valueOf()` JS method returns the primitive value of a `Boolean` object. It’s either `true` or `false`.",
+  "description": "The `.valueOf()` JS method returns the primitive value of a `Boolean` object. It's either `true` or `false`.",
   "categories": [
     "method"
   ],
-  "content": "The method that returns the primitive boolean value (`true` or `false`) of a `Boolean` object. It’s rarely needed because the primitive value is often accessed directly.",
+  "content": "The method that returns the primitive boolean value (`true` or `false`) of a `Boolean` object. It's rarely needed because the primitive value is often accessed directly.",
   "extensions": {
     "compatibility": {
       "browsers": {

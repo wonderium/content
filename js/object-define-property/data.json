@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static method that defines a new property directly on an object or modifies an existing property and returns the object. It allows precise control over the property’s behavior using property descriptors.",
+  "content": "The static method that defines a new property directly on an object or modifies an existing property and returns the object. It allows precise control over the property's behavior using property descriptors.",
   "extensions": {
     "compatibility": {
       "browsers": {

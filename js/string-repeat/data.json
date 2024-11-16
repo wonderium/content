@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The method that returns a new string consisting of the original string repeated a specified number of times. It’s useful for generating repeated patterns or sequences.",
+  "content": "The method that returns a new string consisting of the original string repeated a specified number of times. It's useful for generating repeated patterns or sequences.",
   "extensions": {
     "compatibility": {
       "browsers": {

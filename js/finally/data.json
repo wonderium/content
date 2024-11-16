@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The method that attaches a callback function to a promise, which will be executed when the promise is settled, regardless of whether it was fulfilled or rejected. It’s typically used for cleanup tasks.",
+  "content": "The method that attaches a callback function to a promise, which will be executed when the promise is settled, regardless of whether it was fulfilled or rejected. It's typically used for cleanup tasks.",
   "extensions": {
     "compatibility": {
       "browsers": {

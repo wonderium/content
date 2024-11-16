@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The function that accesses environment variables, like safe area insets on mobile devices, to adjust the layout dynamically. It helps ensure that content doesn’t overlap with system UI elements, like the notch or home bar, on devices with special hardware features.",
+  "content": "The function that accesses environment variables, like safe area insets on mobile devices, to adjust the layout dynamically. It helps ensure that content doesn't overlap with system UI elements, like the notch or home bar, on devices with special hardware features.",
   "extensions": {
     "compatibility": {
       "browsers": {

@@ -4,7 +4,7 @@
   "categories": [
     "object"
   ],
-  "content": "The object that wraps another object or function and allows to define custom behavior for fundamental operations, such as property lookup, assignment, enumeration, function invocation. Proxies are useful for creating dynamic behavior and metaprogramming.",
+  "content": "The object that wraps another object or function and allows defining custom behavior for fundamental operations, such as property lookup, assignment, enumeration, function invocation. Proxies are useful for creating dynamic behavior and metaprogramming.",
   "extensions": {
     "compatibility": {
       "browsers": {

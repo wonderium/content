@@ -4,7 +4,7 @@
   "categories": [
     "pseudo-class"
   ],
-  "content": "The pseudo-class that targets the last child element of its parent. It applies styles to this element specifically, allowing to differentiate the appearance or layout of the last item in a group.",
+  "content": "The pseudo-class that targets the last child element of its parent. It applies styles to this element specifically, enabling to differentiate the appearance or layout of the last item in a group.",
   "extensions": {
     "compatibility": {
       "browsers": {

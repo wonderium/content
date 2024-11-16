@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The browser API method that executes a specified function after a delay, defined in milliseconds. It’s used for one-time delays and can be canceled with `clearTimeout()`.",
+  "content": "The browser API method that executes a specified function after a delay, defined in milliseconds. It's used for one-time delays and can be canceled with `clearTimeout()`.",
   "extensions": {
     "compatibility": {
       "browsers": {

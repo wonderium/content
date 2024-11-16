@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The function used as a value for the `transform` property to apply a 2D transformation to an element using a matrix. It allows to perform complex transformations like rotation, scaling, skewing and translation by specifying values in a matrix form.",
+  "content": "The function used as a value for the `transform` property to apply a 2D transformation to an element using a matrix. It allows performing complex transformations like rotation, scaling, skewing and translation by specifying values in a matrix form.",
   "extensions": {
     "compatibility": {
       "browsers": {

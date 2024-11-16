@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The method that creates a new array with the elements in reverse order. Unlike `.reverse()`, this method doesn’t modify the original array.",
+  "content": "The method that creates a new array with the elements in reverse order. Unlike `.reverse()`, this method doesn't modify the original array.",
   "extensions": {
     "compatibility": {
       "browsers": {

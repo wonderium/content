@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that displays text as subscript, positioning it lower than the normal text line. It’s commonly used in mathematical expressions or chemical formulas.",
+  "content": "The element that displays text as subscript, positioning it lower than the normal text line. It's commonly used in mathematical expressions or chemical formulas.",
   "extensions": {
     "compatibility": {
       "browsers": {

@@ -4,7 +4,7 @@
   "categories": [
     "constant"
   ],
-  "content": "The property that returns the square root of 1/2, approximately 0.70711. It’s used in mathematical calculations involving roots.",
+  "content": "The property that returns the square root of 1/2, approximately 0.70711. It's used in mathematical calculations involving roots.",
   "extensions": {
     "compatibility": {
       "browsers": {

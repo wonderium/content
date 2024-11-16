@@ -4,6 +4,6 @@
   "categories": [
     "concept"
   ],
-  "content": "The sequence of events that happen to a component from the moment it’s created until it’s removed. Understanding this helps in controlling when and how a component updates, fetches data or cleans up resources.",
+  "content": "The sequence of events that happen to a component from the moment it's created until it's removed. Understanding this helps in controlling when and how a component updates, fetches data or cleans up resources.",
   "extensions": {}
 }

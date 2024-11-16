@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that directly sets the value of a counter to a specific number, overriding any previous value. This provides precise control over the counter’s value, useful for custom numbering or complex layouts.",
+  "content": "The property that directly sets the value of a counter to a specific number, overriding any previous value. This provides precise control over the counter's value, useful for custom numbering or complex layouts.",
   "extensions": {
     "compatibility": {
       "browsers": {

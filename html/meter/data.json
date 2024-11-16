@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that represents a scalar measurement within a known range, such as a progress bar or a level indicator. It’s used to display values like battery charge, disk usage or voting results",
+  "content": "The element that represents a scalar measurement within a known range, such as a progress bar or a level indicator. It's used to display values like battery charge, disk usage or voting results",
   "extensions": {
     "compatibility": {
       "browsers": {

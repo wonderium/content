@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The function used as a value for the `filter` property to apply a sepia tone to an element’s content. This filter gives images or content a warm, brownish tint, reminiscent of old photographs, creating a vintage or classic look.",
+  "content": "The function used as a value for the `filter` property to apply a sepia tone to an element's content. This filter gives images or content a warm, brownish tint, reminiscent of old photographs, creating a vintage or classic look.",
   "extensions": {
     "compatibility": {
       "browsers": {

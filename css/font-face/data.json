@@ -4,7 +4,7 @@
   "categories": [
     "directive"
   ],
-  "content": "The directive that allows to define custom fonts to be used in the web pages. It specifies the font's file location, style, weight and other properties, enabling the use of fonts that aren’t installed on the user’s device.",
+  "content": "The directive that allows defining custom fonts to be used in the web pages. It specifies the font's file location, style, weight and other properties, enabling the use of fonts that aren't installed on the user's device.",
   "extensions": {
     "compatibility": {
       "browsers": {

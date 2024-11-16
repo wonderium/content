@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The math function that returns the angle in radians whose tangent is the given number. It’s useful for calculating angles based on the tangent value.",
+  "content": "The math function that returns the angle in radians whose tangent is the given number. It's useful for calculating angles based on the tangent value.",
   "extensions": {
     "compatibility": {
       "browsers": {

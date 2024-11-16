@@ -1,6 +1,6 @@
 {
   "title": "useContext()",
-  "description": "The `useContext()` hook allows to access the value of a context directly without needing to wrap components in `<Context.Consumer>`.",
+  "description": "The `useContext()` hook allows accessing the value of a context directly without needing to wrap components in `<Context.Consumer>`.",
   "categories": [
     "hook"
   ],

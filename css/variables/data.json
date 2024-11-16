@@ -1,6 +1,6 @@
 {
   "title": "Variables",
-  "description": "The Variables CSS syntax allows to store values for reuse throughout a stylesheet.",
+  "description": "The Variables CSS syntax allows storing values for reuse throughout a stylesheet.",
   "categories": [
     "concept",
     "syntax"

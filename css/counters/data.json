@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The function that combines multiple counters into a single string, separated by a specified separator. It’s used with the `content` property to display hierarchical numbering, like 1.1, 1.2, etc., in nested lists or sections.",
+  "content": "The function that combines multiple counters into a single string, separated by a specified separator. It's used with the `content` property to display hierarchical numbering, like 1.1, 1.2, etc., in nested lists or sections.",
   "extensions": {
     "compatibility": {
       "browsers": {

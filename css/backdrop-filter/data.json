@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that applies graphical effects like blurring or color shifting to the area behind an element. It’s often used with `::backdrop` property to create frosted glass or other visual effects.",
+  "content": "The property that applies graphical effects like blurring or color shifting to the area behind an element. It's often used with `::backdrop` property to create frosted glass or other visual effects.",
   "extensions": {
     "compatibility": {
       "browsers": {

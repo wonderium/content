@@ -4,7 +4,7 @@
   "categories": [
     "directive"
   ],
-  "content": "The directive used to define the scope of styles within a specific part of the document. It allows to apply styles only to elements within a defined section, making it easier to manage and contain styles, especially in large or complex projects.",
+  "content": "The directive used to define the scope of styles within a specific part of the document. It allows applying styles only to elements within a defined section, making it easier to manage and contain styles, especially in large or complex projects.",
   "extensions": {
     "compatibility": {
       "browsers": {

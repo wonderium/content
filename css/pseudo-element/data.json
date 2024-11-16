@@ -5,6 +5,6 @@
     "concept",
     "syntax"
   ],
-  "content": "The selector used to style parts of an element without adding extra HTML. Common pseudo-elements include `::before` and `::after`, which allow inserting content before or after an element’s content. They help in adding decorative elements or text without modifying the HTML structure.",
+  "content": "The selector used to style parts of an element without adding extra HTML. Common pseudo-elements include `::before` and `::after`, which allow inserting content before or after an element's content. They help in adding decorative elements or text without modifying the HTML structure.",
   "extensions": {}
 }

@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The method that executes a provided function once for each element in an array. It’s often used to perform actions on each item, but doesn’t return a new array.",
+  "content": "The method that executes a provided function once for each element in an array. It's often used to perform actions on each item, but doesn't return a new array.",
   "extensions": {
     "compatibility": {
       "browsers": {

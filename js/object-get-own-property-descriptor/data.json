@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static method that returns a property descriptor for a named property on an object. The descriptor provides details about the property's configuration, such as whether it’s writable, enumerable or configurable.",
+  "content": "The static method that returns a property descriptor for a named property on an object. The descriptor provides details about the property's configuration, such as whether it's writable, enumerable or configurable.",
   "extensions": {
     "compatibility": {
       "browsers": {

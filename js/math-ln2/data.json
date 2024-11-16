@@ -4,7 +4,7 @@
   "categories": [
     "constant"
   ],
-  "content": "The property that returns the natural logarithm of 2, approximately 0.69314. It’s used in logarithmic calculations involving base 2.",
+  "content": "The property that returns the natural logarithm of 2, approximately 0.69314. It's used in logarithmic calculations involving base 2.",
   "extensions": {
     "compatibility": {
       "browsers": {

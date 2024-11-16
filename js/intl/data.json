@@ -4,7 +4,7 @@
   "categories": [
     "object"
   ],
-  "content": "The object that provides several namespaces and functions for language-sensitive operations, such as number and date formatting. It’s used for i18n (internationalization) and localization of JavaScript applications.",
+  "content": "The object that provides several namespaces and functions for language-sensitive operations, such as number and date formatting. It's used for i18n (internationalization) and localization of JavaScript applications.",
   "extensions": {
     "compatibility": {
       "browsers": {

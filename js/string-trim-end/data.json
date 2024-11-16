@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The method that removes whitespace from the end of a string. It’s useful for cleaning up trailing spaces in text data.",
+  "content": "The method that removes whitespace from the end of a string. It's useful for cleaning up trailing spaces in text data.",
   "extensions": {
     "compatibility": {
       "browsers": {

@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that sets the initial main size of a flex item before it’s adjusted by `flex-grow` or `flex-shrink` properties. It determines the base size of an item within a flexbox layout, allowing for control over how space is distributed among items.",
+  "content": "The property that sets the initial main size of a flex item before it's adjusted by `flex-grow` or `flex-shrink` properties. It determines the base size of an item within a flexbox layout, allowing for control over how space is distributed among items.",
   "extensions": {
     "compatibility": {
       "browsers": {

@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that customizes the color of the scrollbar in an element. It allows to set the colors for both the scrollbar track and thumb, enabling more consistent design and better integration with the overall color scheme of the page.",
+  "content": "The property that customizes the color of the scrollbar in an element. It allows setting the colors for both the scrollbar track and thumb, enabling more consistent design and better integration with the overall color scheme of the page.",
   "extensions": {
     "compatibility": {
       "browsers": {

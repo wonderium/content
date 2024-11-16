@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that sets the transparency level of an element. Values range from '0' (completely transparent) to '1' (completely opaque), allowing to control the visibility of the element and its background, while maintaining the layout around it.",
+  "content": "The property that sets the transparency level of an element. Values range from '0' (completely transparent) to '1' (completely opaque), enabling to control the visibility of the element and its background, while maintaining the layout around it.",
   "extensions": {
     "compatibility": {
       "browsers": {

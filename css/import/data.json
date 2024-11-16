@@ -4,7 +4,7 @@
   "categories": [
     "directive"
   ],
-  "content": "The directive that allows to include styles from other stylesheets into the current stylesheet. It’s useful for organizing and reusing CSS code across different files, but can affect page load times as it delays the rendering of styles.",
+  "content": "The directive that allows including styles from other stylesheets into the current stylesheet. It's useful for organizing and reusing CSS code across different files, but can affect page load times as it delays the rendering of styles.",
   "extensions": {
     "compatibility": {
       "browsers": {

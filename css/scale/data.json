@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The function that scales an element by a specified factor along both the X and Y axes. It increases or decreases the size of an element proportionally, allowing to zoom in or out on an element while maintaining its original aspect ratio.",
+  "content": "The function that scales an element by a specified factor along both the X and Y axes. It increases or decreases the size of an element proportionally, enabling to zoom in or out on an element while maintaining its original aspect ratio.",
   "extensions": {
     "compatibility": {
       "browsers": {

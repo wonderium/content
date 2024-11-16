@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that creates an unordered list, where each item is marked with a bullet point. It’s used to list items where the order is not important.",
+  "content": "The element that creates an unordered list, where each item is marked with a bullet point. It's used to list items where the order is not important.",
   "extensions": {
     "compatibility": {
       "browsers": {

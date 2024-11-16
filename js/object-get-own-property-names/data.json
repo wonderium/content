@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static method that returns an array of all own property names of a given object, including non-enumerable properties. This method doesn’t include symbol properties.",
+  "content": "The static method that returns an array of all own property names of a given object, including non-enumerable properties. This method doesn't include symbol properties.",
   "extensions": {
     "compatibility": {
       "browsers": {

@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that defines the style of an element’s outline. It can be set to values like 'solid', 'dashed', 'dotted' or 'none', specifying how the outline line should appear, which helps in highlighting or decorating elements.",
+  "content": "The property that defines the style of an element's outline. It can be set to values like 'solid', 'dashed', 'dotted' or 'none', specifying how the outline line should appear, which helps in highlighting or decorating elements.",
   "extensions": {
     "compatibility": {
       "browsers": {

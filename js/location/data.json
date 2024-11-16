@@ -1,6 +1,6 @@
 {
   "title": "location",
-  "description": "The `location` JS browser API object represents the location (URL) of the object it’s linked to, allowing for URL manipulation and navigation.",
+  "description": "The `location` JS browser API object represents the location (URL) of the object it's linked to, allowing for URL manipulation and navigation.",
   "categories": [
     "object"
   ],

@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property used with SVG graphics to set the color of the inside of an element, such as a shape or path. It allows to define the fill color of SVG elements, making it useful for customizing icons, illustrations and other vector-based graphics.",
+  "content": "The property used with SVG graphics to set the color of the inside of an element, such as a shape or path. It allows defining the fill color of SVG elements, making it useful for customizing icons, illustrations and other vector-based graphics.",
   "extensions": {
     "compatibility": {
       "browsers": {

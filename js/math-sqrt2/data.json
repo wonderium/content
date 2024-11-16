@@ -4,7 +4,7 @@
   "categories": [
     "constant"
   ],
-  "content": "The property that returns the square root of 2, approximately 1.41421. It’s commonly used in mathematical calculations involving roots.",
+  "content": "The property that returns the square root of 2, approximately 1.41421. It's commonly used in mathematical calculations involving roots.",
   "extensions": {
     "compatibility": {
       "browsers": {

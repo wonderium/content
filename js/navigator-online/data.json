@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The browser API property that returns `true` if the browser is connected to the network and `false` if it’s offline. It’s commonly used to detect changes in network connectivity.",
+  "content": "The browser API property that returns `true` if the browser is connected to the network and `false` if it's offline. It's commonly used to detect changes in network connectivity.",
   "extensions": {
     "compatibility": {
       "browsers": {

@@ -4,7 +4,7 @@
   "categories": [
     "constant" 
   ],
-  "content": "The property that provides the base-2 logarithm of `e` (Euler's number), approximately 1.442. It’s the reciprocal of `Math.LN2`.",
+  "content": "The property that provides the base-2 logarithm of `e` (Euler's number), approximately 1.442. It's the reciprocal of `Math.LN2`.",
   "extensions": {
     "compatibility": {
       "browsers": {

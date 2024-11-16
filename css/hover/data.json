@@ -4,7 +4,7 @@
   "categories": [
     "pseudo-class"
   ],
-  "content": "The pseudo-class that applies styles to an element when the user moves the mouse pointer over it. It’s commonly used for interactive elements like buttons or links, changing their appearance to indicate they are clickable or to highlight them.",
+  "content": "The pseudo-class that applies styles to an element when the user moves the mouse pointer over it. It's commonly used for interactive elements like buttons or links, changing their appearance to indicate they are clickable or to highlight them.",
   "extensions": {
     "compatibility": {
       "browsers": {

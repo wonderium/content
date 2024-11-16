@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The function that allows to define multiple versions of an image for different screen resolutions. It’s similar to the `srcset` attribute in HTML and helps to deliver the best quality image based on the user's device, improving visual performance.",
+  "content": "The function that allows defining multiple versions of an image for different screen resolutions. It's similar to the `srcset` attribute in HTML and helps to deliver the best quality image based on the user's device, improving visual performance.",
   "extensions": {
     "compatibility": {
       "browsers": {

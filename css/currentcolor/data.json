@@ -4,7 +4,7 @@
   "categories": [
     "keyword"
   ],
-  "content": "The keyword that represents the current value of the `color` property. It allows to reuse the same color for different properties, such as `border` or `background`, ensuring consistency in design.",
+  "content": "The keyword that represents the current value of the `color` property. It allows reusing the same color for different properties, such as `border` or `background`, ensuring consistency in design.",
   "extensions": {
     "compatibility": {
       "browsers": {

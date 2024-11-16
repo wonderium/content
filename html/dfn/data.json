@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that is used to indicate a term that is being defined within the content. It’s often displayed in italics or bold and provides a clear marker for the first use or definition of a term in a document.",
+  "content": "The element that is used to indicate a term that is being defined within the content. It's often displayed in italics or bold and provides a clear marker for the first use or definition of a term in a document.",
   "extensions": {
     "compatibility": {
       "browsers": {

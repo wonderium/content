@@ -4,7 +4,7 @@
   "categories": [
     "directive"
   ],
-  "content": "The directive that allows to define and use custom color palettes for OpenType fonts that support color variations. It enables to customize the appearance of multi-color fonts by selecting or creating specific color schemes.",
+  "content": "The directive that allows defining and use custom color palettes for OpenType fonts that support color variations. It enables to customize the appearance of multi-color fonts by selecting or creating specific color schemes.",
   "extensions": {
     "compatibility": {
       "browsers": {

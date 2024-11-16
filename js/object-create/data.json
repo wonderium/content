@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static method that creates a new object with the specified prototype object and properties. This allows to set up inheritance without using classes or constructors.",
+  "content": "The static method that creates a new object with the specified prototype object and properties. This allows setting up inheritance without using classes or constructors.",
   "extensions": {
     "compatibility": {
       "browsers": {

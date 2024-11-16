@@ -4,7 +4,7 @@
   "categories": [
     "object"
   ],
-  "content": "The object that holds a collection of objects where the objects are weakly held. It allows to store unique objects without preventing them from being garbage collected when no other references exist.",
+  "content": "The object that holds a collection of objects where the objects are weakly held. It allows storing unique objects without preventing them from being garbage collected when no other references exist.",
   "extensions": {
     "compatibility": {
       "browsers": {

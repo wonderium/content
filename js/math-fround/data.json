@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static method that returns the nearest 32-bit floating-point representation of a given number. It’s used for precision control in floating-point calculations, such as `Math.fround(1.337)`.",
+  "content": "The static method that returns the nearest 32-bit floating-point representation of a given number. It's used for precision control in floating-point calculations, such as `Math.fround(1.337)`.",
   "extensions": {
     "compatibility": {
       "browsers": {

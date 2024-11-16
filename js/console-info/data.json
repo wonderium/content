@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static browser API method that logs an informational message to the console. It’s often used to display general information that doesn’t need special emphasis.",
+  "content": "The static browser API method that logs an informational message to the console. It's often used to display general information that doesn't need special emphasis.",
   "extensions": {
     "compatibility": {
       "browsers": {

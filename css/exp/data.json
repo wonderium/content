@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The math function that returns the value of `e` (Euler's number) raised to the power of a given number. It’s used in calculations involving exponential growth, decay or other mathematical models in programming.",
+  "content": "The math function that returns the value of `e` (Euler's number) raised to the power of a given number. It's used in calculations involving exponential growth, decay or other mathematical models in programming.",
   "extensions": {
     "compatibility": {
       "browsers": {

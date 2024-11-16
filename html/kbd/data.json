@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that represents user input, typically keyboard input. It’s often displayed in a monospaced font and is used to show key presses or commands within instructional content or technical documentation.",
+  "content": "The element that represents user input, typically keyboard input. It's often displayed in a monospaced font and is used to show key presses or commands within instructional content or technical documentation.",
   "extensions": {
     "compatibility": {
       "browsers": {

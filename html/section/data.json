@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that represents a standalone section of content, typically with a heading. It’s used to group related content together, helping to structure the page semantically.",
+  "content": "The element that represents a standalone section of content, typically with a heading. It's used to group related content together, helping to structure the page semantically.",
   "extensions": {
     "compatibility": {
       "browsers": {

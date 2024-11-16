@@ -4,7 +4,7 @@
   "categories": [
     "pseudo-class"
   ],
-  "content": "The pseudo-class that targets form elements that are active and can be interacted with by the user. It’s the opposite of `:disabled` pseudo-class and is often used to style inputs, buttons or other controls that are ready for user input.",
+  "content": "The pseudo-class that targets form elements that are active and can be interacted with by the user. It's the opposite of `:disabled` pseudo-class and is often used to style inputs, buttons or other controls that are ready for user input.",
   "extensions": {
     "compatibility": {
       "browsers": {

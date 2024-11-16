@@ -4,6 +4,6 @@
   "categories": [
     "role"
   ],
-  "content": "The role used to represent a generic container or element that doesn’t have a specific role defined. It’s often used when no other ARIA roles apply but a container needs to be identified.",
+  "content": "The role used to represent a generic container or element that doesn't have a specific role defined. It's often used when no other ARIA roles apply but a container needs to be identified.",
   "extensions": {}
 }

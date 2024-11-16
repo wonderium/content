@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The browser API method of the `CSSStyleDeclaration` object that returns the value of a specified CSS property of an element. It’s useful for retrieving the computed style of an element.",
+  "content": "The browser API method of the `CSSStyleDeclaration` object that returns the value of a specified CSS property of an element. It's useful for retrieving the computed style of an element.",
   "extensions": {
     "compatibility": {
       "browsers": {

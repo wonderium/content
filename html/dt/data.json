@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that defines a term or name in a description list (`<dl>`). It’s paired with a `<dd>` element, which provides the description or definition of the term, helping to structure information in a clear and readable format.",
+  "content": "The element that defines a term or name in a description list (`<dl>`). It's paired with a `<dd>` element, which provides the description or definition of the term, helping to structure information in a clear and readable format.",
   "extensions": {
     "compatibility": {
       "browsers": {

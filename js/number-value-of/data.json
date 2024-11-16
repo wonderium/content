@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The method that returns the primitive value of a `Number` object. It’s typically called internally by JavaScript, rather than being used explicitly in code.",
+  "content": "The method that returns the primitive value of a `Number` object. It's typically called internally by JavaScript, rather than being used explicitly in code.",
   "extensions": {
     "compatibility": {
       "browsers": {

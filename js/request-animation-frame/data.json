@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The browser API method that schedules a function to be called before the next repaint, ensuring smooth animations by syncing with the browser’s refresh rate. it's commonly used to update the position of elements in animations or games.",
+  "content": "The browser API method that schedules a function to be called before the next repaint, ensuring smooth animations by syncing with the browser's refresh rate. it's commonly used to update the position of elements in animations or games.",
   "extensions": {
     "compatibility": {
       "browsers": {

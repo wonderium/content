@@ -4,7 +4,7 @@
   "categories": [
     "property", "object"
   ],
-  "content": "The browser API property of an HTML element that allows access to and modification of its inline styles. It returns a `CSSStyleDeclaration` object representing the element’s style attributes.",
+  "content": "The browser API property of an HTML element that allows access to and modification of its inline styles. It returns a `CSSStyleDeclaration` object representing the element's style attributes.",
   "extensions": {
     "compatibility": {
       "browsers": {

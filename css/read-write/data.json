@@ -4,7 +4,7 @@
   "categories": [
     "pseudo-class"
   ],
-  "content": "The pseudo-class that selects form elements that are editable by the user. It targets fields where users can input or change data, allowing to apply specific styles to differ them from read-only fields.",
+  "content": "The pseudo-class that selects form elements that are editable by the user. It targets fields where users can input or change data, enabling to apply specific styles to differ them from read-only fields.",
   "extensions": {
     "compatibility": {
       "browsers": {

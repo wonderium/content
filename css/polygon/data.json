@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The function used as a value for the `clip-path` property to define a clipping area as a polygon. It allows to create complex shapes by specifying a series of points, clipping the element’s content to that custom shape, useful for creating unique visual effects.",
+  "content": "The function used as a value for the `clip-path` property to define a clipping area as a polygon. It allows creating complex shapes by specifying a series of points, clipping the element's content to that custom shape, useful for creating unique visual effects.",
   "extensions": {
     "compatibility": {
       "browsers": {

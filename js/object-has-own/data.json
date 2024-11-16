@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static method that returns a boolean indicating whether the object has the specified property as its own, rather than inheriting it. It’s similar to `.hasOwnProperty()` but is safer to use because it’s not affected by shadowed properties.",
+  "content": "The static method that returns a boolean indicating whether the object has the specified property as its own, rather than inheriting it. It's similar to `.hasOwnProperty()` but is safer to use because it's not affected by shadowed properties.",
   "extensions": {
     "compatibility": {
       "browsers": {

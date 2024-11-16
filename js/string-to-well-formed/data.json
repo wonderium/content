@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The method that converts a string into a well-formed format if it doesn’t comply with Unicode standards. It adjusts the string to meet Unicode requirements, ensuring proper encoding and representation of characters. This method helps in correcting and standardizing string data.",
+  "content": "The method that converts a string into a well-formed format if it doesn't comply with Unicode standards. It adjusts the string to meet Unicode requirements, ensuring proper encoding and representation of characters. This method helps in correcting and standardizing string data.",
   "extensions": {
     "compatibility": {
       "browsers": {

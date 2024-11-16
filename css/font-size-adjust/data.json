@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that fine-tunes the size of lowercase letters relative to uppercase letters, ensuring consistent text readability across different fonts. It compensates for variations in font design by adjusting the aspect ratio of the font’s size.",
+  "content": "The property that fine-tunes the size of lowercase letters relative to uppercase letters, ensuring consistent text readability across different fonts. It compensates for variations in font design by adjusting the aspect ratio of the font's size.",
   "extensions": {
     "compatibility": {
       "browsers": {

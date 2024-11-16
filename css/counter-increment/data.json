@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that increases the value of a counter by a specified amount each time an element appears. It’s used in conjunction with the `content` property set to 'counter()' to create custom numbering, such as for lists or sections.",
+  "content": "The property that increases the value of a counter by a specified amount each time an element appears. It's used in conjunction with the `content` property set to 'counter()' to create custom numbering, such as for lists or sections.",
   "extensions": {
     "compatibility": {
       "browsers": {

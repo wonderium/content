@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The method that creates a new array with only the elements that pass a test defined by a function. It’s used to remove unwanted items from an array based on certain conditions.",
+  "content": "The method that creates a new array with only the elements that pass a test defined by a function. It's used to remove unwanted items from an array based on certain conditions.",
   "extensions": {
     "compatibility": {
       "browsers": {

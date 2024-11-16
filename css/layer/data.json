@@ -4,7 +4,7 @@
   "categories": [
     "directive"
   ],
-  "content": "The directive used to control the order in which styles are applied by grouping them into layers. This helps manage the cascade and specificity, allowing to prioritize certain styles over others without relying on `!important` or changing the order of the stylesheets.",
+  "content": "The directive used to control the order in which styles are applied by grouping them into layers. This helps manage the cascade and specificity, enabling to prioritize certain styles over others without relying on `!important` or changing the order of the stylesheets.",
   "extensions": {
     "compatibility": {
       "browsers": {

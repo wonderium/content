@@ -1,6 +1,6 @@
 {
   "title": ".composedPath()",
-  "description": "The `.composedPath()` JS browser API method of an `Event` object returns the event’s path, including nodes in shadow DOM trees.",
+  "description": "The `.composedPath()` JS browser API method of an `Event` object returns the event's path, including nodes in shadow DOM trees.",
   "categories": [
     "method"
   ],

@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The math function that returns the angle in radians whose sine is the given number. It’s used to determine the angle when the sine value is known.",
+  "content": "The math function that returns the angle in radians whose sine is the given number. It's used to determine the angle when the sine value is known.",
   "extensions": {
     "compatibility": {
       "browsers": {

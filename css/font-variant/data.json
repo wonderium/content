@@ -1,10 +1,10 @@
 {
   "title": "font-variant",
-  "description": "The `font-variant` CSS property allows to change the displayed font face to 'small-caps' or other alternative glyphs.",
+  "description": "The `font-variant` CSS property allows changing the displayed font face to 'small-caps' or other alternative glyphs.",
   "categories": [
     "property"
   ],
-  "content": "The property that allows to apply various typographic features, like small caps or old-style numerals, without needing to adjust individual font properties. It provides a simple way to access advanced font features for better text presentation.",
+  "content": "The property that allows applying various typographic features, like small caps or old-style numerals, without needing to adjust individual font properties. It provides a simple way to access advanced font features for better text presentation.",
   "extensions": {
     "compatibility": {
       "browsers": {

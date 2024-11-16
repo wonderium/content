@@ -4,7 +4,7 @@
   "categories": [
     "pseudo-class"
   ],
-  "content": "The pseudo-class that targets elements with no children or content, including text or whitespace. It’s useful for styling elements that are intentionally left empty, such as placeholders or for hiding them completely.",
+  "content": "The pseudo-class that targets elements with no children or content, including text or whitespace. It's useful for styling elements that are intentionally left empty, such as placeholders or for hiding them completely.",
   "extensions": {
     "compatibility": {
       "browsers": {

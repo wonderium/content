@@ -4,7 +4,7 @@
   "categories": [
     "attribute"
   ],
-  "content": "The attribute that sets the text direction for an element, determining whether the content is displayed left-to-right ('ltr') or right-to-left ('rtl'). It’s useful for supporting different languages and ensuring proper text alignment.",
+  "content": "The attribute that sets the text direction for an element, determining whether the content is displayed left-to-right ('ltr') or right-to-left ('rtl'). It's useful for supporting different languages and ensuring proper text alignment.",
   "extensions": {
     "compatibility": {
       "browsers": {

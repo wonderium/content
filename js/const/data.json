@@ -5,7 +5,7 @@
     "syntax",
     "keyword"
   ],
-  "content": "The keyword used to declare a constant variable in JavaScript. The value of a `const` variable cannot be changed once it’s assigned, making it useful for values that should remain constant throughout the program.",
+  "content": "The keyword used to declare a constant variable in JavaScript. The value of a `const` variable cannot be changed once it's assigned, making it useful for values that should remain constant throughout the program.",
   "extensions": {
     "compatibility": {
       "browsers": {

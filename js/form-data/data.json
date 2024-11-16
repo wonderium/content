@@ -1,10 +1,10 @@
 {
   "title": "FormData",
-  "description": "The `FormData` JS browser API object allows to construct a set of key-value pairs representing form fields and their values, which can be easily sent using `XMLHttpRequest` or `fetch()` to submit forms.",
+  "description": "The `FormData` JS browser API object allows constructing a set of key-value pairs representing form fields and their values, which can be easily sent using `XMLHttpRequest` or `fetch()` to submit forms.",
   "categories": [
     "object"
   ],
-  "content": "The browser API object used to construct and send key-value pairs, representing form fields and their values, via HTTP requests. It’s typically used with `fetch()` or `XMLHttpRequest` to submit form data.",
+  "content": "The browser API object used to construct and send key-value pairs, representing form fields and their values, via HTTP requests. It's typically used with `fetch()` or `XMLHttpRequest` to submit form data.",
   "extensions": {
     "compatibility": {
       "browsers": {

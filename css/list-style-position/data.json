@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that defines the position of the list marker (like a bullet or number) relative to the list item's content. It can be set to 'inside' (marker is part of the list item’s content flow) or 'outside' (marker is outside the content flow), affecting the layout of the list.",
+  "content": "The property that defines the position of the list marker (like a bullet or number) relative to the list item's content. It can be set to 'inside' (marker is part of the list item's content flow) or 'outside' (marker is outside the content flow), affecting the layout of the list.",
   "extensions": {
     "compatibility": {
       "browsers": {

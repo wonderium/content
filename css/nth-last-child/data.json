@@ -4,7 +4,7 @@
   "categories": [
     "pseudo-class"
   ],
-  "content": "The pseudo-class that selects elements based on their position from the end of their parent’s child list. It works similarly to `:nth-child(n)`, but counts from the last child to the first, enabling to target elements relative to the end of the list.",
+  "content": "The pseudo-class that selects elements based on their position from the end of their parent's child list. It works similarly to `:nth-child(n)`, but counts from the last child to the first, enabling to target elements relative to the end of the list.",
   "extensions": {
     "compatibility": {
       "browsers": {

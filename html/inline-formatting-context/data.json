@@ -4,6 +4,6 @@
   "categories": [
     "concept"
   ],
-  "content": "The concept that explains how inline-level elements, like text or links, are arranged horizontally within a line. These elements sit next to each other, and if there's not enough space, the content wraps to the next line. Inline elements don't start on a new line and fit within the flow of surrounding text.",
+  "content": "The concept that explains how inline-level elements, like text or links, are arranged horizontally within a line. These elements sit next to each other and if there's not enough space, the content wraps to the next line. Inline elements don't start on a new line and fit within the flow of surrounding text.",
   "extensions": {}
 }

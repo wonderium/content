@@ -1,6 +1,6 @@
 {
   "title": "[aria-pressed]",
-  "description": "The `aria-pressed` ARIA attribute specifies the state of a toggle button, indicating whether it’s pressed or not.",
+  "description": "The `aria-pressed` ARIA attribute specifies the state of a toggle button, indicating whether it's pressed or not.",
   "categories": [
     "attribute"
   ],

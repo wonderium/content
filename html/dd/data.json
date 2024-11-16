@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that defines a description or value for a term in a `<dl>` (description list). It’s used alongside `<dt>` (term) elements to create a list of terms and their corresponding definitions or descriptions.",
+  "content": "The element that defines a description or value for a term in a `<dl>` (description list). It's used alongside `<dt>` (term) elements to create a list of terms and their corresponding definitions or descriptions.",
   "extensions": {
     "compatibility": {
       "browsers": {

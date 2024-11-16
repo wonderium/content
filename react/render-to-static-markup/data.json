@@ -4,6 +4,6 @@
   "categories": [
     "API"
   ],
-  "content": "The function that renders a React component to static HTML markup without adding extra React-specific attributes. This is useful for generating static HTML content that doesn’t require React’s functionality on the client side.",
+  "content": "The function that renders a React component to static HTML markup without adding extra React-specific attributes. This is useful for generating static HTML content that doesn't require React's functionality on the client side.",
   "extensions": {}
 }

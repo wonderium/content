@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that represents a self-contained piece of content, such as a blog post, news article or forum entry. It’s designed to be independently distributable or reusable and often includes related elements like headings, paragraphs and media.",
+  "content": "The element that represents a self-contained piece of content, such as a blog post, news article or forum entry. It's designed to be independently distributable or reusable and often includes related elements like headings, paragraphs and media.",
   "extensions": {
     "compatibility": {
       "browsers": {

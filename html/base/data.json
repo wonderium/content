@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that sets the base URL for all relative URLs in a document. It’s placed inside the `<head>` and ensures that links, images and other resources use the specified base path if their URLs are relative.",
+  "content": "The element that sets the base URL for all relative URLs in a document. It's placed inside the `<head>` and ensures that links, images and other resources use the specified base path if their URLs are relative.",
   "extensions": {
     "compatibility": {
       "browsers": {

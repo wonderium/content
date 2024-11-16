@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The browser API method that returns a `NodeList` of all elements within the document that match a specified CSS selector. It’s useful for selecting multiple elements from the DOM based on their CSS selectors.",
+  "content": "The browser API method that returns a `NodeList` of all elements within the document that match a specified CSS selector. It's useful for selecting multiple elements from the DOM based on their CSS selectors.",
   "extensions": {
     "compatibility": {
       "browsers": {

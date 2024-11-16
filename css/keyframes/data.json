@@ -4,7 +4,7 @@
   "categories": [
     "directive"
   ],
-  "content": "The directive that defines the steps in an animation by specifying how an element’s styles should change at different points during the animation. It allows to create complex animations by controlling the transformation of properties over time.",
+  "content": "The directive that defines the steps in an animation by specifying how an element's styles should change at different points during the animation. It allows creating complex animations by controlling the transformation of properties over time.",
   "extensions": {
     "compatibility": {
       "browsers": {

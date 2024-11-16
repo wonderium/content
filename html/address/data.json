@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that is used to provide contact information for the author or owner of a document or article. It’s often used to display physical addresses, email addresses or other contact details in a standardized format.",
+  "content": "The element that is used to provide contact information for the author or owner of a document or article. It's often used to display physical addresses, email addresses or other contact details in a standardized format.",
   "extensions": {
     "compatibility": {
       "browsers": {

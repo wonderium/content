@@ -4,7 +4,7 @@
   "categories": [
     "pseudo-element"
   ],
-  "content": "The pseudo-element that styles the first letter of a block-level element, like a paragraph. It’s commonly used to create drop caps or to highlight the first letter in a special way, adding a decorative or emphasis effect to text.",
+  "content": "The pseudo-element that styles the first letter of a block-level element, like a paragraph. It's commonly used to create drop caps or to highlight the first letter in a special way, adding a decorative or emphasis effect to text.",
   "extensions": {
     "compatibility": {
       "browsers": {

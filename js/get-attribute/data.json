@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The browser API method that returns the value of a specified attribute on an HTML element. If the attribute doesn’t exist, it returns `null`.",
+  "content": "The browser API method that returns the value of a specified attribute on an HTML element. If the attribute doesn't exist, it returns `null`.",
   "extensions": {
     "compatibility": {
       "browsers": {

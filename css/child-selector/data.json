@@ -4,7 +4,7 @@
   "categories": [
     "selector"
   ],
-  "content": "The selector that targets an element that is a direct child of another element. It’s written using the '>' symbol and allows to apply styles only to the immediate children of a specific parent, offering more control over nested elements.",
+  "content": "The selector that targets an element that is a direct child of another element. It's written using the '>' symbol and allows applying styles only to the immediate children of a specific parent, offering more control over nested elements.",
   "extensions": {
     "compatibility": {
       "browsers": {

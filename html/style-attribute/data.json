@@ -4,7 +4,7 @@
   "categories": [
     "attribute"
   ],
-  "content": "The attribute that allows to apply CSS styles directly to an individual HTML element. It’s useful for quick, inline styling but is generally less flexible than using external or internal CSS.",
+  "content": "The attribute that allows applying CSS styles directly to an individual HTML element. It's useful for quick, inline styling but is generally less flexible than using external or internal CSS.",
   "extensions": {
     "compatibility": {
       "browsers": {

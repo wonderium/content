@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that contains CSS rules used to style the webpage. It’s placed within the `<head>` section and applies styles directly to the elements on the page.",
+  "content": "The element that contains CSS rules used to style the webpage. It's placed within the `<head>` section and applies styles directly to the elements on the page.",
   "extensions": {
     "compatibility": {
       "browsers": {

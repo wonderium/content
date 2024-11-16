@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that specifies which CSS properties should be animated during a transition. It allows to select specific properties, such as `opacity` or `background-color` to change gradually over a defined duration, creating smooth visual effects.",
+  "content": "The property that specifies which CSS properties should be animated during a transition. It allows selecting specific properties, such as `opacity` or `background-color` to change gradually over a defined duration, creating smooth visual effects.",
   "extensions": {
     "compatibility": {
       "browsers": {

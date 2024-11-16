@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The shorthand property that combines `align-self` and `justify-self` properties to control the alignment of a single grid or flex item within its container. It allows to override the container's alignment settings for a specific item, positioning it precisely within its cell.",
+  "content": "The shorthand property that combines `align-self` and `justify-self` properties to control the alignment of a single grid or flex item within its container. It allows overriding the container's alignment settings for a specific item, positioning it precisely within its cell.",
   "extensions": {
     "compatibility": {
       "browsers": {

@@ -1,10 +1,10 @@
 {
   "title": "Number.NEGATIVE_INFINITY",
-  "description": "The `Number.NEGATIVE_INFINITY` JS constant represents negative infinity. It’s returned on overflow.",
+  "description": "The `Number.NEGATIVE_INFINITY` JS constant represents negative infinity. It's returned on overflow.",
   "categories": [
     "constant"
   ],
-  "content": "The constant that represents negative infinity. It’s returned when a negative number overflows, such as when dividing a negative number by zero.",
+  "content": "The constant that represents negative infinity. It's returned when a negative number overflows, such as when dividing a negative number by zero.",
   "extensions": {
     "compatibility": {
       "browsers": {

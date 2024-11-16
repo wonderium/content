@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static browser API method that outputs a warning message to the console. It’s usually displayed in yellow text, indicating that something might be wrong but not necessarily critical.",
+  "content": "The static browser API method that outputs a warning message to the console. It's usually displayed in yellow text, indicating that something might be wrong but not necessarily critical.",
   "extensions": {
     "compatibility": {
       "browsers": {

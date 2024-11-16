@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static browser API method that clears all messages from the console if the environment allows it. It’s used to create a clean slate for logging new information.",
+  "content": "The static browser API method that clears all messages from the console if the environment allows it. It's used to create a clean slate for logging new information.",
   "extensions": {
     "compatibility": {
       "browsers": {

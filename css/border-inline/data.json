@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that sets the border on the inline-start and inline-end sides of an element, which correspond to the left and right sides in a horizontal writing mode. It’s a shorthand for `border-inline-start` and `border-inline-end`, useful for styling borders on inline sides.",
+  "content": "The property that sets the border on the inline-start and inline-end sides of an element, which correspond to the left and right sides in a horizontal writing mode. It's a shorthand for `border-inline-start` and `border-inline-end`, useful for styling borders on inline sides.",
   "extensions": {
     "compatibility": {
       "browsers": {

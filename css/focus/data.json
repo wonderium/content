@@ -4,7 +4,7 @@
   "categories": [
     "pseudo-class"
   ],
-  "content": "The pseudo-class that targets an element when it receives focus, such as when a user clicks on an input field or navigates to it using the keyboard. It’s used to style elements to indicate that they are active or ready for interaction, often changing their appearance to help users identify the focused element.",
+  "content": "The pseudo-class that targets an element when it receives focus, such as when a user clicks on an input field or navigates to it using the keyboard. It's used to style elements to indicate that they are active or ready for interaction, often changing their appearance to help users identify the focused element.",
   "extensions": {
     "compatibility": {
       "browsers": {

@@ -4,7 +4,7 @@
   "categories": [
     "pseudo-class"
   ],
-  "content": "The pseudo-class that targets the first element of its type within a parent, such as the first paragraph or first image. It’s useful for styling the first occurrence of a specific element differently from others of the same type in a container.",
+  "content": "The pseudo-class that targets the first element of its type within a parent, such as the first paragraph or first image. It's useful for styling the first occurrence of a specific element differently from others of the same type in a container.",
   "extensions": {
     "compatibility": {
       "browsers": {

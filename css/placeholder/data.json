@@ -4,7 +4,7 @@
   "categories": [
     "pseudo-element"
   ],
-  "content": "The pseudo-element used to style the placeholder text within an input or textarea element. It allows to change the appearance of the placeholder, such as its color, font or opacity, without affecting the input text itself.",
+  "content": "The pseudo-element used to style the placeholder text within an input or textarea element. It allows changing the appearance of the placeholder, such as its color, font or opacity, without affecting the input text itself.",
   "extensions": {
     "compatibility": {
       "browsers": {

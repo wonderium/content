@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The function that applies a blur effect to an element, making it appear out of focus. It’s often used in conjunction with filters to create soft, hazy visuals or to de-emphasize parts of an image.",
+  "content": "The function that applies a blur effect to an element, making it appear out of focus. It's often used in conjunction with filters to create soft, hazy visuals or to de-emphasize parts of an image.",
   "extensions": {
     "compatibility": {
       "browsers": {

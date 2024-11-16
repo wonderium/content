@@ -4,7 +4,7 @@
   "categories": [
     "pseudo-class"
   ],
-  "content": "The pseudo-class that selects input elements whose values fall within a specified range, as defined by the `min` and `max` attributes. It’s typically used with forms to apply styles when the user's input is valid and within acceptable limits.",
+  "content": "The pseudo-class that selects input elements whose values fall within a specified range, as defined by the `min` and `max` attributes. It's typically used with forms to apply styles when the user's input is valid and within acceptable limits.",
   "extensions": {
     "compatibility": {
       "browsers": {

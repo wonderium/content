@@ -4,7 +4,7 @@
   "categories": [
     "object"
   ],
-  "content": "The object that represents an error related to the global `eval()` function, though it’s rarely used in modern JavaScript. It’s part of the standard `Error` object hierarchy and exists primarily for compatibility with older code.",
+  "content": "The object that represents an error related to the global `eval()` function, though it's rarely used in modern JavaScript. It's part of the standard `Error` object hierarchy and exists primarily for compatibility with older code.",
   "extensions": {
     "compatibility": {
       "browsers": {

@@ -4,7 +4,7 @@
   "categories": [
     "constant" 
   ],
-  "content": "The property that provides the base-10 logarithm of `e` (Euler's number), approximately 0.43429. It’s the reciprocal of `Math.LN10`.",
+  "content": "The property that provides the base-10 logarithm of `e` (Euler's number), approximately 0.43429. It's the reciprocal of `Math.LN10`.",
   "extensions": {
     "compatibility": {
       "browsers": {

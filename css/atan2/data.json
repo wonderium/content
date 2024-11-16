@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The math function that returns the angle in radians given the `x` and `y` coordinates. It’s commonly used to find the direction of a point from the origin, helping to calculate angles in more complex situations.",
+  "content": "The math function that returns the angle in radians given the `x` and `y` coordinates. It's commonly used to find the direction of a point from the origin, helping to calculate angles in more complex situations.",
   "extensions": {
     "compatibility": {
       "browsers": {

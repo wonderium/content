@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static method that returns the hyperbolic cosine of a given number. It’s defined for all real numbers and provides the result in radians.",
+  "content": "The static method that returns the hyperbolic cosine of a given number. It's defined for all real numbers and provides the result in radians.",
   "extensions": {
     "compatibility": {
       "browsers": {

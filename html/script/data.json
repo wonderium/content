@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that is used to embed or reference executable code, typically JavaScript. It allows to add interactivity, functionality or manipulate the content of the webpage.",
+  "content": "The element that is used to embed or reference executable code, typically JavaScript. It allows adding interactivity, functionality or manipulate the content of the webpage.",
   "extensions": {
     "compatibility": {
       "browsers": {

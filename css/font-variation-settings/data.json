@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that provides fine-grained control over variable fonts by adjusting specific axes, such as weight, width or slant. It allows to customize the appearance of a font beyond predefined styles, offering flexibility in font design.",
+  "content": "The property that provides fine-grained control over variable fonts by adjusting specific axes, such as weight, width or slant. It allows customizing the appearance of a font beyond predefined styles, offering flexibility in font design.",
   "extensions": {
     "compatibility": {
       "browsers": {

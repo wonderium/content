@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The browser API method that traverses the DOM to find the nearest ancestor of the current element that matches a given selector. It’s often used to find parent elements based on specific criteria.",
+  "content": "The browser API method that traverses the DOM to find the nearest ancestor of the current element that matches a given selector. It's often used to find parent elements based on specific criteria.",
   "extensions": {
     "compatibility": {
       "browsers": {

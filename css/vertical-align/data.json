@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that aligns inline-level elements or table cells vertically relative to their line box or containing element. It’s useful for adjusting the positioning of text or images within a line or cell, such as aligning text to the middle or top of a container.",
+  "content": "The property that aligns inline-level elements or table cells vertically relative to their line box or containing element. It's useful for adjusting the positioning of text or images within a line or cell, such as aligning text to the middle or top of a container.",
   "extensions": {
     "compatibility": {
       "browsers": {

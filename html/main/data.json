@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that represents the main content of a webpage. It’s intended to contain the most important information on the page, helping screen readers and search engines differ the central content from other parts like headers or footers.",
+  "content": "The element that represents the main content of a webpage. It's intended to contain the most important information on the page, helping screen readers and search engines differ the central content from other parts like headers or footers.",
   "extensions": {
     "compatibility": {
       "browsers": {

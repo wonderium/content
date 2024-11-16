@@ -5,7 +5,7 @@
     "syntax",
     "keyword"
   ],
-  "content": "The keyword used to declare variables with block scope, meaning the variable is only accessible within the block in which it’s defined. Unlike `var`, variables declared with `let` cannot be re-declared in the same scope.",
+  "content": "The keyword used to declare variables with block scope, meaning the variable is only accessible within the block in which it's defined. Unlike `var`, variables declared with `let` cannot be re-declared in the same scope.",
   "extensions": {
     "compatibility": {
       "browsers": {

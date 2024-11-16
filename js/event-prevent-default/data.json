@@ -1,6 +1,6 @@
 {
   "title": ".preventDefault()",
-  "description": "The `.preventDefault()` JS browser API method of an `Event` object cancels the event if it’s cancelable, preventing the default action.",
+  "description": "The `.preventDefault()` JS browser API method of an `Event` object cancels the event if it's cancelable, preventing the default action.",
   "categories": [
     "method"
   ],

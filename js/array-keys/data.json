@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The method that returns a new `Iterator` object containing the indexes (keys) of an array. This allows to loop over the positions of the elements in the array.",
+  "content": "The method that returns a new `Iterator` object containing the indexes (keys) of an array. This allows looping over the positions of the elements in the array.",
   "extensions": {
     "compatibility": {
       "browsers": {

@@ -4,7 +4,7 @@
   "categories": [
     "constant"
   ],
-  "content": "The property that returns the value of π (pi), approximately 3.14159. It’s commonly used in calculations involving circles and trigonometric functions.",
+  "content": "The property that returns the value of π (pi), approximately 3.14159. It's commonly used in calculations involving circles and trigonometric functions.",
   "extensions": {
     "compatibility": {
       "browsers": {

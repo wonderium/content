@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that creates a clipping region, allowing to hide parts of an element or make it visible in a specific shape, like a circle, polygon or custom path. This is useful for creative designs and masking effects.",
+  "content": "The property that creates a clipping region, enabling to hide parts of an element or make it visible in a specific shape, like a circle, polygon or custom path. This is useful for creative designs and masking effects.",
   "extensions": {
     "compatibility": {
       "browsers": {

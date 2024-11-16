@@ -4,7 +4,7 @@
   "categories": [
     "pseudo-class"
   ],
-  "content": "The pseudo-class that targets the first child element of a parent. It’s used to apply styles specifically to the first item in a list, the first paragraph in a section or any other first child element, making it stand out from its siblings.",
+  "content": "The pseudo-class that targets the first child element of a parent. It's used to apply styles specifically to the first item in a list, the first paragraph in a section or any other first child element, making it stand out from its siblings.",
   "extensions": {
     "compatibility": {
       "browsers": {

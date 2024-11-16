@@ -4,7 +4,7 @@
   "categories": [
     "constant"
   ],
-  "content": "The constant that represents the difference between 1 and the smallest floating-point number greater than 1. It’s used to handle precision issues in floating-point arithmetic.",
+  "content": "The constant that represents the difference between 1 and the smallest floating-point number greater than 1. It's used to handle precision issues in floating-point arithmetic.",
   "extensions": {
     "compatibility": {
       "browsers": {

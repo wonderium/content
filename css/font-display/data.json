@@ -1,10 +1,10 @@
 {
   "title": "font-display",
-  "description": "The `font-display` CSS property specifies how a custom font should be displayed while it’s being downloaded or when it fails to load.",
+  "description": "The `font-display` CSS property specifies how a custom font should be displayed while it's being downloaded or when it fails to load.",
   "categories": [
     "property"
   ],
-  "content": "The property that defines how a font is displayed while it’s loading or when it fails to load. Options include 'auto', 'block', 'swap', 'fallback' and 'optional', each of which controls how text is rendered during the loading process to balance between usability and visual consistency.",
+  "content": "The property that defines how a font is displayed while it's loading or when it fails to load. Options include 'auto', 'block', 'swap', 'fallback' and 'optional', each of which controls how text is rendered during the loading process to balance between usability and visual consistency.",
   "extensions": {
     "compatibility": {
       "browsers": {

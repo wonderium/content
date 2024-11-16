@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that controls whether a font’s optical sizing feature is used. Optical sizing automatically adjusts the font’s design based on the size of the text, ensuring it remains legible and aesthetically pleasing at different sizes.",
+  "content": "The property that controls whether a font's optical sizing feature is used. Optical sizing automatically adjusts the font's design based on the size of the text, ensuring it remains legible and aesthetically pleasing at different sizes.",
   "extensions": {
     "compatibility": {
       "browsers": {

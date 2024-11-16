@@ -4,7 +4,7 @@
   "categories": [
     "concept"
   ],
-  "content": "The units that are relative to another length value, such as the size of the parent element or the root element’s font size. Common relative units include 'em', 'rem', 'vw' and 'vh' allowing for flexible and responsive designs that adapt to different screen sizes and contexts.",
+  "content": "The units that are relative to another length value, such as the size of the parent element or the root element's font size. Common relative units include 'em', 'rem', 'vw' and 'vh' allowing for flexible and responsive designs that adapt to different screen sizes and contexts.",
   "extensions": {
     "compatibility": {
       "browsers": {

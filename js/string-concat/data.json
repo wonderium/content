@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The method that combines two or more strings into a single string. It doesn’t modify the original strings but returns a new string with the combined content.",
+  "content": "The method that combines two or more strings into a single string. It doesn't modify the original strings but returns a new string with the combined content.",
   "extensions": {
     "compatibility": {
       "browsers": {

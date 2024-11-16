@@ -4,7 +4,7 @@
   "categories": [
     "pseudo-class"
   ],
-  "content": "The pseudo-class that applies styles to an element when it’s being clicked or activated by the user. This is often used to create visual feedback, like changing the color of a button when it's pressed.",
+  "content": "The pseudo-class that applies styles to an element when it's being clicked or activated by the user. This is often used to create visual feedback, like changing the color of a button when it's pressed.",
   "extensions": {
     "compatibility": {
       "browsers": {

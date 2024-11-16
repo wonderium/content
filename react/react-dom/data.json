@@ -4,6 +4,6 @@
   "categories": [
     "concept"
   ],
-  "content": "The package that provides the tools needed to render React components into the DOM (Document Object Model) of a web page. It connects React’s virtual DOM with the actual DOM, enabling the display and interaction of React components in the browser.",
+  "content": "The package that provides the tools needed to render React components into the DOM (Document Object Model) of a web page. It connects React's virtual DOM with the actual DOM, enabling the display and interaction of React components in the browser.",
   "extensions": {}
 }

@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that controls whether flex items are forced onto a single line or can wrap onto multiple lines within a flex container. It helps manage how items flow when there’s not enough space, allowing for more flexible and responsive designs.",
+  "content": "The property that controls whether flex items are forced onto a single line or can wrap onto multiple lines within a flex container. It helps manage how items flow when there's not enough space, allowing for more flexible and responsive designs.",
   "extensions": {
     "compatibility": {
       "browsers": {

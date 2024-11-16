@@ -4,7 +4,7 @@
   "categories": [
     "function"
   ],
-  "content": "The math function that performs calculations to determine values for properties like `width`, `margin` or `padding`. It allows to mix units and do math directly in CSS, providing more flexibility and precision in design.",
+  "content": "The math function that performs calculations to determine values for properties like `width`, `margin` or `padding`. It allows mixing units and do math directly in CSS, providing more flexibility and precision in design.",
   "extensions": {
     "compatibility": {
       "browsers": {

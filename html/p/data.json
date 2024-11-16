@@ -1,10 +1,10 @@
 {
   "title": "<p>",
-  "description": "The `<p>` HTML element defines a paragraph of text. It’s used to structure and format blocks of text within a web page.",
+  "description": "The `<p>` HTML element defines a paragraph of text. It's used to structure and format blocks of text within a web page.",
   "categories": [
     "tag"
   ],
-  "content": "The element that represents a paragraph of text. It’s a block-level element that adds vertical space before and after the text, making content more readable by separating different ideas or sections.",
+  "content": "The element that represents a paragraph of text. It's a block-level element that adds vertical space before and after the text, making content more readable by separating different ideas or sections.",
   "extensions": {
     "compatibility": {
       "browsers": {

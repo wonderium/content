@@ -5,7 +5,7 @@
     "property",
     "object"
   ],
-  "content": "The browser API property that enables web applications to present content on secondary displays, such as projectors or smart TVs. It’s useful for scenarios like presentations or sharing media on larger screens.",
+  "content": "The browser API property that enables web applications to present content on secondary displays, such as projectors or smart TVs. It's useful for scenarios like presentations or sharing media on larger screens.",
   "extensions": {
     "compatibility": {
       "browsers": {

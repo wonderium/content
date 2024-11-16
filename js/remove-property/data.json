@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The browser API method used to remove a specified CSS property from a style declaration object. It’s commonly used to dynamically change or reset styles applied to elements.",
+  "content": "The browser API method used to remove a specified CSS property from a style declaration object. It's commonly used to dynamically change or reset styles applied to elements.",
   "extensions": {
     "compatibility": {
       "browsers": {

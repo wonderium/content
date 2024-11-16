@@ -4,7 +4,7 @@
   "categories": [
     "pseudo-element"
   ],
-  "content": "The pseudo-element that targets the first line of text in a block-level element, such as a paragraph. It allows to apply specific styles, like a different font or color, to just the first line, helping to draw attention or improve readability.",
+  "content": "The pseudo-element that targets the first line of text in a block-level element, such as a paragraph. It allows applying specific styles, like a different font or color, to just the first line, helping to draw attention or improve readability.",
   "extensions": {
     "compatibility": {
       "browsers": {

@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that specifies how an element’s content should fit within its container. It works with replaced elements like images and videos, allowing to set the content to 'contain', 'cover', 'fill', 'scale-down' or 'none', adjusting how it scales and fits.",
+  "content": "The property that specifies how an element's content should fit within its container. It works with replaced elements like images and videos, enabling to set the content to 'contain', 'cover', 'fill', 'scale-down' or 'none', adjusting how it scales and fits.",
   "extensions": {
     "compatibility": {
       "browsers": {

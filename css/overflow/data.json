@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that determines how content is handled when it overflows the bounds of its container. It can be set to values like 'visible', 'hidden', 'scroll' or 'auto', allowing to control whether the content is clipped, scrollable or visible beyond the container.",
+  "content": "The property that determines how content is handled when it overflows the bounds of its container. It can be set to values like 'visible', 'hidden', 'scroll' or 'auto', enabling to control whether the content is clipped, scrollable or visible beyond the container.",
   "extensions": {
     "compatibility": {
       "browsers": {

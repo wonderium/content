@@ -4,7 +4,7 @@
   "categories": [
     "pseudo-class"
   ],
-  "content": "The pseudo-class that targets form elements that are the default option, such as the default radio button or checkbox. It’s used to style the default choice in a form, making it stand out or fit the overall design.",
+  "content": "The pseudo-class that targets form elements that are the default option, such as the default radio button or checkbox. It's used to style the default choice in a form, making it stand out or fit the overall design.",
   "extensions": {
     "compatibility": {
       "browsers": {

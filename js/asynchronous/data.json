@@ -4,6 +4,6 @@
   "categories": [
     "concept"
   ],
-  "content": "The programming concept where tasks run independently from the main program flow. This allows the program to continue executing other code while waiting for tasks like data retrieval or file operations to complete. It’s commonly used to handle operations that may take time, such as network requests, without freezing the application.",
+  "content": "The programming concept where tasks run independently from the main program flow. This allows the program to continue executing other code while waiting for tasks like data retrieval or file operations to complete. It's commonly used to handle operations that may take time, such as network requests, without freezing the application.",
   "extensions": {}
 }

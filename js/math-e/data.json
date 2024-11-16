@@ -4,7 +4,7 @@
   "categories": [
     "constant"
   ],
-  "content": "The property that returns `e` (Euler's number), approximately 2.71828. It’s the base of natural logarithms and is commonly used in exponential growth calculations.",
+  "content": "The property that returns `e` (Euler's number), approximately 2.71828. It's the base of natural logarithms and is commonly used in exponential growth calculations.",
   "extensions": {
     "compatibility": {
       "browsers": {

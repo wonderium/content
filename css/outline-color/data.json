@@ -4,7 +4,7 @@
   "categories": [
     "property"
   ],
-  "content": "The property that specifies the color of an element’s outline. It allows to set the color of the line surrounding the element, which can be used for visual emphasis, focus states or decorative purposes.",
+  "content": "The property that specifies the color of an element's outline. It allows setting the color of the line surrounding the element, which can be used for visual emphasis, focus states or decorative purposes.",
   "extensions": {
     "compatibility": {
       "browsers": {

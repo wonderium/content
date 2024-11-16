@@ -4,6 +4,6 @@
   "categories": [
     "concept"
   ],
-  "content": "The fundamental concept that determines which styles are applied to an element when multiple rules could apply. It’s calculated based on the types of selectors used, with IDs having higher specificity than classes and classes having higher specificity than element selectors.",
+  "content": "The fundamental concept that determines which styles are applied to an element when multiple rules could apply. It's calculated based on the types of selectors used, with IDs having higher specificity than classes and classes having higher specificity than element selectors.",
   "extensions": {}
 }

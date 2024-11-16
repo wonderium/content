@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The method that checks if an array contains a specific value. It returns `true` if the value is found and `false` if it isn’t.",
+  "content": "The method that checks if an array contains a specific value. It returns `true` if the value is found and `false` if it isn't.",
   "extensions": {
     "compatibility": {
       "browsers": {

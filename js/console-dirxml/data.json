@@ -4,7 +4,7 @@
   "categories": [
     "method"
   ],
-  "content": "The static browser API method that prints an HTML or XML Element representation of a specified object to the console if possible or the JavaScript Object view if it’s not. It’s often used to display the DOM structure of an element in a readable format.",
+  "content": "The static browser API method that prints an HTML or XML Element representation of a specified object to the console if possible or the JavaScript Object view if it's not. It's often used to display the DOM structure of an element in a readable format.",
   "extensions": {
     "compatibility": {
       "browsers": {

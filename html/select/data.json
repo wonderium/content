@@ -4,7 +4,7 @@
   "categories": [
     "tag"
   ],
-  "content": "The element that creates a dropdown menu, allowing users to choose one or more options from a list. It’s commonly used in forms for selecting from a predefined set of options.",
+  "content": "The element that creates a dropdown menu, allowing users to choose one or more options from a list. It's commonly used in forms for selecting from a predefined set of options.",
   "extensions": {
     "compatibility": {
       "browsers": {

@@ -4,7 +4,7 @@
   "categories": [
     "method" 
   ],
-  "content": "The static method that returns the inverse hyperbolic tangent of a given number. It’s defined for numbers between -1 and 1 and provides a value in radians.",
+  "content": "The static method that returns the inverse hyperbolic tangent of a given number. It's defined for numbers between -1 and 1 and provides a value in radians.",
   "extensions": {
     "compatibility": {
       "browsers": {
