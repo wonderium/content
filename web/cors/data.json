@@ -1,0 +1,9 @@
+{
+  "title": "CORS",
+  "description": "The CORS (Cross-Origin Resource Sharing) is a security feature that allows or restricts web browsers from making requests to domains outside the origin domain.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The security feature that controls how resources on a web server can be requested from another domain. It helps prevent malicious websites from accessing sensitive data across different domains.",
+  "extensions": {}
+}

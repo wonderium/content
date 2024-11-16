@@ -1,0 +1,9 @@
+{
+  "title": "DELETE",
+  "description": "The `DELETE` method is used to request the removal of a resource from a server.",
+  "categories": [
+    "request method"
+  ],
+  "content": "The request method used to delete a resource from the server. Once processed, the resource is no longer available for retrieval or interaction.",
+  "extensions": {}
+}

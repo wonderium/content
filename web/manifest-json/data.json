@@ -1,0 +1,9 @@
+{
+  "title": "manifest.json",
+  "description": "The `manifest.json` file is a JSON file used in web development to define metadata for a web app, including its name, icons and theme colors, for a better user experience.",
+  "categories": [
+    "file"
+  ],
+  "content": "The JSON file used in web applications to specify app metadata, such as the app's name, icons and theme colors, enabling features like home screen installation on mobile devices.",
+  "extensions": {}
+}

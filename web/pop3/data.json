@@ -1,0 +1,9 @@
+{
+  "title": "POP3",
+  "description": "The POP3 (Post Office Protocol version 3) is a protocol used to download email messages from a mail server to a local device.",
+  "categories": [
+    "protocol"
+  ],
+  "content": "The protocol that allows email clients to download messages from a mail server to a local device, typically removing the messages from the server afterward.",
+  "extensions": {}
+}

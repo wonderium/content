@@ -1,0 +1,9 @@
+{
+  "title": "Network Device",
+  "description": "The Network Device is a hardware component that facilitates communication and data transfer within a computer network.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The hardware device used to connect and manage devices on a network. Examples include routers, switches and hubs that enable data flow between systems.",
+  "extensions": {}
+}

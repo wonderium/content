@@ -1,0 +1,9 @@
+{
+  "title": "DOM",
+  "description": "The DOM (Document Object Model) is a hierarchical structure representing HTML elements as nodes for web page manipulation.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The structured representation of a web page, where HTML elements are organized as a tree of nodes. Enables interaction with and manipulation of page content using JavaScript.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "OpenGraph",
+  "description": "The OpenGraph is a protocol used to structure data for social media platforms, enabling rich media previews of a webpage when shared on social networks.",
+  "categories": [
+    "protocol"
+  ],
+  "content": "The protocol that allows web pages to become rich objects in a social graph. It enables the display of enhanced media content (such as images, titles, descriptions and other metadata) when a webpage is shared on social media platforms like Facebook, LinkedIn and others. ",
+  "extensions": {}
+}

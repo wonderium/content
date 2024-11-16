@@ -1,0 +1,9 @@
+{
+  "title": "PATCH",
+  "description": "The `PATCH` method is used to apply partial modifications to an existing resource on a server.",
+  "categories": [
+    "request method"
+  ],
+  "content": "The request method used to apply partial updates to a resource. Unlike `PUT`, which replaces the entire resource, this method only modifies specified fields.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "CSSOM",
+  "description": "The CSSOM (CSS Object Model) is a structure created from CSS that represents styles applied to HTML elements in a web page.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The model that organizes CSS rules applied to HTML elements in a structured format. Works with the DOM to determine the appearance of a web page.",
+  "extensions": {}
+}

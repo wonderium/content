@@ -1,0 +1,9 @@
+{
+  "title": "CDN",
+  "description": "The CDN (Content Delivery Network) is a network of distributed servers that deliver web content and media to users based on their geographical location.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The network of distributed servers that provide web content and media efficiently by delivering it from the nearest server to the user. Enhances website performance and load times.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "UDP",
+  "description": "The UDP (User Datagram Protocol) is a communication protocol that sends data without ensuring reliability or order, offering faster transmission.",
+  "categories": [
+    "protocol"
+  ],
+  "content": "The faster communication protocol that sends data without ensuring its order or reliability. Suitable for applications that prioritize speed over reliability.",
+  "extensions": {}
+}

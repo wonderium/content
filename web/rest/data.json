@@ -1,0 +1,9 @@
+{
+  "title": "REST",
+  "description": "The REST (Representational State Transfer) is an architectural style for designing networked applications, using stateless communication and standard HTTP methods.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The architectural approach where communication between clients and servers is stateless and standard HTTP methods like `GET`, `POST`, `PUT` and `DELETE` are used to perform operations on resources.",
+  "extensions": {}
+}

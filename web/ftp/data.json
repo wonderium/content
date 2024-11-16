@@ -1,0 +1,9 @@
+{
+  "title": "FTP",
+  "description": "The FTP (File Transfer Protocol) is a protocol used for transferring files between a client and a server over a network.",
+  "categories": [
+    "protocol"
+  ],
+  "content": "The protocol that facilitates the transfer of files between computers over a network. Allows users to upload, download and manage files on remote servers.",
+  "extensions": {}
+}

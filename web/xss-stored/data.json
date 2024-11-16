@@ -1,0 +1,9 @@
+{
+  "title": "Stored XSS",
+  "description": "The Stored XSS (Cross-Site Scripting) is a vulnerability where an attacker injects malicious scripts into a website and these scripts are permanently stored on the server.",
+  "categories": [
+    "cyberattack"
+  ],
+  "content": "The type of cross-site scripting attack where malicious scripts are permanently stored on a server and later executed when a user accesses the compromised page.",
+  "extensions": {}
+}

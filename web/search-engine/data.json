@@ -1,0 +1,9 @@
+{
+  "title": "Search Engine",
+  "description": "The Search Engine is a web-based tool that indexes and retrieves online content based on user queries.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The web-based tool that indexes online content and retrieves it in response to user queries. Uses algorithms to rank and display results from the internet.",
+  "extensions": {}
+}

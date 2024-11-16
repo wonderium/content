@@ -1,0 +1,9 @@
+{
+  "title": "SOAP",
+  "description": "The SOAP (Simple Object Access Protocol) is a protocol used for exchanging structured information in web services using XML.",
+  "categories": [
+    "protocol"
+  ],
+  "content": "The protocol for exchanging structured information in web services, typically using XML to ensure compatibility across different platforms and languages.",
+  "extensions": {}
+}

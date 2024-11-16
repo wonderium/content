@@ -1,0 +1,9 @@
+{
+  "title": "Web Application",
+  "description": "The Web Application is a software program that runs in a web browser, allowing users to interact with it over the internet.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The software program that users interact with through a web browser. Runs over the internet, often enabling dynamic user interactions and data processing.",
+  "extensions": {}
+}

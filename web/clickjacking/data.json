@@ -1,0 +1,9 @@
+{
+  "title": "Clickjacking",
+  "description": "The Clickjacking is a malicious technique where a user is tricked into clicking on something different from what they perceive, potentially causing unintended actions.",
+  "categories": [
+    "cyberattack"
+  ],
+  "content": "The attack where a user is misled into clicking hidden or disguised elements on a webpage. This can lead to unintended actions like sharing private information or enabling unwanted features.",
+  "extensions": {}
+}

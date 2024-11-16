@@ -1,0 +1,9 @@
+{
+  "title": "sitemap.xml",
+  "description": "The`sitemap.xml` is a file that lists the pages of a website, helping search engines understand its structure and index it more efficiently.",
+  "categories": [
+    "file"
+  ],
+  "content": "The XML file that outlines the structure of a website and provides search engines with information about pages, videos and other resources to improve crawling and indexing.",
+  "extensions": {}
+}

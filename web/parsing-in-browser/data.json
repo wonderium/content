@@ -1,0 +1,9 @@
+{
+  "title": "Parsing in Browser",
+  "description": "The Parsing in Browser is the process of analyzing HTML, CSS and JavaScript to create structures needed for rendering a web page.",
+  "categories": [
+    "process"
+  ],
+  "content": "The process of analyzing HTML, CSS and JavaScript code to build structures for displaying a web page. This process transforms code into a DOM and CSSOM for rendering.",
+  "extensions": {}
+}

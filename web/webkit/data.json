@@ -1,0 +1,9 @@
+{
+  "title": "WebKit",
+  "description": "WebKit is an open-source browser engine used by Safari and previously by Chrome to render web pages.",
+  "categories": [
+    "browser engine"
+  ],
+  "content": "The open-source browser engine primarily used by Apple's Safari browser and previously by Chrome to render web pages. Responsible for interpreting HTML, CSS and JavaScript to display web pages accurately.",
+  "extensions": {}
+}

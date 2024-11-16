@@ -1,0 +1,9 @@
+{
+  "title": "WebSocket",
+  "description": "The WebSocket is a communication protocol that provides full-duplex, low-latency communication between clients and servers, allowing real-time data transfer.",
+  "categories": [
+    "protocol"
+  ],
+  "content": "The protocol that enables bidirectional communication between a client and server over a single, long-lived connection, allowing real-time updates with minimal overhead.",
+  "extensions": {}
+}

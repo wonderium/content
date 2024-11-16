@@ -1,0 +1,9 @@
+{
+  "title": "URL",
+  "description": "The URL (Uniform Resource Locator) is a web address used to identify and access resources on the internet.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The web address used to locate and access resources on the internet. Contains the protocol, domain and path to specific content or services.",
+  "extensions": {}
+}

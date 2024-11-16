@@ -1,0 +1,9 @@
+{
+  "title": "Event Sourcing",
+  "description": "The Event Sourcing approach in real-time client-server interaction enables continuous one-way data streaming from server to client, ensuring minimal latency for live data.",
+  "categories": [
+    "technique"
+  ],
+  "content": "The technique for maintaining a continuous one-way connection from server to client for streaming real-time events. Ideal for applications requiring minimal delay in delivering updates, typically without client responses.",
+  "extensions": {}
+}

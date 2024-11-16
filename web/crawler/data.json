@@ -1,0 +1,9 @@
+{
+  "title": "Crawler",
+  "description": "The Crawler is an automated program used by search engines to scan and index web pages by following links from page to page.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The automated program, often referred to as a spider or bot, used by search engines to discover and index content across the web by following hyperlinks.",
+  "extensions": {}
+}

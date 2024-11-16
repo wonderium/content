@@ -1,0 +1,9 @@
+{
+  "title": "Internet Provider",
+  "description": "The Internet Provider is a company that provides access to the internet through various services and connection types.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The company or organization that provides internet access to users and businesses. Connects users to the internet through various methods like fiber, DSL or cable.",
+  "extensions": {}
+}

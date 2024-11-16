@@ -1,0 +1,9 @@
+{
+  "title": "Browser Engine",
+  "description": "The Browser Engine is the core component in a web browser that interprets and displays web content.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The core part of a web browser responsible for rendering and interpreting web content. It transforms HTML, CSS and JavaScript into interactive web pages for the user, handles events, executes JavaScript code and manages the DOM for dynamic content updates.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "IP Address",
+  "description": "The IP Address is a unique identifier assigned to each device on a network to enable communication over the internet.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The unique identifier for devices on a network. It ensures proper communication by assigning each device a numerical label that distinguishes it from others.",
+  "extensions": {}
+}

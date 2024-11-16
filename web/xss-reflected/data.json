@@ -1,0 +1,9 @@
+{
+  "title": "Reflected XSS",
+  "description": "The Reflected XSS (Cross-Site Scripting) is a vulnerability where an attacker injects a malicious script that is immediately executed upon loading a web page, without being stored on the server.",
+  "categories": [
+    "cyberattack"
+  ],
+  "content": "The type of cross-site scripting attack where the injected script is executed immediately when a user accesses a compromised page, without being stored on the server.",
+  "extensions": {}
+}

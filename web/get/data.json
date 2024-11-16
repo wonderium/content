@@ -1,0 +1,9 @@
+{
+  "title": "GET",
+  "description": "The `GET` method is used to request data from a server, typically for retrieving resources without modifying them.",
+  "categories": [
+    "request method"
+  ],
+  "content": "The request method used to retrieve data from a server. It's typically used to request resources like web pages or API data without making changes to them.",
+  "extensions": {}
+}

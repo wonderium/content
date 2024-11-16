@@ -1,0 +1,9 @@
+{
+  "title": "HTTP Response Codes",
+  "description": "The HTTP Response Codes are three-digit codes sent by the server to indicate the result of an HTTP request.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The three-digit codes sent by the server to indicate the outcome of an HTTP request. Codes are grouped by categories like success (2xx), client errors (4xx) and server errors (5xx).",
+  "extensions": {}
+}

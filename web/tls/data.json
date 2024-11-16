@@ -1,0 +1,9 @@
+{
+  "title": "TLS",
+  "description": "The TLS (Transport Layer Security) protocol provides encryption for secure communication over the internet, succeeding SSL with improved security.",
+  "categories": [
+    "protocol"
+  ],
+  "content": "The encryption protocol that provides secure communication over the internet. Succeeds SSL with enhanced security features to ensure better data privacy and integrity. It improves upon SSL by addressing its vulnerabilities, making it the current standard for encrypting data between servers and browsers.",
+  "extensions": {}
+}

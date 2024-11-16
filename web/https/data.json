@@ -1,0 +1,9 @@
+{
+  "title": "HTTPS",
+  "description": "The HTTPS (Hypertext Transfer Protocol Secure) is an extension of HTTP that uses encryption to secure data exchanged between the client and server.",
+  "categories": [
+    "protocol"
+  ],
+  "content": "The secure version of HTTP that encrypts data exchanged between the client and server. It ensures privacy and data integrity for online communications.",
+  "extensions": {}
+}

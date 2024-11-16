@@ -1,0 +1,9 @@
+{
+  "title": "CSRF",
+  "description": "The CSRF (Cross-Site Request Forgery) is a security vulnerability that tricks a user into performing unwanted actions on a web application where they are authenticated.",
+  "categories": [
+    "cyberattack"
+  ],
+  "content": "The type of attack where malicious scripts make unauthorized requests on behalf of an authenticated user, potentially causing unintended actions like changing account settings.",
+  "extensions": {}
+}

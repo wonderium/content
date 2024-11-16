@@ -1,0 +1,9 @@
+{
+  "title": "Nginx",
+  "description": "Nginx is a high-performance, open-source web server and reverse proxy server, known for its speed, scalability and efficient handling of large numbers of concurrent connections.",
+  "categories": [
+    "web server"
+  ],
+  "content": "The open-source web server and reverse proxy server designed for high performance and scalability. It's optimized for handling a large number of concurrent connections and uses an asynchronous, event-driven architecture. Instead of a traditional multi-threaded approach, it processes each connection within a single thread, distributing tasks across asynchronous events. ",
+  "extensions": {}
+}

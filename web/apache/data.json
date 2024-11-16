@@ -1,0 +1,9 @@
+{
+  "title": "Apache",
+  "description": "Apache is a widely used open-source web server software known for its flexibility, scalability and robust performance in serving static and dynamic content.",
+  "categories": [
+    "web server"
+  ],
+  "content": "The open-source web server that is popular for its ability to serve static and dynamic content. It supports a variety of programming languages and modules for customization. It can handle multiple requests using a multi-threaded approach with the worker or event MPM or a multi-process, single-threaded model with the prefork MPM.",
+  "extensions": {}
+}

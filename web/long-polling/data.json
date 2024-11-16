@@ -1,0 +1,9 @@
+{
+  "title": "Long Polling",
+  "description": "The Long Polling is a web communication technique where the client sends a request to the server and waits for the server to respond, maintaining the connection until new data is available.",
+  "categories": [
+    "technique"
+  ],
+  "content": "The technique where the client sends a request to the server and holds the connection open until the server responds with new data, minimizing the delay between the client and server.",
+  "extensions": {}
+}

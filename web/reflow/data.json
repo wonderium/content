@@ -1,0 +1,9 @@
+{
+  "title": "Reflow",
+  "description": "The Reflow is a browser process that recalculates layout when changes affect element positions or sizes on the page.",
+  "categories": [
+    "process"
+  ],
+  "content": "The browser process that recalculates the layout due to changes in content, style or size of elements. Can be resource-intensive if frequently triggered.",
+  "extensions": {}
+}

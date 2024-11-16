@@ -1,0 +1,9 @@
+{
+  "title": "PUT",
+  "description": "The `PUT` method is used to send data to a server to update an existing resource or create it if it doesn't exist.",
+  "categories": [
+    "request method"
+  ],
+  "content": "The request method used to update an existing resource or create it if it doesn't already exist. The data sent by this method replaces the existing resource's content.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Domain Name",
+  "description": "The Domain Name is the unique, human-readable address of a website on the internet, used to identify and locate resources.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The unique, human-readable address of a website on the internet. Translates IP addresses into easy-to-remember names for accessing web resources.",
+  "extensions": {}
+}

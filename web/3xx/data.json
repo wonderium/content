@@ -1,0 +1,9 @@
+{
+  "title": "3xx",
+  "description": "The 3xx HTTP status codes indicate that the client must take additional actions to complete the request, typically involving redirects.",
+  "categories": [
+    "response code"
+  ],
+  "content": "The group of HTTP status codes used to inform the client that the requested resource has been moved or redirected. The client must follow the provided location to complete the request.",
+  "extensions": {}
+}

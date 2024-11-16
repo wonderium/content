@@ -1,0 +1,9 @@
+{
+  "title": "ISR",
+  "description": "The ISR (Incremental Static Regeneration) is a method of static site generation that allows static pages to be updated after build time, on a per-page basis.",
+  "categories": [
+    "technique"
+  ],
+  "content": "The web development technique that combines static site generation with the ability to update static pages after the initial build, enabling real-time content updates without rebuilding the entire site.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "2xx",
+  "description": "The 2xx HTTP status codes indicate that the request was successfully processed by the server.",
+  "categories": [
+    "response code"
+  ],
+  "content": "The group of HTTP status codes used to signify that the client's request has been successfully processed by the server. Common examples include 200 for OK and 201 for Created.",
+  "extensions": {}
+}

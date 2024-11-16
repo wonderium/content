@@ -1,0 +1,9 @@
+{
+  "title": "SMTP",
+  "description": "The SMTP (Simple Mail Transfer Protocol) is a protocol used to send email messages between servers and from clients to servers.",
+  "categories": [
+    "protocol"
+  ],
+  "content": "The protocol used to send emails from a client to a mail server or between servers. Ensures that emails are transmitted properly across networks.",
+  "extensions": {}
+}

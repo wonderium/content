@@ -1,0 +1,9 @@
+{
+  "title": "TCP",
+  "description": "The TCP (Transmission Control Protocol) is a protocol that ensures reliable, ordered data transmission over a network.",
+  "categories": [
+    "protocol"
+  ],
+  "content": "The protocol that guarantees reliable data transmission between devices by ensuring that data packets are received in order and without errors.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "5xx",
+  "description": "The 5xx HTTP status codes indicate that there was an error on the server's side while processing the request.",
+  "categories": [
+    "response code"
+  ],
+  "content": "The group of HTTP status codes that signal server-side errors. These codes are used when the server fails to complete a valid request, such as 500 for Internal Server Error and 502 for Bad Gateway.",
+  "extensions": {}
+}

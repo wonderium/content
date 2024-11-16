@@ -1,0 +1,9 @@
+{
+  "title": "Router",
+  "description": "The Router is a network device that directs data packets between computers and the internet or across a local network.",
+  "categories": [
+    "device"
+  ],
+  "content": "The network device that directs data packets between local networks or connects to the internet. Ensures efficient data transmission and can often manage network security.",
+  "extensions": {}
+} 
