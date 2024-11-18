@@ -1,0 +1,9 @@
+{
+  "title": "protected",
+  "description": "The `protected` access modifier in TypeScript limits class member access to the class and its subclasses.",
+  "categories": [
+    "keyword"
+  ],
+  "content": "The access modifier that allows access to a class member within the class and derived classes. Helps in controlled sharing of data with subclasses.",
+  "extensions": {}
+}

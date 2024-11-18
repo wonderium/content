@@ -1,0 +1,9 @@
+{
+  "title": "extends",
+  "description": "The `extends` keyword in TypeScript allows creating new interfaces by adding properties to an existing interface.",
+  "categories": [
+    "keyword"
+  ],
+  "content": "The keyword that allows expanding existing interfaces by adding additional properties, enabling interface reuse and growth while ensuring consistency.",
+  "extensions": {}
+}

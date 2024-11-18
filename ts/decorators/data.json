@@ -1,0 +1,9 @@
+{
+  "title": "Decorators",
+  "description": "The Decorators feature in TypeScript enables annotation of classes and methods with metadata, providing additional functionality.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The special syntax for adding metadata or modifying behavior of classes, methods and properties. Used to apply reusable logic, often for dependency injection or logging.",
+  "extensions": {}
+}

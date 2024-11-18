@@ -1,0 +1,9 @@
+{
+  "title": "Ambient Modules",
+  "description": "The Ambient Modules feature in TypeScript defines external modules without explicit declarations, supporting seamless imports.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The module declarations that define types or interfaces from external sources without implementation. Useful for describing modules from libraries or third-party code.",
+  "extensions": {}
+}

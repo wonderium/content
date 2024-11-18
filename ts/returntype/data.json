@@ -1,0 +1,9 @@
+{
+  "title": "ReturnType<T>",
+  "description": "The `ReturnType<T>` utility type in TypeScript extracts the return type of a function, enabling type inference.",
+  "categories": [
+    "utility type"
+  ],
+  "content": "The utility type that retrieves the return type of a function. Useful for inferring the output type without manually specifying it.",
+  "extensions": {}
+}

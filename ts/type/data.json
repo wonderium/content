@@ -1,0 +1,9 @@
+{
+  "title": "type",
+  "description": "The `type` keyword in TypeScript is used to create type aliases, allowing the definition of custom data types, including unions and intersections.",
+  "categories": [
+    "keyword"
+  ],
+  "content": "The keyword is used to create type aliases. It enables the definition of custom data types, including unions and intersections, making code cleaner and more readable.",
+  "extensions": {}
+}

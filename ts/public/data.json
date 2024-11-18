@@ -1,0 +1,9 @@
+{
+  "title": "public",
+  "description": "The `public` access modifier in TypeScript makes a class member accessible from any part of the program.",
+  "categories": [
+    "keyword"
+  ],
+  "content": "The access modifier that allows unrestricted access to a class member. Ensures properties or methods can be accessed from outside the class.",
+  "extensions": {}
+}

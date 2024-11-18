@@ -1,0 +1,10 @@
+{
+  "title": "as T",
+  "description": "The `as T` assertion in TypeScript allows explicit casting of a value to a specific type, overriding type inference.",
+  "categories": [
+    "assertion",
+    "keyword"
+  ],
+  "content": "The keyword used to assert a specific type for a value. Useful when TypeScript's inference doesn't recognize a desired type, allowing the developer to specify it explicitly.",
+  "extensions": {}
+}

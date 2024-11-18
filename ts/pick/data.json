@@ -1,0 +1,9 @@
+{
+  "title": "Pick<T, Keys>",
+  "description": "The `Pick<T, Keys>` utility type in TypeScript selects specific properties from an object type to create a new type.",
+  "categories": [
+    "utility type"
+  ],
+  "content": "The utility type that extracts a set of properties from an object. Helps create a new type containing only the selected properties from an existing type.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "InstanceType<T>",
+  "description": "The `InstanceType<T>` utility type in TypeScript obtains the instance type of a constructor function.",
+  "categories": [
+    "utility type"
+  ],
+  "content": "The utility type that extracts the type of an instance created by a constructor function. Useful for referencing the resulting instance type directly.",
+  "extensions": {}
+}

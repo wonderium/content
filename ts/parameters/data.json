@@ -1,0 +1,9 @@
+{
+  "title": "Parameters<T>",
+  "description": "The `Parameters<T>` utility type in TypeScript creates a tuple of a function's parameter types, supporting type extraction.",
+  "categories": [
+    "utility type"
+  ],
+  "content": "The utility type that generates a tuple of the parameter types from a function. Useful for obtaining the types of arguments a function accepts.",
+  "extensions": {}
+}

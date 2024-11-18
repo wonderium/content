@@ -1,0 +1,9 @@
+{
+  "title": "number",
+  "description": "The `number` data type in TypeScript represents numerical values, including integers and floating-point numbers.",
+  "categories": [
+    "data type"
+  ],
+  "content": "The primitive data type used to represent both integer and floating-point numbers. It allows for various arithmetic operations.",
+  "extensions": {}
+}

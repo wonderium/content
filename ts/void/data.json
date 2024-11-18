@@ -1,0 +1,9 @@
+{
+  "title": "void",
+  "description": "The `void` type in TypeScript represents the absence of a value, commonly used in functions that don't return a result.",
+  "categories": [
+    "data type"
+  ],
+  "content": "The type used when a function doesn't return a value. Typically used to indicate that a function performs actions without producing a result.",
+  "extensions": {}
+}

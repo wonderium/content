@@ -1,0 +1,9 @@
+{
+  "title": "unknown",
+  "description": "The `unknown` type in TypeScript represents any value, but requires type checking before specific operations.",
+  "categories": [
+    "top type"
+  ],
+  "content": "The type used for values of any kind. Requires runtime checks before performing operations, as the actual type is not predefined.",
+  "extensions": {}
+}

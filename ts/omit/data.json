@@ -1,0 +1,9 @@
+{
+  "title": "Omit<T, Keys>",
+  "description": "The `Omit<T, Keys>` utility type in TypeScript removes specific properties from an object type to create a simplified type.",
+  "categories": [
+    "utility type"
+  ],
+  "content": "The utility type that excludes specified properties from an object type. Useful for creating types with only the necessary properties from an existing type.",
+  "extensions": {}
+}

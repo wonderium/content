@@ -1,0 +1,9 @@
+{
+  "title": "tsc",
+  "description": "The `tsc` command for the TypeScript compiler used to compile `*.ts` files to `*.js` files.",
+  "categories": [
+    "command"
+  ],
+  "content": "The TypeScript command that compiles `*.ts` files to `*.js` files, checking for errors and enforcing the rules defined in `tsconfig.json`.",
+  "extensions": {}
+}

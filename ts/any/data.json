@@ -1,0 +1,9 @@
+{
+  "title": "any",
+  "description": "The `any` type in TypeScript allows for assignment of any value without type checking, providing maximum flexibility.",
+  "categories": [
+    "top type"
+  ],
+  "content": "The type that bypasses type checking, accepting any value. Used in cases where the exact type is unknown or varied.",
+  "extensions": {}
+}

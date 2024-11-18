@@ -1,0 +1,9 @@
+{
+  "title": "Optional",
+  "description": "The Optional operator in TypeScript marks properties or parameters as optional, allowing flexibility in object structure or function arguments.",
+  "categories": [
+    "operator"
+  ],
+  "content": "The operator `?` that marks properties or parameters as optional. It allows defining properties that may or may not be present in an object, helping prevent errors when handling potentially undefined values.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Template Literal Types",
+  "description": "The Template Literal Types feature in TypeScript combines literal types to create new string types using template syntax.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The type that constructs string types by combining literal types with template syntax. Useful for generating new types based on patterns or dynamic string values.",
+  "extensions": {}
+}

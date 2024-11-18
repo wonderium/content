@@ -1,0 +1,9 @@
+{
+  "title": "Compiler TSX",
+  "description": "The Compiler TSX is a feature that allows the TypeScript compiler to process and compile `*.tsx` files, supporting JSX in TypeScript.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The specialized tool that processes JSX and TSX syntax, which combine JavaScript/TypeScript with HTML-like tags, translating them into standard JavaScript. This enables browsers to understand and render interactive elements, ensuring compatibility and functionality across web applications that use these modern syntax styles.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "null",
+  "description": "The `null` data type in TypeScript represents the intentional absence of any object value, often used to signify 'no value'.",
+  "categories": [
+    "data type"
+  ],
+  "content": "The primitive data type that represents the intentional absence of a value. Commonly used to indicate that a variable intentionally has no value.",
+  "extensions": {}
+}

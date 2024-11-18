@@ -1,0 +1,10 @@
+{
+  "title": "Intersection Type",
+  "description": "The Intersection Type feature in TypeScript combines multiple types into a single type, ensuring all properties are included.",
+  "categories": [
+    "concept",
+    "syntax"
+  ],
+  "content": "The type that uses `&` to merge multiple types into one with shared properties. Ensures a variable or object contains the properties of each specified type.",
+  "extensions": {}
+}

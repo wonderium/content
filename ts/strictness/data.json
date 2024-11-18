@@ -1,0 +1,9 @@
+{
+  "title": "Strictness",
+  "description": "The Strictness setting in TypeScript enforces strict type-checking options to reduce errors by adding constraints to code.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The setting that enforces stricter type-checking rules. Enables options such as `strictNullChecks` and `noImplicitAny`, resulting in more robust, error-free code.",
+  "extensions": {}
+}

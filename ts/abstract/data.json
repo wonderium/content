@@ -1,0 +1,10 @@
+{
+  "title": "abstract",
+  "description": "The abstract keyword in TypeScript defines base classes with unimplemented methods, serving as templates for subclasses.",
+  "categories": [
+    "concept",
+    "keyword"
+  ],
+  "content": "The keyword that allows defining the type of class that cannot be instantiated directly but provides a template for derived classes. Created class contains both defined and undefined methods for child classes to implement.",
+  "extensions": {}
+}

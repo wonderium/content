@@ -1,0 +1,9 @@
+{
+  "title": "Awaited<T>",
+  "description": "The `Awaited<T>` utility type in TypeScript resolves the return type of a promise, making it easier to work with async functions.",
+  "categories": [
+    "utility type"
+  ],
+  "content": "The utility type that extracts the resolved type of a promise. Useful for obtaining the return type of an asynchronous function.",
+  "extensions": {}
+}

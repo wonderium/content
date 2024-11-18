@@ -1,0 +1,9 @@
+{
+  "title": "Record<Keys, T>",
+  "description": "The `Record<Keys, T>` utility type in TypeScript constructs an object type with specific key-value pairs, enforcing structure.",
+  "categories": [
+    "utility type"
+  ],
+  "content": "The utility type that creates an object type with defined keys and values. Useful for creating mapped types with consistent structure.",
+  "extensions": {}
+}

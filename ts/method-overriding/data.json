@@ -1,0 +1,9 @@
+{
+  "title": "Method Overriding",
+  "description": "The Method Overriding feature in TypeScript allows subclasses to provide a specific implementation of a method from their parent class.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The process of redefining a method in a subclass that exists in the superclass. Enables derived classes to modify or extend the base class's behavior.",
+  "extensions": {}
+}

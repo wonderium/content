@@ -1,0 +1,9 @@
+{
+  "title": "Generic Constraints",
+  "description": "The Generic Constraints feature in TypeScript restricts types in generics to ensure compatibility and valid operations.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The rules that limit acceptable types for generic parameters. Ensures that generics are used only with types that meet specific requirements.",
+  "extensions": {}
+}

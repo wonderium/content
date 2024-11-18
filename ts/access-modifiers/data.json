@@ -1,0 +1,9 @@
+{
+  "title": "Access Modifiers",
+  "description": "The Access Modifiers feature in TypeScript controls visibility of class properties and methods, providing encapsulation.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The keywords that restrict access to class members. Helps in maintaining data privacy and controlling object interactions.",
+  "extensions": {}
+}

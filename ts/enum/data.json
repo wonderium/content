@@ -1,0 +1,9 @@
+{
+  "title": "enum",
+  "description": "The `enum` structure in TypeScript allows the definition of a named set of constant values, improving code clarity and readability.",
+  "categories": [
+    "object type"
+  ],
+  "content": "The structure used to define a collection of related values. Useful for creating sets of constants, making code more readable and organized.",
+  "extensions": {}
+}

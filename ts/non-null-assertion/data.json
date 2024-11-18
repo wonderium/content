@@ -1,0 +1,10 @@
+{
+  "title": "Non-Null Assertion",
+  "description": "The Non-Null Assertion in TypeScript ensures a value is not `null` or `undefined`, bypassing TypeScript's strict null checks.",
+  "categories": [
+    "assertion",
+    "operator"
+  ],
+  "content": "The operator `!` that indicates a value is neither `null` nor `undefined`. It's is used to avoid errors in code when dealing with potentially nullable types.",
+  "extensions": {}
+}

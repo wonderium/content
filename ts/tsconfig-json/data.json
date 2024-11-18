@@ -1,0 +1,9 @@
+{
+  "title": "tsconfig.json",
+  "description": "The `tsconfig.json` file in TypeScript is a configuration file that defines settings for the TypeScript compiler to apply when processing `*.ts` files.",
+  "categories": [
+    "file"
+  ],
+  "content": "The configuration file used by TypeScript projects. It sets various compiler options, paths and settings that control how TypeScript compiles files within a project.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "keyof",
+  "description": "The `keyof` operator in TypeScript creates a union of all keys of an object type, enabling key-based operations.",
+  "categories": [
+    "operator"
+  ],
+  "content": "The operator that generates a union of property names of a type. Useful for creating types based on the keys of an object.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "boolean",
+  "description": "The `boolean` data type in TypeScript represents a `true` or `false` value, providing a basic data type for logical expressions.",
+  "categories": [
+    "data type"
+  ],
+  "content": "The primitive data type used to represent logical values `true` or `false`. Often used in conditional statements and boolean expressions.",
+  "extensions": {}
+}

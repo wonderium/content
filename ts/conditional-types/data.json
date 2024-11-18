@@ -1,0 +1,9 @@
+{
+  "title": "Conditional Types",
+  "description": "The Conditional Types feature in TypeScript provides type-based logic, allowing conditional transformations within types.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The type that uses conditionals to choose between two possible types based on specific criteria. Enables flexible type definitions that adapt based on input types.",
+  "extensions": {}
+}

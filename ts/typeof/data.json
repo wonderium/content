@@ -1,0 +1,9 @@
+{
+  "title": "typeof",
+  "description": "The `typeof` operator in TypeScript checks the data type of a value, enabling type-based conditional logic.",
+  "categories": [
+    "operator"
+  ],
+  "content": "The operator used to determine the type of a value. Often used in conditions to ensure a variable matches an expected primitive type like `string` or `number`.",
+  "extensions": {}
+}
