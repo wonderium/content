@@ -1,0 +1,9 @@
+{
+  "title": "Extract<T, UnionT>",
+  "description": "The Extract utility type in TypeScript selects types from a union that are assignable to a specified type, creating a narrowed type set.",
+  "categories": [
+    "utility type"
+  ],
+  "content": "The utility type that filters a union type to retrieve only the types assignable to a given type, helping narrow down union types to include only the desired subset.",
+  "extensions": {}
+}

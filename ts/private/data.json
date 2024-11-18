@@ -1,0 +1,10 @@
+{
+  "title": "private",
+  "description": "The `private` access modifier in TypeScript restricts access to a class member so it can only be used within that class, supporting data encapsulation.",
+  "categories": [
+    "keyword"
+  ],
+  "content": "The access modifier that limits access to a class member, making it accessible only within the class where it's defined. This helps protect internal data, ensuring encapsulation.",
+  "extensions": {}
+}
+

@@ -1,0 +1,10 @@
+{
+  "title": "as const",
+  "description": "The `as const` assertion in TypeScript narrows the type of a value to its literal form, ensuring immutability.",
+  "categories": [
+    "assertion",
+    "keyword"
+  ],
+  "content": "The assertion that converts a value into its literal type. Useful for ensuring a value remains constant and doesn't widen into a more general type.",
+  "extensions": {}
+}

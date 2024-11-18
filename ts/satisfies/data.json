@@ -1,0 +1,10 @@
+{
+  "title": "satisfies",
+  "description": "The `satisfies` assertion in TypeScript checks that a value conforms to a specific type without changing the type itself.",
+  "categories": [
+    "assertion",
+    "keyword"
+  ],
+  "content": "The assertion used to verify that a value matches a specific type without altering its inferred type. This allows TypeScript to check compatibility while retaining flexibility.",
+  "extensions": {}
+}

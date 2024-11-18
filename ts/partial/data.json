@@ -1,0 +1,9 @@
+{
+  "title": "Partial<T>",
+  "description": "The `Partial<T>` utility type in TypeScript makes all properties of an object type optional, providing flexibility in object construction.",
+  "categories": [
+    "utility type"
+  ],
+  "content": "The utility type that allows creating a type with optional properties. Useful for scenarios where only a subset of an object's properties is needed.",
+  "extensions": {}
+}

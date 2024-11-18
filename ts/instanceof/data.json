@@ -1,0 +1,9 @@
+{
+  "title": "instanceof",
+  "description": "The `instanceof` operator in TypeScript checks if an object is an instance of a specific class or constructor function.",
+  "categories": [
+    "operator"
+  ],
+  "content": "The operator used to verify if an object was created by a certain constructor. Useful in conditional statements to confirm an object's class type.",
+  "extensions": {}
+}

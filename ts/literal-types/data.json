@@ -1,0 +1,9 @@
+{
+  "title": "Literal Types",
+  "description": "The Literal Types feature in TypeScript allows defining specific values as types, increasing type strictness and control.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The type that represents specific, constant values rather than broad types. Helps limit variables to exact values, enhancing predictability and type safety.",
+  "extensions": {}
+}

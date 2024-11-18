@@ -1,0 +1,9 @@
+{
+  "title": "interface",
+  "description": "The `interface` keyword in TypeScript defines the shape of an object, specifying expected properties and their types.",
+  "categories": [
+    "keyword"
+  ],
+  "content": "The keyword used to define the shape of an object. Specifies property names, types and methods, ensuring consistency in object usage.",
+  "extensions": {}
+}

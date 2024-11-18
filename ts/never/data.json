@@ -1,0 +1,9 @@
+{
+  "title": "never",
+  "description": "The `never` type in TypeScript represents values that never occur, often used in functions that never return.",
+  "categories": [
+    "bottom type"
+  ],
+  "content": "The type representing values that don't exist. Commonly used in functions that throw errors or infinitely loop, ensuring no return value.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "NonNullable<T>",
+  "description": "The `NonNullable<T>` utility type in TypeScript removes `null` and `undefined` from a type, ensuring defined values.",
+  "categories": [
+    "utility type"
+  ],
+  "content": "The utility type that excludes `null` and `undefined` from a type.",
+  "extensions": {}
+}

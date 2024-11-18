@@ -1,0 +1,9 @@
+{
+  "title": "undefined",
+  "description": "The `undefined` data type in TypeScript represents a variable that has been declared but not yet assigned a value.",
+  "categories": [
+    "data type"
+  ],
+  "content": "The primitive data type for variables that are declared but not initialized. Represents an unassigned or unknown state for a variable.",
+  "extensions": {}
+}

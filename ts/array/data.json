@@ -1,0 +1,9 @@
+{
+  "title": "Array<T>",
+  "description": "The `Array<T>` structure in TypeScript represents a collection of values of the same type, allowing indexed access to elements.",
+  "categories": [
+    "object type"
+  ],
+  "content": "The structure for ordered collections of values. Elements are stored in a specific order, accessible by their index position.",
+  "extensions": {}
+}

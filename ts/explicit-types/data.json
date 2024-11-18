@@ -1,0 +1,9 @@
+{
+  "title": "Explicit Types",
+  "description": "The Explicit Types concept in TypeScript involves defining specific types in code to avoid implicit any types, improving code clarity.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The practice of explicitly declaring types for variables, functions or parameters. This helps prevent unintended behavior and improves readability, especially in larger codebases.",
+  "extensions": {}
+}

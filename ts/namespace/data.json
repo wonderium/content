@@ -1,0 +1,9 @@
+{
+  "title": "namespace",
+  "description": "The `namespace` keyword in TypeScript organizes code into logical blocks, reducing global scope pollution.",
+  "categories": [
+    "keyword"
+  ],
+  "content": "The keyword used for grouping related code, such as classes, interfaces and functions, into a named container. Useful for organizing code and avoiding naming conflicts.",
+  "extensions": {}
+}

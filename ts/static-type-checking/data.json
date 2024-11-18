@@ -1,0 +1,9 @@
+{
+  "title": "Static Type Checking",
+  "description": "The Static Type Checking concept in TypeScript involves verifying types during development to catch errors before runtime, improving code reliability.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The process of checking data types at compile time. This approach helps prevent runtime errors by enforcing type constraints as code is written, resulting in safer, more predictable code.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "symbol",
+  "description": "The `symbol` data type in TypeScript represents unique and immutable values, often used as object keys to avoid naming conflicts.",
+  "categories": [
+    "data type"
+  ],
+  "content": "The primitive data type for creating unique, immutable identifiers. Useful for defining keys in objects without risk of naming conflicts.",
+  "extensions": {}
+}

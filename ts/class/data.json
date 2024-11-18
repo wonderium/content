@@ -1,0 +1,9 @@
+{
+  "title": "class",
+  "description": "The `class` structure in TypeScript defines a blueprint for creating objects with properties and methods, supporting object-oriented programming.",
+  "categories": [
+    "object type"
+  ],
+  "content": "The structure for creating reusable objects. Encapsulates data and behavior, allowing instances to share properties and methods.",
+  "extensions": {}
+}

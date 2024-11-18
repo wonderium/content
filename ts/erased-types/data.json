@@ -1,0 +1,9 @@
+{
+  "title": "Erased Types",
+  "description": "The Erased Types concept in TypeScript means that type annotations are removed during compilation, leaving only JavaScript for runtime.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The removal of TypeScript type information at compile time. Types are stripped away, so runtime execution happens in plain JavaScript without type constraints.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Constructor Overloading",
+  "description": "The Constructor Overloading feature in TypeScript allows defining multiple constructor signatures for a class, enabling varied instantiation.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The concept of defining different parameter lists for a class's constructor. Supports flexible object creation by enabling various initialization options.",
+  "extensions": {}
+}

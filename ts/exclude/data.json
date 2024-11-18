@@ -1,0 +1,9 @@
+{
+  "title": "Exclude<UnionT, T>",
+  "description": "The `Exclude<UnionT, T>` utility type in TypeScript removes specific types from a union type, refining the type set.",
+  "categories": [
+    "utility type"
+  ],
+  "content": "The utility type that omits certain types from a union. Useful for filtering out unwanted types from a type collection.",
+  "extensions": {}
+}

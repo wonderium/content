@@ -1,0 +1,9 @@
+{
+  "title": "Compiler Options",
+  "description": "The Compiler Options setting in TypeScript specifies directives in `tsconfig.json` that control how TypeScript compiles files.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The settings in the `tsconfig.json` file that guide the TypeScript compiler. Options define parameters like target JavaScript version, module system and strictness, affecting output and code checking.",
+  "extensions": {}
+}

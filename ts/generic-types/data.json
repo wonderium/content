@@ -1,0 +1,9 @@
+{
+  "title": "Generic Types",
+  "description": "The Generic Types feature in TypeScript allows types to be parameterized, supporting code reusability with various type inputs.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The type that adapts to different data types, making functions and classes more versatile. Enables writing code that works with multiple types in a type-safe way.",
+  "extensions": {}
+}

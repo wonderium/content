@@ -1,0 +1,10 @@
+{
+  "title": "Tuple",
+  "description": "The Tuple structure in TypeScript represents an array with a fixed number of elements of specific types, enforcing element order and type.",
+  "categories": [
+    "object type",
+    "concept"
+  ],
+  "content": "The structure for fixed-length arrays with specific types at each position. Provides a way to enforce strict order and types within arrays.",
+  "extensions": {}
+}

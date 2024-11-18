@@ -1,0 +1,9 @@
+{
+  "title": "Namespace Augmentation",
+  "description": "The Namespace Augmentation feature in TypeScript extends existing namespaces with additional properties or types.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The technique for adding properties or types to an already defined namespace. Useful for expanding libraries or modules without modifying the original code.",
+  "extensions": {}
+}

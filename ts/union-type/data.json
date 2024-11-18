@@ -1,0 +1,10 @@
+{
+  "title": "Union Type",
+  "description": "The Union Type feature in TypeScript allows a variable to hold values of multiple types, providing flexibility in type assignment.",
+  "categories": [
+    "concept",
+    "syntax"
+  ],
+  "content": "The type that is written as a vertical bar `|` and combines multiple types into one. Allows a variable to accept any one of the specified types, providing flexible data assignment options.",
+  "extensions": {}
+}

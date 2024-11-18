@@ -1,0 +1,9 @@
+{
+  "title": "bigint",
+  "description": "The `bigint` data type in TypeScript represents large integers that exceed the safe limit for the `number` type.",
+  "categories": [
+    "data type"
+  ],
+  "content": "The primitive data type for arbitrarily large integers. Useful for handling values that exceed JavaScript's safe integer limit.",
+  "extensions": {}
+}

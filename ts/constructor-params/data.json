@@ -1,0 +1,9 @@
+{
+  "title": "Constructor Params",
+  "description": "The Constructor Params feature in TypeScript allows defining parameters for class constructors, initializing object properties upon creation.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The parameters specified in a class's constructor to initialize an object. Enables setting default values or passing in data upon object creation.",
+  "extensions": {}
+}

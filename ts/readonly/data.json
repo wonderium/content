@@ -1,0 +1,9 @@
+{
+  "title": "Readonly<T>",
+  "description": "The `Readonly<T>` utility type in TypeScript makes all properties of an object type immutable, preventing modifications.",
+  "categories": [
+    "utility type"
+  ],
+  "content": "The utility type that makes all properties of a type read-only. Ensures that object properties cannot be reassigned, supporting immutability.",
+  "extensions": {}
+}

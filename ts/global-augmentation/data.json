@@ -1,0 +1,9 @@
+{
+  "title": "Global Augmentation",
+  "description": "The Global Augmentation feature in TypeScript modifies global types or properties, providing additional functionality.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The technique for adding types or properties to the global scope. Useful for adding custom types or extending global libraries like `Window` or `Document`.",
+  "extensions": {}
+}

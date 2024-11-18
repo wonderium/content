@@ -1,0 +1,9 @@
+{
+  "title": "Function Overloading",
+  "description": "The Function Overloading feature in TypeScript allows defining multiple function signatures, allowing variations in parameter types or counts.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The ability to declare multiple signatures for a single function. Enables functions to handle different types or numbers of arguments with specific behavior for each.",
+  "extensions": {}
+}

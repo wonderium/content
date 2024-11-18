@@ -6,6 +6,118 @@
 			"unitsInSchemaMarkup": []
 		},
 		"color": "#007ACC",
-		"topics": []
+		"topics": [
+			{
+				"name": "Basics",
+				"units": [
+					"static-type-checking",
+					"tsconfig-json",
+					"compiler-options",
+					"strictness",
+					"explicit-types",
+					"erased-types",
+					"downleveling",
+					"tsc",
+					"compiler-tsx",
+					"function-overloading"
+				]
+			},
+			{
+				"name": "Types",
+				"units": [
+					"boolean",
+					"number",
+					"string",
+					"void",
+					"undefined",
+					"null",
+					"bigint",
+					"symbol",
+					"class",
+					"enum",
+					"array",
+					"tuple",
+					"object",
+					"unknown",
+					"any",
+					"never",
+					"function"
+				]
+			},
+			{
+				"name": "Syntax",
+				"units": [
+					"type",
+					"interface",
+					"union-type",
+					"intersection-type",
+					"instanceof",
+					"typeof",
+					"keyof",
+					"extends",
+					"optional"
+				]
+			},
+			{
+				"name": "Assertions",
+				"units": [
+					"as",
+					"as-any",
+					"as-const",
+					"non-null-assertion",
+					"satisfies"
+				]
+			},
+			{
+				"name": "Utility Types",
+				"units": [
+					"partial",
+					"pick",
+					"omit",
+					"readonly",
+					"record",
+					"exclude",
+					"extract",
+					"awaited",
+					"parameters",
+					"nonnullable",
+					"returntype",
+					"instancetype"
+				]
+			},
+			{
+				"name": "Classes",
+				"units": [
+					"constructor-params",
+					"constructor-overloading",
+					"method-overriding",
+					"abstract",
+					"decorators",
+					"access-modifiers",
+					"public",
+					"private",
+					"protected"
+				]
+			},
+			{
+				"name": "Advanced Types",
+				"units": [
+					"generic-types",
+					"generic-constraints",
+					"conditional-types",
+					"literal-types",
+					"template-literal-types"
+				]
+			},
+			{
+				"name": "Modules",
+				"units": [
+					"namespace",
+					"ambient-modules",
+					"namespace-augmentation",
+					"global-augmentation"
+				]
+			}
+		]
 	}
 }

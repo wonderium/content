@@ -1,0 +1,10 @@
+{
+  "title": "as any",
+  "description": "The `as any` assertion in TypeScript casts a value to type `any`, temporarily bypassing type checking.",
+  "categories": [
+    "assertion",
+    "keyword"
+  ],
+  "content": "The assertion that casts a value to the `any` type. Often used to temporarily override TypeScript's strict type-checking in specific cases.",
+  "extensions": {}
+}

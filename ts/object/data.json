@@ -1,0 +1,10 @@
+{
+  "title": "Object",
+  "description": "The Object structure in TypeScript represents any non-primitive value, commonly used for storing collections of properties.",
+  "categories": [
+    "object type",
+    "concept"
+  ],
+  "content": "The type for any structured data or collection of key-value pairs. Represents all non-primitive values, enabling flexible data storage.",
+  "extensions": {}
+}

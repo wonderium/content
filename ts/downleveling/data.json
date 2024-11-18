@@ -1,0 +1,9 @@
+{
+  "title": "Downleveling",
+  "description": "The Downleveling process in TypeScript compiles newer JavaScript syntax into older syntax for compatibility with legacy browsers.",
+  "categories": [
+    "process"
+  ],
+  "content": "The process of converting modern JavaScript syntax to an older version. Ensures code compatibility with environments that don't support the latest JavaScript features.",
+  "extensions": {}
+}
