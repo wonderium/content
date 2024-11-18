@@ -176,7 +176,7 @@
 				]
 			},
 			{
-				"name": "Global attributes",
+				"name": "Global Attributes",
 				"units": [
 					"class",
 					"id",
@@ -206,7 +206,7 @@
 				]
 			},
 			{
-				"name": "Connections with other languages",
+				"name": "Connections with Other Languages",
 				"units": [
 					"style", 
 					"script", 

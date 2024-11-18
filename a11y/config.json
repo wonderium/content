@@ -33,7 +33,7 @@
 				]
 			},
 			{
-				"name": "Screen readers",
+				"name": "Screen Readers",
 				"units": [
 					"jaws", 
 					"nvda", 
@@ -130,7 +130,7 @@
 				]
 			},
 			{
-				"name": "Basic control elements",
+				"name": "Basic Control Elements",
 				"units": [
 					"button",
 					"switch",
