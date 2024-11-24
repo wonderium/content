@@ -1,0 +1,9 @@
+{
+  "title": "git reset <commit>",
+  "description": "The `git reset <commit>` command undoes changes by moving the HEAD pointer to a specific commit, adjusting the staged and working areas.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that moves the HEAD pointer to a specified commit, undoing changes. Resetting modifies the staging area and can impact the working directory based on options.",
+  "extensions": {}
+}

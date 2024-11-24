@@ -1,0 +1,9 @@
+{
+  "title": "git commit -m <message>",
+  "description": "The `git commit -m <message>` command saves staged changes to the repository with a message describing the commit.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that commits staged changes to the repository with a message. The `-m` flag allows specifying a message directly in the command.",
+  "extensions": {}
+}

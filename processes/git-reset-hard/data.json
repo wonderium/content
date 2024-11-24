@@ -1,0 +1,9 @@
+{
+  "title": "git reset --hard <commit>",
+  "description": "The `git reset --hard <commit>` command moves the HEAD pointer and discards all changes in the staging area and working directory.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that moves the HEAD pointer to a specific commit and removes all staged and working directory changes. Hard reset is irreversible and erases modifications.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Tags",
+  "description": "The Tags in Git are labels assigned to specific points in the commit history, often used to mark releases or significant updates.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The labels assigned to specific points in the commit history. They are often used to mark releases or major updates in the project.",
+  "extensions": {}
+}

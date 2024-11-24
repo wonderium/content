@@ -1,0 +1,9 @@
+{
+  "title": "git show <commit>",
+  "description": "The `git show <commit>` command displays details of a specific commit, including changes and metadata like author and date.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that displays details of a specific commit, such as file changes and metadata. It helps in reviewing individual commits more closely.",
+  "extensions": {}
+}

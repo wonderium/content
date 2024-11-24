@@ -1,0 +1,9 @@
+{
+  "title": "Branch",
+  "description": "The Branch is a development concept in Git that allows work on different versions or features within a repository.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The isolated line of development within a repository, used to work on different features or versions. It helps organize work and isolate changes before merging.",
+  "extensions": {}
+}

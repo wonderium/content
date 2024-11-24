@@ -1,0 +1,9 @@
+{
+  "title": "git stash apply",
+  "description": "The `git stash apply` command reapplies stashed changes to the working directory, restoring saved modifications.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that reapplies stashed changes to the working directory. It enables to restore previously saved changes.",
+  "extensions": {}
+}

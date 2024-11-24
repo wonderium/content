@@ -1,0 +1,9 @@
+{
+  "title": "Project Build",
+  "description": "The Project Build process in Software Development converts source code into executable applications, enabling dependency management and performance optimization.",
+  "categories": [
+    "process"
+  ],
+  "content": "The process that compiles source code into an executable format for deployment. Includes steps like dependency management, code minification and performance optimization.",
+  "extensions": {}
+}

@@ -1,0 +1,10 @@
+{
+  "title": "npm",
+  "description": "The npm is a package manager for JavaScript, used to install and manage dependencies for Node.js projects.",
+  "categories": [
+    "package manager", 
+    "tool"
+  ],
+  "content": "The command-line tool that installs, updates and manages dependencies for Node.js projects. It also allows developers to publish and share packages with the community.",
+  "extensions": {}
+}

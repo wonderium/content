@@ -1,0 +1,9 @@
+{
+  "title": "npm outdated",
+  "description": "The `npm outdated` command checks for newer versions of installed packages, highlighting those that have updates available.",
+  "categories": [
+    "command"
+  ],
+  "content": "The npm command that checks for outdated packages in the current project and shows which packages have newer versions available in the npm registry.",
+  "extensions": {}
+}

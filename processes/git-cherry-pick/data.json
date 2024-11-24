@@ -1,0 +1,9 @@
+{
+  "title": "git cherry-pick <branch>",
+  "description": "The `git cherry-pick <branch>` command applies a specific commit from another branch to the current branch without merging all changes.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that applies a specific commit from one branch to another. It allows selective changes without full merging.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "touch <file>",
+  "description": "The `touch <file>` command in Unix-like systems creates an empty file or updates the timestamp of an existing file.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that creates a new empty file or updates the last modified timestamp of an existing file.",
+  "extensions": {}
+}

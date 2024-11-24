@@ -1,0 +1,9 @@
+{
+  "title": "git tag <tag>",
+  "description": "The `git tag <tag>` command labels specific commits in the history, often marking release points or important updates.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that labels a specific commit with a tag. It creates a lightweight tag at the current commit.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "kill <process>",
+  "description": "The `kill <process>` command in Unix-like systems terminates processes by sending them a specific signal, usually identified by a process ID.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that sends a signal to a process, typically to terminate it, using its process ID. Useful for managing unresponsive applications.",
+  "extensions": {}
+}

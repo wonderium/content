@@ -1,0 +1,9 @@
+{
+  "title": "npm install",
+  "description": "The `npm install` command installs all dependencies listed in the `package.json` file for a project, including both production and development dependencies.",
+  "categories": [
+    "command"
+  ],
+  "content": "The npm command that installs all dependencies defined in a project's `package.json` file. It automatically installs both production and development dependencies.",
+  "extensions": {}
+}

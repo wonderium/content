@@ -1,0 +1,9 @@
+{
+  "title": "Deployment",
+  "description": "The Deployment process in Software Development moves applications from development to a live environment, making them accessible to end users.",
+  "categories": [
+    "process"
+  ],
+  "content": "The process that involves transferring an application from the development environment to a production environment. Ensures the application is accessible to end users. This step includes final configurations, testing and optimizations to confirm performance and reliability.",
+  "extensions": {}
+}

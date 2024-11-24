@@ -1,0 +1,9 @@
+{
+  "title": "Backup",
+  "description": "The Backup practice in IT safeguards data by creating copies for recovery in case of data loss or system failures.",
+  "categories": [
+    "practice"
+  ],
+  "content": "The practice of creating copies of data to protect against loss or corruption. Ensures data can be restored in case of hardware failure, human error or cyberattacks.",
+  "extensions": {}
+}

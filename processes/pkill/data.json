@@ -1,0 +1,9 @@
+{
+  "title": "pkill <process>",
+  "description": "The `pkill <process>` command in Unix-like systems terminates processes by name, sending a specific signal to matching processes.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that terminates processes by name rather than process ID. It provides a more flexible way to manage processes based on names.",
+  "extensions": {}
+}

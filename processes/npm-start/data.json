@@ -1,0 +1,9 @@
+{
+  "title": "npm start",
+  "description": "The `npm start` command runs the start script defined in the `package.json` file, typically used to launch a Node.js application.",
+  "categories": [
+    "command"
+  ],
+  "content": "The npm command that runs the start script defined in `package.json`. It's often used to start the main application or server for a project.",
+  "extensions": {}
+}

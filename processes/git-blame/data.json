@@ -1,0 +1,9 @@
+{
+  "title": "git blame <file>",
+  "description": "The `git blame <file>` command shows line-by-line changes in a file, indicating the author and commit for each line.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that annotates each line in a file with its last modification, showing the author and commit. It's useful for tracking code history by line.",
+  "extensions": {}
+}

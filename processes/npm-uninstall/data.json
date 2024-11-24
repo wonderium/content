@@ -1,0 +1,9 @@
+{
+  "title": "npm uninstall <package>",
+  "description": "The `npm uninstall <package>` command removes a package from the project, updating the `package.json` and `package-lock.json` files.",
+  "categories": [
+    "command"
+  ],
+  "content": "The npm command that removes a specified package from a project and updates both the `package.json` and `package-lock.json` files to reflect the change.",
+  "extensions": {}
+}

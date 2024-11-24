@@ -1,0 +1,9 @@
+{
+  "title": "git reflog",
+  "description": "The `git reflog` command shows a history of changes made to the HEAD, useful for recovering lost commits.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that lists changes made to the HEAD reference, tracking actions like commits and resets. It helps in restoring or recovering lost work.",
+  "extensions": {}
+}

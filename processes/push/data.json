@@ -1,0 +1,9 @@
+{
+  "title": "Push",
+  "description": "The Push action in Git allows sending local changes to a remote repository, updating it with new commits.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The action of sending local commits to a remote repository. It updates the remote with new changes made on a local branch.",
+  "extensions": {}
+}

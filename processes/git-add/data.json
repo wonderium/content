@@ -1,0 +1,9 @@
+{
+  "title": "git add <file>",
+  "description": "The `git add <file>` command stages changes in files for the next commit, preparing them to be saved in the repository.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that stages modified or new files for the next commit. It prepares specific changes to be saved to the repository.",
+  "extensions": {}
+}

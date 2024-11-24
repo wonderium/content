@@ -1,0 +1,9 @@
+{
+  "title": "npm version <x.x.x>",
+  "description": "The `npm version <x.x.x>` command updates the version number in `package.json` and optionally creates a new Git commit or tag for the version.",
+  "categories": [
+    "command"
+  ],
+  "content": "The npm command that sets the version number in `package.json` to the specified value (`<x.x.x>`) and optionally creates a new Git commit or tag.",
+  "extensions": {}
+}

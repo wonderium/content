@@ -1,0 +1,9 @@
+{
+  "title": "Code Review",
+  "description": "The Code Review process in Software Development inspects code for quality, efficiency and alignment with project standards, enhancing maintainability.",
+  "categories": [
+    "process"
+  ],
+  "content": "The process of inspecting code to ensure quality, functionality and adherence to coding standards. Aims to catch issues early, improve maintainability and support team knowledge sharing.",
+  "extensions": {}
+}

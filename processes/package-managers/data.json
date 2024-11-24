@@ -1,0 +1,9 @@
+{
+  "title": "Package Managers",
+  "description": "The Package Managers tool in Software Development manages dependencies and libraries for applications, streamlining installation, updating and compatibility.",
+  "categories": [
+    "tool"
+  ],
+  "content": "The software tool that automates the process of installing, updating and managing dependencies and libraries in applications. Commonly used in development environments to ensure compatibility and simplify project setup.",
+  "extensions": {}
+}

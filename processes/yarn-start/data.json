@@ -1,0 +1,9 @@
+{
+  "title": "yarn start",
+  "description": "The `yarn start` command runs the start script defined in the project's `package.json` file, often used to launch a development server.",
+  "categories": [
+    "command"
+  ],
+  "content": "The Yarn command that executes the start script from the `package.json` file. Typically used to start a development server or the main application.",
+  "extensions": {}
+}

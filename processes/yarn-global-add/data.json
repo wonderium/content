@@ -1,0 +1,9 @@
+{
+  "title": "yarn global add <package>",
+  "description": "The `yarn global add <package>` command installs a package globally, making it accessible across all projects on the system.",
+  "categories": [
+    "command"
+  ],
+  "content": "The Yarn command that installs a package globally, making it available for use in any project or from the command line without local installation.",
+  "extensions": {}
+}

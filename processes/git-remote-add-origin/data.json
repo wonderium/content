@@ -1,0 +1,9 @@
+{
+  "title": "git remote add origin <url>",
+  "description": "The `git remote add origin <url>` command sets the URL for a remote repository, linking the local repository to a specific remote server.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that sets the URL for a remote repository, establishing a link between the local and remote repositories. This setup enables pushing and pulling changes.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Fork",
+  "description": "The Fork is a development concept in Git that duplicates a repository into a new account for independent work.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The copy of a repository created in a new account to enable independent development. It allows changes without affecting the original project.",
+  "extensions": {}
+}

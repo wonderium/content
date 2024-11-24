@@ -1,0 +1,9 @@
+{
+  "title": "npm publish",
+  "description": "The `npm publish` command publishes a package to the npm registry, making it available for other developers to install.",
+  "categories": [
+    "command"
+  ],
+  "content": "The npm command that publishes a package to the npm registry, allowing other developers to install it using npm or any compatible package manager.",
+  "extensions": {}
+}

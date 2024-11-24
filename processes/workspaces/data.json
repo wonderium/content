@@ -1,0 +1,9 @@
+{
+  "title": "Workspaces",
+  "description": "The Workspaces in Package Management are sets of related projects within a single repository that can share dependencies and configurations, allowing for easier management of multi-package projects.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The concept of grouping multiple related projects within one repository, allowing them to share dependencies and configurations, often used in npm, Yarn and pnpm.",
+  "extensions": {}
+}

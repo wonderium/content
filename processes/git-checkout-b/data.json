@@ -1,0 +1,9 @@
+{
+  "title": "git checkout -b <branch>",
+  "description": "The `git checkout -b <branch>` command creates a new branch and switches to it in one step, simplifying branch creation.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that creates a new branch and switches to it in one step. This shortcut simplifies the process of starting work on a new feature or fix.",
+  "extensions": {}
+}

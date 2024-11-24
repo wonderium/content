@@ -1,0 +1,9 @@
+{
+  "title": "Contributors",
+  "description": "The Contributors in Git are users who actively add code or documentation to a repository.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The users who actively contribute code, documentation or other changes to a repository. They often collaborate to enhance the project.",
+  "extensions": {}
+}

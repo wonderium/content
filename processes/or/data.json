@@ -1,0 +1,9 @@
+{
+  "title": "||",
+  "description": "The `||` (or) operator in Unix-like systems executes the second command only if the first command fails.",
+  "categories": [
+    "command operator"
+  ],
+  "content": "The logical operator that runs a second command if the first command fails. Useful for fallback or error-handling routines in command sequences.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "npm login",
+  "description": "The `npm login` command authenticates a user to the npm registry, allowing them to publish or manage packages.",
+  "categories": [
+    "command"
+  ],
+  "content": "The npm command that authenticates a user to the npm registry. It allows the user to publish, update or manage packages under their account.",
+  "extensions": {}
+}

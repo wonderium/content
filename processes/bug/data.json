@@ -1,0 +1,9 @@
+{
+  "title": "Bug",
+  "description": "The Bug issue in Software Development is an error or flaw in code that causes unintended results, requiring debugging to resolve.",
+  "categories": [
+    "issue"
+  ],
+  "content": "The error or flaw in software code that causes it to function incorrectly. It can lead to unintended results and need to be fixed through troubleshooting.",
+  "extensions": {}
+}

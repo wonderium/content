@@ -1,0 +1,9 @@
+{
+  "title": "yarn global list",
+  "description": "The `yarn global list` command displays all globally installed packages, providing an overview of the available tools and libraries.",
+  "categories": [
+    "command"
+  ],
+  "content": "The Yarn command that lists all globally installed packages, allowing users to see what global tools and libraries are available on the system.",
+  "extensions": {}
+}

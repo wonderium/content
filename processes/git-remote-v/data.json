@@ -1,0 +1,9 @@
+{
+  "title": "git remote -v",
+  "description": "The `git remote -v` command lists the URLs of all remote repositories linked to the local repository.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that displays the URLs of remote repositories linked to the local repository. It provides a quick reference to all connected remotes and their fetch/push URLs.",
+  "extensions": {}
+}

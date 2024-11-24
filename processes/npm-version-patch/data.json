@@ -1,0 +1,9 @@
+{
+  "title": "npm version patch",
+  "description": "The `npm version patch` command increments the patch version of the project, used for bug fixes and minor improvements.",
+  "categories": [
+    "command"
+  ],
+  "content": "The npm command that increments the patch version of the project, commonly used for small bug fixes or minor updates that don't introduce breaking changes.",
+  "extensions": {}
+}

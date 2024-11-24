@@ -1,0 +1,9 @@
+{
+  "title": "git revert <commit>",
+  "description": "The `git revert <commit>` command creates a new commit that undoes the changes from a previous commit, preserving history.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that creates a new commit to reverse changes from a specific commit. It allows safely undo changes without rewriting history.",
+  "extensions": {}
+}

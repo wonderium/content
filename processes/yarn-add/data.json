@@ -1,0 +1,9 @@
+{
+  "title": "yarn add <package>",
+  "description": "The `yarn add <package>` command installs a package and adds it to the dependencies section of the project's `package.json` file.",
+  "categories": [
+    "command"
+  ],
+  "content": "The Yarn command that installs a package and automatically adds it to the project's dependencies in `package.json`. It can install specific versions or the latest available.",
+  "extensions": {}
+}

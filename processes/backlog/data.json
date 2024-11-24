@@ -1,0 +1,9 @@
+{
+  "title": "Backlog",
+  "description": "The Backlog list in Project Management contains prioritized tasks and requirements for future development cycles.",
+  "categories": [
+    "document"
+  ],
+  "content": "The list of prioritized tasks and requirements in project management. Helps teams organize and plan upcoming work for future iterations.",
+  "extensions": {}
+}

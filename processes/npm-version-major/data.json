@@ -1,0 +1,9 @@
+{
+  "title": "npm version major",
+  "description": "The `npm version major` command increments the major version of the project, indicating breaking changes or significant updates.",
+  "categories": [
+    "command"
+  ],
+  "content": "The npm command that increments the major version of the project, typically used for significant changes that are not backward compatible and may break existing functionality.",
+  "extensions": {}
+}

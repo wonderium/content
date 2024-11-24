@@ -1,0 +1,9 @@
+{
+  "title": "GitHub Actions",
+  "description": "The GitHub Actions is an automation tool that enables CI/CD workflows for building, testing and deploying code.",
+  "categories": [
+    "tool"
+  ],
+  "content": "The automation feature on GitHub that allows for continuous integration and deployment (CI/CD) workflows. It can automate tasks such as testing or deploying code.",
+  "extensions": {}
+}

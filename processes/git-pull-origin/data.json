@@ -1,0 +1,9 @@
+{
+  "title": "git pull origin <branch>",
+  "description": "The `git pull origin <branch>` command downloads changes from a remote repository and merges them into the current branch.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that fetches and merges changes from a remote repository into the current branch. It ensures local code stays synchronized with remote updates.",
+  "extensions": {}
+}

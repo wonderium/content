@@ -1,0 +1,9 @@
+{
+  "title": "&&",
+  "description": "The `&&` (and) operator in Unix-like systems executes the second command only if the first command succeeds.",
+  "categories": [
+    "command operator"
+  ],
+  "content": "The logical operator that runs a second command only if the first one completes successfully. Commonly used to chain dependent commands.",
+  "extensions": {}
+}

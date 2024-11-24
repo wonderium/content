@@ -1,0 +1,9 @@
+{
+  "title": "Scrum",
+  "description": "The Scrum framework in Agile Project Management organizes work into sprints with set goals, enhancing teamwork and iterative development.",
+  "categories": [
+    "framework"
+  ],
+  "content": "The Agile framework that divides work into timed iterations called sprints. Uses roles, ceremonies and artifacts to facilitate communication and iterative development.",
+  "extensions": {}
+}

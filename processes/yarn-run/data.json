@@ -1,0 +1,9 @@
+{
+  "title": "yarn run <script>",
+  "description": "The `yarn run <script>` command executes a script defined in the `package.json` file, allowing developers to run custom scripts.",
+  "categories": [
+    "command"
+  ],
+  "content": "The Yarn command that runs any script defined in the `package.json` file, enabling developers to run custom commands or tasks within the project.",
+  "extensions": {}
+}

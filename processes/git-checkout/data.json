@@ -1,0 +1,9 @@
+{
+  "title": "git checkout <branch>",
+  "description": "The `git checkout <branch>` command switches between branches and, as a side effect, restores files to the state of the selected branch.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that switches to a different branch, updating files to reflect the state of that branch. It allows for exploring different versions of the repository without altering the main code.",
+  "extensions": {}
+}

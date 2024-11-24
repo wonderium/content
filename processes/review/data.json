@@ -1,0 +1,9 @@
+{
+  "title": "Review",
+  "description": "The Review process on Git services allows teams to inspect, discuss and approve code changes within pull requests.",
+  "categories": [
+    "process"
+  ],
+  "content": "The collaborative process of inspecting code changes submitted in a pull request. It includes adding comments, suggestions and approval actions.",
+  "extensions": {}
+}

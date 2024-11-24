@@ -1,0 +1,9 @@
+{
+  "title": "npm unpublish",
+  "description": "The `npm unpublish` command removes a package from the npm registry, making it unavailable for future installations.",
+  "categories": [
+    "command"
+  ],
+  "content": "The npm command that removes a package from the npm registry. It's used to unpublish a package, making it unavailable to other developers for installation.",
+  "extensions": {}
+}

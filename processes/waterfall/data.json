@@ -1,0 +1,9 @@
+{
+  "title": "Waterfall",
+  "description": "The Waterfall approach in Project Management follows a linear sequence of stages, from planning to testing, making it suitable for well-defined projects.",
+  "categories": [
+    "approach"
+  ],
+  "content": "The linear project management approach where each phase must be completed before the next begins. Best suited for projects with well-defined requirements and minimal expected changes.",
+  "extensions": {}
+}

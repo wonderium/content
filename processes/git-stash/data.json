@@ -1,0 +1,9 @@
+{
+  "title": "git stash",
+  "description": "The `git stash` command temporarily saves changes without committing them, allowing for a clean working directory.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that temporarily saves changes in a stash. It allows switching contexts without committing unfinished work.",
+  "extensions": {}
+}

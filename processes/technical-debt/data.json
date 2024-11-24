@@ -1,0 +1,9 @@
+{
+  "title": "Technical Debt",
+  "description": "The Technical Debt in Software Development denotes the cost of deferred maintenance, arising from quick fixes over optimal solutions.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The implied cost of additional work due to choosing a quick solution over an optimal one. This accumulated burden can slow down future development and increase maintenance effort.",
+  "extensions": {}
+}

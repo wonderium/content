@@ -1,0 +1,9 @@
+{
+  "title": "git log",
+  "description": "The `git log` command shows the commit history for the repository, listing each commit with details like author and date.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that displays the history of commits in the repository. It provides details about each commit, such as the author and timestamp.",
+  "extensions": {}
+}

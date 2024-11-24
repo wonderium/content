@@ -1,0 +1,9 @@
+{
+  "title": "grep \"<Word>\" <file>",
+  "description": "The `grep \"<Word>\" <file>` command in Unix-like systems searches for a specified word or pattern within files, returning matching lines.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that searches for a specified word or pattern within one or more files. It helps locate specific information by pattern matching.",
+  "extensions": {}
+}

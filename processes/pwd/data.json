@@ -1,0 +1,9 @@
+{
+  "title": "pwd",
+  "description": "The `pwd` command in Unix-like systems displays the full pathname of the current working directory.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that prints the full path of the current working directory. It helps users confirm their location in the filesystem.",
+  "extensions": {}
+}

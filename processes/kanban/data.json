@@ -1,0 +1,9 @@
+{
+  "title": "Kanban",
+  "description": "The Kanban method in Project Management visualizes workflow with boards, enabling continuous improvements and efficient task management.",
+  "categories": [
+    "method"
+  ],
+  "content": "The project management method that uses visual boards to represent workflow. Focuses on continuous delivery, limiting work in progress and improving efficiency.",
+  "extensions": {}
+}

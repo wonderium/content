@@ -1,0 +1,9 @@
+{
+  "title": "ps aux",
+  "description": "The `ps aux` command in Unix-like systems lists all running processes, including those of other users, with detailed information.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that displays all running processes with detailed information such as user, CPU and memory usage. Often used for system diagnostics.",
+  "extensions": {}
+}
