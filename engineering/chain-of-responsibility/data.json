@@ -1,0 +1,9 @@
+{
+  "title": "Chain Of Responsibility",
+  "description": "The Chain Of Responsibility design pattern allows a request to be passed along a chain of handlers, where each handler can process the request or pass it on.",
+  "categories": [
+    "design pattern"
+  ],
+  "content": "The design pattern that lets multiple objects handle a request without the sender needing to know which object will ultimately process it. Handlers are linked together to form a chain and each handler processes or passes the request along.",
+  "extensions": {}
+}

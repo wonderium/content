@@ -1,0 +1,9 @@
+{
+  "title": ".wma",
+  "description": "The `.wma` (Windows Media Audio) is an audio compression format developed by Microsoft, known for providing high-quality audio at lower bit rates.",
+  "categories": [
+    "format"
+  ],
+  "content": "The proprietary audio format developed by Microsoft that offers efficient compression with relatively good audio quality at lower bit rates. It's commonly used in Windows-based media players and services.",
+  "extensions": {}
+}

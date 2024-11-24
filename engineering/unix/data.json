@@ -1,0 +1,9 @@
+{
+  "title": "Unix",
+  "description": "Unix is a family of multitasking, multiuser operating systems that are widely used in servers, workstations and mobile devices.",
+  "categories": [
+    "operating system"
+  ],
+  "content": "The powerful, multiuser operating system family used for managing hardware and software resources. It supports multitasking and is widely used in networked environments and by developers for its flexibility and stability.",
+  "extensions": {}
+}

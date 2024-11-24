@@ -1,0 +1,9 @@
+{
+  "title": ".ttc",
+  "description": "The `.ttc` (TrueType Collection) is a font format that allows multiple TrueType fonts to be stored in a single file, reducing storage space.",
+  "categories": [
+    "format"
+  ],
+  "content": "The font format that stores multiple TrueType fonts in a single file, making it more efficient for managing large collections of fonts. It's typically used for fonts that share similar characteristics and are often bundled together.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Integration Test",
+  "description": "The Integration Test is a type of software testing that focuses on checking the interactions between integrated components or systems.",
+  "categories": [
+    "approach"
+  ],
+  "content": "The type of software testing used to verify that different modules or services work together as expected. They test the interaction between integrated components, checking data flow, communication and error handling.",
+  "extensions": {}
+}

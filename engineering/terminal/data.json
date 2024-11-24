@@ -1,0 +1,9 @@
+{
+  "title": "Terminal",
+  "description": "The Terminal is a text-based interface that allows users to interact with the operating system through commands.",
+  "categories": [
+    "software"
+  ],
+  "content": "The command-line interface that allows users to type and execute text commands. It's often used for system administration, file management and development tasks.",
+  "extensions": {}
+}

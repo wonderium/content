@@ -1,0 +1,9 @@
+{
+  "title": ".alac",
+  "description": "The `.alac` (Apple Lossless Audio Codec) is a lossless audio compression format developed by Apple to compress audio without any quality loss.",
+  "categories": [
+    "format"
+  ],
+  "content": "The lossless audio compression format used by Apple devices, ensuring that audio quality remains the same as the original source. It's commonly used in iTunes and Apple Music for high-quality audio storage.",
+  "extensions": {}
+}

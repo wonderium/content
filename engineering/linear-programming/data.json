@@ -1,0 +1,9 @@
+{
+  "title": "Linear Programming",
+  "description": "The Linear Programming is an approach used to achieve the best outcome in a model with linear relationships.",
+  "categories": [
+    "approach"
+  ],
+  "content": "The programming approach for optimization where the objective function and constraints are all linear. It's commonly used in operations research and resource allocation problems.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": ".json",
+  "description": "The `.json` (JavaScript Object Notation) is a lightweight data interchange format that is easy for humans to read and write and easy for machines to parse and generate.",
+  "categories": [
+    "format"
+  ],
+  "content": "The text-based format used for representing structured data, primarily for exchanging data between a server and web applications. It uses key-value pairs and supports data types like strings, numbers, arrays and objects.",
+  "extensions": {}
+}

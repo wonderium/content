@@ -1,0 +1,9 @@
+{
+  "title": "Adapter",
+  "description": "The Adapter design pattern allows incompatible interfaces to work together by providing a wrapper that converts one interface into another.",
+  "categories": [
+    "design pattern"
+  ],
+  "content": "The design pattern that acts as a bridge between two incompatible interfaces. It allows classes to work together that could not otherwise due to incompatible interfaces.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": ".txt",
+  "description": "The `.txt` is a plain text file format that contains no formatting, often used for storing simple text data.",
+  "categories": [
+    "format"
+  ],
+  "content": "The basic file format that stores raw text without any formatting. It's commonly used for storing notes, logs and simple text data that need to be easily readable and editable across multiple platforms.",
+  "extensions": {}
+}

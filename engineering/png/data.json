@@ -1,0 +1,9 @@
+{
+  "title": ".png",
+  "description": "The `.png` (Portable Network Graphics) is an image format that uses lossless compression, maintaining image quality while reducing file size.",
+  "categories": [
+    "format"
+  ],
+  "content": "The lossless image format that retains all the image data, ensuring no quality loss when compressed. It supports transparency and is commonly used for web graphics and images that require high-quality details.",
+  "extensions": {}
+}

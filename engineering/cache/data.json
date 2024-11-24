@@ -1,0 +1,9 @@
+{
+  "title": "Cache",
+  "description": "The Cache is a small, fast memory storage that temporarily holds frequently accessed data to speed up future access.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The high-speed storage area used to store frequently accessed data for quick retrieval. It improves performance by reducing the time to fetch data from slower storage.",
+  "extensions": {}
+}

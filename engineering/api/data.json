@@ -1,0 +1,9 @@
+{
+  "title": "API",
+  "description": "The API (Application Programming Interface) is a set of protocols and tools for building software and enabling communication between systems.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The set of defined rules that allows different software applications to communicate with each other. They enable integration between different systems and services.",
+  "extensions": {}
+}

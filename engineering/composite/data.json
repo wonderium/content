@@ -1,0 +1,9 @@
+{
+  "title": "Composite",
+  "description": "The Composite design pattern allows composing objects into tree-like structures to represent part-whole hierarchies.",
+  "categories": [
+    "design pattern"
+  ],
+  "content": "The design pattern used to treat individual objects and compositions of objects uniformly. It allows objects to be combined into tree structures to represent hierarchies, such as files and directories.",
+  "extensions": {}
+}

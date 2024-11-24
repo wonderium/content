@@ -1,0 +1,9 @@
+{
+  "title": "Mediator",
+  "description": "The Mediator design pattern centralizes communication between objects to reduce the dependencies between them.",
+  "categories": [
+    "design pattern"
+  ],
+  "content": "The design pattern that defines an object to mediate communication between other objects. It reduces the complexity of communication by centralizing interactions, making the system easier to maintain and modify.",
+  "extensions": {}
+}

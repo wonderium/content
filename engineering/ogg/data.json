@@ -1,0 +1,9 @@
+{
+  "title": ".ogg",
+  "description": "The `.ogg` is a container format that can hold audio, video and metadata, with the most common audio codec being Vorbis, which offers high-quality compression.",
+  "categories": [
+    "format"
+  ],
+  "content": "The open-source container format, commonly used with the Vorbis audio codec. It provides high-quality audio compression and is used in streaming services and video games.",
+  "extensions": {}
+}

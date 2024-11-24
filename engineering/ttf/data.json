@@ -1,0 +1,9 @@
+{
+  "title": ".ttf",
+  "description": "The `.ttf` (TrueType Font) is a font file format developed by Apple and Microsoft, widely used for both screen and printer fonts.",
+  "categories": [
+    "format"
+  ],
+  "content": "The font format developed by Apple and Microsoft that provides high-quality text rendering for both screen and print. It's widely supported across various platforms and allows for easy installation and embedding of fonts in documents.",
+  "extensions": {}
+}

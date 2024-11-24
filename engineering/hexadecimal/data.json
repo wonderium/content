@@ -1,0 +1,10 @@
+{
+  "title": "Hexadecimal",
+  "description": "The Hexadecimal is a base-16 number system that uses sixteen digits: 0-9 and A-F, where A-F represent the values 10 to 15.",
+  "categories": [
+    "concept",
+    "format"
+  ],
+  "content": "The base-16 number system that includes digits 0-9 and letters A-F, where A-F represent the values 10 to 15. It's commonly used in computing as a shorthand for binary values, as every two hexadecimal digits represent one byte of data.",
+  "extensions": {}
+}

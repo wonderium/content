@@ -1,0 +1,9 @@
+{
+  "title": "Bus Joke",
+  "description": "The Bus Joke is a humorous scenario used in Software Engineering to illustrate a situation where a developer is needed but unavailable, such as when they are hit by a bus.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The humorous expression used to describe the risk of having only one person who understands a critical part of a system, suggesting that if they were unavailable (e.g., hit by a bus), the system would be in trouble.",
+  "extensions": {}
+}

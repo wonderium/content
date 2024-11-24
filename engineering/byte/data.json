@@ -1,0 +1,9 @@
+{
+  "title": "Byte",
+  "description": "The Byte is a unit of digital information that consists of 8 bits and is the basic addressable element in many computer architectures.",
+  "categories": [
+     "unit of measurement"
+  ],
+  "content": "The unit that consists of 8 bits and is used as the basic unit for representing data in most computer systems. It can store a value ranging from 0 to 255 and is often used to encode a single character in text.",
+  "extensions": {}
+}

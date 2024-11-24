@@ -1,0 +1,10 @@
+{
+  "title": "Octal",
+  "description": "The Octal is a number system that uses eight digits, from 0 to 7 and is often used in computing as a shorthand for binary values.",
+  "categories": [
+   "concept",
+    "format"
+  ],
+  "content": "The base-8 number system that uses the digits 0 to 7. Historically, it was used in computing as a more compact representation of binary numbers, with each digit corresponding to three binary digits.",
+  "extensions": {}
+}

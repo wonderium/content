@@ -1,0 +1,9 @@
+{
+  "title": "Single Responsibility",
+  "description": "The Single Responsibility is a principle that states a class should have only one reason to change, meaning it should focus on a single responsibility or job.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The principle that emphasizes a class should only perform one task and should not be responsible for more than one area of functionality. This reduces complexity and improves maintainability of the code.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": ".woff",
+  "description": "The `.woff` (Web Open Font Format) is a font format optimized for use on websites, offering better compression for faster page loading.",
+  "categories": [
+    "format"
+  ],
+  "content": "The web-optimized font format that compresses font data to reduce file size and improve page load times. It's supported by all major browsers and is commonly used for custom web fonts.",
+  "extensions": {}
+}

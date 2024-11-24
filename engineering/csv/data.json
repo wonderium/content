@@ -1,0 +1,9 @@
+{
+  "title": ".csv",
+  "description": "The `.csv` (Comma-Separated Values) is a simple file format used for storing tabular data, where each row represents a data record and columns are separated by commas.",
+  "categories": [
+    "format"
+  ],
+  "content": "The plain text format used to store data in a table-like structure. It's commonly used for exporting and importing data between systems, with each row representing a record and each column separated by commas.",
+  "extensions": {}
+}

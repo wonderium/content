@@ -1,0 +1,9 @@
+{
+  "title": ".eot",
+  "description": "The `.eot` (Embedded OpenType) is a font format developed by Microsoft for embedding fonts in web pages, primarily supported by older versions of Internet Explorer.",
+  "categories": [
+    "format"
+  ],
+  "content": "The font format that allows fonts to be embedded in web pages for display in browsers. It was widely used by older versions of Internet Explorer but is less common today with the rise of other formats like `.woff`.",
+  "extensions": {}
+}

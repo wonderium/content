@@ -1,0 +1,9 @@
+{
+  "title": "MB",
+  "description": "The MB (megabyte) is a unit of digital information equal to 1,024 kilobytes or 1,048,576 bytes.",
+  "categories": [
+    "unit of measurement"
+  ],
+  "content": "The unit of digital information that equals 1,024 kilobytes or 1,048,576 bytes. It's commonly used to measure larger files, such as images and documents.",
+  "extensions": {}
+}

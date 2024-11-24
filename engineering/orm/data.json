@@ -1,0 +1,10 @@
+{
+  "title": "ORM",
+  "description": "The ORM (Object-Relational Mapping) is a technique that allows developers to interact with a database using object-oriented programming languages instead of writing raw SQL queries.",
+  "categories": [
+    "concept",
+    "tool"
+  ],
+  "content": "The technique that enables mapping of objects in object-oriented programming languages to relational database tables. It simplifies database operations by enabling developers to manipulate data as objects, reducing the need for SQL queries.",
+  "extensions": {}
+}

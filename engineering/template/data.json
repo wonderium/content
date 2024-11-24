@@ -1,0 +1,9 @@
+{
+  "title": "Template",
+  "description": "The Template design pattern defines the structure of an algorithm, allowing subclasses to implement specific steps of the algorithm without changing its structure.",
+  "categories": [
+    "design pattern"
+  ],
+  "content": "The design pattern that defines the steps of an algorithm in a template method. Subclasses can implement specific steps of the algorithm, while the overall structure remains unchanged, promoting code reuse.",
+  "extensions": {}
+}

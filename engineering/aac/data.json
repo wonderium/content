@@ -1,0 +1,9 @@
+{
+  "title": ".aac",
+  "description": "The `.aac` (Advanced Audio Coding) is an audio compression format designed to provide higher sound quality than MP3 at similar bit rates.",
+  "categories": [
+    "format"
+  ],
+  "content": "The lossy audio compression format that offers better sound quality than MP3 at lower bit rates. It's used in various streaming platforms and digital radio services.",
+  "extensions": {}
+}

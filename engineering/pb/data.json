@@ -1,0 +1,9 @@
+{
+  "title": "PB",
+  "description": "The PB (petabyte) is a unit of digital information equal to 1,024 terabytes or 1,125,899,906,842,624 bytes.",
+  "categories": [
+    "unit of measurement"
+  ],
+  "content": "The unit of digital information that equals 1,024 terabytes or 1,125,899,906,842,624 bytes. It's used to measure extremely large data storage capacities, typically in cloud data centers or large-scale data processing environments.",
+  "extensions": {}
+}

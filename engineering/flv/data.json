@@ -1,0 +1,9 @@
+{
+  "title": ".flv",
+  "description": "The `.flv` (Flash Video) is a container format used for delivering video content over the internet, often associated with Adobe Flash Player.",
+  "categories": [
+    "format"
+  ],
+  "content": "The video format designed for delivering video content over the internet. It was commonly used in Flash-based video players, although it has largely been replaced by other formats like `.mp4` in modern streaming.",
+  "extensions": {}
+}

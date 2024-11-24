@@ -1,0 +1,9 @@
+{
+  "title": "Reactive Programming",
+  "description": "The Reactive Programming is an approach focused on data streams and the propagation of changes, allowing systems to react to real-time data changes.",
+  "categories": [
+    "approach"
+  ],
+  "content": "The programming approach that allows applications to react to events or data changes in real-time. It uses streams of data and the propagation of changes to make systems more dynamic and responsive.",
+  "extensions": {}
+}

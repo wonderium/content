@@ -1,0 +1,9 @@
+{
+  "title": ".gif",
+  "description": "The `.gif` (Graphics Interchange Format) is an image format that supports animation and uses lossless compression, but is limited to a 256-color palette.",
+  "categories": [
+    "format"
+  ],
+  "content": "The image format that supports simple animations and uses a limited color palette of up to 256 colors. It's often used for simple graphics, logos and short animations on the web.",
+  "extensions": {}
+}

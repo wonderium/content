@@ -1,0 +1,10 @@
+{
+  "title": "Decimal",
+  "description": "The Decimal is the number system most commonly used by humans, based on ten digits (0-9).",
+  "categories": [
+    "concept",
+    "format"
+  ],
+  "content": "The base-10 number system, which uses ten digits (0 to 9). It's the most familiar system to humans for counting and arithmetic.",
+  "extensions": {}
+}

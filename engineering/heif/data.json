@@ -1,0 +1,9 @@
+{
+  "title": ".heif",
+  "description": "The `.heif` (High Efficiency Image Format) is an image format that uses advanced compression techniques to store high-quality images in smaller file sizes compared to `.jpeg`.",
+  "categories": [
+    "format"
+  ],
+  "content": "The image format that offers better compression efficiency than `.jpeg` while maintaining high image quality. It's commonly used for storing photos on modern devices, particularly on Apple products.",
+  "extensions": {}
+}

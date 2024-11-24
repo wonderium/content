@@ -1,0 +1,9 @@
+{
+  "title": ".avi",
+  "description": "The `.avi` (Audio Video Interleave) is a video container format developed by Microsoft, capable of storing video and audio data for synchronous playback.",
+  "categories": [
+    "format"
+  ],
+  "content": "The older video container format developed by Microsoft, that supports both video and audio streams. It typically produces large files, as it uses minimal compression, which can result in higher quality but larger sizes compared to other formats.",
+  "extensions": {}
+}

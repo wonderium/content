@@ -1,0 +1,9 @@
+{
+  "title": "Type Driven Development",
+  "description": "The Type Driven Development approach in Engineering emphasizes the use of types to guide the design and implementation of code.",
+  "categories": [
+    "approach"
+  ],
+  "content": "The development methodology where developers design and implement code based on a set of predefined types. Types act as a guide, ensuring correctness and preventing errors at compile time.",
+  "extensions": {}
+}

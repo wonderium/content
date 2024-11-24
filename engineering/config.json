@@ -6,6 +6,277 @@
 			"unitsInSchemaMarkup": []
 		},
 		"color": "#00F9C3",
-		"topics": []
+		"topics": [
+			{
+				"name": "Basics",
+				"units": [
+					"os",
+					"software",
+					"memory",
+					"cpu",
+					"gpu",
+					"arm",
+					"x86",
+					"port",
+					"gui",
+					"terminal",
+					"cli",
+					"threads",
+					"loop",
+					"variable",
+					"constant",
+					"function",
+					"cache",
+					"containerization",
+					"hashing",
+					"encryption",
+					"compilation",
+					"obfuscation",
+					"minification",
+					"decomposition",
+					"databases",
+					"api",
+					"framework",
+					"pattern",
+					"open-source",
+					"saas",
+					"tech-stack",
+					"ide",
+					"bus-joke"
+				]
+			},
+			{
+				"name": "Types of Development",
+				"units": [
+					"test-driven-development",
+					"type-driven-development",
+					"behaviour-driven-development",
+					"features-driven-development",
+					"model-driven-development",
+					"panic-driven-development"
+				]
+			},
+			{
+				"name": "Programming Approaches",
+				"units": [
+					"imperative-style",
+					"declarative-style",
+					"oop",
+					"functional-programming",
+					"procedural-programming",
+					"reactive-programming",
+					"linear-programming",
+					"dynamic-programming",
+					"synchronous-programming",
+					"asynchronous-programming"
+				]
+			},
+			{
+				"name": "Creational Patterns",
+				"units": [
+					"factory",
+					"abstract-factory",
+					"builder",
+					"prototype",
+					"singleton"
+				]
+			},
+			{
+				"name": "Structural Patterns",
+				"units": [
+					"adapter",
+					"bridge",
+					"composite",
+					"decorator",
+					"facade",
+					"flyweight",
+					"proxy"
+				]
+			},
+			{
+				"name": "Behavioral Patterns",
+				"units": [
+					"chain-of-responsibility",
+					"command",
+					"iterator",
+					"mediator",
+					"memento",
+					"observer",
+					"state",
+					"strategy",
+					"template",
+					"visitor"
+				]
+			},
+			{
+				"name": "Programming Languages",
+				"units": [
+					"declarative-languages",
+					"functional-languages",
+					"high-level-language",
+					"low-level-language",
+					"visual-language",
+					"zero-code"
+				]
+			},
+			{
+				"name": "Memory",
+				"units": [
+					"file-system",
+					"directory",
+					"file",
+					"bit",
+					"byte",
+					"kb",
+					"mb",
+					"gb",
+					"tb",
+					"pb"
+				]
+			},
+			{
+				"name": "Operating Systems",
+				"units": [
+					"unix",
+					"linux",
+					"macos",
+					"windows",
+					"ios",
+					"android"
+				]
+			},
+			{
+				"name": "OOP",
+				"units": [
+					"abstraction",
+					"encapsulation",
+					"inheritance",
+					"polymorphism"
+				]
+			},
+			{
+				"name": "Data Formats",
+				"units": [
+					"binary",
+					"hexatridecimal",
+					"octal",
+					"decimal",
+					"hexadecimal"
+				]
+			},
+			{
+				"name": "Data Bases",
+				"units": [
+					"relational-db",
+					"non-relational-db",
+					"orm",
+					"sql"
+				]
+			},
+			{
+				"name": "Architecture",
+				"units": [
+					"solid",
+					"single-responsibility",
+					"open-closed",
+					"liskov-substitution",
+					"interface-segregation",
+					"dependency-inversion",
+					"monolith",
+					"microservices",
+					"three-layer-architecture",
+					"mvc",
+					"micro-frontends"
+				]
+			},
+			{
+				"name": "Infrastructure",
+				"units": [
+					"vps",
+					"vds",
+					"s3"
+				]
+			},
+			{
+				"name": "Graphics",
+				"units": [
+					"raster-graphics",
+					"vector-graphics",
+					"jpeg",
+					"png",
+					"gif",
+					"bmp",
+					"tiff",
+					"webp",
+					"heif",
+					"svg"
+				]
+			},
+			{
+				"name": "Audio",
+				"units": [
+					"mp3",
+					"wav",
+					"aac",
+					"flac",
+					"ogg",
+					"wma",
+					"alac",
+					"opus"
+				]
+			},
+			{
+				"name": "Video",
+				"units": [
+					"mp4",
+					"avi",
+					"mkv",
+					"mov",
+					"flv",
+					"wmv",
+					"webm",
+					"mpeg"
+				]
+			},
+			{
+				"name": "Fonts",
+				"units": [
+					"ttf",
+					"otf",
+					"woff",
+					"woff2",
+					"eot",
+					"ttc"
+				]
+			},
+			{
+				"name": "Document Extensions",
+				"units": [
+					"json",
+					"md",
+					"mdx",
+					"yml",
+					"xml",
+					"csv",
+					"pdf",
+					"txt"
+				]
+			},
+			{
+				"name": "Testing",
+				"units": [
+					"unit-test",
+					"integration-test",
+					"system-test",
+					"e2e",
+					"screenshot-test",
+					"dummy-objects",
+					"mocks",
+					"stubs",
+					"regression",
+					"static-code-analysis"
+				]
+			}
+		]
 	}
 }

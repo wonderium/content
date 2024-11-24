@@ -1,0 +1,9 @@
+{
+  "title": ".xml",
+  "description": "The `.xml` (eXtensible Markup Language) is a markup language designed for storing and transporting data, focusing on simplicity and flexibility for data representation.",
+  "categories": [
+    "format"
+  ],
+  "content": "The flexible text-based format used to store and transport data in a structured way. It uses custom tags to define elements, making it extensible and suitable for a wide range of applications, especially for web services.",
+  "extensions": {}
+}

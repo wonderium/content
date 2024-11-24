@@ -1,0 +1,9 @@
+{
+  "title": ".tiff",
+  "description": "The `.tiff` (Tagged Image File Format) is an image format known for its high-quality lossless compression, often used for professional images and scanning.",
+  "categories": [
+    "format"
+  ],
+  "content": "The flexible image format that supports both lossy and lossless compression. It's often used in professional settings like photography and publishing, where high-quality images are necessary and file size is less of a concern.",
+  "extensions": {}
+}

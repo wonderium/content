@@ -1,0 +1,9 @@
+{
+  "title": ".bmp",
+  "description": "The `.bmp` (Bitmap) is an uncompressed image format that stores image data in pixel-by-pixel format, resulting in large file sizes.",
+  "categories": [
+    "format"
+  ],
+  "content": "The raster image format that stores images in a simple pixel grid without compression. While it preserves image quality, its large file sizes make it less ideal for web use compared to other formats like `.jpeg` or `.png`.",
+  "extensions": {}
+}

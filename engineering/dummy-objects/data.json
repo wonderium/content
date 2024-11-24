@@ -1,0 +1,9 @@
+{
+  "title": "Dummy Objects",
+  "description": "The Dummy Objects are simple objects used in testing that don't contain any business logic and are only used to fulfill parameter requirements.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The placeholder objects used in testing scenarios to satisfy method or function parameters, without having any real functionality. They are typically used to isolate components or test certain behaviors.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "File",
+  "description": "The File is a collection of data or information that is stored on a computer or storage device, usually with a specific format.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The object that stores data in a specific format on a storage device. It can be a document, image, program or any other type of data, identified by its name and extension.",
+  "extensions": {}
+}

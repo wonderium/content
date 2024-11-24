@@ -1,0 +1,9 @@
+{
+  "title": "Relational Database",
+  "description": "The Relational Database is a type of database that organizes data into tables (relations) based on structured schemas and enforces relationships between data entries using primary and foreign keys.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The type of databases that store and manage data using structured tables and relationships. They adhere to the principles of relational data models, often leveraging SQL as the query language and maintain data integrity through constraints such as primary and foreign keys.",
+  "extensions": {}
+}

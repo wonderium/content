@@ -1,0 +1,9 @@
+{
+  "title": "Decorator",
+  "description": "The Decorator design pattern allows dynamically adding behavior or responsibilities to an object without altering its code.",
+  "categories": [
+    "design pattern"
+  ],
+  "content": "The design pattern that allows for the extension of an object's behavior at runtime. It adds new functionality to an object by wrapping it in another object that provides the added behavior.",
+  "extensions": {}
+}

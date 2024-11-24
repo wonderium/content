@@ -1,0 +1,9 @@
+{
+  "title": "Dynamic Programming",
+  "description": "The Dynamic Programming is a method for solving complex problems by breaking them down into simpler subproblems and storing their solutions to avoid redundant calculations.",
+  "categories": [
+    "approach"
+  ],
+  "content": "The programming approach to solving problems by dividing them into smaller, overlapping subproblems. Solutions to subproblems are stored to avoid redundant work, improving efficiency in algorithms.",
+  "extensions": {}
+}

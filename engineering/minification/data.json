@@ -1,0 +1,10 @@
+{
+  "title": "Minification",
+  "description": "The Minification is a process of removing unnecessary characters from code (like spaces and comments) to reduce its size and improve performance.",
+  "categories": [
+    "concept",
+    "process"
+  ],
+  "content": "The process of optimizing code by eliminating spaces, comments and other unnecessary characters. This reduces file size and speeds up load times.",
+  "extensions": {}
+}

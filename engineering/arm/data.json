@@ -1,0 +1,9 @@
+{
+  "title": "ARM",
+  "description": "The ARM is a family of RISC (Reduced Instruction Set Computing) architectures for computer processors, commonly used in mobile and embedded systems.",
+  "categories": [
+    "hardware"
+  ],
+  "content": "The widely used processor architecture known for its efficiency and low power consumption, commonly found in smartphones, tablets and embedded devices.",
+  "extensions": {}
+}

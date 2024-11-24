@@ -1,0 +1,9 @@
+{
+  "title": ".mov",
+  "description": "The `.mov` is a multimedia container format developed by Apple, typically used for storing video and audio files in high-quality formats.",
+  "categories": [
+    "format"
+  ],
+  "content": "The video format created by Apple, primarily used for high-quality video files. It supports advanced video and audio compression and is widely used in professional video editing software and Apple devices.",
+  "extensions": {}
+}

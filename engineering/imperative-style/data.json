@@ -1,0 +1,9 @@
+{
+  "title": "Imperative Style",
+  "description": "The Imperative Style in Programming is based on giving explicit instructions on how to perform tasks and achieve a desired state.",
+  "categories": [
+    "approach"
+  ],
+  "content": "The programming approach where developers specify a sequence of commands that the computer must follow to achieve a result. It focuses on describing how to do something, step by step.",
+  "extensions": {}
+}

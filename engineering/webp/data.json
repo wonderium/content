@@ -1,0 +1,9 @@
+{
+  "title": ".webp",
+  "description": "The `.webp` is an image format developed by Google that provides both lossy and lossless compression for images, offering smaller file sizes with similar quality to `.jpeg` and `.png`.",
+  "categories": [
+    "format"
+  ],
+  "content": "The image format designed by Google that offers both lossy and lossless compression, providing smaller file sizes with similar quality to `.jpeg` and `.png` while maintaining high image quality. It supports transparency and is often used for web images.",
+  "extensions": {}
+}

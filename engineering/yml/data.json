@@ -1,0 +1,9 @@
+{
+  "title": ".yml",
+  "description": "The `.yml` (YAML Ain't Markup Language) is a human-readable data serialization format used for configuration files and data exchange between languages with different data structures.",
+  "categories": [
+    "format"
+  ],
+  "content": "The data serialization format that uses indentation to structure data hierarchically. It's often used for configuration files and data exchange in applications due to its simplicity and readability.",
+  "extensions": {}
+}

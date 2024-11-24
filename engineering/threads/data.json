@@ -1,0 +1,9 @@
+{
+  "title": "Threads",
+  "description": "The Threads are the smallest units of execution within a process, enabling multiple tasks to run concurrently in modern computing.",
+  "categories": [
+    "software" 
+  ],
+  "content": "The smallest units of CPU execution that operate within a process. They enable parallelism, allowing programs to perform multiple tasks simultaneously.",
+  "extensions": {}
+}

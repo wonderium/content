@@ -1,0 +1,9 @@
+{
+  "title": ".webm",
+  "description": "The `.webm` is an open-source video format developed for web usage, designed to offer high-quality video streaming and low latency.",
+  "categories": [
+    "format"
+  ],
+  "content": "The open-source video format optimized for online streaming. It supports high-quality video and low latency, making it popular for web video playback and supported by most modern browsers.",
+  "extensions": {}
+}

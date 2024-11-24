@@ -1,0 +1,9 @@
+{
+  "title": "Object Oriented Programming",
+  "description": "The Object Oriented Programming (OOP) approach in Software Development organizes code around objects, which contain both data and methods.",
+  "categories": [
+    "approach"
+  ],
+  "content": "The programming approach where objects, representing real-world entities, are used to model data and behavior. It focuses on encapsulation, inheritance and polymorphism to design flexible and reusable systems.",
+  "extensions": {}
+}

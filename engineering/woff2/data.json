@@ -1,0 +1,9 @@
+{
+  "title": ".woff2",
+  "description": "The `.woff2` is an updated version of `.woff` that provides even better compression, making web fonts load faster with smaller file sizes.",
+  "categories": [
+    "format"
+  ],
+  "content": "The improved version of `.woff` with better compression, leading to faster web page load times. It's supported by modern browsers and is commonly used for embedding fonts on websites.",
+  "extensions": {}
+}

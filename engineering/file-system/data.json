@@ -1,0 +1,9 @@
+{
+  "title": "File System",
+  "description": "The File System manages how data is stored and retrieved on a computer or storage device.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The system that organizes and stores data in files and directories. It manages file storage, naming, permissions and access, ensuring that data can be read and written efficiently.",
+  "extensions": {}
+}

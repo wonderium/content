@@ -1,0 +1,9 @@
+{
+  "title": "Static Code Analysis",
+  "description": "The Static Code Analysis is a process of examining code for potential errors, vulnerabilities and optimization opportunities without executing it.",
+  "categories": [
+    "process"
+  ],
+  "content": "The process that involves reviewing source code to identify potential issues, such as bugs, security vulnerabilities and code smells, without running the code. It helps developers maintain code quality and catch issues early in the development process.",
+  "extensions": {}
+}

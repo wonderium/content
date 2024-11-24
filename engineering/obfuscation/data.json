@@ -1,0 +1,10 @@
+{
+  "title": "Obfuscation",
+  "description": "The Obfuscation is a process of making code or data difficult to understand, often used in software to prevent reverse engineering.",
+  "categories": [
+    "concept",
+    "process"
+  ],
+  "content": "The process of deliberately making code complex or unclear to protect intellectual property or prevent unauthorized access and manipulation.",
+  "extensions": {}
+}

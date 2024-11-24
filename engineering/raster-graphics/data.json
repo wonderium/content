@@ -1,0 +1,9 @@
+{
+  "title": "Raster Graphics",
+  "description": "The Raster Graphics are images made up of pixels, where each pixel has a specific color value, making up the entire image.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The type of graphics that composed of a grid of individual pixels, each with its own color value. Common formats include `.jpeg`, `.png` and `.gif`. This type of image is resolution-dependent, meaning it loses quality when resized.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Synchronous Programming",
+  "description": "The Synchronous Programming is a programming model where tasks are executed in sequence, one after another, blocking the program until each task completes.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The programming model where operations occur one after another. Each task must complete before the next one starts, causing the program to pause and wait for tasks to finish.",
+  "extensions": {}
+}

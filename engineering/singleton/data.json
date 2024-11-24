@@ -1,0 +1,9 @@
+{
+  "title": "Singleton",
+  "description": "The Singleton design pattern ensures that a class has only one instance and provides a global point of access to that instance.",
+  "categories": [
+    "design pattern"
+  ],
+  "content": "The design pattern that restricts the instantiation of a class to a single object. It provides a way to access that instance globally, ensuring that there is only one instance of the class in the system.",
+  "extensions": {}
+}

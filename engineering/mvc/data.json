@@ -1,0 +1,9 @@
+{
+  "title": "MVC",
+  "description": "The MVC (Model-View-Controller) is an architectural pattern used in software development to separate an application into three interconnected components: model, view and controller.",
+  "categories": [
+      "design pattern"
+  ],
+  "content": "The design pattern that divides an application into three core components: Model (data), View (user interface) and Controller (logic). This separation allows for easier maintenance, scalability and testing of applications.",
+  "extensions": {}
+}

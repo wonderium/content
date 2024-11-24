@@ -1,0 +1,9 @@
+{
+  "title": "Screenshot Test",
+  "description": "The Screenshot Test is a form of testing that compares visual outputs of an application to a known reference to detect visual discrepancies.",
+  "categories": [
+    "approach"
+  ],
+  "content": "The type of software testing that compares screenshots taken from different stages of an application with a baseline image to detect visual regressions or unintended UI changes. It's often used in front-end development and UI testing.",
+  "extensions": {}
+}

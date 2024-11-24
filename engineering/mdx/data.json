@@ -1,0 +1,9 @@
+{
+  "title": ".mdx",
+  "description": "The `.mdx` is an extension of Markdown that allows embedding JSX (JavaScript XML) within Markdown documents for more interactive content.",
+  "categories": [
+    "format"
+  ],
+  "content": "The extension of Markdown that allowing JSX elements within Markdown syntax. It's commonly used in static site generators and React-based projects to add interactive components alongside regular Markdown content.",
+  "extensions": {}
+}

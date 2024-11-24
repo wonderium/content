@@ -1,0 +1,9 @@
+{
+  "title": "Visual Language",
+  "description": "The Visual Languages are programming languages that allow users to create programs by manipulating graphical elements rather than writing text-based code.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The type of programming language that uses visual elements, like diagrams or icons, to represent code. Languages of this type are often used in environments where non-programmers can interact with the system.",
+  "extensions": {}
+}

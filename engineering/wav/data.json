@@ -1,0 +1,9 @@
+{
+  "title": ".wav",
+  "description": "The `.wav` (Waveform Audio File Format) is an uncompressed audio format that stores sound in raw, high-quality form.",
+  "categories": [
+    "format"
+  ],
+  "content": "The audio format that stores sound without compression, preserving full audio quality. Due to its large file sizes, it's commonly used in professional audio recording and editing.",
+  "extensions": {}
+}

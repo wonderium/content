@@ -1,0 +1,9 @@
+{
+  "title": "Functional Languages",
+  "description": "The Functional Languages treat computation as the evaluation of mathematical functions and avoid changing state or mutable data.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The type of programming language that treats functions as first-class citizens. These languages focus on immutability, higher-order functions and the avoidance of side effects in computations.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Zero Code",
+  "description": "The Zero Code approach allow users to create software applications without writing any code, often using graphical interfaces and pre-built components.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The development approach that enables users to build applications without writing any code. Platforms following this approach typically offer drag-and-drop interfaces and customizable components, empowering non-developers to create functional applications.",
+  "extensions": {}
+}

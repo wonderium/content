@@ -1,0 +1,9 @@
+{
+  "title": "Containerization",
+  "description": "The Containerization is a technology that allows applications to run in isolated environments called containers, making them portable and consistent across different systems.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The practice of packaging applications and their dependencies into containers, ensuring consistency across various environments. Widely used in cloud computing and microservices architecture.",
+  "extensions": {}
+}

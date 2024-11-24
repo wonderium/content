@@ -1,0 +1,9 @@
+{
+  "title": "x86",
+  "description": "The x86 is a family of instruction set architectures based on the Intel 8086 CPU, commonly used in personal computers and servers.",
+  "categories": [
+    "hardware"
+  ],
+  "content": "The architecture used in most personal computers and servers. Known for its widespread use in desktops, laptops and workstations, it includes a set of instructions for processing data.",
+  "extensions": {}
+}

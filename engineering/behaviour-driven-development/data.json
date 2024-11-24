@@ -1,0 +1,9 @@
+{
+  "title": "Behaviour Driven Development",
+  "description": "The Behaviour Driven Development approach in Engineering focuses on collaboration between developers, testers and non-technical stakeholders to define the behavior of software.",
+  "categories": [
+    "approach"
+  ],
+  "content": "The development methodology that encourages collaboration between different roles in a project to define and document system behavior through clear, understandable scenarios, often using natural language.",
+  "extensions": {}
+}

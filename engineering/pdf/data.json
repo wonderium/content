@@ -1,0 +1,9 @@
+{
+  "title": ".pdf",
+  "description": "The `.pdf` (Portable Document Format) is a widely used file format for documents that preserves formatting across different devices and platforms.",
+  "categories": [
+    "format"
+  ],
+  "content": "The versatile file format used to present documents in a fixed layout, ensuring that they look the same on any device or platform. It supports text, images and hyperlinks and is commonly used for sharing documents.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Polymorphism",
+  "description": "The Polymorphism is the ability of different objects to respond to the same method or function call in different ways, often based on their specific types.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The ability that allows objects of different types to be treated as instances of the same type. The actual method or behavior that is executed depends on the type of the object, providing flexibility in how methods are applied.",
+  "extensions": {}
+}

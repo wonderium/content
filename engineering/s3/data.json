@@ -1,0 +1,9 @@
+{
+  "title": "S3",
+  "description": "The S3 (Simple Storage Service) is a cloud storage service that offers scalable and secure data storage.",
+  "categories": [
+    "service"
+  ],
+  "content": "The service that allows businesses and developers to store and retrieve any amount of data at any time. It's commonly used for data backup, web hosting and big data storage due to its scalability, security and reliability.",
+  "extensions": {}
+}

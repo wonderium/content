@@ -1,0 +1,9 @@
+{
+  "title": "Open-Closed",
+  "description": "The Open-Closed is a principle that states software entities should be open for extension but closed for modification, enabling changes and new functionality to be added without altering the existing code.",
+  "categories": [ 
+    "concept"
+  ],
+  "content": "The principle that ensures classes and functions are designed to allow their behavior to be extended without altering their existing implementation. This facilitates the addition of new functionality while preserving the stability of the system.",
+  "extensions": {}
+}

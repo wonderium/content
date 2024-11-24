@@ -1,0 +1,9 @@
+{
+  "title": "GUI",
+  "description": "The GUI (Graphical User Interface) is a user interface that allows users to interact with electronic devices using graphical icons and visual indicators.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The interface that enables users to interact with software and hardware through graphical elements like icons, buttons and windows, making it easier to use than command-line interfaces.",
+  "extensions": {}
+}

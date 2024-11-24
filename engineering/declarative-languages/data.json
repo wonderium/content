@@ -1,0 +1,9 @@
+{
+  "title": "Declarative Languages",
+  "description": "The Declarative Languages focus on describing what the program should accomplish without specifying how to achieve the result.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The type of programming language where developers specify what should be done, rather than how it should be done. It emphasizes the desired outcome over the implementation details.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Mocks",
+  "description": "The Mocks are objects in testing that simulate the behavior of real objects in a controlled way to verify interactions and responses.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The simulated objects used in testing to mimic the behavior of real objects, allowing testers to verify interactions and check if certain methods are called. They help isolate units and ensure that dependencies are correctly handled.",
+  "extensions": {}
+}

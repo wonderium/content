@@ -1,0 +1,9 @@
+{
+  "title": "Constant",
+  "description": "The Constant is a value that cannot be changed once it's assigned.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The variable whose value is fixed and cannot be modified during the execution of a program. Often used to represent fixed values like mathematical ones (e.g., π, e) or configuration settings.",
+  "extensions": {}
+}

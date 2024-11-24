@@ -1,0 +1,9 @@
+{
+  "title": ".mkv",
+  "description": "The `.mkv` (Matroska Video) is an open-source multimedia container format that supports multiple video, audio, subtitle and metadata streams in a single file.",
+  "categories": [
+    "format"
+  ],
+  "content": "The flexible and open-source container format that allows for storing multiple video, audio, subtitle and metadata streams in one file. It's often used for high-definition video content and supports modern codecs.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": ".otf",
+  "description": "The `.otf` (OpenType Font) is a font format that extends `.ttf` with advanced typographic features, such as ligatures and multiple language support.",
+  "categories": [
+    "format"
+  ],
+  "content": "The extension of `.ttf` that includes additional typographic features like ligatures, alternate characters and support for multiple languages. It's commonly used for professional typography in print and digital design.",
+  "extensions": {}
+}

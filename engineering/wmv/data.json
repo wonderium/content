@@ -1,0 +1,9 @@
+{
+  "title": ".wmv",
+  "description": "The `.wmv` (Windows Media Video) is a video compression format developed by Microsoft, known for efficient compression and small file sizes.",
+  "categories": [
+    "format"
+  ],
+  "content": "The video format developed by Microsoft that provides efficient video compression while maintaining decent quality. It's often used for streaming and Windows-based video applications.",
+  "extensions": {}
+}

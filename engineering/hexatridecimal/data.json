@@ -1,0 +1,10 @@
+{
+  "title": "Hexatridecimal",
+  "description": "The Hexatridecimal is a base-36 number system that uses 36 digits, including 0-9 and A-Z, to represent values.",
+  "categories": [
+    "concept",
+    "format"
+  ],
+  "content": "The number system based on 36, using the characters 0-9 and A-Z to represent values. It's rarely used in computing but can be useful for compact representation of large numbers.",
+  "extensions": {}
+}
