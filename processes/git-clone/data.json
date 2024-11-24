@@ -1,0 +1,9 @@
+{
+  "title": "git clone <url>",
+  "description": "The `git clone <url>` command copies a remote repository to a local machine, including all files and commit history.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that copies a remote repository to the local machine. Cloning includes all files and the full commit history of the project.",
+  "extensions": {}
+}

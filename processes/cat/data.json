@@ -1,0 +1,9 @@
+{
+  "title": "cat <file>",
+  "description": "The `cat <file>` command in Unix-like systems displays the contents of a file or concatenates multiple files.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that displays file contents or combines multiple files into one output. Often used to view text files directly in the terminal.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "CODEOWNERS",
+  "description": "The CODEOWNERS file assigns specific users or teams to review code changes in designated areas.",
+  "categories": [
+    "file"
+  ],
+  "content": "The file that designates responsibility for code review in specific parts of a repository. It automates review requests for certain users when changes are made.",
+  "extensions": {}
+}

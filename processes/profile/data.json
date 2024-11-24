@@ -1,0 +1,9 @@
+{
+  "title": "Profile",
+  "description": "The Profile on Git services represents a user's individual account displaying repositories, activity and contributions.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The personal area for a user on platforms like GitHub or GitLab. It contains details such as the user's repositories, contributions and activity logs.",
+  "extensions": {}
+}

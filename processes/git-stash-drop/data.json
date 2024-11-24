@@ -1,0 +1,9 @@
+{
+  "title": "git stash drop",
+  "description": "The `git stash drop` command removes a specific stash entry, freeing up space by deleting saved changes.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that deletes a specific stash entry. It frees space and organizes stashed work.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Repository",
+  "description": "The Repository is a storage concept in Git where all project files, changes and version history are stored and managed.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The storage area in Git where all project files and history of changes are managed. It allows for version control by tracking modifications over time.",
+  "extensions": {}
+}

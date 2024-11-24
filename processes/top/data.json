@@ -1,0 +1,9 @@
+{
+  "title": "top",
+  "description": "The `top` command in Unix-like systems displays a real-time view of running processes and system resource usage.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that shows running processes, CPU and memory usage in real-time. It's helpful for monitoring system performance and identifying issues.",
+  "extensions": {}
+}

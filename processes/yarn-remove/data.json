@@ -1,0 +1,9 @@
+{
+  "title": "yarn remove <package>",
+  "description": "The `yarn remove <package>` command removes a package from the dependencies in the `package.json` file and deletes it from the `node_modules` directory.",
+  "categories": [
+    "command"
+  ],
+  "content": "The Yarn command that removes a package from both the `node_modules` directory and the dependencies list in `package.json`.",
+  "extensions": {}
+}

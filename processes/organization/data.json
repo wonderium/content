@@ -1,0 +1,9 @@
+{
+  "title": "Organization",
+  "description": "The Organization on Git services is a group account for managing repositories, members and collaborative projects.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The group or company account structure on platforms like GitHub or GitLab that allows multiple users to work together under a shared profile. It includes permissions management and centralized repository access.",
+  "extensions": {}
+}

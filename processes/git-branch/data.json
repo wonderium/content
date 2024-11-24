@@ -1,0 +1,9 @@
+{
+  "title": "git branch <branch>",
+  "description": "The `git branch <branch>` command creates new branch, allowing for isolated development within a repository.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that creates new branch in a repository. It allows for isolated work on features or bug fixes without affecting the main code.",
+  "extensions": {}
+}

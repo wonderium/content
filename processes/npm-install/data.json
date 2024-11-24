@@ -1,0 +1,9 @@
+{
+  "title": "npm install <package>",
+  "description": "The `npm install <package>` command installs one or more specific packages and their dependencies from the npm registry.",
+  "categories": [
+    "command"
+  ],
+  "content": "The npm command that installs one or more packages (separated by spaces) from the npm registry, along with their dependencies.",
+  "extensions": {}
+}

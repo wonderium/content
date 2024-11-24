@@ -1,0 +1,9 @@
+{
+  "title": "Clone",
+  "description": "The Clone is a Git action that allows copying a remote repository to a local machine, preserving the entire project structure.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The action of copying a remote repository to a local machine. It keeps the full project structure and history, enabling offline work.",
+  "extensions": {}
+}

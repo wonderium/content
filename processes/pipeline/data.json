@@ -1,0 +1,9 @@
+{
+  "title": "Pipeline",
+  "description": "The Pipeline sequence in Software Development automates code building, testing and deployment, streamlining workflows for efficient delivery.",
+  "categories": [
+    "sequence"
+  ],
+  "content": "The series of automated steps to build, test and deploy code in software development. Helps streamline workflows and reduces manual intervention in delivery processes.",
+  "extensions": {}
+}

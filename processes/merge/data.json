@@ -1,0 +1,9 @@
+{
+  "title": "Merge",
+  "description": "The Merge process in Git combines changes from one branch into another, integrating different lines of development.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The process of combining changes from one branch into another. It integrates lines of development, allowing changes to be shared across branches.",
+  "extensions": {}
+}

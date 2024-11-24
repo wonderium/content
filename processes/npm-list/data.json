@@ -1,0 +1,9 @@
+{
+  "title": "npm list",
+  "description": "The `npm list` command displays the installed packages and their dependencies within the current project.",
+  "categories": [
+    "command"
+  ],
+  "content": "The npm command that shows all installed packages in the current project, along with their dependencies and their version information.",
+  "extensions": {}
+}

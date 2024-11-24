@@ -1,0 +1,9 @@
+{
+  "title": "Pull Request",
+  "description": "The Pull Request feature on Git services is used to propose code changes and collaborate on merging them into a main branch.",
+  "categories": [
+    "tool"
+  ],
+  "content": "The method for proposing changes in a repository, allowing review and discussion before merging code branches. It includes review and feedback mechanisms.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "git fetch",
+  "description": "The `git fetch` command retrieves updates from a remote repository without merging them into the local branch.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that downloads updates from a remote repository without merging them. It allows viewing new changes before applying them locally.",
+  "extensions": {}
+}

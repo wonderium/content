@@ -1,0 +1,9 @@
+{
+  "title": "Git CLI",
+  "description": "The Git CLI (command-line interface) is a tool for interacting with Git repositories through command-line instructions.",
+  "categories": [
+    "tool"
+  ],
+  "content": "The command-line tool used to interact with Git repositories. It enables version control tasks like committing, merging and branching.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "CI / CD",
+  "description": "The CI / CD approach in Software Development automates continuous integration and delivery, improving code integration, testing and deployment cycles.",
+  "categories": [
+    "approach"
+  ],
+  "content": "The software development practice that combines integration and delivery to automate code integration, testing and deployment. Helps reduce errors and speed up release cycles.",
+  "extensions": {}
+}

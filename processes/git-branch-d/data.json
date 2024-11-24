@@ -1,0 +1,9 @@
+{
+  "title": "git branch -d <branch>",
+  "description": "The `git branch -d <branch>` command deletes a local branch if it has been merged, keeping the branch structure organized.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that deletes a local branch that has already been merged. It helps keep the repository clean and organized.",
+  "extensions": {}
+}

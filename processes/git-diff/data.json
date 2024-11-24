@@ -1,0 +1,9 @@
+{
+  "title": "git diff",
+  "description": "The `git diff` command shows the differences between file versions in the working directory and the staging area or can be used to compare changes between commits when specified.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that displays differences between file versions in the working directory and the staging area or can be used to compare changes between commits when specified. It's useful for reviewing changes before committing.",
+  "extensions": {}
+}

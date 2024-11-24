@@ -1,0 +1,9 @@
+{
+  "title": "README.md",
+  "description": "The `README.md` file serves as the main project document, providing an overview and instructions for developers or users.",
+  "categories": [
+    "file"
+  ],
+  "content": "The primary documentation file in a repository, often written in Markdown. It provides an overview, usage instructions and other details about the project.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "git rebase <branch>",
+  "description": "The `git rebase <branch>` command applies the commits from the current branch onto another branch, reorganizing the commit history.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that applies the commits from the current branch onto the specified branch. It reorganizes the commit history, creating a cleaner structure.",
+  "extensions": {}
+}

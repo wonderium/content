@@ -1,0 +1,9 @@
+{
+  "title": ".gitignore",
+  "description": "The `.gitignore` file specifies files and directories to exclude from version control.",
+  "categories": [
+    "file"
+  ],
+  "content": "The configuration file listing files or directories that should be ignored by Git. It prevents unnecessary or sensitive files from being tracked in the repository. The most important thing is to add the `*.env` files 😁.",
+  "extensions": {}
+}

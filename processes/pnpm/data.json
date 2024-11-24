@@ -1,0 +1,10 @@
+{
+  "title": "pnpm",
+  "description": "The pnpm (performant npm) is an alternative to npm that focuses on performance and efficient disk space usage by using a single store for all packages.",
+  "categories": [
+     "package manager", 
+     "tool"
+  ],
+  "content": "The package manager that offers faster installations and saves disk space by using a content-addressable store for packages. It's compatible with npm but optimizes package handling.",
+  "extensions": {}
+}

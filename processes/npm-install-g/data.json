@@ -1,0 +1,9 @@
+{
+  "title": "npm install -g <package>",
+  "description": "The `npm install -g <package>` command installs a package globally, making it available for use in any project on the system.",
+  "categories": [
+    "command"
+  ],
+  "content": "The npm command that installs a package globally. Useful for tools and utilities that should be accessible across different projects.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "npx <package>",
+  "description": "The `npx <package>` command is used to execute Node.js binaries and packages without globally installing them, making it easier to run one-time commands.",
+  "categories": [
+    "command"
+  ],
+  "content": "The npm command that runs Node.js packages and binaries without requiring a global installation. It simplifies running one-time commands and tools in a project.",
+  "extensions": {}
+}

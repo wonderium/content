@@ -1,0 +1,9 @@
+{
+  "title": "git reset --soft <commit>",
+  "description": "The `git reset --soft <commit>` command moves the HEAD pointer to a previous commit, keeping all changes in the staging area.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that moves the HEAD pointer to a previous commit while keeping changes staged. This option enables rewriting history without losing modifications.",
+  "extensions": {}
+}

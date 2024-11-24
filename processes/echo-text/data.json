@@ -1,0 +1,9 @@
+{
+  "title": "echo \"<Text>\" > <file>",
+  "description": "The `echo \"<Text>\" > <file>` command in Unix-like systems displays specified text or outputs text into a file.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that displays specified text or redirects it to a file. Often used for adding text to files or testing command outputs.",
+  "extensions": {}
+}

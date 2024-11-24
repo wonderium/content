@@ -1,0 +1,9 @@
+{
+  "title": "Pull",
+  "description": "The Pull action in Git allows fetching and merging changes from a remote repository to a local branch.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The action that retrieves changes from a remote repository and merges them into a local branch. It keeps local branches up-to-date.",
+  "extensions": {}
+}

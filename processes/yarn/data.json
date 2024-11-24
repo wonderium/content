@@ -1,0 +1,9 @@
+{
+  "title": "Yarn",
+  "description": "The Yarn is a fast, reliable and secure package manager for JavaScript, created as an alternative to npm, with a focus on speed and deterministic dependency resolution.",
+  "categories": [
+    "tool"
+  ],
+  "content": "The command-line package manager for JavaScript that offers improvements over npm, including faster package installs and a lockfile for consistent dependency management.",
+  "extensions": {}
+}

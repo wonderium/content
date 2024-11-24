@@ -1,0 +1,9 @@
+{
+  "title": "Issue",
+  "description": "The Issue tool on Git services helps track bugs, tasks and improvements in code repositories.",
+  "categories": [
+    "tool"
+  ],
+  "content": "The ticket-like system for managing and tracking individual tasks or bugs within a repository. It can be discussed, labeled and assigned to team members.",
+  "extensions": {}
+}

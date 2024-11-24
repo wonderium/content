@@ -1,0 +1,9 @@
+{
+  "title": "yarn upgrade",
+  "description": "The `yarn upgrade` command updates the installed packages to their latest versions, based on the version range specified in the `package.json` file.",
+  "categories": [
+    "command"
+  ],
+  "content": "The Yarn command that upgrades installed packages to their latest versions within the specified range in `package.json`. It ensures up-to-date dependencies.",
+  "extensions": {}
+}

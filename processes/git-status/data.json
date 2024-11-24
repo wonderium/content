@@ -1,0 +1,9 @@
+{
+  "title": "git status",
+  "description": "The `git status` command displays the status of files in the working directory and staging area, showing which are staged or modified.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that displays the current status of files in the repository. It shows which files are staged, modified or untracked.",
+  "extensions": {}
+}

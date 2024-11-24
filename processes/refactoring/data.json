@@ -1,0 +1,9 @@
+{
+  "title": "Refactoring",
+  "description": "The Refactoring technique in Software Development restructures code without changing its behavior, improving readability and efficiency.",
+  "categories": [
+    "technique"
+  ],
+  "content": "The technique for restructuring existing code to improve its readability and performance. It enhances code quality without changing the external behavior of the application.",
+  "extensions": {}
+}

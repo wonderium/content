@@ -1,0 +1,9 @@
+{
+  "title": "Members",
+  "description": "The Members in Git are users with permission to access and contribute to a repository, each with specific roles.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The users who have permission to access or contribute to a repository. They can have different roles that determine their level of access.",
+  "extensions": {}
+}

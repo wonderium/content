@@ -1,0 +1,9 @@
+{
+  "title": "LICENSE",
+  "description": "The `LICENSE` file defines the legal terms for using and distributing the project's code.",
+  "categories": [
+    "file"
+  ],
+  "content": "The legal document specifying permissions and restrictions for using the code. Common examples include MIT, GPL and Apache, each with different terms and conditions.",
+  "extensions": {}
+}

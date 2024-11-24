@@ -1,0 +1,9 @@
+{
+  "title": "git shortlog",
+  "description": "The `git shortlog` command groups commit logs by author and provides a summary, often used for release notes.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that summarizes commit history grouped by author. It's useful for generating overviews and release notes.",
+  "extensions": {}
+}

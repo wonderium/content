@@ -1,0 +1,9 @@
+{
+  "title": "sudo <command>",
+  "description": "The `sudo <command>` command in Unix-like systems executes commands with superuser privileges, allowing elevated permissions temporarily.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that executes commands with elevated privileges, often required for administrative tasks. Sudo grants temporary superuser access.",
+  "extensions": {}
+}

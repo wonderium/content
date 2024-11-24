@@ -1,0 +1,9 @@
+{
+  "title": "yarn help <command>",
+  "description": "The `yarn help <command>` command provides detailed information on how to use a specific Yarn command.",
+  "categories": [
+    "command"
+  ],
+  "content": "The Yarn command that displays detailed usage instructions for a specific Yarn command, helping users understand how to use it effectively.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "git branch",
+  "description": "The `git branch` command displays all branches, including local and remote branches, in the repository.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that lists all branches in the repository, showing both local and remote branches. This view aids in managing branches across environments.",
+  "extensions": {}
+}

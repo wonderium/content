@@ -1,0 +1,9 @@
+{
+  "title": "git merge <branch>",
+  "description": "The `git merge <branch>` command integrates changes from one branch into the current branch, combining their histories.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that integrates changes from one branch into the current branch. Merging combines different lines of development into a unified history.",
+  "extensions": {}
+}

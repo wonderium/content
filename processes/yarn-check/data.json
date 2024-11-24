@@ -1,0 +1,9 @@
+{
+  "title": "yarn check",
+  "description": "The `yarn check` command verifies the integrity of installed dependencies and checks for any missing or incompatible packages.",
+  "categories": [
+    "command"
+  ],
+  "content": "The Yarn command that checks the installed dependencies for integrity, ensuring that no packages are missing or mismatched in the project.",
+  "extensions": {}
+}

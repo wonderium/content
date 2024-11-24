@@ -1,0 +1,9 @@
+{
+  "title": "clear",
+  "description": "The `clear` command in Unix-like systems clears the terminal screen, creating a clean workspace for the user.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that clears the terminal display, making it easier to view new outputs. It doesn't affect the terminal history.",
+  "extensions": {}
+}

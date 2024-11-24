@@ -1,0 +1,9 @@
+{
+  "title": "Version Control System",
+  "description": "The Version Control System tool in Software Development tracks code changes over time, supporting collaboration and maintaining version history.",
+  "categories": [
+    "tool"
+  ],
+  "content": "The tool used to track and manage changes to source code over time. Enables multiple developers to collaborate on a project while maintaining a detailed history of modifications. This history allows teams to review and if necessary, revert changes, ensuring code stability and accountability throughout the development lifecycle.",
+  "extensions": {}
+}

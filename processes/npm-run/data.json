@@ -1,0 +1,9 @@
+{
+  "title": "npm run <script>",
+  "description": "The `npm run <script>` command executes a script defined in the `package.json` file, allowing developers to run custom scripts.",
+  "categories": [
+    "command"
+  ],
+  "content": "The npm command that runs any script defined in the `package.json` file, enabling developers to execute custom commands or tasks within the project.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "git init",
+  "description": "The `git init` command initializes a new Git repository in the current directory.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that initializes a new Git repository in the current directory. It creates a `.git` folder for storing version control data.",
+  "extensions": {}
+}

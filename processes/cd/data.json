@@ -1,0 +1,9 @@
+{
+  "title": "cd <path>",
+  "description": "The `cd <path>` command in Unix-like systems changes the current working directory to a specified path.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that changes the current working directory to a specified location. It enables navigation through the filesystem.",
+  "extensions": {}
+}

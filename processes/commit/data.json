@@ -1,0 +1,9 @@
+{
+  "title": "Commit",
+  "description": "The Commit action in Git saves a set of changes in the repository with a unique ID and optional message for tracking.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The action of saving a set of changes to a repository with a unique identifier. It stores a snapshot of the project's current state.",
+  "extensions": {}
+}

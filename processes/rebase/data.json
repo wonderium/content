@@ -1,0 +1,9 @@
+{
+  "title": "Rebase",
+  "description": "The Rebase in Git restructures the commit history by transferring changes from one branch to another as new commits.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The process that transfers commits from one branch to another, restructuring the commit history to make it linear and easier to understand.",
+  "extensions": {}
+}

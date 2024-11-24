@@ -1,0 +1,9 @@
+{
+  "title": "npm update <package>",
+  "description": "The `npm update <package>` command updates the installed packages to their latest versions based on the version rules defined in the `package.json` file.",
+  "categories": [
+    "command"
+  ],
+  "content": "The npm command that updates installed packages to the latest versions that satisfy the version ranges specified in `package.json`.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "cp <file> <new_path>",
+  "description": "The `cp <file> <new_path>` command in Unix-like systems copies files or directories to a specified location.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that copies files or directories from one location to another. It supports recursive copying for directories.",
+  "extensions": {}
+}

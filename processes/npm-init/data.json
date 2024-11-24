@@ -1,0 +1,9 @@
+{
+  "title": "npm init",
+  "description": "The `npm init` command initializes a new Node.js project, creating a `package.json` file to manage project dependencies and settings.",
+  "categories": [
+    "command"
+  ],
+  "content": "The npm command that sets up a new Node.js project by creating a `package.json` file. It prompts users for project details like name, version and entry point.",
+  "extensions": {}
+}

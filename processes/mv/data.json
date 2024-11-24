@@ -1,0 +1,9 @@
+{
+  "title": "mv <file> <new_path>",
+  "description": "The `mv <file> <new_path>` command in Unix-like systems moves or renames files and directories.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that moves files or directories to a new location or renames them. It modifies file paths without creating duplicates.",
+  "extensions": {}
+}

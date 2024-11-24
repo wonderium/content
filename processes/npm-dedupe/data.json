@@ -1,0 +1,9 @@
+{
+  "title": "npm dedupe",
+  "description": "The `npm dedupe` command removes duplicate packages from the `node_modules` directory, optimizing dependency trees.",
+  "categories": [
+    "command"
+  ],
+  "content": "The npm command that deduplicates installed dependencies, removing redundant packages and optimizing the dependency tree in the `node_modules` directory.",
+  "extensions": {}
+}

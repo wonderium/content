@@ -1,0 +1,9 @@
+{
+  "title": "mkdir <name>",
+  "description": "The `mkdir <name>` command in Unix-like systems creates a new directory either in the current working directory or at a specified path.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that creates a new directory. If no path is specified, the directory is created in the current working directory. If a path is provided, the directory is created at the specified location. It helps organize files within a structured directory tree.",
+  "extensions": {}
+}

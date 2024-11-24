@@ -1,0 +1,9 @@
+{
+  "title": "Commit Message",
+  "description": "The Commit Message in Git describes the purpose of the changes made in a commit.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The description provided with a commit that explains the purpose of changes. It improves tracking and understanding of code history.",
+  "extensions": {}
+}

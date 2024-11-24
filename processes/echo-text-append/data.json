@@ -1,0 +1,9 @@
+{
+  "title": "echo \"<Text>\" >> <file>",
+  "description": "The `echo \"<Text>\" >> <file>` command in Unix-like systems adds specified text to the end of a file.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that appends specified text to an existing file. Useful for adding data without overwriting current file contents.",
+  "extensions": {}
+}

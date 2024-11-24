@@ -1,0 +1,9 @@
+{
+  "title": "history",
+  "description": "The `history` command in Unix-like systems lists previously entered commands, allowing users to review or reuse them.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that displays previously entered commands. Useful for reviewing past actions and quickly reusing commands.",
+  "extensions": {}
+}

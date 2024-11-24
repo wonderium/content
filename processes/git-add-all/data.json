@@ -1,0 +1,9 @@
+{
+  "title": "git add .",
+  "description": "The `git add .` command stages all changes in the working directory for the next commit in a single step.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that stages all modified and new files at once for the next commit. It simplifies the staging process.",
+  "extensions": {}
+}

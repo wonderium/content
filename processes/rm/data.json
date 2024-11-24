@@ -1,0 +1,9 @@
+{
+  "title": "rm <file>",
+  "description": "The `rm <file>` command in Unix-like systems deletes files or directories, with options to remove items recursively.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that deletes specified files or directories. It includes options for recursive removal and force deletion.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "npm version minor",
+  "description": "The `npm version minor` command increments the minor version of the project, used for adding new features without breaking compatibility.",
+  "categories": [
+    "command"
+  ],
+  "content": "The npm command that increments the minor version of the project, typically used when adding new features or functionality that are backward compatible.",
+  "extensions": {}
+}

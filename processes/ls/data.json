@@ -1,0 +1,9 @@
+{
+  "title": "ls",
+  "description": "The `ls` command in Unix-like systems lists files and directories in the current working directory or a specified directory.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that lists files and directories in the current or specified directory. Options allow for viewing details like permissions, size and modification dates.",
+  "extensions": {}
+}

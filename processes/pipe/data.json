@@ -1,0 +1,9 @@
+{
+  "title": "|",
+  "description": "The `|` (pipe) operator in Unix-like systems redirects the output of one command as input to another command.",
+  "categories": [
+    "operator"
+  ],
+  "content": "The operator that connects the output of one command directly into another as input. It enables powerful data processing in command chains.",
+  "extensions": {}
+}

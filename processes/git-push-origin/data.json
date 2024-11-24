@@ -1,0 +1,9 @@
+{
+  "title": "git push origin <branch>",
+  "description": "The `git push origin <branch>` command uploads local changes to the linked remote repository, updating it with the latest commits.",
+  "categories": [
+    "command"
+  ],
+  "content": "The command that uploads committed changes from the local repository to the linked remote repository. It keeps remote branches up to date with local work.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Release",
+  "description": "The Release is the process that allows teams to package and distribute stable versions of software.",
+  "categories": [
+    "process"
+  ],
+  "content": "The process of packaging and versioning code that has reached a stable state. It help organize code versions and provide easy access for users.",
+  "extensions": {}
+}

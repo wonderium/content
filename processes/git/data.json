@@ -1,0 +1,9 @@
+{
+  "title": "Git",
+  "description": "The Git tool in Software Development provides distributed version control, enabling tracking, branching and collaboration across multiple code contributors.",
+  "categories": [
+    "tool"
+  ],
+  "content": "The distributed version control system used to track changes in source code. Supports branching, merging and collaboration across multiple contributors in a project.",
+  "extensions": {}
+}
