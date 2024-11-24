@@ -6,6 +6,209 @@
 			"unitsInSchemaMarkup": []
 		},
 		"color": "#B8B8B8",
-		"topics": []
+		"topics": [
+			{
+				"name": "Basics",
+				"units": [
+					"package-managers",
+					"project-build",
+					"version-control-system",
+					"deployment"
+				]
+			},
+			{
+				"name": "Development",
+				"units": [
+					"ci-cd",
+					"agile",
+					"scrum",
+					"sprint",
+					"kanban",
+					"roadmap",
+					"waterfall",
+					"code-review",
+					"refactoring",
+					"backlog",
+					"technical-debt",
+					"pipeline",
+					"deadline",
+					"backup",
+					"bug"
+				]
+			},
+			{
+				"name": "Git Services",
+				"units": [
+					"git",
+					"profile",
+					"organization",
+					"issue",
+					"pull-request",
+					"review",
+					"github-actions",
+					"release"
+				]
+			},
+			{
+				"name": "Repository",
+				"units": [
+					"readme-md",
+					"gitignore",
+					"license",
+					"codeowners"
+				]
+			},
+			{
+				"name": "Git Basics",
+				"units": [
+					"repository",				
+					"members",
+					"contributors",
+					"branch",
+					"fork",
+					"clone",
+					"merge",
+					"rebase",
+					"push",
+					"pull",
+					"tags",
+					"commit",
+					"commit-message",
+					"git-cli"
+				]
+			},
+			{
+				"name": "Git Commands - Main",
+				"units": [
+					"git-init",
+					"git-clone",
+					"git-add",
+					"git-add-all",
+					"git-commit-m",
+					"git-status",
+					"git-log",
+					"git-diff",
+					"git-merge",
+					"git-stash",
+					"git-stash-apply",
+					"git-stash-drop",
+					"git-cherry-pick",
+					"git-rebase",
+					"git-tag"
+				]
+			},
+			{
+				"name": "Git Commands - Branches",
+				"units": [
+					"git-branch-all",
+					"git-branch",
+					"git-branch-d",
+					"git-checkout",
+					"git-checkout-b"
+				]
+			},
+			{
+				"name": "Git Commands - Remote Repo",
+				"units": [
+					"git-remote-add-origin",
+					"git-push-origin",
+					"git-pull-origin",
+					"git-fetch",
+					"git-remote-v"
+				]
+			},
+			{
+				"name": "Git Commands - Undo Changes",
+				"units": [
+					"git-reset",
+					"git-reset-soft",
+					"git-reset-hard",
+					"git-revert"
+				]
+			},
+			{
+				"name": "Git Commands - View & Search",
+				"units": [
+					"git-show",
+					"git-reflog",
+					"git-shortlog",
+					"git-blame"
+				]
+			},
+			{
+				"name": "Terminal",
+				"units": [
+					"pwd",
+					"ls",
+					"cd",
+					"mkdir",
+					"touch",
+					"rm",
+					"cp",
+					"mv",
+					"cat",
+					"echo-text",
+					"echo-text-append",
+					"grep-word",
+					"top",
+					"ps-aux",
+					"kill",
+					"pkill",
+					"sudo",
+					"clear",
+					"history",
+					"and",
+					"or",
+					"pipe"
+				]
+			},
+			{
+				"name": "Package Managers",
+				"units": [
+					"npm",
+					"pnpm",
+					"yarn",
+					"workspaces"
+				]
+			},
+			{
+				"name": "npm Commands",
+				"units": [
+					"npm-init",
+					"npm-install-all",
+					"npm-install",
+					"npm-install-g",
+					"npm-uninstall",
+					"npm-start",
+					"npm-run",
+					"npm-list",
+					"npm-outdated",
+					"npm-dedupe",
+					"npm-update",
+					"npm-version",
+					"npm-version-patch",
+					"npm-version-minor",
+					"npm-version-major",
+					"npm-login",
+					"npm-publish",
+					"npm-unpublish",
+					"npx"
+				]
+			},
+			{
+				"name": "Yarn Commands",
+				"units": [
+					"yarn-add",
+					"yarn-remove",
+					"yarn-upgrade",
+					"yarn-check",
+					"yarn-start",
+					"yarn-run",
+					"yarn-global-add",
+					"yarn-global-list",
+					"yarn-help"
+				]
+			}							
+		]
 	}
 }
