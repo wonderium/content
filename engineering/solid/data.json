@@ -1,0 +1,10 @@
+{
+  "title": "S.O.L.I.D",
+  "description": "The S.O.L.I.D is a set of five design principles for object-oriented programming that help make software designs more understandable, flexible and maintainable.",
+  "categories": [
+    "concept",
+    "approach"
+  ],
+  "content": "The acronym representing five key design principles: Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation and Dependency Inversion. These principles guide developers to write cleaner and more maintainable code.",
+  "extensions": {}
+}

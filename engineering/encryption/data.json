@@ -1,0 +1,10 @@
+{
+  "title": "Encryption",
+  "description": "The Encryption is a process of converting data into a secure format that can only be read by authorized parties.",
+  "categories": [
+    "concept",
+    "process"
+  ],
+  "content": "The process of transforming information into an unreadable format to protect data from unauthorized access. Commonly used in communication and data storage security.",
+  "extensions": {}
+}

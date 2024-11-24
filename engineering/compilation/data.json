@@ -1,0 +1,10 @@
+{
+  "title": "Compilation",
+  "description": "The Compilation is a process of converting source code written in a high-level programming language into machine code that a computer can execute.",
+  "categories": [
+    "concept",
+    "process"
+  ],
+  "content": "The process of translating source code into machine-readable code, making it executable by the computer. During this process, a compiler checks for errors and generates an executable program.",
+  "extensions": {}
+}

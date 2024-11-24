@@ -1,0 +1,9 @@
+{
+  "title": "Liskov Substitution",
+  "description": "The Liskov Substitution is a principle that asserts objects of a superclass should be replaceable with objects of its subclasses without affecting the functionality of the program.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The principle that ensures derived classes or subclasses can replace their base classes without causing issues in the program's behavior, maintaining consistent and logical inheritance hierarchies.",
+  "extensions": {}
+}

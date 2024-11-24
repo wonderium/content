@@ -1,0 +1,9 @@
+{
+  "title": "Abstract Factory",
+  "description": "The Abstract Factory design pattern provides an interface for creating families of related or dependent objects without specifying their concrete classes.",
+  "categories": [
+    "design pattern"
+  ],
+  "content": "The design pattern that allows creating of related objects without specifying their concrete classes. It provides an interface to create families of objects that belong together, often used when the system needs to be independent of how its objects are created.",
+  "extensions": {}
+}

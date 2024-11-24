@@ -1,0 +1,9 @@
+{
+  "title": "Asynchronous Programming",
+  "description": "The Asynchronous Programming allows tasks to run concurrently, enabling the program to perform other operations while waiting for tasks to complete.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The programming model where operations can run in parallel, allowing other tasks to execute while waiting for one to complete. This improves efficiency by not blocking the program during waiting periods.",
+  "extensions": {}
+}

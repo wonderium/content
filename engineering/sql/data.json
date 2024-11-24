@@ -1,0 +1,9 @@
+{
+  "title": "SQL",
+  "description": "The SQL (Structured Query Language) is a standard programming language used for managing and manipulating relational databases.",
+  "categories": [
+    "language"
+  ],
+  "content": "The language designed for managing and querying relational databases. It allows users to create, read, update and delete data in a structured way, using commands like `SELECT`, `INSERT`, `UPDATE` and `DELETE`.",
+  "extensions": {}
+}

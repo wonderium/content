@@ -1,0 +1,9 @@
+{
+  "title": "Regression",
+  "description": "The Regression testing is a type of software testing that ensures that new code changes don't negatively affect the existing functionality of an application.",
+  "categories": [
+    "approach"
+  ],
+  "content": "The type of software testing that verifies that recent code changes don't break or introduce issues in previously working parts of an application. It ensures that new features or fixes don't negatively impact the system's overall functionality.",
+  "extensions": {}
+}

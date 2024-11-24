@@ -1,0 +1,9 @@
+{
+  "title": "State",
+  "description": "The State design pattern allows an object to alter its behavior when its internal state changes, appearing to change its class.",
+  "categories": [
+    "design pattern"
+  ],
+  "content": "The design pattern that allows an object to change its behavior based on its state. The object will appear to change its class, making state transitions easy to manage and reducing complex conditionals.",
+  "extensions": {}
+}

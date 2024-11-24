@@ -1,0 +1,9 @@
+{
+  "title": ".jpeg",
+  "description": "The `.jpeg` (Joint Photographic Experts Group) is a commonly used image format known for its lossy compression, which reduces file sizes while sacrificing some image quality.",
+  "categories": [
+    "format"
+  ],
+  "content": "The widely used image format that compresses images by discarding some image data, resulting in smaller file sizes. It's often used for photographs and web images due to its balance between quality and file size.",
+  "extensions": {}
+}

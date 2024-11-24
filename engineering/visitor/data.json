@@ -1,0 +1,9 @@
+{
+  "title": "Visitor",
+  "description": "The Visitor design pattern allows adding further operations to objects of a class, without modifying the classes themselves.",
+  "categories": [
+    "design pattern"
+  ],
+  "content": "The design pattern that allows new operations to be added to existing object structures without modifying the objects themselves. It centralizes operations in a separate visitor class and promotes the Open-Closed principle.",
+  "extensions": {}
+}

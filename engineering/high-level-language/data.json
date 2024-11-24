@@ -1,0 +1,9 @@
+{
+  "title": "High-level Language",
+  "description": "The High-level Languages are programming languages that are more abstracted from machine code, making them easier to read and write.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The type of programming language that provides a high degree of abstraction from machine code. Languages of this type are designed to be easy for humans to read and write, often using natural language elements.",
+  "extensions": {}
+}

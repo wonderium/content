@@ -1,0 +1,9 @@
+{
+  "title": "Builder",
+  "description": "The Builder design pattern provides a way to construct a complex object step by step, allowing for the creation of different representations of the same type of object.",
+  "categories": [
+    "design pattern"
+  ],
+  "content": "The design pattern that separates the construction of a complex object from its representation, allowing the same construction process to create different representations. It's commonly used to construct objects with multiple possible configurations.",
+  "extensions": {}
+}

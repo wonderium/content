@@ -1,0 +1,9 @@
+{
+  "title": "Functional Programming",
+  "description": "The Functional Programming approach treats computation as the evaluation of mathematical functions and avoids changing state or mutable data.",
+  "categories": [
+    "approach"
+  ],
+  "content": "The programming approach where functions are first-class citizens. It emphasizes immutability, higher-order functions and the avoidance of side effects to create predictable, concise code.",
+  "extensions": {}
+}

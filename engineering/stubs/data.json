@@ -1,0 +1,9 @@
+{
+  "title": "Stubs",
+  "description": "The Stubs are simple methods or functions used in testing to simulate the behavior of components and return predefined responses.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The simple methods used in testing to replace real methods or functions with simplified versions that return predefined responses. They allow testing in isolation, without needing the full implementation of dependencies.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Micro Frontends",
+  "description": "The Micro Frontends is an architectural approach where the frontend of a web application is divided into smaller, independent components or micro-applications.",
+  "categories": [
+    "architecture"
+  ],
+  "content": "The architectural approach that extend the microservices concept to the frontend by breaking up a web application's user interface into smaller, independently deployable parts. This allows teams to develop, test and deploy UI components independently, improving scalability and maintainability.",
+  "extensions": {}
+}

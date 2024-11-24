@@ -1,0 +1,9 @@
+{
+  "title": "Command",
+  "description": "The Command design pattern encapsulates a request as an object, allowing for parameterization of clients with different requests.",
+  "categories": [
+    "design pattern"
+  ],
+  "content": "The design pattern that turns a request into an object, allowing the parameters to be passed, stored and executed at a later time. It decouples the sender and receiver of the request, promoting flexibility and extensibility.",
+  "extensions": {}
+}

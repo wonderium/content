@@ -1,0 +1,9 @@
+{
+  "title": "Non-Relational Database",
+  "description": "The Non-Relational Database is a type of database designed to store and manage data in formats other than traditional tables, often optimized for unstructured or semi-structured data.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The databases, also known as NoSQL databases, that organize data in flexible formats such as documents, key-value pairs, graphs or wide columns. They are typically used for handling large volumes of unstructured or semi-structured data and are optimized for scalability and distributed data storage.",
+  "extensions": {}
+}

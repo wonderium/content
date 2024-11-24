@@ -1,0 +1,9 @@
+{
+  "title": "Linux",
+  "description": "Linux is an open-source, Unix-like operating system kernel that is the foundation of various operating systems used in servers, desktops and mobile devices.",
+  "categories": [
+    "operating system"
+  ],
+  "content": "The free and open-source operating system kernel that forms the core of various distributions. It's widely used for its security, stability and flexibility in a variety of devices, from servers to smartphones.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "VPS",
+  "description": "The VPS (Virtual Private Server) is a virtualized server that provides users with a dedicated portion of a physical server's resources.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The type of hosting where a physical server is divided into multiple virtual servers. Each one operates independently, with its own operating system, storage and resources, providing more control and customization compared to shared hosting.",
+  "extensions": {}
+}

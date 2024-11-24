@@ -1,0 +1,9 @@
+{
+  "title": ".mpeg",
+  "description": "The `.mpeg` (Moving Picture Experts Group) is a digital media format used for video and audio compression, commonly used for streaming and media storage.",
+  "categories": [
+    "format"
+  ],
+  "content": "The format used for compressing and storing video and audio data, enabling efficient streaming, storage and distribution of digital media. It's used in various media formats, including DVD video and online streaming.",
+  "extensions": {}
+}

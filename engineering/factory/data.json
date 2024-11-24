@@ -1,0 +1,9 @@
+{
+  "title": "Factory",
+  "description": "The Factory design pattern provides an interface for creating objects in a super class, but allows subclasses to alter the type of objects that will be created.",
+  "categories": [
+    "design pattern"
+  ],
+  "content": "The design pattern that defines an interface for creating objects, allowing subclasses to decide which class to instantiate. It helps manage object creation without specifying the exact class of the object that will be created.",
+  "extensions": {}
+}

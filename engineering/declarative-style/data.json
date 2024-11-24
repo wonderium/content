@@ -1,0 +1,9 @@
+{
+  "title": "Declarative Style",
+  "description": "The Declarative Style in Programming focuses on describing what should be done, rather than how to do it.",
+  "categories": [
+    "approach"
+  ],
+  "content": "The programming approach where developers specify what the program should accomplish without describing all the steps to achieve the result. This style emphasizes readability and ease of use.",
+  "extensions": {}
+}

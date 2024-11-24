@@ -1,0 +1,9 @@
+{
+  "title": "Directory",
+  "description": "The Directory is a container used to organize files in a file system, allowing hierarchical structure and easier file management.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The container used to store and organize files within a file system. It helps in creating a structured and easily navigable system for file storage.",
+  "extensions": {}
+}

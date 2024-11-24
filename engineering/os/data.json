@@ -1,0 +1,9 @@
+{
+  "title": "OS",
+  "description": "The OS (Operating System) is system software that manages hardware and software resources and provides common services for computer programs.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The system software that manages computer hardware, software and other resources. It provides essential services for the execution of programs and controls system operations.",
+  "extensions": {}
+}

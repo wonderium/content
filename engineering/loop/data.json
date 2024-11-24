@@ -1,0 +1,9 @@
+{
+  "title": "Loop",
+  "description": "The Loop is a programming structure that repeats a set of instructions until a certain condition is met.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The control structure that allows a set of instructions to be executed repeatedly based on a specified condition.",
+  "extensions": {}
+}

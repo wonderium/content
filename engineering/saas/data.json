@@ -1,0 +1,9 @@
+{
+  "title": "SaaS",
+  "description": "The SaaS (Software as a Service) is a cloud-based service where applications are hosted and accessed over the internet, often via subscription.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The cloud-based software delivery model where users access applications via the internet on a subscription basis. These applications are hosted remotely and require no local installation.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Encapsulation",
+  "description": "The Encapsulation is a concept of bundling data and methods that operate on that data within a single unit or class, restricting direct access to some of the object's components.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The technique used in object-oriented programming to group related data and functions together. It helps protect an object's internal state by restricting direct access to its data and only allowing interaction through well-defined methods.",
+  "extensions": {}
+}

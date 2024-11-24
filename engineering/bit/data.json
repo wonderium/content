@@ -1,0 +1,10 @@
+{
+  "title": "Bit",
+  "description": "The Bit is the smallest unit of data in a computer, representing a binary value of either 0 or 1.",
+  "categories": [
+    "concept",
+    "unit of measurement"
+  ],
+  "content": "The single binary digit, either 0 or 1, representing the most basic form of data in computing. Multiple units are used to represent more complex data.",
+  "extensions": {}
+}

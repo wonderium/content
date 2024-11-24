@@ -1,0 +1,9 @@
+{
+  "title": "KB",
+  "description": "The KB (kilobyte) is a unit of digital information equal to 1,024 bytes.",
+  "categories": [
+    "unit of measurement"
+  ],
+  "content": "The unit of digital data that equals 1,024 bytes. It's commonly used to measure small amounts of data such as text files and images.",
+  "extensions": {}
+}

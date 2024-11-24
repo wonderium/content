@@ -1,0 +1,9 @@
+{
+  "title": "Memory",
+  "description": "The Memory in Engineering is the collection of components, devices and systems used to store data and instructions for immediate or future use.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The physical devices (like RAM and hard drives) or virtual systems that store data for quick retrieval by the CPU. It plays a key role in data processing and speed.",
+  "extensions": {}
+}

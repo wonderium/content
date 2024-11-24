@@ -1,0 +1,9 @@
+{
+  "title": "Databases",
+  "description": "The Database is an organized collection of data, generally stored and accessed electronically, that allows for easy retrieval, modification and management.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The structured set of data stored in a way that enables easy access, management and updating. It can store data in tables, allowing for efficient querying and retrieval.",
+  "extensions": {}
+}

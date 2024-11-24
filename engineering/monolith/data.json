@@ -1,0 +1,9 @@
+{
+  "title": "Monolith",
+  "description": "The Monolith is a software architecture where all components of the application are packaged together into a single unit or codebase.",
+  "categories": [
+    "architecture"
+  ],
+  "content": "The architecture type that is characterized by having a single, unified codebase where all the features and functionalities of an application are tightly coupled and work as a single unit. Changes to one part of the system often require rebuilding the entire application.",
+  "extensions": {}
+}

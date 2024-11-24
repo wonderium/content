@@ -1,0 +1,9 @@
+{
+  "title": "System Test",
+  "description": "The System Test is a type of software testing that validates the complete and integrated software product as a whole.",
+  "categories": [
+    "approach"
+  ],
+  "content": "The type of software testing used to process the entire system as a whole to ensure that all components work together and meet the specified requirements. It includes functional and non-functional tests like performance and security.",
+  "extensions": {}
+}

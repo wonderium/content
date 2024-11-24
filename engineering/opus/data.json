@@ -1,0 +1,9 @@
+{
+  "title": ".opus",
+  "description": "The `.opus` is an audio codec designed for interactive speech and music transmission over the internet, providing high compression efficiency and low latency.",
+  "categories": [
+    "format"
+  ],
+  "content": "The open-source audio codec optimized for real-time audio applications, such as video conferencing and VoIP. It supports both speech and music, offering high compression efficiency and low latency, even at low bit rates.",
+  "extensions": {}
+}

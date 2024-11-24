@@ -1,0 +1,9 @@
+{
+  "title": "Iterator",
+  "description": "The Iterator design pattern provides a way to access the elements of a collection without exposing its underlying representation.",
+  "categories": [
+    "design pattern"
+  ],
+  "content": "The design pattern that provides a way to sequentially access elements of a collection without exposing its internal structure. It allows iteration over a collection's elements in a controlled manner, often using an iterator object.",
+  "extensions": {}
+}

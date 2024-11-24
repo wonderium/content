@@ -1,0 +1,9 @@
+{
+  "title": "Microservices",
+  "description": "The Microservices is an architectural style where an application is built as a collection of loosely coupled, independently deployable services.",
+  "categories": [
+    "architecture"
+  ],
+  "content": "The architecture approach to software development where a large application is broken down into smaller, independent services that communicate with each other. Each service can be developed, deployed and scaled independently, allowing for more flexibility and scalability.",
+  "extensions": {}
+}

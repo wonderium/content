@@ -1,0 +1,9 @@
+{
+  "title": "Decomposition",
+  "description": "The Decomposition in Software Engineering is a process of breaking down complex problems or systems into simpler, manageable parts.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The practice of dividing a large or complex problem into smaller, easier-to-solve subproblems. This approach is often used in system design and programming.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Inheritance",
+  "description": "The Inheritance is an object-oriented programming concept where a new class is based on an existing class, inheriting its properties and behaviors.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The concept where a new class adopts the properties and behaviors of an existing class. This promotes code reuse and enables hierarchical relationships between classes, where the new class (child) derives from the existing class (parent).",
+  "extensions": {}
+}

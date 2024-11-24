@@ -1,0 +1,9 @@
+{
+  "title": "Vector Graphics",
+  "description": "The Vector Graphics are images created using mathematical equations that define shapes, lines and colors, allowing for infinite scalability.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The type of graphics are made from paths defined by mathematical formulas, which means they can be scaled to any size without losing quality. Common formats include `.svg` and `.eps`. These images are ideal for logos and illustrations.",
+  "extensions": {}
+}

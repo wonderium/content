@@ -1,0 +1,9 @@
+{
+  "title": "Features Driven Development",
+  "description": "The Features Driven Development approach in Engineering emphasizes the development of features based on customer requirements and business value.",
+  "categories": [
+    "approach"
+  ],
+  "content": "The development methodology where the focus is on delivering features that provide business value, often in short, iterative cycles. This approach emphasizes prioritizing features and addressing customer needs.",
+  "extensions": {}
+}

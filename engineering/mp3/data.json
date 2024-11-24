@@ -1,0 +1,9 @@
+{
+  "title": ".mp3",
+  "description": "The `.mp3` (MPEG Audio Layer III) is a widely used audio compression format that reduces file size while maintaining relatively high sound quality.",
+  "categories": [
+    "format"
+  ],
+  "content": "The audio format that uses lossy compression to reduce file size. It's commonly used for music and audio streaming due to its balance between file size and sound quality, although some detail is lost during compression.",
+  "extensions": {}
+}

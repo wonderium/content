@@ -1,0 +1,9 @@
+{
+  "title": ".mp4",
+  "description": "The `.mp4` (MPEG-4 Part 14) is a widely used digital multimedia container format that can store video, audio and other data like subtitles and images.",
+  "categories": [
+    "format"
+  ],
+  "content": "The multimedia container format that can hold video, audio and metadata. It uses advanced compression techniques, making it ideal for streaming and storage due to its ability to maintain quality while reducing file size.",
+  "extensions": {}
+}

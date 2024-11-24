@@ -1,0 +1,9 @@
+{
+  "title": "Panic Driven Development",
+  "description": "The Panic Driven Development approach in Engineering involves making rushed decisions or changes to code during moments of high stress or unexpected system failures.",
+  "categories": [
+    "approach"
+  ],
+  "content": "The less formal, reactive development methodology where developers take hasty actions to fix issues quickly, often under pressure. It's characterized by a lack of planning and can lead to long-term technical debt.",
+  "extensions": {}
+}

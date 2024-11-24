@@ -1,0 +1,9 @@
+{
+  "title": "Variable",
+  "description": "The Variable is a storage location identified by a name and used to store data that can change during the execution of a program.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The named storage location used to hold data that can vary throughout the execution of a program. It can store values such as numbers, text or other data types.",
+  "extensions": {}
+}

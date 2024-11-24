@@ -1,0 +1,9 @@
+{
+  "title": "CLI",
+  "description": "The CLI (Command Line Interface) is a text-based interface for interacting with software or hardware by typing commands.",
+  "categories": [
+    "software"
+  ],
+  "content": "The interface that allows users to interact with a computer or application by typing text commands. Common in system administration and programming tasks.",
+  "extensions": {}
+}

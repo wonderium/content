@@ -1,0 +1,9 @@
+{
+  "title": "Low-level Language",
+  "description": "The Low-level Languages are programming languages that provide little abstraction from a computer's instruction set architecture, making them closer to machine code.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The type of programming language that is closely related to machine code, offering minimal abstraction. Languages of this type are used to write system software and interact directly with hardware.",
+  "extensions": {}
+}

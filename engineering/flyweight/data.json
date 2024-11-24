@@ -1,0 +1,9 @@
+{
+  "title": "Flyweight",
+  "description": "The Flyweight design pattern reduces memory usage by sharing as much data as possible with similar objects, rather than creating new ones.",
+  "categories": [
+    "design pattern"
+  ],
+  "content": "The design pattern that minimizes memory usage by sharing common data between similar objects. It's useful when many objects share the same state, such as in the case of graphical objects or game entities.",
+  "extensions": {}
+}

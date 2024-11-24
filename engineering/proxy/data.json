@@ -1,0 +1,9 @@
+{
+  "title": "Proxy",
+  "description": "The Proxy design pattern allows a substitute or placeholder to be provided for another object, controlling access to the original object",
+  "categories": [
+    "design pattern"
+  ],
+  "content": "The design pattern that allows a substitute or placeholder to be provided for another object. It controls access to the original object, enabling actions to be performed before or after the request reaches the real object, with levels of control such as lazy loading, access control or logging.",
+  "extensions": {}
+}

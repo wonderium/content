@@ -1,0 +1,9 @@
+{
+  "title": "CPU",
+  "description": "The CPU (Central Processing Unit) is the main component of a computer responsible for executing instructions and performing calculations.",
+  "categories": [
+    "hardware"
+  ],
+  "content": "The brain of the computer that carries out instructions from programs through basic arithmetic, logic, control and input/output operations.",
+  "extensions": {}
+}

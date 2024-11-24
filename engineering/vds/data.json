@@ -1,0 +1,9 @@
+{
+  "title": "VDS",
+  "description": "The VDS (Virtual Dedicated Server) is a form of virtualization that provides users with a dedicated server environment within a shared physical server.",
+  "categories": [
+    "technology"
+  ],
+  "content": "The type of hosting that offers dedicated resources, including CPU and RAM, as the virtual environment is isolated more than in traditional shared hosting. It gives users greater control over their server environment, without the cost of a full dedicated server.",
+  "extensions": {}
+}

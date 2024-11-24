@@ -1,0 +1,9 @@
+{
+  "title": ".md",
+  "description": "The `.md` (Markdown) is a lightweight file format that uses plain-text syntax to represent formatted content. It's commonly used for creating documents that are easily converted to HTML.",
+  "categories": [
+    "format"
+  ],
+  "content": "The text-based format used for writing documents with simple formatting, such as headers, lists and links. It's popular for documentation, `README` files and web content due to its readability and ease of conversion to HTML.",
+  "extensions": {}
+}

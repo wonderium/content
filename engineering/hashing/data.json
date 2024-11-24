@@ -1,0 +1,10 @@
+{
+  "title": "Hashing",
+  "description": "The Hashing is a process of converting input data into a fixed-size string of characters, which typically represents the data in a unique way.",
+  "categories": [
+    "concept",
+    "process"
+  ],
+  "content": "The process used to convert input data into a fixed-size value, often used in data retrieval and security. It's a key for efficient lookups in hash tables and verifying data integrity.",
+  "extensions": {}
+}

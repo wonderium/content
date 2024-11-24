@@ -1,0 +1,9 @@
+{
+  "title": "E2E",
+  "description": "The E2E (End-to-end) testing is a type of software testing that evaluates the entire application flow from start to finish, ensuring the system works as intended.",
+  "categories": [
+    "approach"
+  ],
+  "content": "The type of software testing that simulates real user behavior and verifies that all parts of the application work together as expected. It tests the entire flow from user input to the final result.",
+  "extensions": {}
+}

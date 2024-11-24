@@ -1,0 +1,9 @@
+{
+  "title": ".svg",
+  "description": "The `.svg` (Scalable Vector Graphics) is an XML-based vector image format that allows for scalable images that don't lose quality when resized.",
+  "categories": [
+    "format"
+  ],
+  "content": "The vector-based image format that uses XML to define images, allowing them to scale to any size without losing quality. It's commonly used for logos, icons and illustrations on the web due to its flexibility and resolution independence.",
+  "extensions": {}
+}

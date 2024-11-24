@@ -1,0 +1,9 @@
+{
+  "title": ".flac",
+  "description": "The `.flac` (Free Lossless Audio Codec) is an audio format that compresses audio without any loss of quality, maintaining the original sound.",
+  "categories": [
+    "format"
+  ],
+  "content": "The lossless audio compression format that reduces file sizes while preserving the original audio quality. It's popular among audiophiles and is used for high-fidelity audio storage and playback.",
+  "extensions": {}
+}

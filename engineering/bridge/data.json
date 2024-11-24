@@ -1,0 +1,9 @@
+{
+  "title": "Bridge",
+  "description": "The Bridge design pattern separates abstraction from implementation, allowing both to vary independently without affecting each other.",
+  "categories": [
+    "design pattern"
+  ],
+  "content": "The design pattern that decouples abstraction from its implementation. It enables the modification of both the abstraction and the implementation independently, making it easier to extend the system.",
+  "extensions": {}
+}

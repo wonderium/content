@@ -1,0 +1,9 @@
+{
+  "title": "Three-Layer Architecture",
+  "description": "The Three-Layer Architecture is a software design pattern that divides an application into three distinct layers: presentation, business logic and data storage.",
+  "categories": [
+    "architecture"
+  ],
+  "content": "The design pattern that separates an application into three layers: the presentation layer for user interactions, the business logic layer for processing and the data layer for managing data storage. It helps improve organization and maintainability of the codebase.",
+  "extensions": {}
+}

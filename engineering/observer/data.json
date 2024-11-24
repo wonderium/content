@@ -1,0 +1,9 @@
+{
+  "title": "Observer",
+  "description": "The Observer design pattern allows a subject to notify its observers when its state changes, without knowing who or what those observers are.",
+  "categories": [
+    "design pattern"
+  ],
+  "content": "The design pattern where an object (subject) maintains a list of its dependent objects (observers) and notifies them of any state changes, usually by calling their update methods. It allows for a decoupled communication mechanism.",
+  "extensions": {}
+}

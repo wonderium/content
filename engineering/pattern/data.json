@@ -1,0 +1,9 @@
+{
+  "title": "Pattern",
+  "description": "The Pattern in Software Engineering is a reusable solution to a common problem, designed to solve recurring issues in a particular context.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The general repeatable solution to a recurring design problem. It helps standardize and simplify problem-solving in software development.",
+  "extensions": {}
+}

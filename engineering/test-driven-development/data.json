@@ -1,0 +1,9 @@
+{
+  "title": "Test Driven Development",
+  "description": "The Test Driven Development approach in Engineering involves writing tests before writing the code that needs to pass those tests.",
+  "categories": [
+    "approach"
+  ],
+  "content": "The practice of creating automated tests before writing the actual code. Tests guide the development process by ensuring code meets requirements and behaves correctly as new features are added.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Procedural Programming",
+  "description": "The Procedural Programming is a paradigm that organizes code into functions or procedures that operate on data structures, promoting a step-by-step approach.",
+  "categories": [
+    "programming paradigm"
+  ],
+  "content": "The style of programming where the logic of the application is divided into functions. The focus is on calling these functions and the sequential execution of tasks.",
+  "extensions": {}
+}

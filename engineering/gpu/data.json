@@ -1,0 +1,9 @@
+{
+  "title": "GPU",
+  "description": "The GPU (Graphics Processing Unit) is a specialized processor designed to accelerate the rendering of images and video.",
+  "categories": [
+    "hardware"
+  ],
+  "content": "The processor designed for high-performance graphics rendering and parallel computation, typically used in gaming, machine learning and scientific simulations.",
+  "extensions": {}
+}

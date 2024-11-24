@@ -1,0 +1,9 @@
+{
+  "title": "Abstraction",
+  "description": "The Abstraction is the concept of hiding the complex implementation details of a system and exposing only the essential features to the user.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The concept that involves simplifying a system by focusing on the high-level functionality and hiding unnecessary details. It allows developers to work with complex systems more easily by reducing the complexity exposed to the user.",
+  "extensions": {}
+}

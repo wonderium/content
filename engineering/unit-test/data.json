@@ -1,0 +1,9 @@
+{
+  "title": "Unit Test",
+  "description": "The Unit Test is a type of software testing that focuses on verifying individual units or components of a program in isolation.",
+  "categories": [
+    "approach"
+  ],
+  "content": "The type of software testing that focuses on testing small, isolated pieces of code, typically individual functions or methods, to ensure they work as expected. It helps detect bugs early in the development process and is a key part of test-driven development.",
+  "extensions": {}
+}

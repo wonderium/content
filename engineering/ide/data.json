@@ -1,0 +1,9 @@
+{
+  "title": "IDE",
+  "description": "The IDE (Integrated Development Environment) is a software application that provides tools and features to help developers write, test and debug code.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The software environment that provides tools like a code editor, debugger and compiler to help developers write and test their code more efficiently.",
+  "extensions": {}
+}

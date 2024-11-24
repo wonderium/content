@@ -1,0 +1,9 @@
+{
+  "title": "Model Driven Development",
+  "description": "The Model Driven Development approach in Engineering uses abstract models to guide and generate code, often improving productivity and maintainability.",
+  "categories": [
+    "approach"
+  ],
+  "content": "The development methodology where models are created to represent different aspects of the system. These models are used to automatically generate code and help in system design and maintenance.",
+  "extensions": {}
+}

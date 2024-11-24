@@ -1,0 +1,9 @@
+{
+  "title": "Dependency Inversion",
+  "description": "The Dependency Inversion is a principle stating that high-level modules should not depend on low-level modules; instead, both should depend on abstractions and abstractions should not depend on details.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The principle emphasizes that high-level business logic should not rely on low-level implementation details. Instead, both should depend on abstract interfaces, allowing for greater flexibility and easier modification of components.",
+  "extensions": {}
+}

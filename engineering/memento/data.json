@@ -1,0 +1,9 @@
+{
+  "title": "Memento",
+  "description": "The Memento design pattern captures and externalizes an object's state, allowing it to be restored later without revealing its implementation details.",
+  "categories": [
+    "design pattern"
+  ],
+  "content": "The design pattern that stores an object's state at a specific point in time and allows it to be restored later. It encapsulates the object's state in a memento object, enabling undo/redo functionality in systems.",
+  "extensions": {}
+}

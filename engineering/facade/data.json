@@ -1,0 +1,9 @@
+{
+  "title": "Facade",
+  "description": "The Facade design pattern provides a simplified interface to a complex subsystem, making it easier to use.",
+  "categories": [
+    "design pattern"
+  ],
+  "content": "The design pattern that provides a high-level interface to a set of interfaces in a subsystem. It makes the subsystem easier to use by exposing a simpler interface to the client.",
+  "extensions": {}
+}

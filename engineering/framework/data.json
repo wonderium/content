@@ -1,0 +1,9 @@
+{
+  "title": "Framework",
+  "description": "The Framework is a set of tools, libraries and best practices used to build and structure software applications more efficiently.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The pre-built structure that developers can use to create applications quickly and consistently. It provide a foundation with reusable components and standard practices.",
+  "extensions": {}
+}

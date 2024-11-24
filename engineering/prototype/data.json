@@ -1,0 +1,9 @@
+{
+  "title": "Prototype",
+  "description": "The Prototype design pattern specifies the kind of objects to create using a prototypical instance and creates new objects by copying this prototype.",
+  "categories": [
+    "design pattern"
+  ],
+  "content": "The design pattern that allows cloning of objects by creating new instances based on an existing template. This is useful when object creation is costly or complex and a copy of an existing configuration is needed.",
+  "extensions": {}
+}
