@@ -1,0 +1,9 @@
+{
+  "title": "Hosting",
+  "description": "The Hosting JS mechanism describes the default behavior of moving declarations to the top of their scope.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The mechanism where variable and function declarations are moved to the top of their scope. This applies during the compile phase. Only the declarations are hoisted, not the initializations, which can lead to `undefined` values for variables declared with `var`. `let` and `const` declarations are also hoisted but remain in a temporal dead zone until their initialization. This behavior ensures that code can reference declared elements within their scope, even if they are declared later in the code.",
+  "extensions": {}
+}

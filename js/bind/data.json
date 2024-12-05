@@ -1,0 +1,26 @@
+{
+  "title": ".bind()",
+  "description": "The `.bind()` JS method creates a new function with a specified `this` value and optional pre-filled arguments.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method that creates a new function. It sets the `this` context and optionally pre-defines some of its arguments.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 3,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 4
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

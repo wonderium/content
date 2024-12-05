@@ -1,0 +1,26 @@
+{
+  "title": "arguments",
+  "description": "The `arguments` object in JS functions is an array-like object containing all passed parameters.",
+  "categories": [
+    "object"
+  ],
+  "content": "The object automatically available inside functions. It holds all the parameters passed to a function as an array-like structure.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 3,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 4
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

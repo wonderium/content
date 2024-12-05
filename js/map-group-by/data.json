@@ -1,0 +1,26 @@
+{
+  "title": "Map.groupBy()",
+  "description": "The `Map.groupBy()` static JS method creates a map where keys are derived from a grouping function.",
+  "categories": [
+    "method"
+  ],
+  "content": "The static method that processes an iterable, such as an array, and groups its elements into a `Map`. The keys of the `Map` are derived from the return values of a grouping callback function, and the values are arrays containing the grouped elements. Useful for categorizing data or organizing elements into logical collections.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 3,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 4
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+   }
+  } 
+}

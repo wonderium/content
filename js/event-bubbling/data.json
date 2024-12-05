@@ -1,0 +1,9 @@
+{
+  "title": "Event Bubbling",
+  "description": "The Event Bubbling JS concept describes the propagation of events from a child element to its parent.",
+  "categories": [
+    "concept"
+  ],
+  "content": "It is the opposite of event capturing behavior where an event triggers handlers on the targeted element and its ancestors. It moves upward through the DOM hierarchy.",
+  "extensions": {}
+}

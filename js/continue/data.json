@@ -1,0 +1,27 @@
+{
+  "title": "continue",
+  "description": "The `continue` JS syntax statement controls the flow of loops by skipping the current iteration and proceeding with the next.",
+  "categories": [
+    "syntax",
+    "keyword"
+  ],
+  "content": "The statement used in loops to skip the current iteration. Execution jumps to the next loop iteration without completing the current one.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 3,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 4
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

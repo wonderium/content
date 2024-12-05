@@ -1,0 +1,9 @@
+{
+  "title": "Closure",
+  "description": "The Closure JS feature allows a function to retain access to its lexical scope even after the outer function exits.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The feature where a function remembers its surrounding state. Enables access to variables from the scope where it was created.",
+  "extensions": {}
+}

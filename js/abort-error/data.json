@@ -1,0 +1,26 @@
+{
+  "title": "AbortError",
+  "description": "The `AbortError` JS object indicates that a task was canceled, often through an `AbortController`.",
+  "categories": [
+    "object"
+  ],
+  "content": "The specific error thrown when an asynchronous operation is canceled. Often associated with fetch and `AbortController` usage.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 3,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 4
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

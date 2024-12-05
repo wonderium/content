@@ -1,0 +1,27 @@
+{
+  "title": "while",
+  "description": "The `while` JS syntax statement is a loop structure that repeatedly executes a block of code as long as a specified condition evaluates to `true`.",
+  "categories": [
+    "syntax",
+    "statement"
+  ],
+  "content": "The statement used as a loop structure that executes a block of code at least once and then repeatedly executes it while a specified condition is `true`. The condition is evaluated after each iteration.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 3,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 4
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+   }
+  } 
+}

@@ -1,0 +1,26 @@
+{
+  "title": "instanceof",
+  "description": "The `instanceof` keyword in JS checks whether an object is an instance of a specific constructor.",
+  "categories": [
+    "keyword"
+  ],
+  "content": "The keyword that checks if an object belongs to a specific prototype chain. It compares the prototype property of a constructor with the prototype chain of the object, returning a boolean value. Commonly used for type checking in object-oriented programming.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 3,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 4
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+   }
+  } 
+}

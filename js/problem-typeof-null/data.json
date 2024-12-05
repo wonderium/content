@@ -1,0 +1,9 @@
+{
+  "title": "typeof null === 'object'",
+  "description": "The `typeof null === 'object'` JS issue is a historical quirk resulting from the early implementation of the `typeof` operator.",
+  "categories": [
+    "problem"
+  ],
+  "content": "The historical bug in JavaScript. The `typeof null` returns `object` instead of `null`, creating confusion in type checking. This behavior originates from the early days of JavaScript, where values were represented using a type tag system in the underlying implementation.",
+  "extensions": {}
+}
