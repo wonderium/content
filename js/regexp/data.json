@@ -1,0 +1,26 @@
+{
+  "title": "RegExp",
+  "description": "The `RegExp` JS object defines patterns for matching and manipulating strings with regular expressions.",
+  "categories": [
+    "object"
+  ],
+  "content": "The object is used to create and work with regular expressions. It defines patterns for matching sequences of characters within strings, enabling powerful text search, extraction, and validation.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 3,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 4
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+   }
+  } 
+}

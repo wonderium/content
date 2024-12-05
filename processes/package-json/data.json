@@ -1,0 +1,9 @@
+{
+  "title": "package.json",
+  "description": "The `package.json` file in Node.js defines project metadata, dependencies, and scripts.",
+  "categories": [
+    "file"
+  ],
+  "content": "The file that contains metadata about project. It contains metadata like the project name, version, and description, as well as dependencies (both runtime and development). Additionally, it defines scripts for automating tasks, configuration for tools like linters or test frameworks, and other settings such as the entry point and license.",
+  "extensions": {}
+}

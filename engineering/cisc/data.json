@@ -1,0 +1,9 @@
+{
+  "title": "CISC",
+  "description": "The CISC architecture features complex instruction sets for executing multi-step tasks in a single command.",
+  "categories": [
+    "architecture"
+  ],
+  "content": "The CPU architecture with a rich set of instructions. Focuses on executing high-level tasks with fewer lines of code. This approach reduces the need for multiple simple instructions, focusing on optimizing compiler and programmer efficiency. However, it often results in increased hardware complexity and longer execution times for individual instructions compared to RISC architectures.",
+  "extensions": {}
+}

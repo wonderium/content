@@ -1,0 +1,26 @@
+{
+  "title": ".apply()",
+  "description": "The `.apply()` JS method calls a function with a specific `this` context and an array of arguments.",
+  "categories": [
+    "method"
+  ],
+  "content": "The method used to call a function with a given `this` value. Arguments for the function are provided as an array or array-like object.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 3,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 4
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

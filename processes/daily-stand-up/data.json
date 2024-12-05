@@ -1,0 +1,9 @@
+{
+  "title": "Daily Stand Up",
+  "description": "The Daily Stand Up in Scrum is a brief team meeting for updates, progress, and planning.",
+  "categories": [
+    "process"
+  ],
+  "content": "A short meeting where team members share progress and plan their day. Team members address three key questions: What was accomplished yesterday? What will be done today? Are there any blockers? The meeting fosters collaboration, ensures alignment, and helps identify potential issues early.",
+  "extensions": {}
+}

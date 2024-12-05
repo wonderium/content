@@ -1,0 +1,26 @@
+{
+  "title": ".call()",
+  "description": "The `.call()` JS method invokes a function with a specified `this` context and individual arguments.",
+  "categories": [
+    "function"
+  ],
+  "content": "The method used to call a function with a provided `this` value. Additional arguments are passed individually, not as an array.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 3,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 4
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+    }
+  }
+}

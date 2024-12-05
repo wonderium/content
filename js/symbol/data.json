@@ -1,0 +1,26 @@
+{
+  "title": "Symbol",
+  "description": "The `Symbol` JS wrapper object provides a way to create and work with unique, immutable identifiers for object properties.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The wrapper object that allows primitive symbols to temporarily behave like objects, granting access to methods like `.toString()` and `.valueOf()`. The object also provides access to well-known symbols, for customizing the behavior of built-in and user-defined objects.",
+  "extensions": {
+    "compatibility": {
+      "browsers": {
+        "chrome": 3,
+        "chrome_android": 18,
+        "edge": 12,
+        "firefox": 3.5,
+        "firefox_android": 4,
+        "safari": 4,
+        "safari_ios": 4
+      },
+      "latest_release_date": {
+        "year": 2015,
+        "month": 7,
+        "day": 29
+      }
+   }
+  } 
+}

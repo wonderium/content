@@ -1,0 +1,9 @@
+{
+  "title": "0.1 + 0.2 !== 0.3",
+  "description": "The issue '0.1 + 0.2 !== 0.3' in JS highlights the imprecision of floating-point arithmetic in binary systems.",
+  "categories": [
+    "problem"
+  ],
+  "content": "The issue in JavaScript caused by the representation of floating-point numbers in binary. Numbers like '0.1' and '0.2' cannot be represented exactly in binary, leading to small rounding errors during calculations. For example, '0.1 + 0.2' results in '0.30000000000000004' instead of '0.3'. This problem can be mitigated by using techniques such as rounding to a fixed number of decimal places or working with libraries that support arbitrary-precision arithmetic.",
+  "extensions": {}
+}

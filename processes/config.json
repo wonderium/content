@@ -23,6 +23,7 @@
 					"agile",
 					"scrum",
 					"sprint",
+					"daily-stand-up",
 					"kanban",
 					"roadmap",
 					"waterfall",
@@ -55,7 +56,8 @@
 					"readme-md",
 					"gitignore",
 					"license",
-					"codeowners"
+					"codeowners",
+					"env"
 				]
 			},
 			{
@@ -168,6 +170,8 @@
 					"npm",
 					"pnpm",
 					"yarn",
+					"package-json",
+					"lock-file",
 					"workspaces"
 				]
 			},

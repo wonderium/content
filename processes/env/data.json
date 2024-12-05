@@ -1,0 +1,9 @@
+{
+  "title": ".env",
+  "description": "The `.env` file stores environment variables for application configuration and security.",
+  "categories": [
+    "file"
+  ],
+  "content": "The configuration file for storing environment variables. Typically used to manage sensitive data like API keys securely without hardcoding them into the application code. These files are not committed to version control and usually placed in the root directory of a project.",
+  "extensions": {}
+}
