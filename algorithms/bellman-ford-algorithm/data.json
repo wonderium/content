@@ -1,0 +1,9 @@
+{
+  "title": "Bellman-Ford Algorithm",
+  "description": "The Bellman-Ford Algorithm is an algorithm that calculates the shortest path from a single source node, handling graphs with negative edge weights.",
+  "categories": [
+    "algorithm"
+  ],
+  "content": "The shortest-path algorithm that computes minimum distances from a starting node and can handle negative weights. Slower than Dijkstra's algorithm but useful in detecting negative cycles.",
+  "extensions": {}
+}

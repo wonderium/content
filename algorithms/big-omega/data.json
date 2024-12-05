@@ -1,0 +1,9 @@
+{
+  "title": "Big Omega",
+  "description": "The Big-Ω (Omega) notation in Algorithms denotes the best-case growth rate of an algorithm's time or space complexity.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The notation used to represent the lower bounds of an algorithm's performance. Indicates the best-case scenario for time or space complexity as input size grows.",
+  "extensions": {}
+}

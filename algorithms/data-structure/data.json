@@ -1,0 +1,9 @@
+{
+  "title": "Data Structure",
+  "description": "The Data Structure is a concept focused on efficient data access, storage and modification during computations.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The method of organizing and storing data for efficient use. Improves access, manipulation and management of data within algorithms.",
+  "extensions": {}
+}

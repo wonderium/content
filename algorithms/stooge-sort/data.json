@@ -1,0 +1,10 @@
+{
+  "title": "Stooge Sort",
+  "description": "The Stooge Sort Algorithm is a recursive sorting method that partially sorts the beginning, end and middle of a list in a repetitive cycle.",
+  "categories": [
+    "algorithm",
+    "concept"
+  ],
+  "content": "The recursive sorting algorithm that swaps elements at the start and end of a list, then recursively sorts overlapping sections. Known for extreme inefficiency with O(n^(log 3 / log 1.5)) complexity.",
+  "extensions": {}
+}

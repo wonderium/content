@@ -1,0 +1,10 @@
+{
+  "title": "Miracle Sort",
+  "description": "The Miracle Sort is a fictional sorting algorithm that assumes elements magically sort themselves without any operations.",
+  "categories": [
+    "algorithm",
+    "concept"
+  ],
+  "content": "The fictional sorting algorithm where all elements are presumed to become sorted automatically. Used humorously to imply a sort that completes by luck or unexplained means.",
+  "extensions": {}
+}

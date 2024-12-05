@@ -1,0 +1,9 @@
+{
+  "title": "B+ Tree",
+  "description": "The B+ Tree is an extension of B-Tree data structure, with all values stored in leaf nodes and internal nodes holding keys only.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The extension of B-tree where all values are stored in the leaf nodes and internal nodes contain keys for guiding searches. Widely used in databases due to fast sequential access.",
+  "extensions": {}
+}

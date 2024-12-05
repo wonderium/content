@@ -1,0 +1,9 @@
+{
+  "title": "O(n log n)",
+  "description": "The O(n log n) linearithmic time complexity in Algorithms describes operations that scale as input size times its logarithm.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The complexity class where execution time grows in proportion to n times log n. Typical in efficient sorting algorithms like Merge Sort and Heap Sort.",
+  "extensions": {}
+}

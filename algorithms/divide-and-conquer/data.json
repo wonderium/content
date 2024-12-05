@@ -1,0 +1,9 @@
+{
+  "title": "Divide and Conquer",
+  "description": "The Divide and Conquer approach in Algorithms solves problems by recursively breaking them into subproblems, combining solutions for efficiency.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The problem-solving approach that divides a problem into smaller subproblems, solves each recursively and combines results. Optimizes certain complex computations.",
+  "extensions": {}
+}

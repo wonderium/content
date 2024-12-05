@@ -1,0 +1,9 @@
+{
+  "title": "Quick Sort",
+  "description": "The Quick Sort Algorithm sorts an array by recursively partitioning elements around a pivot, achieving efficient average performance.",
+  "categories": [
+    "algorithm"
+  ],
+  "content": "The sorting algorithm that selects a pivot element and partitions elements into two groups. Recursively sorts each partition, achieving average O(n log n) complexity.",
+  "extensions": {}
+}

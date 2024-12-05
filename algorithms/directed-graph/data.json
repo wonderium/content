@@ -1,0 +1,9 @@
+{
+  "title": "Directed Graph",
+  "description": "The Directed Graph is a graph where edges have a direction, indicating the flow from one vertex to another.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The graph in which edges have a direction, going from one vertex to another. Often used to represent one-way relationships or processes like task flows.",
+  "extensions": {}
+}

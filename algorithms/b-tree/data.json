@@ -1,0 +1,9 @@
+{
+  "title": "B-Tree",
+  "description": "The B-Tree is a self-balancing tree data structure commonly used in databases and file systems, allowing efficient multi-level search.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The multi-level, balanced tree structure that keeps data sorted and allows searches, insertions and deletions in logarithmic time. Suitable for storage systems needing fast data access.",
+  "extensions": {}
+}

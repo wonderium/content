@@ -1,0 +1,9 @@
+{
+  "title": "O(2^n)",
+  "description": "The O(2^n) exponential time complexity in Algorithms describes processes where time doubles with each increase in input size.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The complexity class where execution time grows exponentially with input size. Often seen in recursive algorithms without efficient pruning, such as the naive Fibonacci algorithm.",
+  "extensions": {}
+}

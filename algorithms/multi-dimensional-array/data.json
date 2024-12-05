@@ -1,0 +1,9 @@
+{
+  "title": "Multi-Dimensional Array",
+  "description": "The Multi-Dimensional Array is a data structure that stores elements in multiple dimensions, such as 2D grids or 3D matrices.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The array structure that organizes data across two or more dimensions, like a table or cube. Useful for representing grids, matrices or higher-dimensional data.",
+  "extensions": {}
+}

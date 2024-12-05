@@ -1,0 +1,10 @@
+{
+  "title": "Open Addressing",
+  "description": "The Open Addressing is a collision resolution technique where all elements are stored directly in the hash table and collisions are resolved by finding the next available bucket.",
+  "categories": [
+    "data structure",
+    "concept" 
+  ],
+  "content": "The collision resolution technique where, when a collision occurs, the algorithm searches for the next available slot in the hash table. Common strategies include linear probing and quadratic probing.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "O(1)",
+  "description": "The O(1) constant time complexity in Algorithms indicates an operation that completes in the same amount of time regardless of input size.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The complexity class where algorithm execution time remains constant as input size changes. Known as constant time complexity, often the most efficient scenario.",
+  "extensions": {}
+}

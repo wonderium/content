@@ -1,0 +1,9 @@
+{
+  "title": "Modified Binary Search",
+  "description": "The Modified Binary Search is an algorithm that adapts binary search logic for specific conditions or constraints in data search.",
+  "categories": [
+    "algorithm"
+  ],
+  "content": "The variation of binary search algorithm adjusted to solve specific search problems or handle constraints. Often used in range-based queries or approximate matching.",
+  "extensions": {}
+}

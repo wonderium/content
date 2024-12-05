@@ -1,0 +1,10 @@
+{
+  "title": "Stalin Sort",
+  "description": "The Stalin Sort is a satirical sorting algorithm that removes any element that is out of order to create a sorted list.",
+  "categories": [
+    "algorithm",
+    "concept"
+  ],
+  "content": "The humorous sorting algorithm that deletes elements not in order, leaving only an already sorted sequence. Used as a joke about strict enforcement in ordering.",
+  "extensions": {}
+}

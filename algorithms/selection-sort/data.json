@@ -1,0 +1,9 @@
+{
+  "title": "Selection Sort",
+  "description": "The Selection Sort is an algorithm that sorts a list by repeatedly finding the smallest element and placing it in sorted order.",
+  "categories": [
+    "algorithm"
+  ],
+  "content": "The sorting algorithm that repeatedly selects the smallest element from an unsorted list and places it in order. Simple but less efficient with O(n^2) complexity.",
+  "extensions": {}
+}

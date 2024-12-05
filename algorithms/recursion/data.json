@@ -1,0 +1,9 @@
+{
+  "title": "Recursion",
+  "description": "The Recursion in Algorithms is a technique that involves a function calling itself to solve smaller instances of a problem.",
+  "categories": [
+    "technique"
+  ],
+  "content": "The process where a function calls itself with smaller inputs to solve a problem. Commonly used in problems that can be broken down into similar subproblems, like tree traversal or factorial calculation.",
+  "extensions": {}
+}

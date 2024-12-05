@@ -1,0 +1,9 @@
+{
+  "title": "O(n!)",
+  "description": "The O(n!) factorial time complexity in Algorithms indicates operations that multiply runtime with each new input element.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The complexity class where execution time scales factorially with input size. Typically found in algorithms that generate all possible permutations or combinations.",
+  "extensions": {}
+}

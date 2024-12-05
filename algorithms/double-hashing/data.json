@@ -1,0 +1,9 @@
+{
+  "title": "Double Hashing",
+  "description": "The Double Hashing is a collision resolution method that uses two hash functions to calculate the next available bucket for a collided element.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The technique in which two hash functions are used to resolve collisions. The first hash function determines the initial index, while the second function provides an offset to locate the next available slot.",
+  "extensions": {}
+}

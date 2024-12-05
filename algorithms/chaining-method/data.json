@@ -1,0 +1,10 @@
+{
+  "title": "Chaining Method",
+  "description": "The Chaining Method is a technique where each bucket in a hash table stores a linked list of all elements that hash to the same index.",
+  "categories": [
+    "data structure",
+    "concept"
+  ],
+  "content": "The technique where each hash table bucket contains a linked list to handle collisions. When multiple elements hash to the same bucket, they are stored in the list, allowing for efficient lookups and insertions.",
+  "extensions": {}
+}

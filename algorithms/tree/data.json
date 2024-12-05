@@ -1,0 +1,9 @@
+{
+  "title": "Tree",
+  "description": "The Tree data structure is a hierarchical model for representing parent-child relationships, used in organizing data hierarchically.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The hierarchical structure where each node has a parent node and zero or more child nodes. Commonly used for representing nested data relationships.",
+  "extensions": {}
+}

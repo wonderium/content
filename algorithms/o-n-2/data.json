@@ -1,0 +1,9 @@
+{
+  "title": "O(n^2)",
+  "description": "The O(n^2) quadratic time complexity in Algorithms signifies an operation that grows with the square of the input size.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The complexity class where execution time scales with the square of input size. Found in algorithms with nested loops, such as selection sort.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Bucket Sort",
+  "description": "The Bucket Sort is an algorithm that sorts elements by distributing them into buckets, sorting each bucket individually.",
+  "categories": [
+    "algorithm"
+  ],
+  "content": "The sorting algorithm that divides elements into buckets and sorts each bucket individually. Ideal for uniformly distributed data, achieving average O(n + k) complexity.",
+  "extensions": {}
+}

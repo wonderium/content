@@ -1,0 +1,9 @@
+{
+  "title": "Weighted Graph",
+  "description": "The Weighted Graph is a graph where each edge has a value (weight) that represents a cost, distance or capacity.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The graph where edges carry weights, representing factors such as cost, distance or capacity. Useful for applications like shortest path algorithms or network flow analysis.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "One-Dimensional Array",
+  "description": "The One-Dimensional Array is a linear data structure that stores elements in a single row, accessible by index.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The linear data structure that stores elements in a single line, accessed by sequential index positions. Often used for simple data storage and retrieval tasks.",
+  "extensions": {}
+}

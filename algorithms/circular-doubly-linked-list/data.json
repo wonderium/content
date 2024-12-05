@@ -1,0 +1,9 @@
+{
+  "title": "Circular Doubly Linked List",
+  "description": "The Circular Doubly Linked List is a data structure that links each node to both its previous and next nodes, with the last node connecting back to the first.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The linked structure in which each node links to its previous and next nodes and the last node links back to the first. Enables bi-directional, circular traversal.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "String",
+  "description": "The String data structure represents sequences of characters, commonly used in text processing.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The sequence of characters treated as a single data element. Used widely in text manipulation and storing textual data.",
+  "extensions": {}
+}

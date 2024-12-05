@@ -1,0 +1,9 @@
+{
+  "title": "Acyclic Graph",
+  "description": "The Acyclic Graph is a graph that contains no cycles, meaning no path leads back to the same vertex.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The graph that doesn't contain any cycles, ensuring no vertex is revisited while traversing through edges. Commonly used in tasks like topological sorting.",
+  "extensions": {}
+}

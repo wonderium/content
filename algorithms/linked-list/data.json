@@ -1,0 +1,9 @@
+{
+  "title": "Linked List",
+  "description": "The Linked List is a data structure that stores a sequential collection of nodes, each linking to the next for efficient insertions and deletions.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The data structure that represents a sequence of nodes where each node stores data and a reference to the next node. Allows dynamic memory allocation and easy insertion or deletion of elements.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Bubble Sort",
+  "description": "The Bubble Sort is an algorithm that sorts a list by repeatedly swapping adjacent elements to place larger values later.",
+  "categories": [
+    "algorithm"
+  ],
+  "content": "The sorting algorithm that compares adjacent elements and swaps them if out of order. Inefficient for large lists due to O(n^2) complexity.",
+  "extensions": {}
+}

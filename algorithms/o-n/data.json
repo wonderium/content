@@ -1,0 +1,9 @@
+{
+  "title": "O(n)",
+  "description": "The O(n) linear time complexity in Algorithms represents an operation that scales directly with input size.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The complexity class where execution time grows linearly with input size. Found in simple loops and other algorithms that process each element once.",
+  "extensions": {}
+}

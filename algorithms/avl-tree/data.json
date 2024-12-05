@@ -1,0 +1,9 @@
+{
+  "title": "AVL Tree",
+  "description": "The AVL Tree is a self-balancing binary search tree data structure where each node maintains a balanced height, ensuring O(log n) operations.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The self-balancing binary search tree that automatically adjusts heights to maintain logarithmic depth. Helps prevent inefficient search times due to unbalanced branches.",
+  "extensions": {}
+}

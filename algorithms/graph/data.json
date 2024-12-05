@@ -1,0 +1,9 @@
+{
+  "title": "Graph",
+  "description": "The Graph is a data structure that models relationships between entities through nodes and edges, ideal for networked data.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The data structure that represents a set of nodes connected by edges. Useful for modeling pairwise relationships, like social networks, web links or travel routes.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Dynamic Array",
+  "description": "The Dynamic Array is a data structure that represents a resizable array, which grows or shrinks as elements are added or removed.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The resizable array that can expand or contract in size during runtime. Offers flexibility over fixed-size arrays, typically with amortized O(1) time for insertions.",
+  "extensions": {}
+}

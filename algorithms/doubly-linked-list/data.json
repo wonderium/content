@@ -1,0 +1,9 @@
+{
+  "title": "Doubly Linked List",
+  "description": "The Doubly Linked List is a data structure where each node points to both its previous and next node, enabling two-way traversal.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The linked structure where each node links to both the previous and next nodes. Allows efficient two-way traversal, but requires more memory than singly linked lists.",
+  "extensions": {}
+}

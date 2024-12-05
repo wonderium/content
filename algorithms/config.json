@@ -6,6 +6,155 @@
 			"unitsInSchemaMarkup": []
 		},
 		"color": "#FC4B41",
-		"topics": []
+		"topics": [
+			{
+				"name": "Basics",
+				"units": [
+					"complexity-analysis",
+					"algorithm-analysis",
+					"divide-and-conquer",
+					"data-structure",
+					"array",
+					"hash-table",
+					"linked-list",
+					"stack",
+					"queue",
+					"tree",
+					"graph",
+					"matrix",
+					"string",
+					"subset",
+					"collision",
+					"greedy-algorithms",
+					"parallel-algorithms"
+				]
+			},
+			{
+				"name": "Complexity Analysis",
+				"units": [
+					"time-complexity",
+					"space-complexity",
+					"big-o",
+					"o-1",
+					"o-log-n",
+					"o-n",
+					"o-n-log-n",
+					"o-n-2",
+					"o-2-n",
+					"o-n-factorial",
+					"big-omega",
+					"big-theta"
+				]
+			},
+			{
+				"name": "Search Algorithms",
+				"units": [
+					"binary-search",
+					"modified-binary-search",
+					"breadth-first-search",
+					"depth-first-search",
+					"dijkstra-algorithm",
+					"bellman-ford-algorithm",
+					"quick-select"
+				]
+			},
+			{
+				"name": "Sorting Algorithms",
+				"units": [
+					"comparison-sort",
+					"quick-sort",
+					"selection-sort",
+					"bubble-sort",
+					"counting-sort",
+					"bucket-sort",
+					"merge-sort",
+					"topological-sort",
+					"kahns-algorithm"
+				]
+			},
+			{
+				"name": "Inefficient Sorting Algorithms",
+				"units": [
+					"miracle-sort",
+					"thanos-sort",
+					"stalin-sort",
+					"bogo-sort",
+					"bozo-sort",
+					"perm-sort",
+					"stooge-sort"
+				]
+			},
+			{
+				"name": "Array",
+				"units": [
+					"one-dimensional-array",
+					"multi-dimensional-array",
+					"dynamic-array"
+				]
+			},
+			{
+				"name": "Hash Table",
+				"units": [
+					"chaining-method",
+					"open-addressing",
+					"hash-function",
+					"memory-reservation",
+					"double-hashing",
+					"open-bucket-hashing"
+				]
+			},
+			{
+				"name": "Linked List",
+				"units": [
+					"singly-linked-list",
+					"doubly-linked-list",
+					"circular-linked-list",
+					"circular-doubly-linked-list"
+				]
+			},
+			{
+				"name": "Tree",
+				"units": [
+					"node",
+					"nearest-neighbor",
+					"binary-tree",
+					"binary-search-tree",
+					"avl-tree",
+					"red-black-tree",
+					"b-tree",
+					"b-plus-tree",
+					"max-heap",
+					"min-heap",
+					"suffix-tree",
+					"trie-prefix-tree"
+				]
+			},
+			{
+				"name": "Graph",
+				"units": [
+					"edge",
+					"vertex",
+					"directed-graph",
+					"undirected-graph",
+					"weighted-graph",
+					"unweighted-graph",
+					"acyclic-graph",
+					"cyclic-graph"
+				]
+			},
+			{
+				"name": "Various",
+				"units": [
+					"factorial",
+					"fibonacci",
+					"two-pointers",
+					"sliding-window",
+					"backtracking",
+					"top-k-elements",
+					"brute-force",
+					"recursion"
+				]
+			}
+		]
 	}
 }

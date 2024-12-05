@@ -1,0 +1,9 @@
+{
+  "title": "Red-Black Tree",
+  "description": "The Red-Black Tree is a self-balancing binary search tree data structure with nodes assigned red or black, ensuring a balanced structure.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The self-balancing binary search tree with red and black nodes, ensuring O(log n) complexity for insertions and deletions. Known for consistent balancing properties in search operations.",
+  "extensions": {}
+}

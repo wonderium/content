@@ -1,0 +1,9 @@
+{
+  "title": "Binary Search Tree",
+  "description": "The Binary Search Tree is a data structure that organizes nodes so that each left subtree has smaller values and right subtree has larger values.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The ordered binary tree that facilitates efficient searching, insertion and deletion. Left children contain values smaller than the parent and right children contain larger values.",
+  "extensions": {}
+}

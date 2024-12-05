@@ -1,0 +1,9 @@
+{
+  "title": "Topological Sort",
+  "description": "The Topological Sort is na algorithm that orders nodes of a directed acyclic graph linearly, respecting dependencies.",
+  "categories": [
+    "algorithm"
+  ],
+  "content": "The algorithm that arranges nodes in a directed acyclic graph in a linear order. Used to determine task order based on dependencies.",
+  "extensions": {}
+}

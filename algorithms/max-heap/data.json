@@ -1,0 +1,9 @@
+{
+  "title": "Max Heap",
+  "description": "The Max Heap is a complete binary tree data structure where each parent node is greater than or equal to its child nodes.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The complete binary tree structure with the highest value at the root and each parent node greater than or equal to its children. Commonly used in priority queues and sorting algorithms.",
+  "extensions": {}
+}
