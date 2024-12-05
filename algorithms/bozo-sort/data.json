@@ -1,0 +1,10 @@
+{
+  "title": "Bozo Sort",
+  "description": "The Bozo Sort is an algorithm that randomly swaps two elements until the list is sorted, making it an inefficient and impractical method.",
+  "categories": [
+    "algorithm",
+    "concept"
+  ],
+  "content": "The inefficient sorting algorithm that repeatedly swaps random pairs of elements until the list is sorted. Similar to Bogo Sort algorithm in its randomness and impracticality.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Two Pointers",
+  "description": "The Two Pointer in Algorithms is a technique where two pointers are used to traverse a data structure, often to find pairs or solve problems efficiently.",
+  "categories": [
+    "technique"
+  ],
+  "content": "The approach where two markers move through a data structure at different speeds or positions to solve problems like searching for pairs or finding a subarray. Commonly used in array and string manipulation.",
+  "extensions": {}
+}

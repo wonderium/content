@@ -1,0 +1,9 @@
+{
+  "title": "Quick Select",
+  "description": "The Quick Select is an algorithm that efficiently finds the k-th smallest or k-th largest element in an unsorted array using partition-based logic.",
+  "categories": [
+    "algorithm"
+  ],
+  "content": "The selection algorithm that identifies the k-th smallest or k-th largest element in an unsorted list. Similar to Quick Sort but focuses only on finding the target position, achieving O(n) average complexity.",
+  "extensions": {}
+}

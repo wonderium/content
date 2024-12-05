@@ -1,0 +1,9 @@
+{
+  "title": "Sliding Window",
+  "description": "The Sliding Window in Algorithms is a technique where a subset of elements in a collection is processed and moved over the collection.",
+  "categories": [
+    "technique"
+  ],
+  "content": "The technique that involves moving a window of fixed size across an array or list to find the solution. Ideal for problems involving sums or maximums within subarrays.",
+  "extensions": {}
+}

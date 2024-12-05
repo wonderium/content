@@ -1,0 +1,10 @@
+{
+  "title": "Bogo Sort",
+  "description": "The Bogo Sort is an algorithm that randomly shuffles elements until the list happens to be sorted.",
+  "categories": [
+    "algorithm",
+    "concept"
+  ],
+  "content": "The inefficient sorting algorithm that randomly rearranges elements until they are sorted. Extremely slow with average time complexity of O((n+1)!).",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Hash Function",
+  "description": "The Hash Function is a mathematical function that takes an input (or 'key') and produces a fixed-size output, typically used to index data in a hash table.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The function that converts an input (such as a string or number) into a fixed-size output, which is used as an index for storing or retrieving data in a hash table. A good realization ensures even distribution of data.",
+  "extensions": {}
+}

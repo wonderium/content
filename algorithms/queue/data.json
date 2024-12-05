@@ -1,0 +1,9 @@
+{
+  "title": "Queue",
+  "description": "The Queue is a FIFO (first-in, first-out) data structure, commonly used for breadth-first search and task scheduling algorithms.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The collection that follows the FIFO (first-in, first-out) principle. Elements are added at the end and removed from the start, similar to a real-life queue. It commonly used for breadth-first search and task scheduling algorithms.",
+  "extensions": {}
+}

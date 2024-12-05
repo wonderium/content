@@ -1,0 +1,9 @@
+{
+  "title": "Space Complexity",
+  "description": "The Space Complexity concept in Algorithms evaluates the memory usage of an algorithm relative to input size.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The metric that assesses the amount of memory an algorithm requires during execution. Calculated based on fixed and variable storage requirements as input size grows.",
+  "extensions": {}
+}

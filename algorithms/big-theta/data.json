@@ -1,0 +1,9 @@
+{
+  "title": "Big Theta",
+  "description": "The Big-θ (Theta) notation in Algorithms defines the average-case growth rate of an algorithm's time or space complexity.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The notation used to describe an algorithm's exact growth rate in the average case. Represents cases where time or space complexity is tightly bounded above and below.",
+  "extensions": {}
+}

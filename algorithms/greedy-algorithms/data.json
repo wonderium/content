@@ -1,0 +1,9 @@
+{
+  "title": "Greedy Algorithms",
+  "description": "The Greedy Algorithms is a type of algorithms that selects the optimal local choice at each step to reach a globally optimal solution.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The type of algorithms that makes the most optimal choice at each step. Used in optimization problems where local choices lead to a global solution.",
+  "extensions": {}
+}

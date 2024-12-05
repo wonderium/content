@@ -1,0 +1,9 @@
+{
+  "title": "Trie",
+  "description": "The Trie (Prefix Tree) is a tree data structure used for efficient prefix-based searches, storing sequences like strings.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The tree structure designed for storing strings with common prefixes efficiently, allowing rapid prefix-based searches. Often used in autocomplete and spell-checking systems.",
+  "extensions": {}
+}

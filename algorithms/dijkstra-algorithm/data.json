@@ -1,0 +1,9 @@
+{
+  "title": "Dijkstra's Algorithm",
+  "description": "The Dijkstra's Algorithm computes the shortest path from a source node to all other nodes in a graph with non-negative weights.",
+  "categories": [
+    "algorithm"
+  ],
+  "content": "The shortest-path algorithm that finds the minimum distance from a starting node to all other nodes in a non-negative weighted graph. Works efficiently, achieving O(E log V) complexity.",
+  "extensions": {}
+}

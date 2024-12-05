@@ -1,0 +1,9 @@
+{
+  "title": "Fibonacci",
+  "description": "The Fibonacci is a series of numbers where each number is the sum of the two preceding ones, starting from 0 and 1.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The sequence of numbers in which each number is the sum of the previous two, starting from 0 and 1. Used in algorithm design, especially for recursive and dynamic programming solutions. Example: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34 ...",
+  "extensions": {}
+}

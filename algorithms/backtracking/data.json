@@ -1,0 +1,9 @@
+{
+  "title": "Backtracking",
+  "description": "The Backtracking is an algorithm for finding solutions to problems by exploring all possibilities and abandoning those that don't work.",
+  "categories": [
+    "algorithm"
+  ],
+  "content": "The algorithm that builds potential solutions incrementally and backtracks when a solution path doesn't lead to a valid solution. Used in problems like puzzles and combinatorial search.",
+  "extensions": {}
+}

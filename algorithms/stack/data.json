@@ -1,0 +1,9 @@
+{
+  "title": "Stack",
+  "description": "The Stack is a LIFO (last-in, first-out) data structure, commonly used for depth-first search and backtracking algorithms.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The collection that follows the LIFO (last-in, first-out) principle. Elements are added at the end and removed from the end, similar to a real-life stack. It commonly used for depth-first search and backtracking algorithms.",
+  "extensions": {}
+}

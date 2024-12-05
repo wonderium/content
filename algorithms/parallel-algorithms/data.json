@@ -1,0 +1,9 @@
+{
+  "title": "Parallel Algorithms",
+  "description": "The Parallel Algorithms is a type of algorithms that divide tasks to run concurrently, improving processing speed for large computations.",
+  "categories": [ 
+    "concept"
+  ],
+  "content": "The type of algorithms that designed to run on multiple processors simultaneously. Enhances speed by dividing tasks into smaller concurrent parts.",
+  "extensions": {}
+}

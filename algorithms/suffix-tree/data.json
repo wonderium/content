@@ -1,0 +1,9 @@
+{
+  "title": "Suffix Tree",
+  "description": "The Suffix Tree is a compressed trie storing suffixes data structure of a text, optimized for substring searches.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The specialized tree that stores all suffixes of a string, enabling efficient substring and pattern matching. Known for rapid text searching with linear space and time complexity.",
+  "extensions": {}
+}

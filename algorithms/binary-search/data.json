@@ -1,0 +1,9 @@
+{
+  "title": "Binary Search",
+  "description": "The Binary Search is an algorithm that finds an element's position in a sorted array by repeatedly dividing the search range in half.",
+  "categories": [
+    "algorithm"
+  ],
+  "content": "The efficient search algorithm that locates an item in a sorted array by repeatedly halving the search interval. Works only on sorted data, achieving O(log n) complexity.",
+  "extensions": {}
+}

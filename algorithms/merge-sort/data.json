@@ -1,0 +1,9 @@
+{
+  "title": "Merge Sort",
+  "description": "The Merge Sort is an algorithm that divides a list into halves, recursively sorting and merging them to create a sorted list.",
+  "categories": [
+    "algorithm"
+  ],
+  "content": "The divide-and-conquer sorting algorithm that splits a list into smaller sublists, sorts them and merges them. Known for stable sorting with O(n log n) complexity.",
+  "extensions": {}
+}

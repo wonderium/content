@@ -1,0 +1,9 @@
+{
+  "title": "Breadth-First Search",
+  "description": "The Breadth-First Search (BFS) is an algorithm that explores nodes level by level in a graph or tree, used for shortest-path and connectivity problems.",
+  "categories": [
+    "algorithm"
+  ],
+  "content": "The traversal algorithm that explores all neighbors of a node before moving to the next level. Useful in finding the shortest path and detecting connected components.",
+  "extensions": {}
+}

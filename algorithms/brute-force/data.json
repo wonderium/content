@@ -1,0 +1,9 @@
+{
+  "title": "Brute Force",
+  "description": "The Brute Force is a simple algorithm that tries all possible solutions to find the correct one, often inefficient for large datasets.",
+  "categories": [
+    "algorithm"
+  ],
+  "content": "The straightforward algorithm that tests all possible solutions to a problem without optimization. While simple, it can be inefficient for large datasets or complex problems.",
+  "extensions": {}
+}

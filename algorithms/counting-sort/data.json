@@ -1,0 +1,9 @@
+{
+  "title": "Counting Sort",
+  "description": "The Counting Sort is an algorithm that sorts elements by counting occurrences, efficient for integers in a known range.",
+  "categories": [
+    "algorithm"
+  ],
+  "content": "The non-comparative sorting algorithm that counts occurrences of each value. Best for small ranges of integers, achieving linear O(n + k) complexity.",
+  "extensions": {}
+}

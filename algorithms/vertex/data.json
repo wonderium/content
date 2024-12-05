@@ -1,0 +1,9 @@
+{
+  "title": "Vertex",
+  "description": "The Vertex in Graph Theory is a fundamental element of a graph, representing a point where edges meet.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The point or node in a graph where edges connect. They are used to represent entities and edges represent relationships between them.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Unweighted Graph",
+  "description": "The Unweighted Graph is a graph where edges have no weights, meaning all connections are considered equal.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The graph where edges don't have any associated weight or cost. Typically used in simpler models where the relationship between vertices is uniform or equally significant.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Kahn's Algorithm",
+  "description": "The Kahn's Algorithm implements topological sorting for directed acyclic graphs by iteratively removing nodes with no incoming edges.",
+  "categories": [
+    "algorithm"
+  ],
+  "content": "The algorithm used for topological sorting by removing nodes with zero in-degrees. Ensures a linear order for nodes in a directed acyclic graph.",
+  "extensions": {}
+}

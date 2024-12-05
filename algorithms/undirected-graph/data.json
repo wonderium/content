@@ -1,0 +1,9 @@
+{
+  "title": "Undirected Graph",
+  "description": "The Undirected Graph is a graph where edges don't have direction, meaning the connection between vertices is bidirectional.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The graph where edges don't indicate any direction. This means the relationship between two vertices is mutual, often used to represent symmetric connections like social networks.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Factorial",
+  "description": "The Factorial is the result of multiplying all positive integers less than or equal to a given number, denoted as n!",
+  "categories": [
+    "concept"
+  ],
+  "content": "The operation that multiplies a number by all the positive integers less than it. Often used in combinatorics, probability and recursive algorithms. Example: 3! = 3 × 2 × 1 = 6",
+  "extensions": {}
+}

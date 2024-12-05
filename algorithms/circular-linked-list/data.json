@@ -1,0 +1,9 @@
+{
+  "title": "Circular Linked List",
+  "description": "The Circular Linked List is a data structure where the last node points to the first, forming a circular chain.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The linked structure where the last node connects back to the first, forming a loop. Useful for applications requiring continuous data cycles.",
+  "extensions": {}
+}

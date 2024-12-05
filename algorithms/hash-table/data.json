@@ -1,0 +1,9 @@
+{
+  "title": "Hash Table",
+  "description": "The Hash Table is a data structure that stores key-value pairs for quick retrieval through a unique hash function.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The data structure that maps keys to values for fast lookups. Uses a hash function to calculate the index where each value is stored.",
+  "extensions": {}
+}

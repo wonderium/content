@@ -1,0 +1,9 @@
+{
+  "title": "Time Complexity",
+  "description": "The Time Complexity concept in Algorithms measures the runtime efficiency of an algorithm as input size increases.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The metric that evaluates the time an algorithm takes to complete as input size grows. Commonly represented by Big O notation, indicating worst-case performance.",
+  "extensions": {}
+}

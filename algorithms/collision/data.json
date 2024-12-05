@@ -1,0 +1,9 @@
+{
+  "title": "Collision",
+  "description": "The Collision concept describes the event when two keys map to the same hash value in a hash table.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The event where two distinct keys produce the same hash value in a hash table. Requires strategies to resolve to ensure data integrity.",
+  "extensions": {}
+}

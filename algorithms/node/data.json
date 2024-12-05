@@ -1,0 +1,9 @@
+{
+  "title": "Node",
+  "description": "The Node in data structures represents a basic unit containing data and links to other nodes, forming structures like linked lists and trees.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The fundamental element that holds data and pointers to other nodes in a structure. Commonly used in linked lists, trees and graphs to organize information.",
+  "extensions": {}
+}

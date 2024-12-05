@@ -1,0 +1,9 @@
+{
+  "title": "Array",
+  "description": "The Array data structure organizes elements in a contiguous memory block for indexed access and efficient traversal.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The collection of elements stored in a continuous block of memory. Allows efficient access using an index for fast retrieval and updates.",
+  "extensions": {}
+}

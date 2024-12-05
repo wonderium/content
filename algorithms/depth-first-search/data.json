@@ -1,0 +1,9 @@
+{
+  "title": "Depth-First Search",
+  "description": "The Depth-First Search (DFS) is an algorithm that explores nodes as deeply as possible along branches before backtracking, ideal for pathfinding.",
+  "categories": [
+    "algorithm"
+  ],
+  "content": "The traversal algorithm that dives as deep as possible in a branch before backtracking. Often used in pathfinding, cycle detection and component analysis.",
+  "extensions": {}
+}

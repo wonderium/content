@@ -1,0 +1,10 @@
+{
+  "title": "Perm Sort",
+  "description": "The Perm Sort is an algorithm that tests every possible permutation of elements until finding a sorted sequence, resulting in a highly inefficient sort.",
+  "categories": [
+    "algorithm",
+    "concept"
+  ],
+  "content": "The highly inefficient sorting algorithm that checks each possible permutation of a list until it finds a sorted one. Theoretical worst-case complexity is factorial, O(n!).",
+  "extensions": {}
+}

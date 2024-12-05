@@ -1,0 +1,9 @@
+{
+  "title": "O(log n)",
+  "description": "The O(log n) logarithmic time complexity in Algorithms describes an operation whose time grows proportionally to the logarithm of the input size.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The complexity class where execution time grows logarithmically as input size increases. Commonly seen in binary search and other divide-and-conquer algorithms.",
+  "extensions": {}
+}

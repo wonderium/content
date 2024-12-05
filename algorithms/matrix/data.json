@@ -1,0 +1,9 @@
+{
+  "title": "Matrix",
+  "description": "The Matrix is a data structure that arranges elements in rows and columns for operations on two-dimensional data.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The grid-like structure consisting of rows and columns to store elements in two dimensions. Widely used in mathematics and graphics processing.",
+  "extensions": {}
+}

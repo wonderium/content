@@ -1,0 +1,9 @@
+{
+  "title": "Cyclic Graph",
+  "description": "The Cyclic Graph is a graph that contains one or more cycles, where a path starts and ends at the same vertex.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The graph that includes at least one cycle, meaning a path can lead back to the same vertex. These graphs are often used to represent systems with feedback loops.",
+  "extensions": {}
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Open Bucket Hashing",
+  "description": "The Open Bucket Hashing is a variation of open addressing where each bucket holds a list of elements, allowing multiple elements to share a single index in the hash table.",
+  "categories": [
+    "data structure",
+    "concept"
+  ],
+  "content": "The technique where each bucket in a hash table contains a list of elements, allowing multiple elements to hash to the same bucket. It combines features of open addressing and chaining.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Edge",
+  "description": "The Edge in Graph Theory is a connection between two vertices, representing relationships or paths in a graph.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The line that connects two nodes (vertices) in a graph. They can be directed or undirected and they can also be weighted to represent the strength or cost of the connection.",
+  "extensions": {}
+}

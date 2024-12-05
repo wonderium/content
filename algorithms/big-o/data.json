@@ -1,0 +1,9 @@
+{
+  "title": "Big O",
+  "description": "The Big O notation in Algorithms expresses the worst-case growth rate of an algorithm's time or space complexity in relation to the input size.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The notation that represents an algorithm's upper bound for time or space complexity. Helps compare the efficiency of algorithms based on their worst-case performance as the input size increases.",
+  "extensions": {}
+}

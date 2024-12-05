@@ -1,0 +1,9 @@
+{
+  "title": "Subset",
+  "description": "The Subset concept involves generating smaller groups of elements from a larger set, used in combinatorial problems.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The selection of elements from a larger set where each element may be included or excluded. Common in combinatorial optimization and analysis.",
+  "extensions": {}
+}

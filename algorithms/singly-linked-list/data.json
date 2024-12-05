@@ -1,0 +1,9 @@
+{
+  "title": "Singly Linked List",
+  "description": "The Singly Linked List is a linear sequence data structure of nodes where each node points to the next, forming a unidirectional link.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The linear data structure in which each node contains data and a reference to the next node. Ideal for dynamic memory management, though traversal is one-way only.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Algorithm Analysis",
+  "description": "The Algorithm Analysis is a process that examines algorithmic efficiency, focusing on runtime and memory needs across varying input sizes.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The process of evaluating the efficiency of an algorithm. Includes analysis of time complexity and space complexity for different input sizes.",
+  "extensions": {}
+}

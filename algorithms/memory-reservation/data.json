@@ -1,0 +1,9 @@
+{
+  "title": "Memory Reservation",
+  "description": "The Memory Reservation involves allocating a block of memory in advance for later use, often used to improve performance and manage resources efficiently.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The process of setting aside a specific amount of memory for a program or data structure in advance, ensuring that there is enough space for future operations and optimizing memory usage.",
+  "extensions": {}
+}

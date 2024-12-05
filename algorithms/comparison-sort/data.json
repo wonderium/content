@@ -1,0 +1,9 @@
+{
+  "title": "Comparison Sort",
+  "description": "The Comparison Sort is a type of algorithms that sort elements by comparing pairs to determine their order.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The type of sorting algorithms that determines the order of elements by comparing them. Includes methods like Quick Sort, Merge Sort and Bubble Sort.",
+  "extensions": {}
+}

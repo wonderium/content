@@ -1,0 +1,9 @@
+{
+  "title": "Nearest Neighbor",
+  "description": "The Nearest Neighbor is a technique for finding the closest point to a given point in a dataset, often in spatial data analysis.",
+  "categories": [
+    "concept"
+  ],
+  "content": "The search technique for locating the closest data point to a specified query point. Frequently used in clustering, classification and recommendation algorithms.",
+  "extensions": {}
+}

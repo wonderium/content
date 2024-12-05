@@ -1,0 +1,9 @@
+{
+  "title": "Binary Tree",
+  "description": "The Binary Tree is a hierarchical tree data structure where each node has at most two children, often called left and right.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The hierarchical structure with each node having up to two child nodes. Commonly used in sorting, searching and hierarchical data storage.",
+  "extensions": {}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Min Heap",
+  "description": "The Min Heap is a complete binary tree data structure where each parent node is less than or equal to its child nodes.",
+  "categories": [
+    "data structure"
+  ],
+  "content": "The complete binary tree structure with the lowest value at the root and each parent node less than or equal to its children. Used in priority queues and finding minimum elements efficiently.",
+  "extensions": {}
+}
