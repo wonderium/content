@@ -1,0 +1,9 @@
+{
+  "title": "RISC",
+  "description": "The RISC architecture emphasizes a simplified set of instructions for faster execution and improved efficiency.",
+  "categories": [
+    "architecture"
+  ],
+  "content": "The CPU architecture designed with a minimalistic instruction set, focusing on rapid execution of simple operations. This approach reduces hardware complexity and enables high performance, especially in pipelines, but often requires more instructions to accomplish complex tasks compared to CISC architectures.",
+  "extensions": {}
+}
